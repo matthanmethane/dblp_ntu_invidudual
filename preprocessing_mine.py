@@ -4,6 +4,7 @@ from bs4 import BeautifulSoup
 from math import log
 from scipy.optimize import curve_fit
 import numpy as np
+import re
 import lxml
 import networkx as nx
 import matplotlib.pyplot as plt
@@ -22,7 +23,6 @@ def find_name_with_pid(pid):
         faculty = Faculty(df_line["Faculty"],pid_list_rstrip[idx],df_line["Position"],df_line["Gender"],df_line["Management"],df_line["Area"])
         faculty_list.append(faculty)
     for faculty in faculty_list:
-        print(faculty)
         if(faculty.pid == pid):
             return faculty.name
 
@@ -49,17 +49,27 @@ def get_coworker_dict():
         content = BeautifulSoup(file,"lxml")
         file.close()
         coauthor_pane = content.find("coauthors")
-        
         coauthors = coauthor_pane.findAll("na")
         coauthor_pid_list = []
         for coauthor in coauthors:
             try:
                 if coauthor["pid"] in pid_strings:
-                    coauthor_pid_list.append(coauthor["pid"])
-            except:
+                    collab_pid = coauthor["pid"]
+                    author_pane = content.findAll("author",{"pid":coauthor["pid"]})
+                    no_collab = len(author_pane)
+                    with open("weighted_collab.txt","a", encoding='utf-8') as f:
+                        f.write(f"{pid_string}\t{collab_pid}\t{no_collab}\n")
+            except Exception as e:
+                print(e)
                 continue
         coauthor_dict[pid_string] = coauthor_pid_list
     return(coauthor_dict)
+
+def ret_graph():  
+    with open("weighted_collab.txt","r", encoding='utf-8') as f:
+        G = nx.read_weighted_edgelist(f)
+    return G
+
 
 #Function to get pid: Area Dictionary
 def get_area_dict():
@@ -143,8 +153,8 @@ def centrality_to_dataframe(G, cen_type="all"):
         betweeness_cen = nx.betweenness_centrality(G)
         #Create sorted Betweeness Centrality Table
         df_betweeness_cen = pd.DataFrame.from_dict(betweeness_cen, orient='index')
-        df_betweeness_cen.columns = ['Betweeness Centrality']
-        sort_df_betweeness_cen = df_betweeness_cen.sort_values(by = ['Betweeness Centrality'],ascending=[False])
+        df_betweeness_cen.columns = ['Betweenness Centrality']
+        sort_df_betweeness_cen = df_betweeness_cen.sort_values(by = ['Betweenness Centrality'],ascending=[False])
         return(sort_df_betweeness_cen)
     else:
         return None
@@ -225,10 +235,27 @@ def centrality_top_venue_dataframe(G):
     df_centrality = centrality_to_dataframe(G)
     df_top_venue = no_top_venue_dataframe()
     df_centrality["No.Publication in Top Venue"] = df_top_venue["No.Publication in Top Venue"]
+    df_centrality = df_centrality.rename(index = lambda x: find_name_with_pid(x))
     return(df_centrality)
+def centrality_top_venue_scatter(G, cen_type):
+    df = centrality_top_venue_dataframe(G)
+    plt.scatter(df[f'{cen_type} Centrality'], df['No.Publication in Top Venue'])
+    plt.title(f"{cen_type} Centrality VS No. Publication")
+    plt.xlabel(f"{cen_type} Centrality")
+    plt.ylabel("Number of Publication in Top Venue ")
+    # plt.show()
+    plt.savefig(r"graphs/"+f"{cen_type}_centrality_top_venue_scatter.png")
 
-node_dict = get_coworker_dict()
-G = nx.Graph(node_dict)
+# node_dict = get_coworker_dict()
+# G = nx.Graph(node_dict)
 
+
+#centrality_top_venue_dataframe(G).to_excel("Centrality_Top_Venue.xlsx")
 #TODO Write comparison and relation with Excellance Node and Central Node
-#TODO Get data from Journal, Currently only gets in from Conference
+
+G = ret_graph()
+CENTRALITY_LIST = ["Degree","Eigenvector","Betweenness"]
+for centrality in CENTRALITY_LIST:
+    centrality_top_venue_scatter(G,centrality)
+
+    
