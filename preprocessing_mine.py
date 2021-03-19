@@ -39,7 +39,7 @@ def get_faculty_list():
         faculty_list.append(faculty)
     return faculty_list
 
-#Function to get pid: coworker Dictonary
+#Function to get pid: coworker Dictonary and create file 'Weighted_collab.txt'
 def get_coworker_dict():
     faculty_list = get_faculty_list()
     coauthor_dict = {}
@@ -230,32 +230,29 @@ def no_top_venue_dataframe():
     sorted_df = df.sort_values(by = ['No.Publication in Top Venue'],ascending=[False])
     return sorted_df
 
-
+#Function to return dataframe of all centralities and number of pulications in top venue
 def centrality_top_venue_dataframe(G):
     df_centrality = centrality_to_dataframe(G)
     df_top_venue = no_top_venue_dataframe()
     df_centrality["No.Publication in Top Venue"] = df_top_venue["No.Publication in Top Venue"]
     df_centrality = df_centrality.rename(index = lambda x: find_name_with_pid(x))
     return(df_centrality)
+#Function to show graph between centrality and number of pulications in top venue
 def centrality_top_venue_scatter(G, cen_type):
     df = centrality_top_venue_dataframe(G)
     plt.scatter(df[f'{cen_type} Centrality'], df['No.Publication in Top Venue'])
     plt.title(f"{cen_type} Centrality VS No. Publication")
     plt.xlabel(f"{cen_type} Centrality")
     plt.ylabel("Number of Publication in Top Venue ")
-    # plt.show()
-    plt.savefig(r"graphs/"+f"{cen_type}_centrality_top_venue_scatter.png")
-
+    plt.show()
+    
 # node_dict = get_coworker_dict()
 # G = nx.Graph(node_dict)
 
 
 #centrality_top_venue_dataframe(G).to_excel("Centrality_Top_Venue.xlsx")
-#TODO Write comparison and relation with Excellance Node and Central Node
+
 
 G = ret_graph()
-CENTRALITY_LIST = ["Degree","Eigenvector","Betweenness"]
-for centrality in CENTRALITY_LIST:
-    centrality_top_venue_scatter(G,centrality)
 
     
