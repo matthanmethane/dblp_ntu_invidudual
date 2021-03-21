@@ -35,6 +35,12 @@ def init_file():
     except Exception as e:
         messagebox.showerror("File Error!","Please load both Faculty.xlsx and Top.xlsx")
         print(e)
+#TODO: Put your network property of SCSE here
+def network_scse():
+    network = Toplevel(main)
+#TODO: Put your collaboration functions here
+def collab():
+    collab = Toplevel(main)
 
 def excellency():
     excellency_gui = Toplevel(main)
@@ -68,16 +74,20 @@ def excellency():
     scatter_btn.pack(side='top')
     tk.Button(excellency_gui, text="Exit", command = excellency_gui.destroy).pack(side='bottom')
 
+#TODO: Put your faculty recommendation functions here
+def recommend():
+    recommend = Toplevel(main)
+
 
 def loadMain():
     global main
     MsgBox = tk.messagebox.askquestion ('Go to main','Are you sure you initialized the files?',icon = 'warning')
     if MsgBox == 'yes':
         main= Toplevel(window)
-        tk.Button(main, text="NTU SCSE Network", command = exit).pack(side='top')
-        tk.Button(main, text="Collaboration", command = exit).pack(side='top')
+        tk.Button(main, text="NTU SCSE Network", command = network_scse).pack(side='top')
+        tk.Button(main, text="Collaboration", command = collab).pack(side='top')
         tk.Button(main, text="Excellency", command = excellency).pack(side='top')
-        tk.Button(main, text="New Faculty Recommendation", command = exit).pack(side='top')
+        tk.Button(main, text="New Faculty Recommendation", command = recommend).pack(side='top')
         tk.Button(main, text="Exit", command = main.destroy).pack(side='bottom')
     
 
