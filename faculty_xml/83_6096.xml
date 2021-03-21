@@ -1,4 +1,4 @@
-<?xml version="1.0"?><html><body><dblpperson n="330" name="Jianfei Cai 0001" pid="83/6096">
+<?xml version="1.0"?><html><body><dblpperson n="335" name="Jianfei Cai 0001" pid="83/6096">
 <person key="homepages/83/6096" mdate="2020-09-18">
 <author pid="83/6096">Jianfei Cai 0001</author>
 <note type="affiliation">Nanyang Technological University, Division of Computer Communications, College of Engineering, Singapore</note>
@@ -18,6 +18,49 @@
 <h f="c/Cai:Jianfei"><name>Jianfei Cai</name>
 </h>
 </homonyms>
+<r><article key="journals/ijcv/ShaoLCM21" mdate="2021-03-02">
+<author orcid="0000-0002-9383-8384" pid="180/2845">Zhiwen Shao</author>
+<author pid="51/8175">Zhilei Liu</author>
+<author pid="83/6096">Jianfei Cai 0001</author>
+<author pid="10/4950">Lizhuang Ma</author>
+<title>JÂA-Net: Joint Facial Action Unit Detection and Face Alignment Via Adaptive Attention.</title>
+<pages>321-340</pages>
+<year>2021</year>
+<volume>129</volume>
+<journal>Int. J. Comput. Vis.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1007/s11263-020-01378-z</ee>
+<url>db/journals/ijcv/ijcv129.html#ShaoLCM21</url>
+</article>
+</r>
+<r><article key="journals/tip/JerripothulaCLY21" mdate="2021-03-02">
+<author orcid="0000-0002-3507-3731" pid="158/9790">Koteswar Rao Jerripothula</author>
+<author orcid="0000-0002-9444-3763" pid="83/6096">Jianfei Cai 0001</author>
+<author orcid="0000-0002-0048-3140" pid="77/6697">Jiangbo Lu</author>
+<author orcid="0000-0002-7324-7034" pid="42/3332">Junsong Yuan</author>
+<title>Image Co-Skeletonization via Co-Segmentation.</title>
+<pages>2784-2797</pages>
+<year>2021</year>
+<volume>30</volume>
+<journal>IEEE Trans. Image Process.</journal>
+<ee>https://doi.org/10.1109/TIP.2021.3054464</ee>
+<url>db/journals/tip/tip30.html#JerripothulaCLY21</url>
+</article>
+</r>
+<r><article key="journals/tnn/LiuOC21" mdate="2021-03-02">
+<author orcid="0000-0003-1187-5374" pid="17/144">Haitao Liu</author>
+<author orcid="0000-0002-4480-169X" pid="64/4136">Yew-Soon Ong</author>
+<author orcid="0000-0002-9444-3763" pid="83/6096">Jianfei Cai 0001</author>
+<title>Large-Scale Heteroscedastic Regression via Gaussian Process.</title>
+<pages>708-721</pages>
+<year>2021</year>
+<volume>32</volume>
+<journal>IEEE Trans. Neural Networks Learn. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TNNLS.2020.2979188</ee>
+<url>db/journals/tnn/tnn32.html#LiuOC21</url>
+</article>
+</r>
 <r><article key="journals/corr/abs-2101-04935" mdate="2021-01-22" publtype="informal">
 <author pid="72/2590">Jing Liu</author>
 <author pid="145/1096">Bohan Zhuang</author>
@@ -32,6 +75,33 @@
 <journal>CoRR</journal>
 <ee type="oa">https://arxiv.org/abs/2101.04935</ee>
 <url>db/journals/corr/corr2101.html#abs-2101-04935</url>
+</article>
+</r>
+<r><article key="journals/corr/abs-2103-02911" mdate="2021-03-15" publtype="informal">
+<author pid="183/3731-1">Yicheng Wu 0001</author>
+<author pid="182/8040">Minfeng Xu</author>
+<author pid="147/2757">Zongyuan Ge</author>
+<author pid="83/6096">Jianfei Cai 0001</author>
+<author pid="97/8704">Lei Zhang</author>
+<title>Semi-supervised Left Atrium Segmentation with Mutual Consistency Training.</title>
+<year>2021</year>
+<volume>abs/2103.02911</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2103.02911</ee>
+<url>db/journals/corr/corr2103.html#abs-2103-02911</url>
+</article>
+</r>
+<r><article key="journals/corr/abs-2103-03493" mdate="2021-03-15" publtype="informal">
+<author pid="63/1534">Xu Yang</author>
+<author pid="79/8116">Hanwang Zhang</author>
+<author pid="41/943">Guojun Qi</author>
+<author pid="83/6096">Jianfei Cai 0001</author>
+<title>Causal Attention for Vision-Language Tasks.</title>
+<year>2021</year>
+<volume>abs/2103.03493</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2103.03493</ee>
+<url>db/journals/corr/corr2103.html#abs-2103-03493</url>
 </article>
 </r>
 <r><article key="journals/ijon/ShiCGJ20" mdate="2020-12-17">
@@ -1105,9 +1175,9 @@
 <url>db/journals/tcc/tcc6.html#WeiFHC18</url>
 </article>
 </r>
-<r><article key="journals/tcsv/SongLMWC18" mdate="2020-08-25">
+<r><article key="journals/tcsv/SongLMWC18" mdate="2021-03-02">
 <author orcid="0000-0003-1264-2812" pid="28/8968">Tiecheng Song</author>
-<author pid="91/1905">Hongliang Li</author>
+<author pid="91/1905-1">Hongliang Li 0001</author>
 <author orcid="0000-0002-3016-2567" pid="46/7666">Fanman Meng</author>
 <author orcid="0000-0003-2936-6340" pid="07/8007-1">Qingbo Wu 0001</author>
 <author orcid="0000-0002-9444-3763" pid="83/6096">Jianfei Cai 0001</author>
@@ -1121,9 +1191,9 @@
 <url>db/journals/tcsv/tcsv28.html#SongLMWC18</url>
 </article>
 </r>
-<r><article key="journals/tmm/MengLWNC18" mdate="2020-10-01">
+<r><article key="journals/tmm/MengLWNC18" mdate="2021-03-02">
 <author orcid="0000-0002-3016-2567" pid="46/7666">Fanman Meng</author>
-<author pid="91/1905">Hongliang Li</author>
+<author pid="91/1905-1">Hongliang Li 0001</author>
 <author pid="07/8007-1">Qingbo Wu 0001</author>
 <author orcid="0000-0003-1946-3235" pid="n/KingNgiNgan">King Ngi Ngan</author>
 <author orcid="0000-0002-9444-3763" pid="83/6096">Jianfei Cai 0001</author>
@@ -1200,7 +1270,7 @@
 <url>db/journals/tomccap/tomccap14.html#WangCLC18</url>
 </article>
 </r>
-<r><inproceedings key="conf/aaai/GuC0C18" mdate="2020-06-12">
+<r><inproceedings key="conf/aaai/GuC0C18" mdate="2021-02-18">
 <author pid="173/4935">Jiuxiang Gu</author>
 <author pid="83/6096">Jianfei Cai 0001</author>
 <author pid="71/4292-12">Gang Wang 0012</author>
@@ -1208,7 +1278,7 @@
 <title>Stack-Captioning: Coarse-to-Fine Learning for Image Captioning.</title>
 <year>2018</year>
 <booktitle>AAAI</booktitle>
-<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16465</ee>
+<ee type="oa">https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16465</ee>
 <crossref>conf/aaai/2018</crossref>
 <url>db/conf/aaai/aaai2018.html#GuC0C18</url>
 <pages>6837-6844</pages>
@@ -2045,10 +2115,10 @@
 <url>db/journals/corr/corr1711.html#abs-1711-06420</url>
 </article>
 </r>
-<r><article key="journals/cviu/MengCL16" mdate="2020-06-10">
+<r><article key="journals/cviu/MengCL16" mdate="2021-03-02">
 <author orcid="0000-0002-3016-2567" pid="46/7666">Fanman Meng</author>
 <author orcid="0000-0002-9444-3763" pid="83/6096">Jianfei Cai 0001</author>
-<author pid="91/1905">Hongliang Li</author>
+<author pid="91/1905-1">Hongliang Li 0001</author>
 <title>Cosegmentation of multiple image groups.</title>
 <pages>67-76</pages>
 <year>2016</year>
@@ -2254,9 +2324,9 @@
 <url>db/conf/icpr/icpr2016.html#PhamPCC16</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/vcip/MengLWLCH16" mdate="2020-06-10">
+<r><inproceedings key="conf/vcip/MengLWLCH16" mdate="2021-03-02">
 <author pid="46/7666">Fanman Meng</author>
-<author pid="91/1905">Hongliang Li</author>
+<author pid="91/1905-1">Hongliang Li 0001</author>
 <author pid="07/8007-1">Qingbo Wu 0001</author>
 <author pid="11/3705">Bing Luo</author>
 <author orcid="0000-0002-9444-3763" pid="83/6096">Jianfei Cai 0001</author>
@@ -2649,10 +2719,10 @@
 <url>db/journals/tvt/tvt63.html#ZhangWCW14</url>
 </article>
 </r>
-<r><inproceedings key="conf/accv/MengCL14" mdate="2020-06-10">
+<r><inproceedings key="conf/accv/MengCL14" mdate="2021-03-02">
 <author pid="46/7666">Fanman Meng</author>
 <author orcid="0000-0002-9444-3763" pid="83/6096">Jianfei Cai 0001</author>
-<author pid="91/1905">Hongliang Li</author>
+<author pid="91/1905-1">Hongliang Li 0001</author>
 <title>On Multiple Image Group Cosegmentation.</title>
 <pages>258-272</pages>
 <year>2014</year>
@@ -4752,7 +4822,7 @@
 <url>db/conf/wcnc/wcnc1999.html#CaiC99</url>
 </inproceedings>
 </r>
-<coauthors n="278" nc="2">
+<coauthors n="282" nc="2">
 <co c="0"><na f="a/Ablavatski:Artsiom" pid="199/8337">Artsiom Ablavatski</na></co>
 <co c="0"><na f="a/An:Wangpeng" pid="190/4375">Wangpeng An</na></co>
 <co c="0"><na f="b/Babich:Fulvio" pid="47/47">Fulvio Babich</na></co>
@@ -4844,7 +4914,7 @@
 <co c="0"><na f="l/Lee:Bu=Sung" pid="l/BuSungLee">Bu-Sung Lee</na></co>
 <co c="0"><na f="l/Lee:Guangqing" pid="179/6097">Guangqing Lee</na></co>
 <co c="0"><na f="l/Li_0002:Haifeng" pid="17/246-2">Haifeng Li 0002</na></co>
-<co c="0"><na f="l/Li:Hongliang" pid="91/1905">Hongliang Li</na></co>
+<co c="0"><na f="l/Li_0001:Hongliang" pid="91/1905-1">Hongliang Li 0001</na></co>
 <co c="0"><na f="l/Li:Hui" pid="66/3387">Hui Li</na></co>
 <co c="0"><na f="l/Li_0003:Jiaming" pid="33/5934-3">Jiaming Li 0003</na></co>
 <co c="0"><na f="l/Li:Jianguo" pid="70/6237">Jianguo Li</na></co>
@@ -4909,6 +4979,7 @@
 <co c="0" n="2"><na f="p/Pl=uuml=ss:Claudia" pid="23/10490">Claudia Plüss</na><na>Claudia Kuster</na></co>
 <co c="0"><na f="p/Polzounov:Andrei" pid="179/2159">Andrei Polzounov</na></co>
 <co c="0"><na f="p/Popa:Tiberiu" pid="15/3519">Tiberiu Popa</na></co>
+<co c="0" n="2"><na f="q/Qi:Guo=Jun" pid="41/943">Guo-Jun Qi</na><na>Guojun Qi</na></co>
 <co c="0"><na f="q/Qureshi:Jalaluddin" pid="56/8319">Jalaluddin Qureshi</na></co>
 <co c="0"><na f="r/Rahardja:Susanto" pid="98/3034">Susanto Rahardja</na></co>
 <co c="0"><na f="r/Rajan:Deepu" pid="95/3115">Deepu Rajan</na></co>
@@ -4973,6 +5044,7 @@
 <co c="0"><na f="w/Wu:Jianxin" pid="w/JianxinWu">Jianxin Wu</na></co>
 <co c="0"><na f="w/Wu:Qianyi" pid="217/2011">Qianyi Wu</na></co>
 <co c="0"><na f="w/Wu_0001:Qingbo" pid="07/8007-1">Qingbo Wu 0001</na></co>
+<co c="0"><na f="w/Wu_0001:Yicheng" pid="183/3731-1">Yicheng Wu 0001</na></co>
 <co c="0"><na f="w/Wu:Yunsheng" pid="173/1746">Yunsheng Wu</na></co>
 <co c="0"><na f="w/Wu:Zhonghua" pid="200/9134">Zhonghua Wu</na></co>
 <co c="0" n="2"><na f="x/Xia:Shutao" pid="34/3173">Shutao Xia</na><na>Shu-Tao Xia</na></co>
@@ -4983,6 +5055,7 @@
 <co c="0"><na f="x/Xu_0001:Dong" pid="09/3493-1">Dong Xu 0001</na></co>
 <co c="0"><na f="x/Xu:Haofei" pid="236/6248">Haofei Xu</na></co>
 <co c="0"><na f="x/Xu_0001:Min" pid="09/0-1">Min Xu 0001</na></co>
+<co c="0"><na f="x/Xu:Minfeng" pid="182/8040">Minfeng Xu</na></co>
 <co c="0"><na f="x/Xue:Zehao" pid="226/5571">Zehao Xue</na></co>
 <co c="0"><na f="y/Yan:Feilong" pid="21/8870">Feilong Yan</na></co>
 <co c="0"><na f="y/Yang:Hao" pid="54/4089">Hao Yang</na></co>
@@ -5003,6 +5076,7 @@
 <co c="0"><na f="z/Zhang:Hongke" pid="09/5441">Hongke Zhang</na></co>
 <co c="0"><na f="z/Zhang:Huaizheng" pid="218/5222">Huaizheng Zhang</na></co>
 <co c="0"><na f="z/Zhang:Juyong" pid="38/5125">Juyong Zhang</na></co>
+<co c="0"><na f="z/Zhang:Lei" pid="97/8704">Lei Zhang</na></co>
 <co c="0"><na f="z/Zhang_0001:Liqing" pid="20/4627-1">Liqing Zhang 0001</na></co>
 <co c="0"><na f="z/Zhang:Liren" pid="55/1502">Liren Zhang</na></co>
 <co c="0"><na f="z/Zhang_0001:Qian" pid="04/2024-1">Qian Zhang 0001</na></co>

@@ -1,4 +1,4 @@
-<?xml version="1.0"?><html><body><dblpperson n="333" name="Yew-Soon Ong" pid="64/4136">
+<?xml version="1.0"?><html><body><dblpperson n="337" name="Yew-Soon Ong" pid="64/4136">
 <person key="homepages/64/4136" mdate="2019-01-10">
 <author pid="64/4136">Yew-Soon Ong</author>
 <url>http://www.ntu.edu.sg/home/asysong/</url>
@@ -41,6 +41,20 @@
 <url>db/journals/tcyb/tcyb51.html#ZhangOWX21</url>
 </article>
 </r>
+<r><article key="journals/tnn/LiuOC21" mdate="2021-03-02">
+<author orcid="0000-0003-1187-5374" pid="17/144">Haitao Liu</author>
+<author orcid="0000-0002-4480-169X" pid="64/4136">Yew-Soon Ong</author>
+<author orcid="0000-0002-9444-3763" pid="83/6096">Jianfei Cai 0001</author>
+<title>Large-Scale Heteroscedastic Regression via Gaussian Process.</title>
+<pages>708-721</pages>
+<year>2021</year>
+<volume>32</volume>
+<journal>IEEE Trans. Neural Networks Learn. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TNNLS.2020.2979188</ee>
+<url>db/journals/tnn/tnn32.html#LiuOC21</url>
+</article>
+</r>
 <r><article key="journals/corr/abs-2101-01998" mdate="2021-01-21" publtype="informal">
 <author pid="42/11292">Jian Cheng Wong</author>
 <author pid="18/6404-1">Abhishek Gupta 0001</author>
@@ -51,6 +65,47 @@
 <journal>CoRR</journal>
 <ee type="oa">https://arxiv.org/abs/2101.01998</ee>
 <url>db/journals/corr/corr2101.html#abs-2101-01998</url>
+</article>
+</r>
+<r><article key="journals/corr/abs-2102-03147" mdate="2021-02-10" publtype="informal">
+<author pid="151/4420">Tiantian He</author>
+<author pid="26/1137-5">Lu Bai 0005</author>
+<author pid="64/4136">Yew-Soon Ong</author>
+<title>Graph Joint Attention Networks.</title>
+<year>2021</year>
+<volume>abs/2102.03147</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2102.03147</ee>
+<url>db/journals/corr/corr2102.html#abs-2102-03147</url>
+</article>
+</r>
+<r><article key="journals/corr/abs-2102-11693" mdate="2021-02-24" publtype="informal">
+<author pid="07/5681">Liang Feng</author>
+<author pid="259/3835">Qingxia Shang</author>
+<author pid="180/1448">Yaqing Hou</author>
+<author pid="t/KayChenTan">Kay Chen Tan</author>
+<author pid="64/4136">Yew-Soon Ong</author>
+<title>Multi-Space Evolutionary Search for Large-Scale Optimization.</title>
+<year>2021</year>
+<volume>abs/2102.11693</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2102.11693</ee>
+<url>db/journals/corr/corr2102.html#abs-2102-11693</url>
+</article>
+</r>
+<r><article key="journals/corr/abs-2103-04246" mdate="2021-03-16" publtype="informal">
+<author pid="163/6518">Alvin Chan</author>
+<author pid="287/4802">Anna Korsakova</author>
+<author pid="64/4136">Yew-Soon Ong</author>
+<author pid="287/5048">Fernaldo Richtia Winnerdy</author>
+<author pid="287/4961">Kah Wai Lim</author>
+<author pid="79/10597">Anh Tuan Phan</author>
+<title>RNA Alternative Splicing Prediction with Discrete Compositional Energy Network.</title>
+<year>2021</year>
+<volume>abs/2103.04246</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2103.04246</ee>
+<url>db/journals/corr/corr2103.html#abs-2103-04246</url>
 </article>
 </r>
 <r><article key="journals/cim/HeGTTJO20" mdate="2020-03-12">
@@ -1260,7 +1315,7 @@
 <url>db/journals/tsmc/tsmc48.html#ElarbiBGSO18</url>
 </article>
 </r>
-<r><inproceedings key="conf/aaai/0001LTSO18" mdate="2018-10-22">
+<r><inproceedings key="conf/aaai/0001LTSO18" mdate="2021-02-18">
 <author pid="136/1805">Xiaobo Shen 0001</author>
 <author pid="54/6677-3">Weiwei Liu 0003</author>
 <author pid="35/5873">Ivor W. Tsang</author>
@@ -1269,7 +1324,7 @@
 <title>Compact Multi-Label Learning.</title>
 <year>2018</year>
 <booktitle>AAAI</booktitle>
-<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16750</ee>
+<ee type="oa">https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16750</ee>
 <crossref>conf/aaai/2018</crossref>
 <url>db/conf/aaai/aaai2018.html#0001LTSO18</url>
 <pages>4066-4073</pages>
@@ -2584,7 +2639,7 @@
 <url>db/journals/www/www18.html#MicheLLO15</url>
 </article>
 </r>
-<r><inproceedings key="conf/aaai/DingZHO15" mdate="2020-09-07">
+<r><inproceedings key="conf/aaai/DingZHO15" mdate="2021-02-10">
 <author pid="89/5503-6">Yi Ding 0006</author>
 <author pid="84/8411">Peilin Zhao</author>
 <author pid="h/StevenCHHoi">Steven C. H. Hoi</author>
@@ -2593,7 +2648,7 @@
 <pages>2568-2574</pages>
 <year>2015</year>
 <booktitle>AAAI</booktitle>
-<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9500</ee>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9500</ee>
 <crossref>conf/aaai/2015</crossref>
 <url>db/conf/aaai/aaai2015.html#DingZHO15</url>
 </inproceedings>
@@ -2641,8 +2696,8 @@
 <url>db/conf/cig/cig2015.html#YinLCOZ15</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/ieem/GuoHTOT15" mdate="2019-04-11">
-<author pid="92/6146">Q. Guo</author>
+<r><inproceedings key="conf/ieem/GuoHTOT15" mdate="2021-03-03">
+<author pid="25/3038">Qing Guo</author>
 <author pid="166/4379">Chen Kim Heng</author>
 <author pid="78/4473">Yin-Leng Theng</author>
 <author orcid="0000-0002-4480-169X" pid="64/4136">Yew-Soon Ong</author>
@@ -3095,7 +3150,7 @@
 <url>db/journals/cim/cim7.html#LeOJS12</url>
 </article>
 </r>
-<r><article key="journals/cma/EllabaanHOKBEM12" mdate="2020-08-28">
+<r><article key="journals/cma/EllabaanHOKBEM12" mdate="2021-02-11">
 <author pid="11/2845">Mostafa Mostafa Hashim Ellabaan</author>
 <author pid="08/6749">Stephanus Daniel Handoko</author>
 <author orcid="0000-0002-4480-169X" pid="64/4136">Yew-Soon Ong</author>
@@ -3109,7 +3164,7 @@
 <volume>64</volume>
 <journal>Comput. Math. Appl.</journal>
 <number>12</number>
-<ee>https://doi.org/10.1016/j.camwa.2012.02.055</ee>
+<ee type="oa">https://doi.org/10.1016/j.camwa.2012.02.055</ee>
 <url>db/journals/cma/cma64.html#EllabaanHOKBEM12</url>
 </article>
 </r>
@@ -4922,7 +4977,7 @@
 <note type="source">British Library, EThOS</note>
 </phdthesis>
 </r>
-<coauthors n="364" nc="5">
+<coauthors n="369" nc="5">
 <co c="0"><na f="a/Abbass:Hussein_A=" pid="a/HusseinAAbbass">Hussein A. Abbass</na></co>
 <co c="0"><na f="a/Abramson:David" pid="09/6203">David Abramson</na></co>
 <co c="0"><na f="a/Acampora:Giovanni" pid="33/5907">Giovanni Acampora</na></co>
@@ -5016,7 +5071,7 @@
 <co c="0"><na f="g/Gong_0002:Chen" pid="21/8587-2">Chen Gong 0002</na></co>
 <co c="0"><na f="g/Gong:Maoguo" pid="80/3438">Maoguo Gong</na></co>
 <co c="0"><na f="g/Gregory:Andrew_C=" pid="20/10024">Andrew C. Gregory</na></co>
-<co c="0"><na f="g/Guo:Q=" pid="92/6146">Q. Guo</na></co>
+<co c="0"><na f="g/Guo:Qing" pid="25/3038">Qing Guo</na></co>
 <co c="0"><na f="g/Guo:Weili" pid="146/8424">Weili Guo</na></co>
 <co c="0"><na f="g/Gupta_0001:Abhishek" pid="18/6404-1">Abhishek Gupta 0001</na></co>
 <co c="2"><na f="g/Gupta:Sourav_Sen" pid="41/8030">Sourav Sen Gupta</na></co>
@@ -5065,6 +5120,7 @@
 <co c="0"><na f="k/Kim:Gitae" pid="44/6596">Gitae Kim</na></co>
 <co c="0"><na f="k/Kim:Jaihie" pid="37/6321">Jaihie Kim</na></co>
 <co c="0"><na f="k/Ko:Tobey_H=" pid="204/3738">Tobey H. Ko</na></co>
+<co c="0"><na f="k/Korsakova:Anna" pid="287/4802">Anna Korsakova</na></co>
 <co c="0"><na f="k/Krasnogor:Natalio" pid="82/1910">Natalio Krasnogor</na></co>
 <co c="0"><na f="k/Kuo:Jer=Lai" pid="06/9199">Jer-Lai Kuo</na></co>
 <co c="0"><na f="k/Kwoh_0001:Chee_Keong" pid="32/228">Chee Keong Kwoh 0001</na></co>
@@ -5083,6 +5139,7 @@
 <co c="0"><na f="l/Li:Yawei" pid="32/6740">Yawei Li</na></co>
 <co c="0"><na f="l/Li:Zhengping" pid="119/3963">Zhengping Li</na></co>
 <co c="0"><na f="l/Lim:Dudy" pid="25/889">Dudy Lim</na></co>
+<co c="0"><na f="l/Lim:Kah_Wai" pid="287/4961">Kah Wai Lim</na></co>
 <co c="0"><na f="l/Lim:Kwee_Kim" pid="76/5456">Kwee Kim Lim</na></co>
 <co c="0"><na f="l/Lim:Meng=Hiot" pid="43/5957">Meng-Hiot Lim</na></co>
 <co c="0"><na f="l/Lim:Ray" pid="244/5292">Ray Lim</na></co>
@@ -5144,6 +5201,7 @@
 <co c="0"><na f="p/Parvez:Shuja" pid="42/6802">Shuja Parvez</na></co>
 <co c="0"><na f="p/Pavlovic:Vladimir" pid="98/2506">Vladimir Pavlovic</na></co>
 <co c="0"><na f="p/Peng_0001:Xi" pid="18/931-1">Xi Peng 0001</na></co>
+<co c="0"><na f="p/Phan:Anh_Tuan" pid="79/10597">Anh Tuan Phan</na></co>
 <co c="0"><na f="p/Phan:Hanh_Thi_Hong" pid="244/5000">Hanh Thi Hong Phan</na></co>
 <co c="0"><na f="p/Pratama:Mahardhika" pid="55/9613">Mahardhika Pratama</na></co>
 <co c="0"><na f="p/Pung:Bill" pid="266/9615">Bill Pung</na></co>
@@ -5162,6 +5220,7 @@
 <co c="0"><na f="s/Setiawan:Rachman" pid="16/8570">Rachman Setiawan</na></co>
 <co c="0" n="2"><na f="s/Sha:Edwin_H==M=" pid="27/2376">Edwin H.-M. Sha</na><na>Edwin Hsing-Mean Sha</na></co>
 <co c="0"><na f="s/Shakeri:Mojtaba" pid="63/1660">Mojtaba Shakeri</na></co>
+<co c="0"><na f="s/Shang:Qingxia" pid="259/3835">Qingxia Shang</na></co>
 <co c="0"><na f="s/Shen_0001:Xiaobo" pid="136/1805">Xiaobo Shen 0001</na></co>
 <co c="0"><na f="s/Shi_0001:Daming" pid="84/660">Daming Shi 0001</na></co>
 <co c="0"><na f="s/Shi:Yaxin" pid="167/2123">Yaxin Shi</na></co>
@@ -5219,6 +5278,7 @@
 <co c="0"><na f="w/Wei:Pengfei" pid="29/11273">Pengfei Wei</na></co>
 <co c="0"><na f="w/Welsch:Roy_E=" pid="05/4824">Roy E. Welsch</na></co>
 <co c="0"><na f="w/Wen_0001:Yonggang" pid="33/885">Yonggang Wen 0001</na></co>
+<co c="0"><na f="w/Winnerdy:Fernaldo_Richtia" pid="287/5048">Fernaldo Richtia Winnerdy</na></co>
 <co c="0"><na f="w/Wong:Jian_Cheng" pid="42/11292">Jian Cheng Wong</na></co>
 <co c="0" n="2"><na f="w/Wong:Kevin_Kok_Wai" pid="13/3307">Kevin Kok Wai Wong</na><na>Kok Wai Wong</na></co>
 <co c="0"><na f="w/Wong:Wai=Lun" pid="86/10023">Wai-Lun Wong</na></co>

@@ -1,4 +1,4 @@
-<?xml version="1.0"?><html><body><dblpperson n="110" name="Sinno Jialin Pan" pid="80/5412">
+<?xml version="1.0"?><html><body><dblpperson n="111" name="Sinno Jialin Pan" pid="80/5412">
 <person key="homepages/80/5412" mdate="2019-09-10">
 <author pid="80/5412">Sinno Jialin Pan</author>
 <url>http://www.ntu.edu.sg/home/sinnopan/</url>
@@ -7,6 +7,19 @@
 <url>https://www.wikidata.org/entity/Q57401119</url>
 <note type="affiliation">Nanyang Technological University, Singapore</note>
 </person>
+<r><article key="journals/ai/QianPM21" mdate="2021-02-09">
+<author pid="37/7950">Hangwei Qian</author>
+<author pid="80/5412">Sinno Jialin Pan</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Weakly-supervised sensor-based activity segmentation and recognition via learning from distributions.</title>
+<pages>103429</pages>
+<year>2021</year>
+<volume>292</volume>
+<journal>Artif. Intell.</journal>
+<ee>https://doi.org/10.1016/j.artint.2020.103429</ee>
+<url>db/journals/ai/ai292.html#QianPM21</url>
+</article>
+</r>
 <r><article key="journals/ml/ZhouCP20" mdate="2020-09-05">
 <author pid="43/3182">Qiang Zhou</author>
 <author pid="87/1254">Yu Chen</author>
@@ -411,7 +424,7 @@
 <url>db/journals/tist/tist9.html#ZhuangCLPH18</url>
 </article>
 </r>
-<r><inproceedings key="conf/aaai/ZhaoAYLP18" mdate="2020-05-06">
+<r><inproceedings key="conf/aaai/ZhaoAYLP18" mdate="2021-02-18">
 <author pid="178/8719">Mengchen Zhao</author>
 <author pid="42/6178-1">Bo An 0001</author>
 <author pid="208/4133">Yaodong Yu</author>
@@ -420,13 +433,13 @@
 <title>Data Poisoning Attacks on Multi-Task Relationship Learning.</title>
 <year>2018</year>
 <booktitle>AAAI</booktitle>
-<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16073</ee>
+<ee type="oa">https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16073</ee>
 <crossref>conf/aaai/2018</crossref>
 <url>db/conf/aaai/aaai2018.html#ZhaoAYLP18</url>
 <pages>2628-2635</pages>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/aaai/ZhouDDPYPTLQG18" mdate="2020-03-09">
+<r><inproceedings key="conf/aaai/ZhouDDPYPTLQG18" mdate="2021-02-18">
 <author pid="123/5110">Joey Tianyi Zhou</author>
 <author pid="218/6940">Kai Di</author>
 <author pid="193/2215">Jiawei Du</author>
@@ -440,20 +453,20 @@
 <title>SC2Net: Sparse LSTMs for Sparse Coding.</title>
 <year>2018</year>
 <booktitle>AAAI</booktitle>
-<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16822</ee>
+<ee type="oa">https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16822</ee>
 <crossref>conf/aaai/2018</crossref>
 <url>db/conf/aaai/aaai2018.html#ZhouDDPYPTLQG18</url>
 <pages>4588-4595</pages>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/aaai/QianPM18" mdate="2018-10-22">
+<r><inproceedings key="conf/aaai/QianPM18" mdate="2021-02-18">
 <author pid="37/7950">Hangwei Qian</author>
 <author pid="80/5412">Sinno Jialin Pan</author>
 <author pid="m/ChunyanMiao">Chunyan Miao</author>
 <title>Sensor-Based Activity Recognition via Learning From Distributions.</title>
 <year>2018</year>
 <booktitle>AAAI</booktitle>
-<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16305</ee>
+<ee type="oa">https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16305</ee>
 <crossref>conf/aaai/2018</crossref>
 <url>db/conf/aaai/aaai2018.html#QianPM18</url>
 <pages>6262-6269</pages>
@@ -575,19 +588,19 @@
 <url>db/journals/tkde/tkde29.html#XuPXWLMS17</url>
 </article>
 </r>
-<r><inproceedings key="conf/aaai/YinP17" mdate="2017-03-06">
+<r><inproceedings key="conf/aaai/YinP17" mdate="2021-02-10">
 <author pid="130/2468">Haiyan Yin</author>
 <author pid="80/5412">Sinno Jialin Pan</author>
 <title>Knowledge Transfer for Deep Reinforcement Learning with Hierarchical Experience Replay.</title>
 <pages>1640-1646</pages>
 <year>2017</year>
 <booktitle>AAAI</booktitle>
-<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14478</ee>
+<ee type="oa">http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14478</ee>
 <crossref>conf/aaai/2017</crossref>
 <url>db/conf/aaai/aaai2017.html#YinP17</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/aaai/Tan0P017" mdate="2017-03-06">
+<r><inproceedings key="conf/aaai/Tan0P017" mdate="2021-02-10">
 <author pid="10/9818">Ben Tan</author>
 <author pid="50/671-6">Yu Zhang 0006</author>
 <author pid="80/5412">Sinno Jialin Pan</author>
@@ -596,12 +609,12 @@
 <pages>2604-2610</pages>
 <year>2017</year>
 <booktitle>AAAI</booktitle>
-<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14446</ee>
+<ee type="oa">http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14446</ee>
 <crossref>conf/aaai/2017</crossref>
 <url>db/conf/aaai/aaai2017.html#Tan0P017</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/aaai/WangPDX17" mdate="2017-03-06">
+<r><inproceedings key="conf/aaai/WangPDX17" mdate="2021-02-10">
 <author pid="62/7948">Wenya Wang</author>
 <author pid="80/5412">Sinno Jialin Pan</author>
 <author pid="12/1632">Daniel Dahlmeier</author>
@@ -610,7 +623,7 @@
 <pages>3316-3322</pages>
 <year>2017</year>
 <booktitle>AAAI</booktitle>
-<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14441</ee>
+<ee type="oa">http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14441</ee>
 <crossref>conf/aaai/2017</crossref>
 <url>db/conf/aaai/aaai2017.html#WangPDX17</url>
 </inproceedings>
@@ -747,7 +760,7 @@
 <url>db/journals/tse/tse42.html#XiaLPNW16</url>
 </article>
 </r>
-<r><inproceedings key="conf/aaai/ZhouPTH16" mdate="2016-04-21">
+<r><inproceedings key="conf/aaai/ZhouPTH16" mdate="2021-02-10">
 <author pid="123/5110">Joey Tianyi Zhou</author>
 <author pid="80/5412">Sinno Jialin Pan</author>
 <author pid="35/5873">Ivor W. Tsang</author>
@@ -756,7 +769,7 @@
 <pages>2400-2406</pages>
 <year>2016</year>
 <booktitle>AAAI</booktitle>
-<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11882</ee>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11882</ee>
 <crossref>conf/aaai/2016</crossref>
 <url>db/conf/aaai/aaai2016.html#ZhouPTH16</url>
 </inproceedings>
@@ -1009,7 +1022,7 @@
 <url>db/journals/tnn/tnn25.html#ChengP14</url>
 </article>
 </r>
-<r><inproceedings key="conf/aaai/LuZPXW014" mdate="2014-07-31">
+<r><inproceedings key="conf/aaai/LuZPXW014" mdate="2021-02-18">
 <author pid="66/9923">Zhongqi Lu</author>
 <author pid="75/4030">Yin Zhu</author>
 <author pid="80/5412">Sinno Jialin Pan</author>
@@ -1020,12 +1033,12 @@
 <pages>122-128</pages>
 <year>2014</year>
 <booktitle>AAAI</booktitle>
-<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/view/8361</ee>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/view/8361</ee>
 <crossref>conf/aaai/2014</crossref>
 <url>db/conf/aaai/aaai2014.html#LuZPXW014</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/aaai/ZhouPTY14" mdate="2018-11-20">
+<r><inproceedings key="conf/aaai/ZhouPTY14" mdate="2021-02-18">
 <author pid="123/5110">Joey Tianyi Zhou</author>
 <author pid="80/5412">Sinno Jialin Pan</author>
 <author pid="35/5873">Ivor W. Tsang</author>
@@ -1034,7 +1047,7 @@
 <pages>2213-2220</pages>
 <year>2014</year>
 <booktitle>AAAI</booktitle>
-<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/view/8181</ee>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/view/8181</ee>
 <crossref>conf/aaai/2014</crossref>
 <url>db/conf/aaai/aaai2014.html#ZhouPTY14</url>
 </inproceedings>
@@ -1126,7 +1139,7 @@
 <url>db/journals/tois/tois31.html#PanTS13</url>
 </article>
 </r>
-<r><inproceedings key="conf/aaai/ZhaoPXZLY13" mdate="2016-08-02">
+<r><inproceedings key="conf/aaai/ZhaoPXZLY13" mdate="2021-02-10">
 <author pid="54/5985">Lili Zhao</author>
 <author pid="80/5412">Sinno Jialin Pan</author>
 <author pid="86/2174">Evan Wei Xiang</author>
@@ -1136,7 +1149,7 @@
 <title>Active Transfer Learning for Cross-System Recommendation.</title>
 <year>2013</year>
 <booktitle>AAAI</booktitle>
-<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI13/paper/view/6233</ee>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI13/paper/view/6233</ee>
 <crossref>conf/aaai/2013</crossref>
 <url>db/conf/aaai/aaai2013.html#ZhaoPXZLY13</url>
 </inproceedings>
@@ -1294,7 +1307,7 @@
 <url>db/journals/tnn/tnn22.html#PanTKY11</url>
 </article>
 </r>
-<r><inproceedings key="conf/aaai/ZhuCLPXYY11" mdate="2019-04-02">
+<r><inproceedings key="conf/aaai/ZhuCLPXYY11" mdate="2021-02-18">
 <author pid="75/4030">Yin Zhu</author>
 <author pid="89/211">Yuqiang Chen</author>
 <author pid="66/9923">Zhongqi Lu</author>
@@ -1305,7 +1318,7 @@
 <title>Heterogeneous Transfer Learning for Image Classification.</title>
 <year>2011</year>
 <booktitle>AAAI</booktitle>
-<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3671</ee>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3671</ee>
 <crossref>conf/aaai/2011</crossref>
 <url>db/conf/aaai/aaai2011.html#ZhuCLPXYY11</url>
 </inproceedings>
@@ -1375,7 +1388,7 @@
 <url>db/journals/tkde/tkde22.html#PanY10</url>
 </article>
 </r>
-<r><inproceedings key="conf/aaai/CaoPZYY10" mdate="2017-11-30">
+<r><inproceedings key="conf/aaai/CaoPZYY10" mdate="2021-02-18">
 <author pid="17/1169-1">Bin Cao 0001</author>
 <author pid="80/5412">Sinno Jialin Pan</author>
 <author pid="50/671-6">Yu Zhang 0006</author>
@@ -1384,7 +1397,7 @@
 <title>Adaptive Transfer Learning.</title>
 <year>2010</year>
 <booktitle>AAAI</booktitle>
-<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1823</ee>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI10/paper/view/1823</ee>
 <crossref>conf/aaai/2010</crossref>
 <url>db/conf/aaai/aaai2010.html#CaoPZYY10</url>
 </inproceedings>
@@ -1451,7 +1464,7 @@
 <url>db/journals/expert/expert23.html#YangPZ08</url>
 </article>
 </r>
-<r><inproceedings key="conf/aaai/PanKY08" mdate="2013-12-11">
+<r><inproceedings key="conf/aaai/PanKY08" mdate="2021-02-10">
 <author pid="80/5412">Sinno Jialin Pan</author>
 <author pid="k/JamesTinYauKwok">James T. Kwok</author>
 <author pid="82/6362-1">Qiang Yang 0001</author>
@@ -1461,10 +1474,10 @@
 <booktitle>AAAI</booktitle>
 <crossref>conf/aaai/2008</crossref>
 <url>db/conf/aaai/aaai2008.html#PanKY08</url>
-<ee>http://www.aaai.org/Library/AAAI/2008/aaai08-108.php</ee>
+<ee type="oa">http://www.aaai.org/Library/AAAI/2008/aaai08-108.php</ee>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/aaai/PanSYK08" mdate="2013-12-11">
+<r><inproceedings key="conf/aaai/PanSYK08" mdate="2021-02-10">
 <author pid="80/5412">Sinno Jialin Pan</author>
 <author pid="32/3621">Dou Shen</author>
 <author pid="82/6362-1">Qiang Yang 0001</author>
@@ -1475,10 +1488,10 @@
 <booktitle>AAAI</booktitle>
 <crossref>conf/aaai/2008</crossref>
 <url>db/conf/aaai/aaai2008.html#PanSYK08</url>
-<ee>http://www.aaai.org/Library/AAAI/2008/aaai08-219.php</ee>
+<ee type="oa">http://www.aaai.org/Library/AAAI/2008/aaai08-219.php</ee>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/aaai/ZhengPYP08" mdate="2013-12-11">
+<r><inproceedings key="conf/aaai/ZhengPYP08" mdate="2021-02-10">
 <author pid="47/1961">Vincent Wenchen Zheng</author>
 <author pid="80/5412">Sinno Jialin Pan</author>
 <author pid="82/6362-1">Qiang Yang 0001</author>
@@ -1489,7 +1502,7 @@
 <booktitle>AAAI</booktitle>
 <crossref>conf/aaai/2008</crossref>
 <url>db/conf/aaai/aaai2008.html#ZhengPYP08</url>
-<ee>http://www.aaai.org/Library/AAAI/2008/aaai08-226.php</ee>
+<ee type="oa">http://www.aaai.org/Library/AAAI/2008/aaai08-226.php</ee>
 </inproceedings>
 </r>
 <r><inproceedings key="conf/huc/HuPZLY08" mdate="2019-06-02">
@@ -1539,7 +1552,7 @@
 <url>db/journals/ai/ai171.html#PanYP07</url>
 </article>
 </r>
-<r><inproceedings key="conf/aaai/PanYP07" mdate="2013-12-11">
+<r><inproceedings key="conf/aaai/PanYP07" mdate="2021-02-10">
 <author pid="02/4704">Jeffrey Junfeng Pan</author>
 <author pid="82/6362-1">Qiang Yang 0001</author>
 <author pid="80/5412">Sinno Jialin Pan</author>
@@ -1549,10 +1562,10 @@
 <crossref>conf/aaai/2007</crossref>
 <booktitle>AAAI</booktitle>
 <url>db/conf/aaai/aaai2007.html#PanYP07</url>
-<ee>http://www.aaai.org/Library/AAAI/2007/aaai07-175.php</ee>
+<ee type="oa">http://www.aaai.org/Library/AAAI/2007/aaai07-175.php</ee>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/aaai/PanKYP07" mdate="2013-12-11">
+<r><inproceedings key="conf/aaai/PanKYP07" mdate="2021-02-10">
 <author pid="80/5412">Sinno Jialin Pan</author>
 <author pid="k/JamesTinYauKwok">James T. Kwok</author>
 <author pid="82/6362-1">Qiang Yang 0001</author>
@@ -1563,7 +1576,7 @@
 <crossref>conf/aaai/2007</crossref>
 <booktitle>AAAI</booktitle>
 <url>db/conf/aaai/aaai2007.html#PanKYP07</url>
-<ee>http://www.aaai.org/Library/AAAI/2007/aaai07-176.php</ee>
+<ee type="oa">http://www.aaai.org/Library/AAAI/2007/aaai07-176.php</ee>
 </inproceedings>
 </r>
 <r><inproceedings key="conf/kdd/PanZZPSPY07" mdate="2019-06-02">

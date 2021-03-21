@@ -376,10 +376,10 @@
 <url>db/conf/icnc/icnc2018.html#ZhongLYFZ18</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/icncc/TangTWFW18" mdate="2019-03-14">
+<r><inproceedings key="conf/icncc/TangTWFW18" mdate="2021-02-19">
 <author pid="70/7577">Xiaoliang Tang</author>
 <author pid="95/5836">Xuan Tang</author>
-<author pid="195/2128">Wanli Wang</author>
+<author orcid="0000-0003-3042-7948" pid="195/2128">Wanli Wang</author>
 <author pid="32/3735">Li Fang</author>
 <author pid="139/0725">Xian Wei</author>
 <title>Deep Multi-view Sparse Subspace Clustering.</title>
@@ -1055,15 +1055,15 @@
 <url>db/conf/mmns/mmns2008.html#MehaouaFKS08</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/mobimedia/TimmererRKHSACC08" mdate="2020-01-10">
+<r><inproceedings key="conf/mobimedia/TimmererRKHSACC08" mdate="2021-03-17">
 <author pid="81/5358">Christian Timmerer</author>
 <author pid="92/4253">Michael Ransburg</author>
 <author pid="33/119">Ingo Kofler</author>
 <author orcid="0000-0003-1114-2584" pid="h/HermannHellwagner">Hermann Hellwagner</author>
 <author pid="141/0604">Pedro Souto</author>
-<author orcid="0000-0002-1363-5027" pid="134/5466">Maria T. Andrade</author>
+<author orcid="0000-0002-1363-5027" pid="134/5466">Maria T. Andrade 0001</author>
 <author pid="48/2540">Pedro Carvalho</author>
-<author orcid="0000-0003-3858-1616" pid="43/8706">Helder Castro</author>
+<author orcid="0000-0003-3858-1616" pid="43/8706">Helder F. Castro</author>
 <author pid="23/5764">Mamadou Sidibé</author>
 <author pid="20/2900">Ahmed Mehaoua</author>
 <author pid="32/3735">Li Fang</author>
@@ -1122,12 +1122,12 @@
 <coauthors n="169" nc="9">
 <co c="0"><na f="a/A:Ronald_J=_van_der" pid="271/2224">Ronald J. van der A</na></co>
 <co c="0"><na f="a/Anderson:Martha_C=" pid="46/9898">Martha C. Anderson</na></co>
-<co c="0"><na f="a/Andrade:Maria_T=" pid="134/5466">Maria T. Andrade</na></co>
+<co c="0"><na f="a/Andrade_0001:Maria_T=" pid="134/5466">Maria T. Andrade 0001</na></co>
 <co c="0"><na f="b/Bi:Yanmeng" pid="85/8963">Yanmeng Bi</na></co>
 <co c="0"><na f="b/Borcoci:Eugen" pid="67/3587">Eugen Borcoci</na></co>
 <co c="0"><na f="c/Carter:Corinne" pid="237/6556">Corinne Carter</na></co>
 <co c="0"><na f="c/Carvalho:Pedro" pid="48/2540">Pedro Carvalho</na></co>
-<co c="0"><na f="c/Castro:Helder" pid="43/8706">Helder Castro</na></co>
+<co c="0"><na f="c/Castro:Helder_F=" pid="43/8706">Helder F. Castro</na></co>
 <co c="2"><na f="c/Chan:Victor" pid="32/264">Victor Chan</na></co>
 <co c="0"><na f="c/Chen_0016:Chen" pid="65/4423-16">Chen Chen 0016</na></co>
 <co c="3"><na f="c/Chen:Claire" pid="19/7720">Claire Chen</na></co>

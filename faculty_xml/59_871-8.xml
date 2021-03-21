@@ -343,7 +343,7 @@
 <url>db/conf/icsm/icsme2020.html#Zhu0RC20</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/kbse/DuLXMLZ20" mdate="2021-01-12">
+<r><inproceedings key="conf/kbse/DuLXMLZ20" mdate="2021-02-12">
 <author pid="97/6476">Xiaoning Du</author>
 <author pid="59/871-8">Yi Li 0008</author>
 <author pid="127/0713">Xiaofei Xie</author>
@@ -354,6 +354,7 @@
 <pages>423-435</pages>
 <year>2020</year>
 <booktitle>ASE</booktitle>
+<ee>https://doi.org/10.1145/3324884.3416564</ee>
 <ee>https://ieeexplore.ieee.org/document/9286028</ee>
 <crossref>conf/kbse/2020</crossref>
 <url>db/conf/kbse/ase2020.html#DuLXMLZ20</url>
@@ -571,7 +572,7 @@
 <url>db/conf/kbse/ase2016.html#LiZRC16</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/kr/LuoVLBM16" mdate="2019-06-11">
+<r><inproceedings key="conf/kr/LuoVLBM16" mdate="2021-02-09">
 <author pid="178/8745">Roy Luo</author>
 <author pid="00/8221">Richard Anthony Valenzano</author>
 <author pid="59/871-8">Yi Li 0008</author>
@@ -581,7 +582,7 @@
 <pages>581-584</pages>
 <year>2016</year>
 <booktitle>KR</booktitle>
-<ee>http://www.aaai.org/ocs/index.php/KR/KR16/paper/view/12909</ee>
+<ee type="oa">http://www.aaai.org/ocs/index.php/KR/KR16/paper/view/12909</ee>
 <crossref>conf/kr/2016</crossref>
 <url>db/conf/kr/kr2016.html#LuoVLBM16</url>
 </inproceedings>

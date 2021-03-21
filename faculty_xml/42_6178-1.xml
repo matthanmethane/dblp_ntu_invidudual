@@ -1,4 +1,4 @@
-<?xml version="1.0"?><html><body><dblpperson n="203" name="Bo An 0001" pid="42/6178-1">
+<?xml version="1.0"?><html><body><dblpperson n="208" name="Bo An 0001" pid="42/6178-1">
 <person key="homepages/42/6178-1" mdate="2020-05-07">
 <author pid="42/6178-1">Bo An 0001</author>
 <note type="affiliation">Nanyang Technological University, Singapore</note>
@@ -77,6 +77,85 @@
 <number>1</number>
 <ee>https://doi.org/10.1016/j.ejor.2020.07.003</ee>
 <url>db/journals/eor/eor289.html#HuZMAZW21</url>
+</article>
+</r>
+<r><article key="journals/tits/WangDAJ21" mdate="2021-02-11">
+<author orcid="0000-0002-9080-4971" pid="131/7165">Wanyuan Wang</author>
+<author orcid="0000-0002-6406-069X" pid="241/7813">Zichen Dong</author>
+<author pid="42/6178-1">Bo An 0001</author>
+<author orcid="0000-0002-7349-5249" pid="10/3757">Yichuan Jiang</author>
+<title>Toward Efficient City-Scale Patrol Planning Using Decomposition and Grafting.</title>
+<pages>747-757</pages>
+<year>2021</year>
+<volume>22</volume>
+<journal>IEEE Trans. Intell. Transp. Syst.</journal>
+<number>2</number>
+<ee>https://doi.org/10.1109/TITS.2019.2955989</ee>
+<url>db/journals/tits/tits22.html#WangDAJ21</url>
+</article>
+</r>
+<r><article key="journals/corr/abs-2102-06879" mdate="2021-02-19" publtype="informal">
+<author pid="256/5052">Yuzhou Cao</author>
+<author pid="76/847">Lei Feng</author>
+<author pid="07/2647">Yitian Xu</author>
+<author pid="42/6178-1">Bo An 0001</author>
+<author pid="26/3367-1">Gang Niu 0001</author>
+<author pid="35/1228">Masashi Sugiyama</author>
+<title>Learning from Similarity-Confidence Data.</title>
+<year>2021</year>
+<volume>abs/2102.06879</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2102.06879</ee>
+<url>db/journals/corr/corr2102.html#abs-2102-06879</url>
+</article>
+</r>
+<r><article key="journals/corr/abs-2102-08159" mdate="2021-02-19" publtype="informal">
+<author pid="11/5166">Wei Qiu</author>
+<author pid="199/6413">Xinrun Wang</author>
+<author pid="210/2646">Runsheng Yu</author>
+<author pid="89/3991">Xu He</author>
+<author pid="254/1228">Rundong Wang</author>
+<author pid="42/6178-1">Bo An 0001</author>
+<author pid="12/9925">Svetlana Obraztsova</author>
+<author pid="93/4009">Zinovi Rabinovich</author>
+<title>RMIX: Learning Risk-Sensitive Policies for Cooperative Reinforcement Learning Agents.</title>
+<year>2021</year>
+<volume>abs/2102.08159</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2102.08159</ee>
+<url>db/journals/corr/corr2102.html#abs-2102-08159</url>
+</article>
+</r>
+<r><article key="journals/corr/abs-2102-08577" mdate="2021-02-19" publtype="informal">
+<author pid="266/4628">Aye Phyu Phyu Aung</author>
+<author pid="199/6413">Xinrun Wang</author>
+<author pid="210/2646">Runsheng Yu</author>
+<author pid="42/6178-1">Bo An 0001</author>
+<author pid="35/8418">Senthilnath Jayavelu</author>
+<author pid="182/2597">Xiaoli Li</author>
+<title>DO-GAN: A Double Oracle Framework for Generative Adversarial Networks.</title>
+<year>2021</year>
+<volume>abs/2102.08577</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2102.08577</ee>
+<url>db/journals/corr/corr2102.html#abs-2102-08577</url>
+</article>
+</r>
+<r><article key="journals/corr/abs-2102-09381" mdate="2021-02-26" publtype="informal">
+<author pid="11/5670">Zhe Wu</author>
+<author pid="l/KaiLi">Kai Li</author>
+<author pid="269/4576">Enmin Zhao</author>
+<author pid="33/678">Hang Xu</author>
+<author pid="04/6901">Meng Zhang</author>
+<author pid="85/8571">Haobo Fu</author>
+<author pid="42/6178-1">Bo An 0001</author>
+<author pid="43/7659">Junliang Xing</author>
+<title>L2E: Learning to Exploit Your Opponent.</title>
+<year>2021</year>
+<volume>abs/2102.09381</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2102.09381</ee>
+<url>db/journals/corr/corr2102.html#abs-2102-09381</url>
 </article>
 </r>
 <r><article key="journals/tcss/WangAJ20" mdate="2020-08-26">
@@ -1139,7 +1218,7 @@
 <url>db/journals/tits/tits19.html#XiongGAMB18</url>
 </article>
 </r>
-<r><inproceedings key="conf/aaai/WangASK18" mdate="2020-05-06">
+<r><inproceedings key="conf/aaai/WangASK18" mdate="2021-02-18">
 <author pid="199/6413">Xinrun Wang</author>
 <author pid="42/6178-1">Bo An 0001</author>
 <author pid="21/731">Martin Strobel</author>
@@ -1147,13 +1226,13 @@
 <title>Catching Captain Jack: Efficient Time and Space Dependent Patrols to Combat Oil-Siphoning in International Waters.</title>
 <year>2018</year>
 <booktitle>AAAI</booktitle>
-<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16312</ee>
+<ee type="oa">https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16312</ee>
 <crossref>conf/aaai/2018</crossref>
 <url>db/conf/aaai/aaai2018.html#WangASK18</url>
 <pages>208-215</pages>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/aaai/ChenASHSMS18" mdate="2020-05-06">
+<r><inproceedings key="conf/aaai/ChenASHSMS18" mdate="2021-02-18">
 <author pid="53/8073-1">Haipeng Chen 0001</author>
 <author pid="42/6178-1">Bo An 0001</author>
 <author pid="73/9853">Guni Sharon</author>
@@ -1164,26 +1243,26 @@
 <title>DyETC: Dynamic Electronic Toll Collection for Traffic Congestion Alleviation.</title>
 <year>2018</year>
 <booktitle>AAAI</booktitle>
-<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16306</ee>
+<ee type="oa">https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16306</ee>
 <crossref>conf/aaai/2018</crossref>
 <url>db/conf/aaai/aaai2018.html#ChenASHSMS18</url>
 <pages>757-765</pages>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/aaai/WangAJ18" mdate="2020-05-06">
+<r><inproceedings key="conf/aaai/WangAJ18" mdate="2021-02-18">
 <author pid="131/7165">Wanyuan Wang</author>
 <author pid="42/6178-1">Bo An 0001</author>
 <author pid="10/3757">Yichuan Jiang</author>
 <title>Optimal Spot-Checking for Improving Evaluation Accuracy of Peer Grading Systems.</title>
 <year>2018</year>
 <booktitle>AAAI</booktitle>
-<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16303</ee>
+<ee type="oa">https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16303</ee>
 <crossref>conf/aaai/2018</crossref>
 <url>db/conf/aaai/aaai2018.html#WangAJ18</url>
 <pages>833-840</pages>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/aaai/ZhaoAYLP18" mdate="2020-05-06">
+<r><inproceedings key="conf/aaai/ZhaoAYLP18" mdate="2021-02-18">
 <author pid="178/8719">Mengchen Zhao</author>
 <author pid="42/6178-1">Bo An 0001</author>
 <author pid="208/4133">Yaodong Yu</author>
@@ -1192,26 +1271,26 @@
 <title>Data Poisoning Attacks on Multi-Task Relationship Learning.</title>
 <year>2018</year>
 <booktitle>AAAI</booktitle>
-<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16073</ee>
+<ee type="oa">https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16073</ee>
 <crossref>conf/aaai/2018</crossref>
 <url>db/conf/aaai/aaai2018.html#ZhaoAYLP18</url>
 <pages>2628-2635</pages>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/aaai/RongQA18" mdate="2020-05-06">
+<r><inproceedings key="conf/aaai/RongQA18" mdate="2021-02-18">
 <author pid="01/7808">Jiang Rong</author>
 <author pid="14/6841">Tao Qin</author>
 <author pid="42/6178-1">Bo An 0001</author>
 <title>Dynamic Pricing for Reusable Resources in Competitive Market With Stochastic Demand.</title>
 <year>2018</year>
 <booktitle>AAAI</booktitle>
-<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17242</ee>
+<ee type="oa">https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17242</ee>
 <crossref>conf/aaai/2018</crossref>
 <url>db/conf/aaai/aaai2018.html#RongQA18</url>
 <pages>4718-4726</pages>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/aaai/XiongCZA18" mdate="2020-05-06">
+<r><inproceedings key="conf/aaai/XiongCZA18" mdate="2021-02-18">
 <author pid="165/3229">Yanhai Xiong</author>
 <author pid="53/8073-1">Haipeng Chen 0001</author>
 <author pid="178/8719">Mengchen Zhao</author>
@@ -1219,7 +1298,7 @@
 <title>HogRider: Champion Agent of Microsoft Malmo Collaborative AI Challenge.</title>
 <year>2018</year>
 <booktitle>AAAI</booktitle>
-<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16385</ee>
+<ee type="oa">https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16385</ee>
 <crossref>conf/aaai/2018</crossref>
 <url>db/conf/aaai/aaai2018.html#XiongCZA18</url>
 <pages>4767-4775</pages>
@@ -1459,7 +1538,7 @@
 <url>db/journals/tist/tist8.html#AnCPS17</url>
 </article>
 </r>
-<r><inproceedings key="conf/aaai/FengCAC17" mdate="2020-05-06">
+<r><inproceedings key="conf/aaai/FengCAC17" mdate="2021-02-10">
 <author pid="149/1281">Shanshan Feng</author>
 <author pid="33/3180">Gao Cong</author>
 <author pid="42/6178-1">Bo An 0001</author>
@@ -1468,12 +1547,12 @@
 <pages>102-108</pages>
 <year>2017</year>
 <booktitle>AAAI</booktitle>
-<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14902</ee>
+<ee type="oa">http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14902</ee>
 <crossref>conf/aaai/2017</crossref>
 <url>db/conf/aaai/aaai2017.html#FengCAC17</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/aaai/GanAVG17" mdate="2020-05-06">
+<r><inproceedings key="conf/aaai/GanAVG17" mdate="2021-02-10">
 <author pid="133/1975">Jiarui Gan</author>
 <author pid="42/6178-1">Bo An 0001</author>
 <author pid="70/2217">Yevgeniy Vorobeychik</author>
@@ -1482,12 +1561,12 @@
 <pages>530-536</pages>
 <year>2017</year>
 <booktitle>AAAI</booktitle>
-<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14942</ee>
+<ee type="oa">http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14942</ee>
 <crossref>conf/aaai/2017</crossref>
 <url>db/conf/aaai/aaai2017.html#GanAVG17</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/aaai/GuoABK17" mdate="2020-05-06">
+<r><inproceedings key="conf/aaai/GuoABK17" mdate="2021-02-18">
 <author pid="74/4904">Qingyu Guo</author>
 <author pid="42/6178-1">Bo An 0001</author>
 <author pid="24/5039">Branislav Bosanský</author>
@@ -1495,12 +1574,12 @@
 <title>Strategic Information Revelation and Commitment in Security Games.</title>
 <year>2017</year>
 <booktitle>AAAI Workshops</booktitle>
-<ee>http://aaai.org/ocs/index.php/WS/AAAIW17/paper/view/15104</ee>
+<ee type="oa">http://aaai.org/ocs/index.php/WS/AAAIW17/paper/view/15104</ee>
 <crossref>conf/aaai/2017w</crossref>
 <url>db/conf/aaai/aaai2017w.html#GuoABK17</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/aaai/LiLHFA17" mdate="2020-05-06">
+<r><inproceedings key="conf/aaai/LiLHFA17" mdate="2021-02-10">
 <author pid="08/2489-1">Xiaohong Li 0001</author>
 <author pid="84/4388">Shuxin Li</author>
 <author pid="21/7664">Jianye Hao</author>
@@ -1510,12 +1589,12 @@
 <pages>593-599</pages>
 <year>2017</year>
 <booktitle>AAAI</booktitle>
-<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14318</ee>
+<ee type="oa">http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14318</ee>
 <crossref>conf/aaai/2017</crossref>
 <url>db/conf/aaai/aaai2017.html#LiLHFA17</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/aaai/RongQAL17" mdate="2020-05-06">
+<r><inproceedings key="conf/aaai/RongQAL17" mdate="2021-02-10">
 <author pid="01/7808">Jiang Rong</author>
 <author pid="14/6841">Tao Qin</author>
 <author pid="42/6178-1">Bo An 0001</author>
@@ -1524,7 +1603,7 @@
 <pages>663-669</pages>
 <year>2017</year>
 <booktitle>AAAI</booktitle>
-<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14871</ee>
+<ee type="oa">http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14871</ee>
 <crossref>conf/aaai/2017</crossref>
 <url>db/conf/aaai/aaai2017.html#RongQAL17</url>
 </inproceedings>
@@ -1751,7 +1830,7 @@
 <url>db/journals/ijon/ijon211.html#DingSTA16</url>
 </article>
 </r>
-<r><inproceedings key="conf/aaai/WangYA16" mdate="2020-05-07">
+<r><inproceedings key="conf/aaai/WangYA16" mdate="2021-02-10">
 <author pid="78/6727">Zhen Wang</author>
 <author pid="31/10212">Yue Yin</author>
 <author pid="42/6178-1">Bo An 0001</author>
@@ -1759,12 +1838,12 @@
 <pages>637-643</pages>
 <year>2016</year>
 <booktitle>AAAI</booktitle>
-<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12063</ee>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12063</ee>
 <crossref>conf/aaai/2016</crossref>
 <url>db/conf/aaai/aaai2016.html#WangYA16</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/aaai/ZhaoAK16" mdate="2020-05-07">
+<r><inproceedings key="conf/aaai/ZhaoAK16" mdate="2021-02-10">
 <author pid="178/8719">Mengchen Zhao</author>
 <author pid="42/6178-1">Bo An 0001</author>
 <author pid="95/1694">Christopher Kiekintveld</author>
@@ -1772,12 +1851,12 @@
 <pages>658-665</pages>
 <year>2016</year>
 <booktitle>AAAI</booktitle>
-<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12083</ee>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12083</ee>
 <crossref>conf/aaai/2016</crossref>
 <url>db/conf/aaai/aaai2016.html#ZhaoAK16</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/aaai/YangGAWC16" mdate="2020-06-04">
+<r><inproceedings key="conf/aaai/YangGAWC16" mdate="2021-02-10">
 <author pid="178/8734">Shangdong Yang</author>
 <author pid="89/4402-1">Yang Gao 0001</author>
 <author pid="42/6178-1">Bo An 0001</author>
@@ -1787,12 +1866,12 @@
 <pages>2258-2264</pages>
 <year>2016</year>
 <booktitle>AAAI</booktitle>
-<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12346</ee>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12346</ee>
 <crossref>conf/aaai/2016</crossref>
 <url>db/conf/aaai/aaai2016.html#YangGAWC16</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/aaai/FangNPLCASTL16" mdate="2020-05-06">
+<r><inproceedings key="conf/aaai/FangNPLCASTL16" mdate="2021-02-10">
 <author pid="57/2878">Fei Fang</author>
 <author pid="117/4935">Thanh Hong Nguyen</author>
 <author pid="178/8703">Rob Pickles</author>
@@ -1806,12 +1885,12 @@
 <pages>3966-3973</pages>
 <year>2016</year>
 <booktitle>AAAI</booktitle>
-<ee>http://www.aaai.org/ocs/index.php/IAAI/IAAI16/paper/view/11814</ee>
+<ee type="oa">http://www.aaai.org/ocs/index.php/IAAI/IAAI16/paper/view/11814</ee>
 <crossref>conf/aaai/2016</crossref>
 <url>db/conf/aaai/aaai2016.html#FangNPLCASTL16</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/aaai/FangNPLCAST16" mdate="2020-05-06">
+<r><inproceedings key="conf/aaai/FangNPLCAST16" mdate="2021-02-10">
 <author pid="57/2878">Fei Fang</author>
 <author pid="117/4935">Thanh Hong Nguyen</author>
 <author pid="178/8703">Rob Pickles</author>
@@ -1824,7 +1903,7 @@
 <pages>4355-4356</pages>
 <year>2016</year>
 <booktitle>AAAI</booktitle>
-<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11812</ee>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11812</ee>
 <crossref>conf/aaai/2016</crossref>
 <url>db/conf/aaai/aaai2016.html#FangNPLCAST16</url>
 </inproceedings>
@@ -1986,18 +2065,18 @@
 <url>db/journals/tcyb/tcyb45.html#HuGA15a</url>
 </article>
 </r>
-<r><inproceedings key="conf/aaai/GanA15" mdate="2020-05-06">
+<r><inproceedings key="conf/aaai/GanA15" mdate="2021-02-18">
 <author pid="133/1975">Jiarui Gan</author>
 <author pid="42/6178-1">Bo An 0001</author>
 <title>Game Theoretic Considerations for Optimizing Efficiency of Taxi Systems.</title>
 <year>2015</year>
 <booktitle>AAAI Workshop: Computational Sustainability</booktitle>
-<ee>http://aaai.org/ocs/index.php/WS/AAAIW15/paper/view/10070</ee>
+<ee type="oa">http://aaai.org/ocs/index.php/WS/AAAIW15/paper/view/10070</ee>
 <crossref>conf/aaai/2015sustainability</crossref>
 <url>db/conf/aaai/sustainability2015.html#GanA15</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/aaai/GanAV15" mdate="2020-05-06">
+<r><inproceedings key="conf/aaai/GanAV15" mdate="2021-02-10">
 <author pid="133/1975">Jiarui Gan</author>
 <author pid="42/6178-1">Bo An 0001</author>
 <author pid="70/2217">Yevgeniy Vorobeychik</author>
@@ -2005,7 +2084,7 @@
 <pages>914-920</pages>
 <year>2015</year>
 <booktitle>AAAI</booktitle>
-<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9883</ee>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9883</ee>
 <crossref>conf/aaai/2015</crossref>
 <url>db/conf/aaai/aaai2015.html#GanAV15</url>
 </inproceedings>
@@ -2159,7 +2238,7 @@
 <url>db/journals/dss/dss66.html#YuSMAL14</url>
 </article>
 </r>
-<r><inproceedings key="conf/aaai/NguyenYATB14" mdate="2020-05-06">
+<r><inproceedings key="conf/aaai/NguyenYATB14" mdate="2021-02-18">
 <author pid="117/4935">Thanh Hong Nguyen</author>
 <author pid="121/3511">Amulya Yadav</author>
 <author pid="42/6178-1">Bo An 0001</author>
@@ -2169,12 +2248,12 @@
 <pages>756-762</pages>
 <year>2014</year>
 <booktitle>AAAI</booktitle>
-<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/view/8346</ee>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/view/8346</ee>
 <crossref>conf/aaai/2014</crossref>
 <url>db/conf/aaai/aaai2014.html#NguyenYATB14</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/aaai/YinAJ14" mdate="2020-05-07">
+<r><inproceedings key="conf/aaai/YinAJ14" mdate="2021-02-18">
 <author pid="31/10212">Yue Yin</author>
 <author pid="42/6178-1">Bo An 0001</author>
 <author pid="55/6591">Manish Jain</author>
@@ -2182,7 +2261,7 @@
 <pages>826-834</pages>
 <year>2014</year>
 <booktitle>AAAI</booktitle>
-<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/view/8182</ee>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/view/8182</ee>
 <crossref>conf/aaai/2014</crossref>
 <url>db/conf/aaai/aaai2014.html#YinAJ14</url>
 </inproceedings>
@@ -2462,7 +2541,7 @@
 <url>db/journals/aim/aim33.html#AnSTYBDMM12</url>
 </article>
 </r>
-<r><inproceedings key="conf/aaai/AnKKSSTV12" mdate="2020-05-06">
+<r><inproceedings key="conf/aaai/AnKKSSTV12" mdate="2021-02-18">
 <author pid="42/6178-1">Bo An 0001</author>
 <author pid="63/5749-1">David Kempe 0001</author>
 <author pid="95/1694">Christopher Kiekintveld</author>
@@ -2473,12 +2552,12 @@
 <title>Security Games with Limited Surveillance.</title>
 <year>2012</year>
 <booktitle>AAAI</booktitle>
-<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI12/paper/view/4836</ee>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI12/paper/view/4836</ee>
 <crossref>conf/aaai/2012</crossref>
 <url>db/conf/aaai/aaai2012.html#AnKKSSTV12</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/aaai/ShiehAYTBDMM12" mdate="2020-05-06">
+<r><inproceedings key="conf/aaai/ShiehAYTBDMM12" mdate="2021-02-18">
 <author pid="117/4929">Eric Anyung Shieh</author>
 <author pid="42/6178-1">Bo An 0001</author>
 <author pid="53/4040">Rong Yang</author>
@@ -2490,7 +2569,7 @@
 <title>PROTECT: An Application of Computational Game Theory for the Security of the Ports of the United States.</title>
 <year>2012</year>
 <booktitle>AAAI</booktitle>
-<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI12/paper/view/4949</ee>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI12/paper/view/4949</ee>
 <crossref>conf/aaai/2012</crossref>
 <url>db/conf/aaai/aaai2012.html#ShiehAYTBDMM12</url>
 </inproceedings>
@@ -2662,7 +2741,7 @@
 <url>db/journals/sigecom/sigecom10.html#AnPSTKM11</url>
 </article>
 </r>
-<r><inproceedings key="conf/aaai/AnTOSK11" mdate="2020-05-06">
+<r><inproceedings key="conf/aaai/AnTOSK11" mdate="2021-02-18">
 <author pid="42/6178-1">Bo An 0001</author>
 <author pid="67/2667">Milind Tambe</author>
 <author pid="63/3305">Fernando Ordóñez</author>
@@ -2671,7 +2750,7 @@
 <title>Refinement of Strong Stackelberg Equilibria in Security Games.</title>
 <year>2011</year>
 <booktitle>AAAI</booktitle>
-<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3461</ee>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3461</ee>
 <crossref>conf/aaai/2011</crossref>
 <url>db/conf/aaai/aaai2011.html#AnTOSK11</url>
 </inproceedings>
@@ -3022,7 +3101,7 @@
 <url>db/conf/iat/iat2004.html#AnTLC04</url>
 </inproceedings>
 </r>
-<coauthors n="259" nc="2">
+<coauthors n="270" nc="2">
 <co c="0"><na f="a/Alani:Harith" pid="74/2147">Harith Alani</na></co>
 <co c="0"><na f="a/Aung:Aye_Phyu_Phyu" pid="266/4628">Aye Phyu Phyu Aung</na></co>
 <co c="0"><na f="b/Bajo:Javier" pid="12/3078">Javier Bajo</na></co>
@@ -3034,6 +3113,7 @@
 <co c="0"><na f="b/Bu:Zhan" pid="119/3261">Zhan Bu</na></co>
 <co c="0"><na f="c/Cao_0001:Jie" pid="39/6191-1">Jie Cao 0001</na></co>
 <co c="0"><na f="c/Cao:Longbing" pid="14/2589">Longbing Cao</na></co>
+<co c="0"><na f="c/Cao:Yuzhou" pid="256/5052">Yuzhou Cao</na></co>
 <co c="0"><na f="c/Cern=yacute=:Jakub" pid="32/5231">Jakub Cerný</na></co>
 <co c="0"><na f="c/Chan:Hau" pid="48/9282">Hau Chan</na></co>
 <co c="0"><na f="c/Chee:Yeow_Meng" pid="c/YeowMengChee">Yeow Meng Chee</na></co>
@@ -3061,6 +3141,7 @@
 <co c="0"><na f="f/Feng_0002:Zhiyong" pid="48/195-2">Zhiyong Feng 0002</na></co>
 <co c="0"><na f="f/Feng:Zhouyan" pid="166/0196">Zhouyan Feng</na></co>
 <co c="0"><na f="f/Fern=aacute=ndez=Caballero_0001:Antonio" pid="f/AFdCaballero">Antonio Fernández-Caballero 0001</na></co>
+<co c="0"><na f="f/Fu:Haobo" pid="85/8571">Haobo Fu</na></co>
 <co c="0" n="2"><na f="g/Gal:Ya=akov" pid="65/3114">Ya'akov Gal</na><na>Ya'akov (Kobi) Gal</na></co>
 <co c="0"><na f="g/Gan:Jiarui" pid="133/1975">Jiarui Gan</na></co>
 <co c="0"><na f="g/Gao:Wei" pid="28/2073">Wei Gao</na></co>
@@ -3121,6 +3202,7 @@
 <co c="0"><na f="l/Li:Hao" pid="17/5705">Hao Li</na></co>
 <co c="0"><na f="l/Li:Haoyang" pid="118/0004">Haoyang Li</na></co>
 <co c="0"><na f="l/Li:Jianfeng" pid="10/3844">Jianfeng Li</na></co>
+<co c="0"><na f="l/Li:Kai" pid="l/KaiLi">Kai Li</na></co>
 <co c="0"><na f="l/Li_0006:Li" pid="53/2189-6">Li Li 0006</na></co>
 <co c="0"><na f="l/Li:Liuxi" pid="168/0751">Liuxi Li</na></co>
 <co c="0" n="2"><na f="l/Li:Shuangqing" pid="18/6399">Shuangqing Li</na><na>Shuang Qing Li</na></co>
@@ -3168,6 +3250,7 @@
 <co c="0"><na f="n/Nguyen:Thanh_Hong" pid="117/4935">Thanh Hong Nguyen</na></co>
 <co c="0"><na f="n/Niu_0001:Gang" pid="26/3367-1">Gang Niu 0001</na></co>
 <co c="0"><na f="n/Niyato:Dusit" pid="76/440">Dusit Niyato</na></co>
+<co c="0"><na f="o/Obraztsova:Svetlana" pid="12/9925">Svetlana Obraztsova</na></co>
 <co c="0"><na f="o/Ord=oacute==ntilde=ez:Fernando" pid="63/3305">Fernando Ordóñez</na></co>
 <co c="0"><na f="o/Ou:Wenwu" pid="198/5430">Wenwu Ou</na></co>
 <co c="0"><na f="p/Pan:Li" pid="26/4737">Li Pan</na></co>
@@ -3188,6 +3271,7 @@
 <co c="0"><na f="s/Schwedock:Brian_C=" pid="198/2772">Brian C. Schwedock</na></co>
 <co c="0"><na f="s/Seghrouchni:Amal_El_Fallah" pid="f/AEFallahSeghrouchni">Amal El Fallah Seghrouchni</na></co>
 <co c="0"><na f="s/Sen:Sandip" pid="19/1004">Sandip Sen</na></co>
+<co c="0" n="2"><na f="s/Senthilnath_0001:J=" pid="35/8418">J. Senthilnath 0001</na><na>Senthilnath Jayavelu</na></co>
 <co c="0"><na f="s/Serafino:Paolo" pid="01/105">Paolo Serafino</na></co>
 <co c="0"><na f="s/Sharon:Guni" pid="73/9853">Guni Sharon</na></co>
 <co c="0"><na f="s/Shen:Zhiqi" pid="03/1554">Zhiqi Shen</na></co>
@@ -3246,11 +3330,15 @@
 <co c="0"><na f="w/Wu_0001:Qiong" pid="54/4158-1">Qiong Wu 0001</na></co>
 <co c="0"><na f="w/Wu_0001:Weiwei" pid="10/2312-1">Weiwei Wu 0001</na></co>
 <co c="0"><na f="w/Wu:Yi" pid="44/3684">Yi Wu</na></co>
+<co c="0"><na f="w/Wu:Zhe" pid="11/5670">Zhe Wu</na></co>
 <co c="0"><na f="x/Xia:Wei" pid="77/1243">Wei Xia</na></co>
+<co c="0"><na f="x/Xing:Junliang" pid="43/7659">Junliang Xing</na></co>
 <co c="0"><na f="x/Xiong:Yanhai" pid="165/3229">Yanhai Xiong</na></co>
 <co c="0"><na f="x/Xu:Haifeng" pid="04/1895">Haifeng Xu</na></co>
+<co c="0"><na f="x/Xu:Hang" pid="33/678">Hang Xu</na></co>
 <co c="0"><na f="x/Xu:Miao" pid="42/3241">Miao Xu</na></co>
 <co c="0"><na f="x/Xu:Yinghui" pid="15/2775">Yinghui Xu</na></co>
+<co c="0"><na f="x/Xu:Yitian" pid="07/2647">Yitian Xu</na></co>
 <co c="0"><na f="x/Xue_0001:Lei" pid="68/2052-1">Lei Xue 0001</na></co>
 <co c="0"><na f="y/Yaakov:Yoav_Ben" pid="251/3701">Yoav Ben Yaakov</na></co>
 <co c="0"><na f="y/Yadav:Amulya" pid="121/3511">Amulya Yadav</na></co>
@@ -3273,8 +3361,10 @@
 <co c="0"><na f="z/Zhang_0002:Jie" pid="84/6889-2">Jie Zhang 0002</na></co>
 <co c="0"><na f="z/Zhang_0008:Jie" pid="84/6889-8">Jie Zhang 0008</na></co>
 <co c="0"><na f="z/Zhang:Long" pid="48/2807">Long Zhang</na></co>
+<co c="0"><na f="z/Zhang:Meng" pid="04/6901">Meng Zhang</na></co>
 <co c="0"><na f="z/Zhang_0001:Teng" pid="38/5156-1">Teng Zhang 0001</na></co>
 <co c="0"><na f="z/Zhang_0001:Youzhi" pid="131/9490-1">Youzhi Zhang 0001</na></co>
+<co c="0"><na f="z/Zhao:Enmin" pid="269/4576">Enmin Zhao</na></co>
 <co c="0"><na f="z/Zhao:Mengchen" pid="178/8719">Mengchen Zhao</na></co>
 <co c="0"><na f="z/Zhi:Yanling" pid="91/9256">Yanling Zhi</na></co>
 <co c="0"><na f="z/Zhu:Hongtu" pid="03/5683">Hongtu Zhu</na></co>

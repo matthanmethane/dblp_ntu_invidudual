@@ -1,4 +1,4 @@
-<?xml version="1.0"?><html><body><dblpperson n="217" name="Aixin Sun" pid="78/5155">
+<?xml version="1.0"?><html><body><dblpperson n="220" name="Aixin Sun" pid="78/5155">
 <person key="homepages/78/5155" mdate="2019-11-28">
 <author pid="78/5155">Aixin Sun</author>
 <url>http://www.ntu.edu.sg/home/AXSun/</url>
@@ -9,6 +9,34 @@
 <note type="affiliation">Nanyang Technological University, Singapore</note>
 <note type="uname">孙爱欣</note>
 </person>
+<r><article key="journals/jasis/LeeS21" mdate="2021-03-09">
+<author pid="174/6820">Grace E. Lee</author>
+<author pid="78/5155">Aixin Sun</author>
+<title>Understanding the stability of medical concept embeddings.</title>
+<pages>346-356</pages>
+<year>2021</year>
+<volume>72</volume>
+<journal>J. Assoc. Inf. Sci. Technol.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1002/asi.24411</ee>
+<url>db/journals/jasis/jasis72.html#LeeS21</url>
+</article>
+</r>
+<r><article key="journals/corr/abs-2102-13558" mdate="2021-03-02" publtype="informal">
+<author pid="55/2270">Hao Zhang</author>
+<author pid="78/5155">Aixin Sun</author>
+<author pid="62/1017">Wei Jing</author>
+<author pid="128/3352">Liangli Zhen</author>
+<author pid="123/5110">Joey Tianyi Zhou</author>
+<author pid="24/2670">Rick Siow Mong Goh</author>
+<title>Natural Language Video Localization: A Revisit in Span-based Question Answering Framework.</title>
+<year>2021</year>
+<volume>abs/2102.13558</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2102.13558</ee>
+<url>db/journals/corr/corr2102.html#abs-2102-13558</url>
+</article>
+</r>
 <r><article key="journals/fcsc/ZhangLWSYL20" mdate="2020-06-15">
 <author pid="183/0561">Zhiqian Zhang</author>
 <author pid="52/9457">Chenliang Li</author>
@@ -113,6 +141,18 @@
 <ee>https://doi.org/10.1109/ICDE48307.2020.00062</ee>
 <crossref>conf/icde/2020</crossref>
 <url>db/conf/icde/icde2020.html#Huang0XSL20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/ChenS20" mdate="2021-02-17">
+<author pid="06/4240">Zhe Chen</author>
+<author pid="78/5155">Aixin Sun</author>
+<title>Anomaly Detection on Dynamic Bipartite Graph with Burstiness.</title>
+<pages>966-971</pages>
+<year>2020</year>
+<booktitle>ICDM</booktitle>
+<ee>https://doi.org/10.1109/ICDM50108.2020.00110</ee>
+<crossref>conf/icdm/2020</crossref>
+<url>db/conf/icdm/icdm2020.html#ChenS20</url>
 </inproceedings>
 </r>
 <r><inproceedings key="conf/ictir/LinS20" mdate="2020-09-15">
@@ -1418,7 +1458,7 @@
 <url>db/journals/vldb/vldb24.html#0005BSC15</url>
 </article>
 </r>
-<r><inproceedings key="conf/aaai/MaSYC15" mdate="2018-02-11">
+<r><inproceedings key="conf/aaai/MaSYC15" mdate="2021-02-10">
 <author pid="117/4275">Zongyang Ma</author>
 <author pid="78/5155">Aixin Sun</author>
 <author pid="29/5782-1">Quan Yuan 0001</author>
@@ -1427,7 +1467,7 @@
 <pages>224-230</pages>
 <year>2015</year>
 <booktitle>AAAI</booktitle>
-<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9601</ee>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9601</ee>
 <crossref>conf/aaai/2015</crossref>
 <url>db/conf/aaai/aaai2015.html#MaSYC15</url>
 </inproceedings>
@@ -3198,7 +3238,7 @@
 <url>db/conf/icdm/icdm2001.html#SunL01</url>
 </inproceedings>
 </r>
-<coauthors n="220" nc="2">
+<coauthors n="223" nc="2">
 <co c="0"><na f="a/Agrawal_0001:Rakesh" pid="a/RAgrawal">Rakesh Agrawal 0001</na></co>
 <co c="0"><na f="a/Akbari_0001:Mohammad" pid="07/7212-1">Mohammad Akbari 0001</na></co>
 <co c="0"><na f="b/Bai:Ge" pid="59/10452">Ge Bai</na></co>
@@ -3215,6 +3255,7 @@
 <co c="0"><na f="c/Chen:Wei" pid="181/2832">Wei Chen</na></co>
 <co c="0"><na f="c/Chen_0042:Wei" pid="c/WeiChen42">Wei Chen 0042</na></co>
 <co c="0"><na f="c/Chen:Xiaocong" pid="245/9630">Xiaocong Chen</na></co>
+<co c="0"><na f="c/Chen:Zhe" pid="06/4240">Zhe Chen</na></co>
 <co c="0"><na f="c/Cheng:Yun" pid="58/4223">Yun Cheng</na></co>
 <co c="0"><na f="c/Chiang:Roger_H=_L=" pid="78/4406">Roger H. L. Chiang</na></co>
 <co c="0"><na f="c/Choi:Byron" pid="07/1560">Byron Choi</na></co>
@@ -3236,6 +3277,7 @@
 <co c="-1"><na f="g/Ghoreishi:Seyyedeh_Newsha" pid="136/7970">Seyyedeh Newsha Ghoreishi</na></co>
 <co c="0"><na f="g/Goh:Dion_Hoe=Lian" pid="06/4612">Dion Hoe-Lian Goh</na></co>
 <co c="0"><na f="g/Goh:Ka_Hian" pid="228/2510">Ka Hian Goh</na></co>
+<co c="0"><na f="g/Goh:Rick_Siow_Mong" pid="24/2670">Rick Siow Mong Goh</na></co>
 <co c="0"><na f="h/Hacid:Mohand=Said" pid="h/MohandSaidHacid">Mohand-Said Hacid</na></co>
 <co c="0"><na f="h/Han:Jialong" pid="92/7536">Jialong Han</na></co>
 <co c="0"><na f="h/Han:Jianglei" pid="173/2707">Jianglei Han</na></co>
@@ -3404,6 +3446,7 @@
 <co c="0"><na f="z/Zhao:Qiankun" pid="64/1081">Qiankun Zhao</na></co>
 <co c="0"><na f="z/Zhao:Wayne_Xin" pid="52/8700">Wayne Xin Zhao</na></co>
 <co c="0"><na f="z/Zhe:Chen" pid="121/0854">Chen Zhe</na></co>
+<co c="0"><na f="z/Zhen:Liangli" pid="128/3352">Liangli Zhen</na></co>
 <co c="0"><na f="z/Zheng:Baihua" pid="93/4303">Baihua Zheng</na></co>
 <co c="0"><na f="z/Zheng:Chujie" pid="242/8504">Chujie Zheng</na></co>
 <co c="0"><na f="z/Zheng_0001:Kai" pid="73/3928-1">Kai Zheng 0001</na></co>

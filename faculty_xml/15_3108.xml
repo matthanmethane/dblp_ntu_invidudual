@@ -1,4 +1,4 @@
-<?xml version="1.0"?><html><body><dblpperson n="127" name="Alexei Sourin" pid="15/3108">
+<?xml version="1.0"?><html><body><dblpperson n="129" name="Alexei Sourin" pid="15/3108">
 <person key="homepages/15/3108" mdate="2016-11-29">
 <author pid="15/3108">Alexei Sourin</author>
 <url>http://www.ntu.edu.sg/home/assourin/</url>
@@ -906,7 +906,7 @@
 </proceedings>
 </r>
 <r><article key="journals/tcos/PangSSCU11" mdate="2020-10-26">
-<author pid="48/1196">Ming-Yong Pang</author>
+<author pid="51/6651">Ming-Yong Pang</author>
 <author pid="25/1495">Yun Sheng</author>
 <author orcid="0000-0003-4051-2927" pid="15/3108">Alexei Sourin</author>
 <author pid="31/5145">Gabriela González Castro</author>
@@ -961,6 +961,18 @@
 <url>db/conf/cw/cw2011.html#WeiS11</url>
 </inproceedings>
 </r>
+<r><inproceedings key="conf/siggrapha/RasoolS11" mdate="2021-03-11">
+<author pid="08/10024">Shahzad Rasool</author>
+<author pid="15/3108">Alexei Sourin</author>
+<title>Tangible images.</title>
+<pages>41:1-41:2</pages>
+<year>2011</year>
+<booktitle>SIGGRAPH Asia Sketches</booktitle>
+<ee>https://doi.org/10.1145/2077378.2077430</ee>
+<crossref>conf/siggrapha/2011sketches</crossref>
+<url>db/conf/siggrapha/siggrapha2011sketches.html#RasoolS11</url>
+</inproceedings>
+</r>
 <r><inproceedings key="conf/vrcai/RasoolS11" mdate="2020-10-25">
 <author pid="08/10024">Shahzad Rasool</author>
 <author orcid="0000-0003-4051-2927" pid="15/3108">Alexei Sourin</author>
@@ -1000,6 +1012,20 @@
 <booktitle>Trans. Comput. Sci.</booktitle>
 <url>db/journals/tcos/tcos12.html</url>
 </proceedings>
+</r>
+<r><article key="journals/ijvr/PangSP10" mdate="2021-02-26">
+<author pid="51/6651">Mingyong Pang</author>
+<author pid="15/3108">Alexei Sourin</author>
+<author pid="83/8389">Zhigeng Pan</author>
+<title>Constructing Subdivision Connectivity Mesh via PDE Parameterization.</title>
+<pages>13-19</pages>
+<year>2010</year>
+<volume>9</volume>
+<journal>Int. J. Virtual Real.</journal>
+<number>4</number>
+<ee>https://doi.org/10.20870/IJVR.2010.9.4.2786</ee>
+<url>db/journals/ijvr/ijvr9.html#PangSP10</url>
+</article>
 </r>
 <r><article key="journals/vc/ShengSCU10" mdate="2020-10-26">
 <author pid="25/1495">Yun Sheng</author>
@@ -1043,7 +1069,7 @@
 </inproceedings>
 </r>
 <r><inproceedings key="conf/cw/PangSSCU10" mdate="2020-10-25">
-<author pid="48/1196">Ming-Yong Pang</author>
+<author pid="51/6651">Ming-Yong Pang</author>
 <author pid="25/1495">Yun Sheng</author>
 <author orcid="0000-0003-4051-2927" pid="15/3108">Alexei Sourin</author>
 <author pid="31/5145">Gabriela González Castro</author>
@@ -1726,7 +1752,7 @@
 <url>db/conf/sma/sma1995.html#SourinP95</url>
 </inproceedings>
 </r>
-<coauthors n="71" nc="3">
+<coauthors n="72" nc="3">
 <co c="0"><na f="a/Adzhiev:Valery" pid="59/3823">Valery Adzhiev</na></co>
 <co c="0"><na f="a/Andrews:Keith" pid="73/5332">Keith Andrews</na></co>
 <co c="2"><na f="a/Anh:Nguyen_Hoang" pid="75/589">Nguyen Hoang Anh</na></co>
@@ -1772,7 +1798,8 @@
 <co c="0"><na f="m/Mujeeb:Abdul" pid="233/3535">Abdul Mujeeb</na></co>
 <co c="0"><na f="n/Nahavandi:Saeid" pid="55/1059">Saeid Nahavandi</na></co>
 <co c="0"><na f="n/Najdovski:Zoran" pid="91/7028">Zoran Najdovski</na></co>
-<co c="0"><na f="p/Pang:Ming=Yong" pid="48/1196">Ming-Yong Pang</na></co>
+<co c="0" n="2"><na f="p/Pan:Zhi=geng" pid="83/8389">Zhi-geng Pan</na><na>Zhigeng Pan</na></co>
+<co c="0" n="2"><na f="p/Pang:Mingyong" pid="51/6651">Mingyong Pang</na><na>Ming-Yong Pang</na></co>
 <co c="0"><na f="p/Pasko:Alexander_A=" pid="p/AlexanderAPasko">Alexander A. Pasko</na></co>
 <co c="0"><na f="p/Pestrikov:Vladimir" pid="139/8677">Vladimir Pestrikov</na></co>
 <co c="0"><na f="p/Prasolova=F=oslash=rland:Ekaterina" pid="65/5434">Ekaterina Prasolova-Førland</na></co>

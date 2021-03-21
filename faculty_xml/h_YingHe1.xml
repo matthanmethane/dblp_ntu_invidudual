@@ -1,4 +1,4 @@
-<?xml version="1.0"?><html><body><dblpperson n="195" name="Ying He 0001" pid="h/YingHe1">
+<?xml version="1.0"?><html><body><dblpperson n="201" name="Ying He 0001" pid="h/YingHe1">
 <person key="homepages/h/YingHe1" mdate="2019-05-23">
 <author pid="h/YingHe1">Ying He 0001</author>
 <url>http://www3.ntu.edu.sg/home/Yhe/</url>
@@ -146,13 +146,13 @@
 <url>db/journals/tip/tip30.html#GuLHZ21</url>
 </article>
 </r>
-<r><article key="journals/tvcg/MaoZXYLH21" mdate="2021-02-03">
+<r><article key="journals/tvcg/MaoZXYLH21" mdate="2021-02-11">
 <author pid="37/3940">Aihua Mao</author>
 <author pid="24/6914">Hong Zhang</author>
 <author pid="186/6438">Zhenfeng Xie</author>
 <author pid="173/0901">Minjing Yu</author>
-<author pid="27/2098">Yong-Jin Liu</author>
-<author pid="h/YingHe1">Ying He 0001</author>
+<author orcid="0000-0001-5774-1916" pid="27/2098">Yong-Jin Liu</author>
+<author orcid="0000-0002-6749-4485" pid="h/YingHe1">Ying He 0001</author>
 <title>Automatic Sitting Pose Generation for Ergonomic Ratings of Chairs.</title>
 <pages>1890-1903</pages>
 <year>2021</year>
@@ -163,11 +163,11 @@
 <url>db/journals/tvcg/tvcg27.html#MaoZXYLH21</url>
 </article>
 </r>
-<r><article key="journals/tvcg/ZhangLQH21" mdate="2021-02-03">
-<author pid="24/5091">Dongbo Zhang</author>
-<author pid="137/2585">Xuequan Lu</author>
-<author pid="79/627">Hong Qin</author>
-<author pid="h/YingHe1">Ying He 0001</author>
+<r><article key="journals/tvcg/ZhangLQH21" mdate="2021-02-11">
+<author orcid="0000-0001-5076-340X" pid="24/5091">Dongbo Zhang</author>
+<author orcid="0000-0003-0959-408X" pid="137/2585">Xuequan Lu</author>
+<author orcid="0000-0001-7699-1355" pid="79/627">Hong Qin</author>
+<author orcid="0000-0002-6749-4485" pid="h/YingHe1">Ying He 0001</author>
 <title>Pointfilter: Point Cloud Filtering via Encoder-Decoder Modeling.</title>
 <pages>2015-2027</pages>
 <year>2021</year>
@@ -584,12 +584,12 @@
 <url>db/journals/tog/tog38.html#YuYLHW19</url>
 </article>
 </r>
-<r><article key="journals/tog/MaHSZZW19" mdate="2020-03-27">
+<r><article key="journals/tog/MaHSZZW19" mdate="2021-02-09">
 <author pid="93/5262">Long Ma</author>
 <author orcid="0000-0002-6749-4485" pid="h/YingHe1">Ying He 0001</author>
 <author pid="26/3470">Qian Sun</author>
 <author pid="97/2964">Yuanfeng Zhou</author>
-<author pid="12/1053">Caiming Zhang</author>
+<author pid="12/1053-1">Caiming Zhang 0001</author>
 <author pid="49/4096">Wenping Wang</author>
 <title>Constructing 3D Self-Supporting Surfaces with Isotropic Stress Using 4D Minimal Hypersurfaces of Revolution.</title>
 <pages>144:1-144:13</pages>
@@ -1067,7 +1067,7 @@
 <url>db/journals/cvm/cvm2.html#WangLYSH16</url>
 </article>
 </r>
-<r><article key="journals/tog/LiuXYF016" mdate="2017-01-03">
+<r><article key="journals/tog/LiuXYF016" mdate="2021-03-11">
 <author pid="27/2098">Yong-Jin Liu</author>
 <author pid="153/7955">Chunxu Xu</author>
 <author pid="136/5469">Ran Yi</author>
@@ -1079,7 +1079,7 @@
 <volume>35</volume>
 <journal>ACM Trans. Graph.</journal>
 <number>6</number>
-<ee>http://dl.acm.org/citation.cfm?id=2982424</ee>
+<ee>https://doi.org/10.1145/2980179.2982424</ee>
 <url>db/journals/tog/tog35.html#LiuXYF016</url>
 </article>
 </r>
@@ -2069,6 +2069,22 @@
 <url>db/journals/ijbra/ijbra8.html#LiHCWL12</url>
 </article>
 </r>
+<r><article key="journals/ijvr/LiuS0LX12" mdate="2021-03-01">
+<author pid="60/8967">Yaqiong Liu</author>
+<author pid="s/SeahHockSoon">Seah Hock Soon</author>
+<author pid="h/YingHe1">Ying He 0001</author>
+<author pid="87/5337">Juncong Lin</author>
+<author pid="72/7440">Jiazhi Xia</author>
+<title>Sketch Based Image Deformation and Editing with Guaranteed Feature Correspondence.</title>
+<pages>25-32</pages>
+<year>2012</year>
+<volume>11</volume>
+<journal>Int. J. Virtual Real.</journal>
+<number>1</number>
+<ee>https://doi.org/10.20870/IJVR.2012.11.1.2834</ee>
+<url>db/journals/ijvr/ijvr11.html#LiuS0LX12</url>
+</article>
+</r>
 <r><article key="journals/tcsv/XiaQHCH12" mdate="2020-08-25">
 <author pid="72/7440">Jiazhi Xia</author>
 <author pid="11/10767">Dao Thi Phuong Quynh</author>
@@ -2175,6 +2191,35 @@
 <ee>https://doi.org/10.1145/2159616.2159622</ee>
 <crossref>conf/si3d/2012</crossref>
 <url>db/conf/si3d/si3d2012.html#XinYH12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/siggrapha/HouC0QM12" mdate="2021-03-10">
+<author pid="122/2673">Junhui Hou</author>
+<author pid="03/5597">Lap-Pui Chau</author>
+<author pid="h/YingHe1">Ying He 0001</author>
+<author pid="11/10767">Dao Thi Phuong Quynh</author>
+<author pid="t/NadiaMagnenatThalmann">Nadia Magnenat-Thalmann</author>
+<title>Dynamic 3-D facial compression using low rank and sparse decomposition.</title>
+<pages>22:1-22:4</pages>
+<year>2012</year>
+<booktitle>SIGGRAPH Asia Technical Briefs</booktitle>
+<ee>https://doi.org/10.1145/2407746.2407768</ee>
+<crossref>conf/siggrapha/2012briefs</crossref>
+<url>db/conf/siggrapha/siggrapha2012briefs.html#HouC0QM12</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/siggrapha/XinQY012" mdate="2021-03-10">
+<author pid="72/3380">Shi-Qing Xin</author>
+<author pid="11/10767">Dao Thi Phuong Quynh</author>
+<author pid="58/10532">Xiang Ying</author>
+<author pid="h/YingHe1">Ying He 0001</author>
+<title>A global algorithm to compute defect-tolerant geodesic distance.</title>
+<pages>23:1-23:4</pages>
+<year>2012</year>
+<booktitle>SIGGRAPH Asia Technical Briefs</booktitle>
+<ee>https://doi.org/10.1145/2407746.2407769</ee>
+<crossref>conf/siggrapha/2012briefs</crossref>
+<url>db/conf/siggrapha/siggrapha2012briefs.html#XinQY012</url>
 </inproceedings>
 </r>
 <r><article key="journals/cad/HanX011" mdate="2020-02-13">
@@ -2433,6 +2478,47 @@
 <ee>https://doi.org/10.1145/1944745.1944771</ee>
 <crossref>conf/si3d/2011</crossref>
 <url>db/conf/si3d/si3d2011.html#XiaGHXP11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/siggrapha/XiangXS011" mdate="2021-03-11">
+<author pid="147/7464">Ying Xiang</author>
+<author pid="72/3380">Shi-Qing Xin</author>
+<author pid="26/3470">Qian Sun</author>
+<author pid="h/YingHe1">Ying He 0001</author>
+<title>Parallel and accurate Poisson disk sampling on arbitrary surfaces.</title>
+<pages>18:1-18:2</pages>
+<year>2011</year>
+<booktitle>SIGGRAPH Asia Sketches</booktitle>
+<ee>https://doi.org/10.1145/2077378.2077401</ee>
+<crossref>conf/siggrapha/2011sketches</crossref>
+<url>db/conf/siggrapha/siggrapha2011sketches.html#XiangXS011</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/siggrapha/00010SM11" mdate="2021-03-11">
+<author pid="48/2807-1">Long Zhang 0001</author>
+<author pid="h/YingHe1">Ying He 0001</author>
+<author pid="s/SeahHockSoon">Hock Soon Seah</author>
+<author pid="64/964">Wolfgang Müller-Wittig</author>
+<title>A hybrid object/image space approach for efficient and robust line drawings.</title>
+<pages>21:1-21:2</pages>
+<year>2011</year>
+<booktitle>SIGGRAPH Asia Sketches</booktitle>
+<ee>https://doi.org/10.1145/2077378.2077405</ee>
+<crossref>conf/siggrapha/2011sketches</crossref>
+<url>db/conf/siggrapha/siggrapha2011sketches.html#00010SM11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/siggrapha/XinY011" mdate="2021-03-11">
+<author pid="72/3380">Shi-Qing Xin</author>
+<author pid="58/10532">Xiang Ying</author>
+<author pid="h/YingHe1">Ying He 0001</author>
+<title>Constant-time <i>O</i>(1) all pairs geodesic distance query on triangle meshes.</title>
+<pages>23:1-23:2</pages>
+<year>2011</year>
+<booktitle>SIGGRAPH Asia Sketches</booktitle>
+<ee>https://doi.org/10.1145/2077378.2077407</ee>
+<crossref>conf/siggrapha/2011sketches</crossref>
+<url>db/conf/siggrapha/siggrapha2011sketches.html#XinY011</url>
 </inproceedings>
 </r>
 <r><inproceedings key="conf/sigir/WangHH11" mdate="2018-11-06">
@@ -3092,7 +3178,7 @@
 <url>db/conf/gmp/gmp2004.html#HeQ04</url>
 </inproceedings>
 </r>
-<coauthors n="213" nc="1">
+<coauthors n="214" nc="1">
 <co c="0"><na f="a/Adikusuma:Yohanes_Yudhi" pid="263/9660">Yohanes Yudhi Adikusuma</na></co>
 <co c="0"><na f="a/Akleman:Ergun" pid="13/568">Ergun Akleman</na></co>
 <co c="0"><na f="a/Alliez:Pierre" pid="98/1937">Pierre Alliez</na></co>
@@ -3259,6 +3345,7 @@
 <co c="0"><na f="w/Wu:Zhongke" pid="60/657">Zhongke Wu</na></co>
 <co c="0"><na f="x/Xia:Jiazhi" pid="72/7440">Jiazhi Xia</na></co>
 <co c="0"><na f="x/Xiang:Liu" pid="81/7631">Liu Xiang</na></co>
+<co c="0"><na f="x/Xiang:Ying" pid="147/7464">Ying Xiang</na></co>
 <co c="0"><na f="x/Xiao:Xian" pid="78/4972">Xian Xiao</na></co>
 <co c="0"><na f="x/Xie:Xuexiang" pid="01/6764">Xuexiang Xie</na></co>
 <co c="0"><na f="x/Xie:Zhenfeng" pid="186/6438">Zhenfeng Xie</na></co>
@@ -3285,7 +3372,7 @@
 <co c="0"><na f="z/Zeng:Huanqiang" pid="25/8798">Huanqiang Zeng</na></co>
 <co c="0"><na f="z/Zeng_0002:Wei" pid="80/1961-2">Wei Zeng 0002</na></co>
 <co c="0"><na f="z/Zeng:Yiming" pid="10/1103">Yiming Zeng</na></co>
-<co c="0"><na f="z/Zhang:Caiming" pid="12/1053">Caiming Zhang</na></co>
+<co c="0"><na f="z/Zhang_0001:Caiming" pid="12/1053-1">Caiming Zhang 0001</na></co>
 <co c="0"><na f="z/Zhang_0030:Chao" pid="94/3019-30">Chao Zhang 0030</na></co>
 <co c="0"><na f="z/Zhang:Chi" pid="91/195">Chi Zhang</na></co>
 <co c="0"><na f="z/Zhang:Dongbo" pid="24/5091">Dongbo Zhang</na></co>

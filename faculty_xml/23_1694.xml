@@ -1,4 +1,4 @@
-<?xml version="1.0"?><html><body><dblpperson n="282" name="Thambipillai Srikanthan" pid="23/1694">
+<?xml version="1.0"?><html><body><dblpperson n="286" name="Thambipillai Srikanthan" pid="23/1694">
 <person key="homepages/23/1694" mdate="2021-02-02">
 <author pid="23/1694">Thambipillai Srikanthan</author>
 <author pid="23/1694">Srikanthan Thambipillai</author>
@@ -97,6 +97,21 @@
 <ee>https://doi.org/10.1007/978-3-030-44534-8_13</ee>
 <crossref>conf/arc/2020</crossref>
 <url>db/conf/arc/arc2020.html#WijesunderaSLPS20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdcs/SharmaRPLS20" mdate="2021-03-02">
+<author pid="25/9113">Kuldeep Sharma</author>
+<author pid="119/4357">Nirmala Ramakrishnan</author>
+<author pid="58/7646">Alok Prakash</author>
+<author pid="74/1907">Siew Kei Lam</author>
+<author pid="23/1694">Thambipillai Srikanthan</author>
+<title>Evaluating the Merits of Ranking in Structured Network Pruning.</title>
+<pages>1389-1396</pages>
+<year>2020</year>
+<booktitle>ICDCS</booktitle>
+<ee>https://doi.org/10.1109/ICDCS47774.2020.00183</ee>
+<crossref>conf/icdcs/2020</crossref>
+<url>db/conf/icdcs/icdcs2020.html#SharmaRPLS20</url>
 </inproceedings>
 </r>
 <r><inproceedings key="conf/sips/PrakashRGS20" mdate="2020-11-03">
@@ -351,7 +366,7 @@
 <url>db/conf/ccwc/ccwc2018.html#RohithRCSSL18</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/ches/AlamMKLS18" mdate="2018-11-20">
+<r><inproceedings key="conf/ches/AlamMKLS18" mdate="2021-02-10">
 <author pid="192/5163">Manaar Alam</author>
 <author pid="85/3079">Debdeep Mukhopadhyay</author>
 <author pid="161/3335">Sai Praveen Kadiyala</author>
@@ -361,7 +376,7 @@
 <pages>1-15</pages>
 <year>2018</year>
 <booktitle>PROOFS@CHES</booktitle>
-<ee>http://www.easychair.org/publications/paper/Fhjh</ee>
+<ee type="oa">http://www.easychair.org/publications/paper/Fhjh</ee>
 <crossref>conf/ches/2018proofs</crossref>
 <url>db/conf/ches/proofs2018.html#AlamMKLS18</url>
 </inproceedings>
@@ -1270,7 +1285,7 @@
 <url>db/journals/fcsc/fcsc7.html#SinghKWS13</url>
 </article>
 </r>
-<r><article key="journals/jcp/LiuLSY13" mdate="2020-09-15">
+<r><article key="journals/jcp/LiuLSY13" mdate="2021-02-25">
 <author pid="58/2670">Bo Liu</author>
 <author pid="74/1907">Siew Kei Lam</author>
 <author orcid="0000-0003-3664-4345" pid="23/1694">Thambipillai Srikanthan</author>
@@ -1283,6 +1298,7 @@
 <number>1</number>
 <ee type="archive">https://doi.org/10.4304/jcp.8.1.41-48</ee>
 <ee>https://www.wikidata.org/entity/Q58210185</ee>
+<ee type="oa">http://www.jcomputers.us/index.php?m=content&amp;c=index&amp;a=show&amp;catid=50&amp;id=481</ee>
 <url>db/journals/jcp/jcp8.html#LiuLSY13</url>
 </article>
 </r>
@@ -1952,7 +1968,7 @@
 <url>db/journals/jsa/jsa56.html#LiJLSL10</url>
 </article>
 </r>
-<r><article key="journals/mcm/WuSL10" mdate="2020-02-24">
+<r><article key="journals/mcm/WuSL10" mdate="2021-02-17">
 <author pid="21/1136">Jigang Wu</author>
 <author pid="23/1694">Thambipillai Srikanthan</author>
 <author pid="53/6925">Ting Lei</author>
@@ -1962,7 +1978,7 @@
 <volume>51</volume>
 <journal>Math. Comput. Model.</journal>
 <number>7-8</number>
-<ee>https://doi.org/10.1016/j.mcm.2009.08.029</ee>
+<ee type="oa">https://doi.org/10.1016/j.mcm.2009.08.029</ee>
 <url>db/journals/mcm/mcm51.html#WuSL10</url>
 </article>
 </r>
@@ -2384,7 +2400,7 @@
 <url>db/journals/iet-com/iet-com2.html#VenkataramanES08</url>
 </article>
 </r>
-<r><article key="journals/jcp/GuhaS08" mdate="2020-09-15">
+<r><article key="journals/jcp/GuhaS08" mdate="2021-02-25">
 <author pid="21/3494">Dipnarayan Guha</author>
 <author orcid="0000-0003-3664-4345" pid="23/1694">Thambipillai Srikanthan</author>
 <title>Compiler Back End Design for Translating Multi-radio Descriptions to Operating System-less Asynchronous Processor Datapaths.</title>
@@ -2393,6 +2409,7 @@
 <volume>3</volume>
 <journal>J. Comput.</journal>
 <number>1</number>
+<ee type="oa">http://www.jcomputers.us/index.php?m=content&amp;c=index&amp;a=show&amp;catid=53&amp;id=585</ee>
 <ee type="archive">https://doi.org/10.4304/jcp.3.1.7-14</ee>
 <url>db/journals/jcp/jcp3.html#GuhaS08</url>
 </article>
@@ -2520,7 +2537,7 @@
 <url>db/journals/ijnm/ijnm17.html#VenkataramanET07</url>
 </article>
 </r>
-<r><article key="journals/scpe/ChuongLS07" mdate="2020-07-09">
+<r><article key="journals/scpe/ChuongLS07" mdate="2021-02-17">
 <author pid="31/7786">Lieu My Chuong</author>
 <author pid="74/1907">Siew Kei Lam</author>
 <author pid="23/1694">Thambipillai Srikanthan</author>
@@ -2529,7 +2546,7 @@
 <volume>8</volume>
 <journal>Scalable Comput. Pract. Exp.</journal>
 <number>4</number>
-<ee>http://www.scpe.org/index.php/scpe/article/view/431</ee>
+<ee type="oa">http://www.scpe.org/index.php/scpe/article/view/431</ee>
 <url>db/journals/scpe/scpe8.html#ChuongLS07</url>
 </article>
 </r>
@@ -2600,6 +2617,45 @@
 <ee>https://doi.org/10.1109/ICCTA.2007.110</ee>
 <ee>http://doi.ieeecomputersociety.org/10.1109/ICCTA.2007.110</ee>
 <url>db/conf/iccta/iccta2007.html#GuhaS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdsp/SathyanarayanaS07" mdate="2021-02-09">
+<author pid="57/355">Suchitra Sathyanarayana</author>
+<author pid="13/1918">Ravi Kumar Satzoda</author>
+<author pid="23/1694">Srikanthan Thambipillai</author>
+<title>Unified Cordic Based Processor for Image Processing.</title>
+<pages>343-346</pages>
+<year>2007</year>
+<booktitle>DSP</booktitle>
+<ee>https://doi.org/10.1109/ICDSP.2007.4288589</ee>
+<crossref>conf/icdsp/2007</crossref>
+<url>db/conf/icdsp/icdsp2007.html#SathyanarayanaS07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdsp/SathyanarayanaT07" mdate="2021-02-09">
+<author pid="57/355">Suchitra Sathyanarayana</author>
+<author pid="23/1694">Srikanthan Thambipillai</author>
+<author pid="96/839">Christopher T. Clarke</author>
+<title>Real Time Tracking of Camera Motion Through Cylindrical Passages.</title>
+<pages>455-458</pages>
+<year>2007</year>
+<booktitle>DSP</booktitle>
+<ee>https://doi.org/10.1109/ICDSP.2007.4288617</ee>
+<crossref>conf/icdsp/2007</crossref>
+<url>db/conf/icdsp/icdsp2007.html#SathyanarayanaT07</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdsp/PandaTS07" mdate="2021-02-09">
+<author pid="39/10810">Ashish Panda</author>
+<author pid="221/6602">Neha Tripathi</author>
+<author pid="23/1694">Thambipillai Srikanthan</author>
+<title>Improved Spectral Subtraction Technique for Text-Independent Speaker Verification.</title>
+<pages>595-598</pages>
+<year>2007</year>
+<booktitle>DSP</booktitle>
+<ee>https://doi.org/10.1109/ICDSP.2007.4288652</ee>
+<crossref>conf/icdsp/2007</crossref>
+<url>db/conf/icdsp/icdsp2007.html#PandaTS07</url>
 </inproceedings>
 </r>
 <r><inproceedings key="conf/icpads/McLoughlinMSG07" mdate="2017-12-19">
@@ -3969,7 +4025,7 @@
 <url>db/journals/mam/mam19.html#SrikanthanCSL95</url>
 </article>
 </r>
-<coauthors n="173" nc="2">
+<coauthors n="175" nc="2">
 <co c="0"><na f="a/Abbas:Muhamed_Fauzi_Bin" pid="201/7790">Muhamed Fauzi Bin Abbas</na></co>
 <co c="0"><na f="a/Abeysekera:Saman_S=" pid="73/5576">Saman S. Abeysekera</na></co>
 <co c="0"><na f="a/Agarwal:Vedika" pid="180/6476">Vedika Agarwal</na></co>
@@ -4093,6 +4149,7 @@
 <co c="0"><na f="s/Shah:Kushagra" pid="261/6118">Kushagra Shah</na></co>
 <co c="0"><na f="s/Shah:Tushar" pid="198/7742">Tushar Shah</na></co>
 <co c="0"><na f="s/Shao:Feng" pid="83/820">Feng Shao</na></co>
+<co c="0"><na f="s/Sharma:Kuldeep" pid="25/9113">Kuldeep Sharma</na></co>
 <co c="0"><na f="s/Shen:Yuze" pid="134/6158">Yuze Shen</na></co>
 <co c="0"><na f="s/Shi:Wenjun" pid="09/8049">Wenjun Shi</na></co>
 <co c="0"><na f="s/Shoaib:Mohammed" pid="65/2967">Mohammed Shoaib</na></co>
@@ -4114,6 +4171,7 @@
 <co c="0"><na f="s/Sun:Qiqiang" pid="18/10644">Qiqiang Sun</na></co>
 <co c="0"><na f="t/Teo:J=_K=_J=" pid="155/5555">J. K. J. Teo</na></co>
 <co c="0"><na f="t/Tian:Hui" pid="57/1592">Hui Tian</na></co>
+<co c="0"><na f="t/Tripathi:Neha" pid="221/6602">Neha Tripathi</na></co>
 <co c="0"><na f="t/Tulsulkar:Gauri_Ravindra" pid="175/3687">Gauri Ravindra Tulsulkar</na></co>
 <co c="0"><na f="t/Tyagi:Neeraj" pid="18/7503">Neeraj Tyagi</na></co>
 <co c="0"><na f="v/Venkataraman:Gayathri" pid="15/102">Gayathri Venkataraman</na></co>

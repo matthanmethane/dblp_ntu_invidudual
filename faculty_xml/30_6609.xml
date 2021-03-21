@@ -537,7 +537,7 @@
 <url>db/conf/icspcs/icspcs2013.html#MishraLC13</url>
 </inproceedings>
 </r>
-<r><article key="journals/cma/JayabalL12" mdate="2020-02-17">
+<r><article key="journals/cma/JayabalL12" mdate="2021-02-11">
 <author pid="54/5236">Raymond J. Jayabal</author>
 <author pid="30/6609">Chiew Tong Lau</author>
 <title>On the exact expression for single-stage CSMA/CA's idle period distribution.</title>
@@ -546,7 +546,7 @@
 <volume>64</volume>
 <journal>Comput. Math. Appl.</journal>
 <number>5</number>
-<ee>https://doi.org/10.1016/j.camwa.2012.03.078</ee>
+<ee type="oa">https://doi.org/10.1016/j.camwa.2012.03.078</ee>
 <url>db/journals/cma/cma64.html#JayabalL12</url>
 </article>
 </r>

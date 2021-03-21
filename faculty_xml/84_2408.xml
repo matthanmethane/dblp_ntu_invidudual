@@ -1,4 +1,4 @@
-<?xml version="1.0"?><html><body><dblpperson n="78" name="Owen Noel Newton Fernando" pid="84/2408">
+<?xml version="1.0"?><html><body><dblpperson n="79" name="Owen Noel Newton Fernando" pid="84/2408">
 <person key="homepages/84/2408" mdate="2009-06-09">
 <author pid="84/2408">Owen Noel Newton Fernando</author>
 </person>
@@ -279,9 +279,9 @@
 <url>db/conf/chi/chi2013a.html#RissanenIFTHVPF13</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/culture/SaadatianSFPPN13" mdate="2017-06-02">
+<r><inproceedings key="conf/culture/SaadatianSFPPN13" mdate="2021-03-02">
 <author pid="45/11079">Elham Saadatian</author>
-<author pid="85/9677">Hooman Aghaebrahimi Samani</author>
+<author pid="85/9677">Hooman Samani</author>
 <author pid="84/2408">Owen Noel Newton Fernando</author>
 <author pid="31/11079">Doros Polydorou</author>
 <author orcid="0000-0003-0549-3652" pid="86/4590">Natalie Pang</author>
@@ -817,6 +817,21 @@
 <url>db/conf/iwec/icec2010.html#FernandoCC10</url>
 </inproceedings>
 </r>
+<r><article key="journals/ijvr/CheokHFW09" mdate="2021-02-25">
+<author pid="c/AdrianDavidCheok">Adrian David Cheok</author>
+<author pid="h/MichaelHaller">Michael Haller</author>
+<author pid="84/2408">Owen Noel Newton Fernando</author>
+<author pid="28/2344">Imiyage Janaka Prasad Wijesena</author>
+<title>Mixed Reality Entertainment and Art.</title>
+<pages>83-90</pages>
+<year>2009</year>
+<volume>8</volume>
+<journal>Int. J. Virtual Real.</journal>
+<number>2</number>
+<ee>https://doi.org/10.20870/IJVR.2009.8.2.2729</ee>
+<url>db/journals/ijvr/ijvr8.html#CheokHFW09</url>
+</article>
+</r>
 <r><article key="journals/ijwmc/CohenFDK09" mdate="2020-07-03">
 <author pid="45/4645">Michael Cohen</author>
 <author pid="84/2408">Owen Noel Newton Fernando</author>
@@ -1214,7 +1229,7 @@
 <url>db/conf/icat/icat2003.html#CohenFDKA03</url>
 </inproceedings>
 </r>
-<coauthors n="114" nc="3">
+<coauthors n="115" nc="3">
 <co c="0"><na f="a/Abeykoon:Hunfuko_Asanka" pid="44/11181">Hunfuko Asanka Abeykoon</na></co>
 <co c="0"><na f="a/Abeyrathne:Dilrukshi" pid="06/7598">Dilrukshi Abeyrathne</na></co>
 <co c="0"><na f="a/Adachi:Kazuya" pid="83/1634">Kazuya Adachi</na></co>
@@ -1247,6 +1262,7 @@
 <co c="0"><na f="g/Gangwen:Mei" pid="07/4622">Mei Gangwen</na></co>
 <co c="0"><na f="g/Godage:Isuru_Sawubhagya" pid="79/7599">Isuru Sawubhagya Godage</na></co>
 <co c="0"><na f="g/Goh:Lynette_Ying_Qin" pid="91/11104">Lynette Ying Qin Goh</na></co>
+<co c="0"><na f="h/Haller:Michael" pid="h/MichaelHaller">Michael Haller</na></co>
 <co c="0" n="2"><na f="h/Hong:Jeffrey" pid="128/9359">Jeffrey Hong</na><na>Jeffrey Yan Jack Hong</na></co>
 <co c="0"><na f="h/Hoogendoorn:Kris" pid="89/7597">Kris Hoogendoorn</na></co>
 <co c="0"><na f="h/Hou:Junsong" pid="32/7597">Junsong Hou</na></co>
@@ -1302,7 +1318,7 @@
 <co c="0"><na f="r/Rissanen:Mikko_J=" pid="48/5069">Mikko J. Rissanen</na></co>
 <co c="0"><na f="r/Roth:Gerhard" pid="37/5063">Gerhard Roth</na></co>
 <co c="0"><na f="s/Saadatian:Elham" pid="45/11079">Elham Saadatian</na></co>
-<co c="0"><na f="s/Samani:Hooman_Aghaebrahimi" pid="85/9677">Hooman Aghaebrahimi Samani</na></co>
+<co c="0" n="2"><na f="s/Samani:Hooman" pid="85/9677">Hooman Samani</na><na>Hooman Aghaebrahimi Samani</na></co>
 <co c="0"><na f="s/Sen:Ajanta" pid="128/9505">Ajanta Sen</na></co>
 <co c="0"><na f="s/Sen:Janyn_Yen_Ping" pid="27/1357">Janyn Yen Ping Sen</na></co>
 <co c="0"><na f="s/Shankar:Ramkumar" pid="25/9319">Ramkumar Shankar</na></co>

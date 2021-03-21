@@ -1,4 +1,4 @@
-<?xml version="1.0"?><html><body><dblpperson n="737" name="Dusit Niyato" pid="76/440">
+<?xml version="1.0"?><html><body><dblpperson n="758" name="Dusit Niyato" pid="76/440">
 <person key="homepages/76/440" mdate="2021-02-01">
 <author pid="76/440">Dusit Niyato</author>
 <author pid="76/440">Dusit Tao Niyato</author>
@@ -13,6 +13,18 @@
 <url>https://www.wikidata.org/entity/Q84077511</url>
 <url>https://www.scopus.com/authid/detail.uri?authorId=8919714700</url>
 </person>
+<r><article key="journals/comsur/Niyato21" mdate="2021-03-04">
+<author pid="76/440">Dusit Tao Niyato</author>
+<title>Editorial: First Quarter 2021 IEEE Communications Surveys and Tutorials.</title>
+<pages>1-6</pages>
+<year>2021</year>
+<volume>23</volume>
+<journal>IEEE Commun. Surv. Tutorials</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/COMST.2021.3057646</ee>
+<url>db/journals/comsur/comsur23.html#Niyato21</url>
+</article>
+</r>
 <r><article key="journals/iotj/MollahZNLZGKY21" mdate="2021-01-12">
 <author orcid="0000-0003-2708-3435" pid="121/0675">Muhammad Baqer Mollah</author>
 <author orcid="0000-0002-3004-7091" pid="47/2026-7">Jun Zhao 0007</author>
@@ -32,11 +44,11 @@
 <url>db/journals/iotj/iotj8.html#MollahZNLZGKY21</url>
 </article>
 </r>
-<r><article key="journals/iotj/JiZNW21" mdate="2021-01-29">
-<author pid="218/7047">Jiequ Ji</author>
-<author pid="95/1161-1">Kun Zhu 0001</author>
-<author pid="76/440">Dusit Niyato</author>
-<author pid="12/6277-4">Ran Wang 0004</author>
+<r><article key="journals/iotj/JiZNW21" mdate="2021-02-11">
+<author orcid="0000-0003-0728-5662" pid="218/7047">Jiequ Ji</author>
+<author orcid="0000-0001-6784-5583" pid="95/1161-1">Kun Zhu 0001</author>
+<author orcid="0000-0002-7442-7416" pid="76/440">Dusit Niyato</author>
+<author orcid="0000-0001-5601-0513" pid="12/6277-4">Ran Wang 0004</author>
 <title>Joint Trajectory Design and Resource Allocation for Secure Transmission in Cache-Enabled UAV-Relaying Networks With D2D Communications.</title>
 <pages>1557-1571</pages>
 <year>2021</year>
@@ -47,15 +59,15 @@
 <url>db/journals/iotj/iotj8.html#JiZNW21</url>
 </article>
 </r>
-<r><article key="journals/iotj/ZhaoZJTNLLL21" mdate="2021-01-29">
-<author pid="50/2082">Yang Zhao</author>
-<author pid="47/2026-7">Jun Zhao 0007</author>
+<r><article key="journals/iotj/ZhaoZJTNLLL21" mdate="2021-02-11">
+<author orcid="0000-0003-0285-503X" pid="50/2082">Yang Zhao</author>
+<author orcid="0000-0002-3004-7091" pid="47/2026-7">Jun Zhao 0007</author>
 <author pid="183/1884">Linshan Jiang</author>
-<author pid="00/5179">Rui Tan</author>
-<author pid="76/440">Dusit Niyato</author>
+<author orcid="0000-0001-8441-9973" pid="00/5179">Rui Tan</author>
+<author orcid="0000-0002-7442-7416" pid="76/440">Dusit Niyato</author>
 <author pid="95/6812">Zengxiang Li</author>
 <author pid="178/9876">Lingjuan Lyu</author>
-<author pid="29/2046">Yingbo Liu</author>
+<author orcid="0000-0002-7415-0517" pid="29/2046">Yingbo Liu</author>
 <title>Privacy-Preserving Blockchain-Based Federated Learning for IoT Devices.</title>
 <pages>1817-1829</pages>
 <year>2021</year>
@@ -66,11 +78,109 @@
 <url>db/journals/iotj/iotj8.html#ZhaoZJTNLLL21</url>
 </article>
 </r>
-<r><article key="journals/tcss/LinCWN21" mdate="2021-02-04">
-<author pid="08/397">Chia-Yu Lin</author>
-<author pid="133/4034">Yu-Fang Chiu</author>
-<author pid="w/LiChunWang">Li-Chun Wang 0001</author>
+<r><article key="journals/iotj/LeungWYNTP21" mdate="2021-03-02">
+<author pid="36/4847">Victor C. M. Leung</author>
+<author orcid="0000-0002-7223-1030" pid="58/6576-1">Xiaofei Wang 0001</author>
+<author pid="16/6654">F. Richard Yu</author>
 <author pid="76/440">Dusit Niyato</author>
+<author pid="09/3053">Tarik Taleb</author>
+<author pid="51/16">Sangheon Pack</author>
+<title>Guest Editorial: Special Issue on Blockchain and Edge Computing Techniques for Emerging IoT Applications.</title>
+<pages>2082-2086</pages>
+<year>2021</year>
+<volume>8</volume>
+<journal>IEEE Internet Things J.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/JIOT.2021.3050050</ee>
+<url>db/journals/iotj/iotj8.html#LeungWYNTP21</url>
+</article>
+</r>
+<r><article key="journals/iotj/MollahZNGYSLK21" mdate="2021-03-11">
+<author pid="121/0675">Muhammad Baqer Mollah</author>
+<author pid="47/2026-7">Jun Zhao 0007</author>
+<author pid="76/440">Dusit Niyato</author>
+<author pid="19/5809-1">Yong Liang Guan 0001</author>
+<author pid="01/753">Chau Yuen</author>
+<author pid="46/3348">Sumei Sun</author>
+<author pid="10/1993">Kwok-Yan Lam</author>
+<author pid="184/8095">Leong Hai Koh</author>
+<title>Blockchain for the Internet of Vehicles Towards Intelligent Transportation Systems: A Survey.</title>
+<pages>4157-4185</pages>
+<year>2021</year>
+<volume>8</volume>
+<journal>IEEE Internet Things J.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/JIOT.2020.3028368</ee>
+<url>db/journals/iotj/iotj8.html#MollahZNGYSLK21</url>
+</article>
+</r>
+<r><article key="journals/network/KangXNXK21" mdate="2021-02-22">
+<author pid="145/4239">Jiawen Kang</author>
+<author pid="174/9863">Zehui Xiong</author>
+<author pid="76/440">Dusit Niyato</author>
+<author pid="32/6230">Shengli Xie</author>
+<author pid="86/1369">Dong In Kim</author>
+<title>Securing Data Sharing from the Sky: Integrating Blockchains into Drones in 5G and Beyond.</title>
+<pages>78-85</pages>
+<year>2021</year>
+<volume>35</volume>
+<journal>IEEE Netw.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/MNET.011.2000183</ee>
+<url>db/journals/network/network35.html#KangXNXK21</url>
+</article>
+</r>
+<r><article key="journals/network/TanLLN21" mdate="2021-02-22">
+<author pid="194/7001">Junjie Tan</author>
+<author pid="98/153">Ying-Chang Liang</author>
+<author pid="173/5360">Nguyen Cong Luong</author>
+<author pid="76/440">Dusit Niyato</author>
+<title>Toward Smart Security Enhancement of Federated Learning Networks.</title>
+<pages>340-347</pages>
+<year>2021</year>
+<volume>35</volume>
+<journal>IEEE Netw.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/MNET.011.2000379</ee>
+<url>db/journals/network/network35.html#TanLLN21</url>
+</article>
+</r>
+<r><article key="journals/tccn/XiongZLKNLM21" mdate="2021-03-12">
+<author pid="174/9863">Zehui Xiong</author>
+<author pid="06/6785-25">Yang Zhang 0025</author>
+<author pid="249/5315">Wei Yang Bryan Lim</author>
+<author pid="145/4239">Jiawen Kang</author>
+<author pid="76/440">Dusit Niyato</author>
+<author pid="76/3131">Cyril Leung</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>UAV-Assisted Wireless Energy and Data Transfer With Deep Reinforcement Learning.</title>
+<pages>85-99</pages>
+<year>2021</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cogn. Commun. Netw.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TCCN.2020.3027696</ee>
+<url>db/journals/tccn/tccn7.html#XiongZLKNLM21</url>
+</article>
+</r>
+<r><article key="journals/tccn/AsheralievaN21" mdate="2021-03-12">
+<author pid="07/10238">Alia Asheralieva</author>
+<author pid="76/440">Dusit Niyato</author>
+<title>Bayesian Reinforcement Learning and Bayesian Deep Learning for Blockchains With Mobile Edge Computing.</title>
+<pages>319-335</pages>
+<year>2021</year>
+<volume>7</volume>
+<journal>IEEE Trans. Cogn. Commun. Netw.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TCCN.2020.2994366</ee>
+<url>db/journals/tccn/tccn7.html#AsheralievaN21</url>
+</article>
+</r>
+<r><article key="journals/tcss/LinCWN21" mdate="2021-02-11">
+<author orcid="0000-0002-5106-7286" pid="08/397">Chia-Yu Lin</author>
+<author pid="133/4034">Yu-Fang Chiu</author>
+<author orcid="0000-0002-7883-6217" pid="w/LiChunWang">Li-Chun Wang 0001</author>
+<author orcid="0000-0002-7442-7416" pid="76/440">Dusit Niyato</author>
 <title>Modeling of Multilayer Multicontent Latent Tree and Its Applications.</title>
 <pages>5-19</pages>
 <year>2021</year>
@@ -94,6 +204,35 @@
 <number>2</number>
 <ee>https://doi.org/10.1109/TMC.2019.2948630</ee>
 <url>db/journals/tmc/tmc20.html#SanguanpuakNRL21</url>
+</article>
+</r>
+<r><article key="journals/tmc/AsheralievaN21" mdate="2021-03-02">
+<author orcid="0000-0002-4430-5928" pid="07/10238">Alia Asheralieva</author>
+<author orcid="0000-0002-7442-7416" pid="76/440">Dusit Niyato</author>
+<title>Learning-Based Mobile Edge Computing Resource Management to Support Public Blockchain Networks.</title>
+<pages>1092-1109</pages>
+<year>2021</year>
+<volume>20</volume>
+<journal>IEEE Trans. Mob. Comput.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/TMC.2019.2959772</ee>
+<url>db/journals/tmc/tmc20.html#AsheralievaN21</url>
+</article>
+</r>
+<r><article key="journals/tmc/FengNLWK21" mdate="2021-03-11">
+<author pid="199/1893">Shaohan Feng</author>
+<author pid="76/440">Dusit Niyato</author>
+<author pid="37/4424-1">Xiao Lu 0001</author>
+<author pid="37/1304-1">Ping Wang 0001</author>
+<author pid="86/1369">Dong In Kim</author>
+<title>Dynamic Model for Network Selection in Next Generation HetNets With Memory-Affecting Rational Users.</title>
+<pages>1365-1379</pages>
+<year>2021</year>
+<volume>20</volume>
+<journal>IEEE Trans. Mob. Comput.</journal>
+<number>4</number>
+<ee>https://doi.org/10.1109/TMC.2020.2965450</ee>
+<url>db/journals/tmc/tmc20.html#FengNLWK21</url>
 </article>
 </r>
 <r><article key="journals/twc/YangXZNXW21" mdate="2021-01-26">
@@ -125,6 +264,101 @@
 <number>1</number>
 <ee>https://doi.org/10.1109/LWC.2020.3024214</ee>
 <url>db/journals/wcl/wcl10.html#AnhLN21</url>
+</article>
+</r>
+<r><article key="journals/corr/abs-2102-01639" mdate="2021-02-09" publtype="informal">
+<author pid="37/4424-1">Xiao Lu 0001</author>
+<author pid="76/440">Dusit Niyato</author>
+<author pid="15/5983">Hai Jiang</author>
+<author pid="45/1224">Ekram Hossain</author>
+<author pid="37/1304">Ping Wang</author>
+<title>Ambient Backscatter-Assisted Wireless-Powered Relaying.</title>
+<year>2021</year>
+<volume>abs/2102.01639</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2102.01639</ee>
+<url>db/journals/corr/corr2102.html#abs-2102-01639</url>
+</article>
+</r>
+<r><article key="journals/corr/abs-2102-02946" mdate="2021-02-10" publtype="informal">
+<author pid="116/8725">Chunmei Xu</author>
+<author pid="154/6310">Shengheng Liu</author>
+<author pid="90/549">Zhaohui Yang</author>
+<author pid="62/1302">Yongming Huang</author>
+<author pid="76/440">Dusit Niyato</author>
+<author pid="35/5506">Kai-Kit Wong</author>
+<title>Learning Rate Optimization for Federated Learning Exploiting Over-the-air Computation.</title>
+<year>2021</year>
+<volume>abs/2102.02946</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2102.02946</ee>
+<url>db/journals/corr/corr2102.html#abs-2102-02946</url>
+</article>
+</r>
+<r><article key="journals/corr/abs-2102-07572" mdate="2021-02-18" publtype="informal">
+<author pid="244/8495">Cong T. Nguyen</author>
+<author pid="193/2322">Nguyen Van Huynh</author>
+<author pid="278/8345">Nam H. Chu</author>
+<author pid="200/9495">Yuris Mulya Saputra</author>
+<author pid="37/8852">Dinh Thai Hoang</author>
+<author pid="95/10112">Diep N. Nguyen</author>
+<author pid="170/4080">Quoc-Viet Pham</author>
+<author pid="76/440">Dusit Niyato</author>
+<author pid="71/2764">Eryk Dutkiewicz</author>
+<author pid="39/1440">Won-Joo Hwang</author>
+<title>Transfer Learning for Future Wireless Networks: A Comprehensive Survey.</title>
+<year>2021</year>
+<volume>abs/2102.07572</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2102.07572</ee>
+<url>db/journals/corr/corr2102.html#abs-2102-07572</url>
+</article>
+</r>
+<r><article key="journals/corr/abs-2102-08667" mdate="2021-02-19" publtype="informal">
+<author pid="266/7958">Jer Shyuan Ng</author>
+<author pid="249/5315">Wei Yang Bryan Lim</author>
+<author pid="174/9863">Zehui Xiong</author>
+<author pid="76/440">Dusit Niyato</author>
+<author pid="76/3131">Cyril Leung</author>
+<author pid="86/1369">Dong In Kim</author>
+<author pid="59/1232">Junshan Zhang</author>
+<author pid="82/6362-1">Qiang Yang 0001</author>
+<title>A Game-theoretic Approach Towards Collaborative Coded Computation Offloading.</title>
+<year>2021</year>
+<volume>abs/2102.08667</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2102.08667</ee>
+<url>db/journals/corr/corr2102.html#abs-2102-08667</url>
+</article>
+</r>
+<r><article key="journals/corr/abs-2102-12169" mdate="2021-03-02" publtype="informal">
+<author pid="249/2877">Latif U. Khan</author>
+<author pid="41/6237">Walid Saad</author>
+<author pid="76/440">Dusit Niyato</author>
+<author pid="83/514">Zhu Han</author>
+<author pid="73/1778">Choong Seon Hong</author>
+<title>Digital-Twin-Enabled 6G: Vision, Architectural Trends, and Future Directions.</title>
+<year>2021</year>
+<volume>abs/2102.12169</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2102.12169</ee>
+<url>db/journals/corr/corr2102.html#abs-2102-12169</url>
+</article>
+</r>
+<r><article key="journals/corr/abs-2103-06424" mdate="2021-03-16" publtype="informal">
+<author pid="178/1847">Nguyen Thi Thanh Van</author>
+<author pid="173/5360">Nguyen Cong Luong</author>
+<author pid="199/1893">Shaohan Feng</author>
+<author pid="236/9992">Huy Thanh Nguyen</author>
+<author pid="95/1161-1">Kun Zhu 0001</author>
+<author pid="210/7438">Thien Van Luong</author>
+<author pid="76/440">Dusit Niyato</author>
+<title>Dynamic Network Service Selection in Intelligent Reflecting Surface-Enabled Wireless Systems: Game Theory Approaches.</title>
+<year>2021</year>
+<volume>abs/2103.06424</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2103.06424</ee>
+<url>db/journals/corr/corr2103.html#abs-2103-06424</url>
 </article>
 </r>
 <r><book key="books/sp/WangHLNYC20" mdate="2020-10-16">
@@ -437,9 +671,9 @@
 <url>db/journals/iotj/iotj7.html#0001ZSLNH20</url>
 </article>
 </r>
-<r><article key="journals/iotj/AsheralievaN20a" mdate="2021-01-04">
-<author pid="07/10238">Alia Asheralieva</author>
-<author pid="76/440">Dusit Niyato</author>
+<r><article key="journals/iotj/AsheralievaN20a" mdate="2021-02-11">
+<author orcid="0000-0002-4430-5928" pid="07/10238">Alia Asheralieva</author>
+<author orcid="0000-0002-7442-7416" pid="76/440">Dusit Niyato</author>
 <title>Reputation-Based Coalition Formation for Secure Self-Organized and Scalable Sharding in IoT Blockchains With Mobile-Edge Computing.</title>
 <pages>11830-11850</pages>
 <year>2020</year>
@@ -994,11 +1228,11 @@
 <url>db/journals/twc/twc19.html#IdreesZDN20</url>
 </article>
 </r>
-<r><article key="journals/twc/JiangFZNY20" mdate="2021-01-21">
-<author pid="43/1673">Yanxiang Jiang</author>
+<r><article key="journals/twc/JiangFZNY20" mdate="2021-02-11">
+<author orcid="0000-0001-8062-7767" pid="43/1673">Yanxiang Jiang</author>
 <author pid="259/3930">Haojie Feng</author>
-<author pid="67/4433">Fu-Chun Zheng</author>
-<author pid="76/440">Dusit Niyato</author>
+<author orcid="0000-0003-3184-3054" pid="67/4433">Fu-Chun Zheng</author>
+<author orcid="0000-0002-7442-7416" pid="76/440">Dusit Niyato</author>
 <author orcid="0000-0002-0809-8511" pid="17/1464">Xiaohu You</author>
 <title>Deep Learning-Based Edge Caching in Fog Radio Access Networks.</title>
 <pages>8442-8454</pages>
@@ -1207,10 +1441,41 @@
 <url>db/conf/globecom/globecom2020.html#GaoYXNX020</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/globecom/JiWZXN20" mdate="2021-02-01">
+<r><inproceedings key="conf/globecom/GaoYXNXZ20" mdate="2021-03-11">
+<author pid="184/7483">Yulan Gao</author>
+<author pid="257/3319">Chao Yong</author>
+<author pid="174/9863">Zehui Xiong</author>
+<author pid="76/440">Dusit Niyato</author>
+<author pid="80/6791">Yue Xiao</author>
+<author pid="47/2026-7">Jun Zhao 0007</author>
+<title>Resource Allocation for Intelligent Reflecting Surface Aided Cooperative Communications.</title>
+<pages>1-6</pages>
+<year>2020</year>
+<booktitle>GLOBECOM</booktitle>
+<ee>https://doi.org/10.1109/GLOBECOM42002.2020.9347986</ee>
+<crossref>conf/globecom/2020</crossref>
+<url>db/conf/globecom/globecom2020.html#GaoYXNXZ20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/globecom/Ji0Y0N20" mdate="2021-02-26">
+<author pid="218/7047">Jiequ Ji</author>
+<author pid="95/1161-1">Kun Zhu 0001</author>
+<author pid="150/5634">Changyan Yi</author>
+<author pid="12/6277-4">Ran Wang 0004</author>
+<author pid="76/440">Dusit Niyato</author>
+<title>Joint Resource Allocation and Trajectory Design for UAV-assisted Mobile Edge Computing Systems.</title>
+<pages>1-6</pages>
+<year>2020</year>
+<booktitle>GLOBECOM</booktitle>
+<ee>https://doi.org/10.1109/GLOBECOM42002.2020.9348121</ee>
+<crossref>conf/globecom/2020</crossref>
+<url>db/conf/globecom/globecom2020.html#Ji0Y0N20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/globecom/JiWZXN20" mdate="2021-03-01">
 <author pid="284/2031">Ang Ji</author>
-<author pid="284/2445">Ran Wangy</author>
-<author pid="284/1651">Kun Zhuy</author>
+<author pid="12/6277-4">Ran Wang 0004</author>
+<author pid="95/1161-1">Kun Zhu 0001</author>
 <author pid="174/9863">Zehui Xiong</author>
 <author pid="76/440">Dusit Niyato</author>
 <title>Peer Effect-based Demand Response in Smart Grid: A Game Theoretical Approach.</title>
@@ -1220,6 +1485,20 @@
 <ee>https://doi.org/10.1109/GLOBECOM42002.2020.9322499</ee>
 <crossref>conf/globecom/2020</crossref>
 <url>db/conf/globecom/globecom2020.html#JiWZXN20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/globecom/JiaZZN20" mdate="2021-03-11">
+<author pid="239/4316">Xiaolun Jia</author>
+<author pid="47/2026-7">Jun Zhao 0007</author>
+<author pid="36/2064">Xiangyun Zhou 0001</author>
+<author pid="76/440">Dusit Niyato</author>
+<title>Intelligent Reflecting Surface-Aided Backscatter Communications.</title>
+<pages>1-6</pages>
+<year>2020</year>
+<booktitle>GLOBECOM</booktitle>
+<ee>https://doi.org/10.1109/GLOBECOM42002.2020.9348003</ee>
+<crossref>conf/globecom/2020</crossref>
+<url>db/conf/globecom/globecom2020.html#JiaZZN20</url>
 </inproceedings>
 </r>
 <r><inproceedings key="conf/globecom/LimHXKN0LM20" mdate="2021-02-01">
@@ -1254,6 +1533,22 @@
 <ee>https://doi.org/10.1109/GLOBECOM42002.2020.9322372</ee>
 <crossref>conf/globecom/2020</crossref>
 <url>db/conf/globecom/globecom2020.html#LinZDGHN20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/globecom/LiuKXLKN20" mdate="2021-02-26">
+<author pid="97/4626">Yi Liu</author>
+<author pid="64/2584">Neeraj Kumar</author>
+<author pid="174/9863">Zehui Xiong</author>
+<author pid="249/5315">Wei Yang Bryan Lim</author>
+<author pid="145/4239">Jiawen Kang</author>
+<author pid="76/440">Dusit Niyato</author>
+<title>Communication-Efficient Federated Learning for Anomaly Detection in Industrial Internet of Things.</title>
+<pages>1-6</pages>
+<year>2020</year>
+<booktitle>GLOBECOM</booktitle>
+<ee>https://doi.org/10.1109/GLOBECOM42002.2020.9348249</ee>
+<crossref>conf/globecom/2020</crossref>
+<url>db/conf/globecom/globecom2020.html#LiuKXLKN20</url>
 </inproceedings>
 </r>
 <r><inproceedings key="conf/globecom/MaiYXGN20" mdate="2021-02-01">
@@ -1307,11 +1602,11 @@
 <url>db/conf/globecom/globecom2020.html#YangX0NWTS20</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/globecom/YangZXZNLW20" mdate="2021-02-01">
+<r><inproceedings key="conf/globecom/YangZXZNLW20" mdate="2021-03-11">
 <author pid="145/2071">Helin Yang</author>
 <author pid="50/2082">Yang Zhao</author>
 <author pid="174/9863">Zehui Xiong</author>
-<author pid="47/2026">Jun Zhao</author>
+<author pid="47/2026-7">Jun Zhao 0007</author>
 <author pid="76/440">Dusit Niyato</author>
 <author pid="10/1993">Kwok-Yan Lam</author>
 <author pid="150/9712">Qingqing Wu</author>
@@ -1444,6 +1739,21 @@
 <url>db/conf/iccchina/iccchina2020.html#MaiYZXN20</url>
 </inproceedings>
 </r>
+<r><inproceedings key="conf/icpads/ZhuZ0NY20" mdate="2021-03-03">
+<author pid="286/7280">Yuanshao Zhu</author>
+<author pid="86/2981">Shuyu Zhang</author>
+<author pid="97/4626-57">Yi Liu 0057</author>
+<author pid="76/440">Dusit Niyato</author>
+<author pid="55/10087">James J. Q. Yu</author>
+<title>Robust Federated Learning Approach for Travel Mode Identification from Non-IID GPS Trajectories.</title>
+<pages>585-592</pages>
+<year>2020</year>
+<booktitle>ICPADS</booktitle>
+<ee>https://doi.org/10.1109/ICPADS51040.2020.00081</ee>
+<crossref>conf/icpads/2020</crossref>
+<url>db/conf/icpads/icpads2020.html#ZhuZ0NY20</url>
+</inproceedings>
+</r>
 <r><inproceedings key="conf/iotdi/SuankaewmaneeNN20" mdate="2020-06-06">
 <author pid="211/6757">Kongrath Suankaewmanee</author>
 <author pid="266/6751">Pei Sin Ng</author>
@@ -1502,13 +1812,29 @@
 <url>db/conf/vtc/vtc2020s.html#FengNLWK20</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/wasa/NieLXNWZ20" mdate="2020-09-11">
+<r><inproceedings key="conf/vtc/LimXNH0M20" mdate="2021-02-23">
+<author pid="249/5315">Wei Yang Bryan Lim</author>
+<author pid="174/9863">Zehui Xiong</author>
+<author pid="76/440">Dusit Niyato</author>
+<author pid="207/1901">Jianqiang Huang</author>
+<author pid="56/5807-1">Xian-Sheng Hua 0001</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>Incentive Mechanism Design for Federated Learning in the Internet of Vehicles.</title>
+<pages>1-5</pages>
+<year>2020</year>
+<booktitle>VTC-Fall</booktitle>
+<ee>https://doi.org/10.1109/VTC2020-Fall49728.2020.9348486</ee>
+<crossref>conf/vtc/2020f</crossref>
+<url>db/conf/vtc/vtc2020f.html#LimXNH0M20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/wasa/NieLXNWZ20" mdate="2021-03-12">
 <author pid="207/1743">Jiangtian Nie</author>
 <author pid="42/2501">Jun Luo</author>
 <author pid="174/9863">Zehui Xiong</author>
 <author pid="76/440">Dusit Niyato</author>
 <author pid="37/1304-1">Ping Wang 0001</author>
-<author pid="06/6785">Yang Zhang</author>
+<author pid="06/6785-25">Yang Zhang 0025</author>
 <title>Incentive Mechanism for Socially-Aware Mobile Crowdsensing: A Bayesian Stackelberg Game.</title>
 <pages>394-406</pages>
 <year>2020</year>
@@ -2861,12 +3187,12 @@
 <url>db/journals/twc/twc18.html#NieLXNW19</url>
 </article>
 </r>
-<r><article key="journals/twc/RaveendranZNYSH19" mdate="2020-09-06">
+<r><article key="journals/twc/RaveendranZNYSH19" mdate="2021-02-23">
 <author orcid="0000-0002-4660-8893" pid="213/0881">Neetu Raveendran</author>
 <author orcid="0000-0001-8791-1672" pid="158/4825">Huaqing Zhang</author>
 <author orcid="0000-0002-7442-7416" pid="76/440">Dusit Niyato</author>
 <author orcid="0000-0003-3575-5086" pid="90/1155">Fang Yang</author>
-<author pid="00/6342">Jian Song</author>
+<author pid="00/6342-4">Jian Song 0004</author>
 <author pid="83/514">Zhu Han</author>
 <title>VLC and D2D Heterogeneous Network Optimization: A Reinforcement Learning Approach Based on Equilibrium Problems With Equilibrium Constraints.</title>
 <pages>1115-1127</pages>
@@ -3645,15 +3971,15 @@
 <url>db/journals/corr/corr1911.html#abs-1911-00986</url>
 </article>
 </r>
-<r><article key="journals/corr/abs-1911-03298" mdate="2020-12-29" publtype="informal">
+<r><article key="journals/corr/abs-1911-03298" mdate="2021-02-10" publtype="informal">
 <author pid="121/0675">Muhammad Baqer Mollah</author>
 <author orcid="0000-0002-3004-7091" pid="47/2026-7">Jun Zhao 0007</author>
 <author pid="76/440">Dusit Niyato</author>
 <author pid="10/1993">Kwok-Yan Lam</author>
-<author pid="76/1584">Xin Zhang</author>
+<author pid="76/1584-34">Xin Zhang 0034</author>
 <author pid="150/9493">Amer M. Y. M. Ghias</author>
 <author pid="184/8095">Leong Hai Koh</author>
-<author pid="50/2484">Lei Yang</author>
+<author pid="50/2484-1">Lei Yang 0001</author>
 <title>Blockchain for Future Smart Grid: A Comprehensive Survey.</title>
 <year>2019</year>
 <volume>abs/1911.03298</volume>
@@ -6627,7 +6953,7 @@
 <url>db/journals/wcl/wcl5.html#ShafieNA16a</url>
 </article>
 </r>
-<r><inproceedings key="conf/aaai/AlsheikhSNDLT16" mdate="2016-08-12">
+<r><inproceedings key="conf/aaai/AlsheikhSNDLT16" mdate="2021-02-18">
 <author pid="146/0878">Mohammad Abu Alsheikh</author>
 <author pid="28/4109">Ahmed Selim</author>
 <author pid="76/440">Dusit Niyato</author>
@@ -6637,7 +6963,7 @@
 <title>Deep Activity Recognition Models with Triaxial Accelerometers.</title>
 <year>2016</year>
 <booktitle>AAAI Workshop: Artificial Intelligence Applied to Assistive Technologies and Smart Environments</booktitle>
-<ee>http://www.aaai.org/ocs/index.php/WS/AAAIW16/paper/view/12627</ee>
+<ee type="oa">http://www.aaai.org/ocs/index.php/WS/AAAIW16/paper/view/12627</ee>
 <crossref>conf/aaai/2016assistive</crossref>
 <url>db/conf/aaai/assistive2016.html#AlsheikhSNDLT16</url>
 </inproceedings>
@@ -10875,7 +11201,7 @@
 <url>db/conf/icon/icon2001.html#NiyatoS01</url>
 </inproceedings>
 </r>
-<coauthors n="490" nc="5">
+<coauthors n="500" nc="5">
 <co c="0"><na f="a/Abedin:Sarder_Fakhrul" pid="160/2508">Sarder Fakhrul Abedin</na></co>
 <co c="0"><na f="a/Adachi:Fumiyuki" pid="18/4890">Fumiyuki Adachi</na></co>
 <co c="0" n="2"><na f="a/Ahmed:M=_Ejaz" pid="87/9285">M. Ejaz Ahmed</na><na>Muhammad Ejaz Ahmed</na></co>
@@ -10934,6 +11260,7 @@
 <co c="0"><na f="c/Chieochan:Surachai" pid="27/6715">Surachai Chieochan</na></co>
 <co c="0"><na f="c/Chiu:Yu=Fang" pid="133/4034">Yu-Fang Chiu</na></co>
 <co c="0"><na f="c/Chong:Peter_Han_Joo" pid="43/4035">Peter Han Joo Chong</na></co>
+<co c="0"><na f="c/Chu:Nam_H=" pid="278/8345">Nam H. Chu</na></co>
 <co c="0"><na f="c/Clayman:Stuart" pid="72/6669">Stuart Clayman</na></co>
 <co c="0"><na f="c/Condoluci:Massimo" pid="66/9958">Massimo Condoluci</na></co>
 <co c="0"><na f="c/Cong:Mingshu" pid="257/7923">Mingshu Cong</na></co>
@@ -11025,11 +11352,13 @@
 <co c="0"><na f="h/Huang:Dong" pid="94/3756">Dong Huang</na></co>
 <co c="0"><na f="h/Huang:Jianqiang" pid="207/1901">Jianqiang Huang</na></co>
 <co c="0"><na f="h/Huang:Xiaoxia" pid="85/2836">Xiaoxia Huang</na></co>
+<co c="0"><na f="h/Huang:Yongming" pid="62/1302">Yongming Huang</na></co>
 <co c="0" n="2"><na f="h/Huh:Eui=nam" pid="05/1693">Eui-nam Huh</na><na>Eui-Nam Huh</na></co>
 <co c="0"><na f="h/Hung:Nguyen_Tai" pid="98/8852">Nguyen Tai Hung</na></co>
 <co c="0"><na f="h/Huu:Tram_Truong" pid="34/7684">Tram Truong Huu</na></co>
 <co c="0"><na f="h/Huynh:Nguyen_Van" pid="193/2322">Nguyen Van Huynh</na></co>
 <co c="0"><na f="h/Hwang:Duckdong" pid="65/7964">Duckdong Hwang</na></co>
+<co c="0"><na f="h/Hwang:Won=Joo" pid="39/1440">Won-Joo Hwang</na></co>
 <co c="0"><na f="i/Idrees:Sahar" pid="248/7668">Sahar Idrees</na></co>
 <co c="0"><na f="i/Iera:Antonio" pid="86/4818">Antonio Iera</na></co>
 <co c="0"><na f="i/Ilahi:Inaam" pid="257/3178">Inaam Ilahi</na></co>
@@ -11041,6 +11370,7 @@
 <co c="0"><na f="j/Ji:Jiequ" pid="218/7047">Jiequ Ji</na></co>
 <co c="0"><na f="j/Jia:Xiaolun" pid="239/4316">Xiaolun Jia</na></co>
 <co c="0"><na f="j/Jiang:Chunxiao" pid="00/8334">Chunxiao Jiang</na></co>
+<co c="0"><na f="j/Jiang:Hai" pid="15/5983">Hai Jiang</na></co>
 <co c="0"><na f="j/Jiang_0001:Hai" pid="15/5983-1">Hai Jiang 0001</na></co>
 <co c="0"><na f="j/Jiang:Linshan" pid="183/1884">Linshan Jiang</na></co>
 <co c="0"><na f="j/Jiang:Siwei" pid="08/4900">Siwei Jiang</na></co>
@@ -11060,6 +11390,7 @@
 <co c="0"><na f="k/Kayastha:Nipendra" pid="78/10508">Nipendra Kayastha</na></co>
 <co c="0"><na f="k/Kazmi:S=_M=_Ahsan" pid="156/3797">S. M. Ahsan Kazmi</na></co>
 <co c="0"><na f="k/Kebriaei:Hamed" pid="05/7411">Hamed Kebriaei</na></co>
+<co c="0"><na f="k/Khan:Latif_U=" pid="249/2877">Latif U. Khan</na></co>
 <co c="0"><na f="k/Khezri:Hamed_Rahmani" pid="232/2015">Hamed Rahmani Khezri</na></co>
 <co c="4"><na f="k/Kim:DaeJin" pid="239/5813">DaeJin Kim</na></co>
 <co c="0"><na f="k/Kim:Dong_In" pid="86/1369">Dong In Kim</na></co>
@@ -11073,6 +11404,7 @@
 <co c="0"><na f="k/Krishnamurthy:Vikram" pid="01/1516">Vikram Krishnamurthy</na></co>
 <co c="1"><na f="k/Krishnaswamy:Ruby" pid="08/5432">Ruby Krishnaswamy</na></co>
 <co c="0"><na f="k/Krunz:Marwan" pid="47/2755">Marwan Krunz</na></co>
+<co c="0"><na f="k/Kumar:Neeraj" pid="64/2584">Neeraj Kumar</na></co>
 <co c="0"><na f="k/Kwak:Kyung_Sup" pid="61/4074">Kyung Sup Kwak</na></co>
 <co c="0"><na f="k/Kwasinski:Andres" pid="50/6296">Andres Kwasinski</na></co>
 <co c="0"><na f="l/Lam:Kwok=Yan" pid="10/1993">Kwok-Yan Lam</na></co>
@@ -11116,11 +11448,13 @@
 <co c="0"><na f="l/Lin:Shaowei" pid="00/1006">Shaowei Lin</na></co>
 <co c="0"><na f="l/Liu_0001:Kai" pid="73/4566-1">Kai Liu 0001</na></co>
 <co c="0"><na f="l/Liu:Lanchao" pid="16/8970">Lanchao Liu</na></co>
+<co c="0"><na f="l/Liu:Shengheng" pid="154/6310">Shengheng Liu</na></co>
 <co c="0"><na f="l/Liu_0005:Tingting" pid="25/3327-5">Tingting Liu 0005</na></co>
 <co c="0"><na f="l/Liu_0004:Wei" pid="49/3283-4">Wei Liu 0004</na></co>
 <co c="0"><na f="l/Liu_0005:Xiaojun" pid="27/6381-5">Xiaojun Liu 0005</na></co>
 <co c="0"><na f="l/Liu_0038:Yang" pid="51/3710-38">Yang Liu 0038</na></co>
 <co c="0"><na f="l/Liu_0165:Yang" pid="51/3710-165">Yang Liu 0165</na></co>
+<co c="0"><na f="l/Liu:Yi" pid="97/4626">Yi Liu</na></co>
 <co c="0"><na f="l/Liu_0057:Yi" pid="97/4626-57">Yi Liu 0057</na></co>
 <co c="0"><na f="l/Liu:Yingbo" pid="29/2046">Yingbo Liu</na></co>
 <co c="0"><na f="l/Liu:Zelei" pid="191/8685">Zelei Liu</na></co>
@@ -11137,6 +11471,7 @@
 <co c="0"><na f="l/Luo_0001:Jun" pid="42/2501-1">Jun Luo 0001</na></co>
 <co c="0"><na f="l/Luo:Xi" pid="69/7449">Xi Luo</na></co>
 <co c="0"><na f="l/Luong:Nguyen_Cong" pid="173/5360">Nguyen Cong Luong</na></co>
+<co c="0"><na f="l/Luong:Thien_Van" pid="210/7438">Thien Van Luong</na></co>
 <co c="0"><na f="l/Lyu:Bin" pid="192/6723">Bin Lyu</na></co>
 <co c="0"><na f="l/Lyu:Lingjuan" pid="178/9876">Lingjuan Lyu</na></co>
 <co c="0"><na f="m/Madhukumar:A=_S=" pid="66/549">A. S. Madhukumar</na></co>
@@ -11221,7 +11556,7 @@
 <co c="0"><na f="s/Shu_0001:Lei" pid="19/2932-1">Lei Shu 0001</na></co>
 <co c="0"><na f="s/So=In:Chakchai" pid="49/6689">Chakchai So-In</na></co>
 <co c="0"><na f="s/Soh:Yeng_Chai" pid="64/4397">Yeng Chai Soh</na></co>
-<co c="0"><na f="s/Song:Jian" pid="00/6342">Jian Song</na></co>
+<co c="0"><na f="s/Song_0004:Jian" pid="00/6342-4">Jian Song 0004</na></co>
 <co c="0"><na f="s/Song:Ju_Bin" pid="54/1028">Ju Bin Song</na></co>
 <co c="0"><na f="s/Song:Lingyang" pid="02/2683">Lingyang Song</na></co>
 <co c="0"><na f="s/Song:Wei" pid="62/1539">Wei Song</na></co>
@@ -11234,6 +11569,7 @@
 <co c="0"><na f="s/Sun:Sumei" pid="46/3348">Sumei Sun</na></co>
 <co c="0"><na f="s/Suraweera:Himal_A=" pid="69/3561">Himal A. Suraweera</na></co>
 <co c="0"><na f="t/Taghizadeh:Amirheckmat" pid="243/6051">Amirheckmat Taghizadeh</na></co>
+<co c="0"><na f="t/Taleb:Tarik" pid="09/3053">Tarik Taleb</na></co>
 <co c="0"><na f="t/Talukder:Ashis" pid="177/5556">Ashis Talukder</na></co>
 <co c="0" n="2"><na f="t/Tan:Hwee_Pink" pid="43/4600">Hwee Pink Tan</na><na>Hwee-Pink Tan</na></co>
 <co c="0"><na f="t/Tan:Junjie" pid="194/7001">Junjie Tan</na></co>
@@ -11258,6 +11594,7 @@
 <co c="0"><na f="w/Wang_0001:Li=Chun" pid="w/LiChunWang">Li-Chun Wang 0001</na></co>
 <co c="0"><na f="w/Wang:Lingxia" pid="216/4990">Lingxia Wang</na></co>
 <co c="0"><na f="w/Wang:Ning" pid="46/2005">Ning Wang</na></co>
+<co c="0"><na f="w/Wang:Ping" pid="37/1304">Ping Wang</na></co>
 <co c="0"><na f="w/Wang_0001:Ping" pid="37/1304-1">Ping Wang 0001</na></co>
 <co c="0"><na f="w/Wang_0004:Ran" pid="12/6277-4">Ran Wang 0004</na></co>
 <co c="0"><na f="w/Wang:Sainan" pid="151/7956">Sainan Wang</na></co>
@@ -11270,12 +11607,12 @@
 <co c="0"><na f="w/Wang_0003:Yu" pid="w/YuWang3">Yu Wang 0003</na></co>
 <co c="0"><na f="w/Wang_0001:Zhi" pid="95/6543-1">Zhi Wang 0001</na></co>
 <co c="0"><na f="w/Wang:Zhongbin" pid="63/4854">Zhongbin Wang</na></co>
-<co c="0"><na f="w/Wangy:Ran" pid="284/2445">Ran Wangy</na></co>
 <co c="0"><na f="w/Wavegedara:K=_C=_B=" pid="69/2175">K. C. B. Wavegedara</na></co>
 <co c="0"><na f="w/Wei:Jibo" pid="48/2647">Jibo Wei</na></co>
 <co c="0"><na f="w/Wen_0001:Yonggang" pid="33/885">Yonggang Wen 0001</na></co>
 <co c="0"><na f="w/Weng:Xi" pid="157/0074">Xi Weng</na></co>
 <co c="0" n="2"><na f="w/Wong:Eric_Wing_Ming" pid="w/EricWMWong">Eric Wing Ming Wong</na><na>Eric W. M. Wong</na></co>
+<co c="0"><na f="w/Wong:Kai=Kit" pid="35/5506">Kai-Kit Wong</na></co>
 <co c="0"><na f="w/Wu:Kaishun" pid="34/4445">Kaishun Wu</na></co>
 <co c="0"><na f="w/Wu:Minghu" pid="126/5310">Minghu Wu</na></co>
 <co c="0"><na f="w/Wu:Qingqing" pid="150/9712">Qingqing Wu</na></co>
@@ -11294,6 +11631,7 @@
 <co c="0"><na f="x/Xiong:Zixiang" pid="70/2057">Zixiang Xiong</na></co>
 <co c="0"><na f="x/Xu:Changqiao" pid="51/4906">Changqiao Xu</na></co>
 <co c="0"><na f="x/Xu:Chuan" pid="43/6131">Chuan Xu</na></co>
+<co c="0"><na f="x/Xu:Chunmei" pid="116/8725">Chunmei Xu</na></co>
 <co c="0"><na f="x/Xu_0005:Jing" pid="07/1951-5">Jing Xu 0005</na></co>
 <co c="0"><na f="x/Xu:Zhengzhuo" pid="250/1076">Zhengzhuo Xu</na></co>
 <co c="0"><na f="y/Yan:Xueqiang" pid="143/6573">Xueqiang Yan</na></co>
@@ -11301,15 +11639,16 @@
 <co c="0"><na f="y/Yang:Fang" pid="90/1155">Fang Yang</na></co>
 <co c="0"><na f="y/Yang:Helin" pid="145/2071">Helin Yang</na></co>
 <co c="0"><na f="y/Yang_0004:Kai" pid="17/2247-4">Kai Yang 0004</na></co>
-<co c="0"><na f="y/Yang:Lei" pid="50/2484">Lei Yang</na></co>
 <co c="0"><na f="y/Yang_0001:Lei" pid="50/2484-1">Lei Yang 0001</na></co>
 <co c="0"><na f="y/Yang:Mengmeng" pid="121/1326">Mengmeng Yang</na></co>
 <co c="0"><na f="y/Yang_0001:Qiang" pid="82/6362-1">Qiang Yang 0001</na></co>
+<co c="0"><na f="y/Yang:Zhaohui" pid="90/549">Zhaohui Yang</na></co>
 <co c="0"><na f="y/Yao:Haipeng" pid="59/8489">Haipeng Yao</na></co>
 <co c="0"><na f="y/Yassine:Abdulsalam" pid="02/6455">Abdulsalam Yassine</na></co>
 <co c="0"><na f="y/Ye:Dongdong" pid="54/80">Dongdong Ye</na></co>
 <co c="0"><na f="y/Ye:Zhiyang" pid="278/8814">Zhiyang Ye</na></co>
 <co c="0"><na f="y/Yeow:Wai=Leong" pid="11/1687">Wai-Leong Yeow</na></co>
+<co c="0"><na f="y/Yi:Changyan" pid="150/5634">Changyan Yi</na></co>
 <co c="0"><na f="y/Yin:Lei" pid="71/7711">Lei Yin</na></co>
 <co c="0"><na f="y/Yong:Chao" pid="257/3319">Chao Yong</na></co>
 <co c="0"><na f="y/You:Xiaohu" pid="17/1464">Xiaohu You</na></co>
@@ -11337,15 +11676,12 @@
 <co c="0"><na f="z/Zhang:Shuyu" pid="86/2981">Shuyu Zhang</na></co>
 <co c="0"><na f="z/Zhang_0057:Tao" pid="15/4777-57">Tao Zhang 0057</na></co>
 <co c="0"><na f="z/Zhang:Wenjie" pid="98/5684">Wenjie Zhang</na></co>
-<co c="0"><na f="z/Zhang:Xin" pid="76/1584">Xin Zhang</na></co>
 <co c="0"><na f="z/Zhang_0034:Xin" pid="76/1584-34">Xin Zhang 0034</na></co>
 <co c="0"><na f="z/Zhang:Xing" pid="52/5264">Xing Zhang</na></co>
-<co c="0"><na f="z/Zhang:Yang" pid="06/6785">Yang Zhang</na></co>
 <co c="0"><na f="z/Zhang_0025:Yang" pid="06/6785-25">Yang Zhang 0025</na></co>
 <co c="0"><na f="z/Zhang:Yanru" pid="90/7021">Yanru Zhang</na></co>
 <co c="0"><na f="z/Zhang:Zehang" pid="218/2529">Zehang Zhang</na></co>
 <co c="0"><na f="z/Zhao_0001:Haitao" pid="00/3855-1">Haitao Zhao 0001</na></co>
-<co c="0"><na f="z/Zhao:Jun" pid="47/2026">Jun Zhao</na></co>
 <co c="0"><na f="z/Zhao_0007:Jun" pid="47/2026-7">Jun Zhao 0007</na></co>
 <co c="0"><na f="z/Zhao:Lian" pid="82/4593">Lian Zhao</na></co>
 <co c="0"><na f="z/Zhao_0006:Nan" pid="84/4581-6">Nan Zhao 0006</na></co>
@@ -11360,9 +11696,9 @@
 <co c="0"><na f="z/Zhong:Lujie" pid="124/8701">Lujie Zhong</na></co>
 <co c="0"><na f="z/Zhou_0001:Xiangyun" pid="36/2064">Xiangyun Zhou 0001</na></co>
 <co c="0"><na f="z/Zhu_0001:Kun" pid="95/1161-1">Kun Zhu 0001</na></co>
+<co c="0"><na f="z/Zhu:Yuanshao" pid="286/7280">Yuanshao Zhu</na></co>
 <co c="0"><na f="z/Zhu:Zuqing" pid="62/9980">Zuqing Zhu</na></co>
 <co c="0"><na f="z/Zhuang:Weihua" pid="z/WeihuaZhuang">Weihua Zhuang</na></co>
-<co c="0"><na f="z/Zhuy:Kun" pid="284/1651">Kun Zhuy</na></co>
 <co c="0"><na f="z/Zonouz:Saman_A=" pid="89/4316">Saman A. Zonouz</na></co>
 <co c="0"><na f="z/Zorzi:Michele" pid="14/2991">Michele Zorzi</na></co>
 <co c="0"><na f="z/Zou:Yuze" pid="172/5484">Yuze Zou</na></co>

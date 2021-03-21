@@ -991,33 +991,33 @@
 <url>db/journals/tist/tist9.html#CaoGZ18</url>
 </article>
 </r>
-<r><inproceedings key="conf/aaai/LiFZ18" mdate="2020-01-29">
+<r><inproceedings key="conf/aaai/LiFZ18" mdate="2021-02-18">
 <author pid="36/3071">Xiaoming Li</author>
 <author pid="03/2511-2">Hui Fang 0002</author>
 <author pid="84/6889-2">Jie Zhang 0002</author>
 <title>FILE: A Novel Framework for Predicting Social Status in Signed Networks.</title>
 <year>2018</year>
 <booktitle>AAAI</booktitle>
-<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16702</ee>
+<ee type="oa">https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16702</ee>
 <crossref>conf/aaai/2018</crossref>
 <url>db/conf/aaai/aaai2018.html#LiFZ18</url>
 <pages>330-337</pages>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/aaai/ChenIZ18" mdate="2020-01-29">
+<r><inproceedings key="conf/aaai/ChenIZ18" mdate="2021-02-18">
 <author pid="00/6472-6">Shuo Chen 0006</author>
 <author pid="118/9551">Athirai Aravazhi Irissappane</author>
 <author pid="84/6889-2">Jie Zhang 0002</author>
 <title>POMDP-Based Decision Making for Fast Event Handling in VANETs.</title>
 <year>2018</year>
 <booktitle>AAAI</booktitle>
-<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16086</ee>
+<ee type="oa">https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16086</ee>
 <crossref>conf/aaai/2018</crossref>
 <url>db/conf/aaai/aaai2018.html#ChenIZ18</url>
 <pages>4646-4653</pages>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/aaai/SongKZX18" mdate="2020-01-29">
+<r><inproceedings key="conf/aaai/SongKZX18" mdate="2021-02-18">
 <author pid="50/5489">Wen Song</author>
 <author pid="138/3522">Donghun Kang</author>
 <author pid="84/6889-2">Jie Zhang 0002</author>
@@ -1025,7 +1025,7 @@
 <title>Risk-Aware Proactive Scheduling via Conditional Value-at-Risk.</title>
 <year>2018</year>
 <booktitle>AAAI</booktitle>
-<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16228</ee>
+<ee type="oa">https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16228</ee>
 <crossref>conf/aaai/2018</crossref>
 <url>db/conf/aaai/aaai2018.html#SongKZX18</url>
 <pages>6278-6285</pages>
@@ -1310,7 +1310,7 @@
 <url>db/journals/tweb/tweb11.html#XuZ17</url>
 </article>
 </r>
-<r><inproceedings key="conf/aaai/SunYZB17" mdate="2018-01-11">
+<r><inproceedings key="conf/aaai/SunYZB17" mdate="2021-02-10">
 <author pid="163/5129">Zhu Sun</author>
 <author pid="12/1198-28">Jie Yang 0028</author>
 <author pid="84/6889-2">Jie Zhang 0002</author>
@@ -1319,12 +1319,12 @@
 <pages>189-195</pages>
 <year>2017</year>
 <booktitle>AAAI</booktitle>
-<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14679</ee>
+<ee type="oa">http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14679</ee>
 <crossref>conf/aaai/2017</crossref>
 <url>db/conf/aaai/aaai2017.html#SunYZB17</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/aaai/CaoGZOF17" mdate="2020-01-29">
+<r><inproceedings key="conf/aaai/CaoGZOF17" mdate="2021-02-10">
 <author pid="178/8621">Zhiguang Cao</author>
 <author pid="55/4926">Hongliang Guo</author>
 <author pid="84/6889-2">Jie Zhang 0002</author>
@@ -1334,12 +1334,12 @@
 <pages>4481-4487</pages>
 <year>2017</year>
 <booktitle>AAAI</booktitle>
-<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14308</ee>
+<ee type="oa">http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14308</ee>
 <crossref>conf/aaai/2017</crossref>
 <url>db/conf/aaai/aaai2017.html#CaoGZOF17</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/aaai/LiFZ17" mdate="2020-01-29">
+<r><inproceedings key="conf/aaai/LiFZ17" mdate="2021-02-10">
 <author pid="36/3071">Xiaoming Li</author>
 <author pid="03/2511-2">Hui Fang 0002</author>
 <author pid="84/6889-2">Jie Zhang 0002</author>
@@ -1347,12 +1347,12 @@
 <pages>4955-4956</pages>
 <year>2017</year>
 <booktitle>AAAI</booktitle>
-<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14573</ee>
+<ee type="oa">http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14573</ee>
 <crossref>conf/aaai/2017</crossref>
 <url>db/conf/aaai/aaai2017.html#LiFZ17</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/aaai/SongKZX17" mdate="2017-05-11">
+<r><inproceedings key="conf/aaai/SongKZX17" mdate="2021-02-10">
 <author pid="50/5489">Wen Song</author>
 <author pid="138/3522">Donghun Kang</author>
 <author pid="84/6889-2">Jie Zhang 0002</author>
@@ -1361,7 +1361,7 @@
 <pages>4985-4986</pages>
 <year>2017</year>
 <booktitle>AAAI</booktitle>
-<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14595</ee>
+<ee type="oa">http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14595</ee>
 <crossref>conf/aaai/2017</crossref>
 <url>db/conf/aaai/aaai2017.html#SongKZX17</url>
 </inproceedings>
@@ -1730,7 +1730,7 @@
 <url>db/journals/tweb/tweb10.html#GuoZY16</url>
 </article>
 </r>
-<r><inproceedings key="conf/aaai/IrissappaneOZ16" mdate="2020-01-29">
+<r><inproceedings key="conf/aaai/IrissappaneOZ16" mdate="2021-02-10">
 <author pid="118/9551">Athirai Aravazhi Irissappane</author>
 <author pid="82/2420">Frans A. Oliehoek</author>
 <author pid="84/6889-2">Jie Zhang 0002</author>
@@ -1738,12 +1738,12 @@
 <pages>158-164</pages>
 <year>2016</year>
 <booktitle>AAAI</booktitle>
-<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12378</ee>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12378</ee>
 <crossref>conf/aaai/2016</crossref>
 <url>db/conf/aaai/aaai2016.html#IrissappaneOZ16</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/aaai/HuSJZX16" mdate="2017-05-11">
+<r><inproceedings key="conf/aaai/HuSJZX16" mdate="2021-02-10">
 <author pid="178/8609">Zehong Hu</author>
 <author pid="162/5018">Meng Sha</author>
 <author pid="37/8736">Moath Jarrah</author>
@@ -1753,12 +1753,12 @@
 <pages>2501-2508</pages>
 <year>2016</year>
 <booktitle>AAAI</booktitle>
-<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12207</ee>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12207</ee>
 <crossref>conf/aaai/2016</crossref>
 <url>db/conf/aaai/aaai2016.html#HuSJZX16</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/aaai/WangMZL16" mdate="2018-06-04">
+<r><inproceedings key="conf/aaai/WangMZL16" mdate="2021-02-10">
 <author pid="52/645">Dongxia Wang</author>
 <author pid="69/8775">Tim Muller</author>
 <author pid="84/6889-2">Jie Zhang 0002</author>
@@ -1767,12 +1767,12 @@
 <pages>2551-2557</pages>
 <year>2016</year>
 <booktitle>AAAI</booktitle>
-<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12026</ee>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12026</ee>
 <crossref>conf/aaai/2016</crossref>
 <url>db/conf/aaai/aaai2016.html#WangMZL16</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/aaai/CaoGZF16" mdate="2020-01-29">
+<r><inproceedings key="conf/aaai/CaoGZF16" mdate="2021-02-10">
 <author pid="178/8621">Zhiguang Cao</author>
 <author pid="55/4926">Hongliang Guo</author>
 <author pid="84/6889-2">Jie Zhang 0002</author>
@@ -1781,7 +1781,7 @@
 <pages>3814-3820</pages>
 <year>2016</year>
 <booktitle>AAAI</booktitle>
-<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11797</ee>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11797</ee>
 <crossref>conf/aaai/2016</crossref>
 <url>db/conf/aaai/aaai2016.html#CaoGZF16</url>
 </inproceedings>
@@ -1955,7 +1955,7 @@
 <url>db/conf/um/umap2016.html#QiuGZSNL16</url>
 </inproceedings>
 </r>
-<r><proceedings key="conf/aaai/2016trust" mdate="2017-04-05">
+<r><proceedings key="conf/aaai/2016trust" mdate="2021-02-18">
 <editor pid="84/6889-2">Jie Zhang 0002</editor>
 <editor pid="97/8092">Zeinab Noorian</editor>
 <editor pid="54/3381">Stephen Marsh 0001</editor>
@@ -1964,7 +1964,7 @@
 <year>2016</year>
 <publisher>AAAI Press</publisher>
 <note type="isbn">978-1-57735-759-9</note>
-<ee>http://www.aaai.org/Library/Workshops/ws16-09.php</ee>
+<ee type="oa">http://www.aaai.org/Library/Workshops/ws16-09.php</ee>
 <series href="db/series/aaaiws/index.html">AAAI Workshops</series>
 <volume>WS-16-09</volume>
 <url>db/conf/aaai/trust2016.html</url>
@@ -2104,7 +2104,7 @@
 <url>db/conf/ACMicec/icec2015.html#LiuMLFYZCL15</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/aaai/GuoZY15" mdate="2018-09-04">
+<r><inproceedings key="conf/aaai/GuoZY15" mdate="2021-02-10">
 <author pid="84/10716">Guibing Guo</author>
 <author pid="84/6889-2">Jie Zhang 0002</author>
 <author pid="95/5096">Neil Yorke-Smith</author>
@@ -2112,12 +2112,12 @@
 <pages>123-129</pages>
 <year>2015</year>
 <booktitle>AAAI</booktitle>
-<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9313</ee>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9313</ee>
 <crossref>conf/aaai/2015</crossref>
 <url>db/conf/aaai/aaai2015.html#GuoZY15</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/aaai/GunaySLZ15" mdate="2018-06-04">
+<r><inproceedings key="conf/aaai/GunaySLZ15" mdate="2021-02-10">
 <author pid="g/AkinGunay">Akin Günay</author>
 <author pid="61/8725">Songzheng Song</author>
 <author pid="51/3710-3">Yang Liu 0003</author>
@@ -2126,7 +2126,7 @@
 <pages>2060-2066</pages>
 <year>2015</year>
 <booktitle>AAAI</booktitle>
-<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9793</ee>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9793</ee>
 <crossref>conf/aaai/2015</crossref>
 <url>db/conf/aaai/aaai2015.html#GunaySLZ15</url>
 </inproceedings>
@@ -2490,7 +2490,7 @@
 <url>db/journals/tcyb/tcyb44.html#JiangOZF14</url>
 </article>
 </r>
-<r><inproceedings key="conf/aaai/BaoFZ14" mdate="2015-10-01">
+<r><inproceedings key="conf/aaai/BaoFZ14" mdate="2021-02-18">
 <author pid="122/5939">Yang Bao</author>
 <author pid="03/2511-2">Hui Fang 0002</author>
 <author pid="84/6889-2">Jie Zhang 0002</author>
@@ -2498,12 +2498,12 @@
 <pages>2-8</pages>
 <year>2014</year>
 <booktitle>AAAI</booktitle>
-<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/view/8273</ee>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/view/8273</ee>
 <crossref>conf/aaai/2014</crossref>
 <url>db/conf/aaai/aaai2014.html#BaoFZ14</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/aaai/FangBZ14" mdate="2015-10-01">
+<r><inproceedings key="conf/aaai/FangBZ14" mdate="2021-02-18">
 <author pid="03/2511-2">Hui Fang 0002</author>
 <author pid="122/5939">Yang Bao</author>
 <author pid="84/6889-2">Jie Zhang 0002</author>
@@ -2511,12 +2511,12 @@
 <pages>30-36</pages>
 <year>2014</year>
 <booktitle>AAAI</booktitle>
-<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/view/8271</ee>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/view/8271</ee>
 <crossref>conf/aaai/2014</crossref>
 <url>db/conf/aaai/aaai2014.html#FangBZ14</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/aaai/LiuLZFYM14" mdate="2019-08-06">
+<r><inproceedings key="conf/aaai/LiuLZFYM14" mdate="2021-02-18">
 <author pid="87/2948-2">Yuan Liu 0002</author>
 <author pid="00/4516">Siyuan Liu</author>
 <author pid="84/6889-2">Jie Zhang 0002</author>
@@ -2527,12 +2527,12 @@
 <pages>3124-3125</pages>
 <year>2014</year>
 <booktitle>AAAI</booktitle>
-<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/view/8296</ee>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/view/8296</ee>
 <crossref>conf/aaai/2014</crossref>
 <url>db/conf/aaai/aaai2014.html#LiuLZFYM14</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/aaai/LiuZYM14" mdate="2019-08-06">
+<r><inproceedings key="conf/aaai/LiuZYM14" mdate="2021-02-18">
 <author pid="87/2948-2">Yuan Liu 0002</author>
 <author pid="84/6889-2">Jie Zhang 0002</author>
 <author pid="35/1096-1">Han Yu 0001</author>
@@ -2541,7 +2541,7 @@
 <pages>3126-3127</pages>
 <year>2014</year>
 <booktitle>AAAI</booktitle>
-<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/view/8297</ee>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/view/8297</ee>
 <crossref>conf/aaai/2014</crossref>
 <url>db/conf/aaai/aaai2014.html#LiuZYM14</url>
 </inproceedings>
@@ -3006,12 +3006,12 @@
 <url>db/conf/recsys/recsys2013.html#GuoZTY13</url>
 </inproceedings>
 </r>
-<r><proceedings key="conf/pst/2013" mdate="2020-12-14">
+<r><proceedings key="conf/pst/2013" mdate="2021-02-23">
 <editor pid="c/JordiCastellaRoca">Jordi Castellà-Roca</editor>
 <editor pid="d/JDomingoFerrer">Josep Domingo-Ferrer</editor>
 <editor pid="g/JoaquinGarcia">Joaquín García-Alfaro</editor>
 <editor pid="g/AliAGhorbani">Ali A. Ghorbani 0001</editor>
-<editor pid="86/10768">Christian D. Jensen</editor>
+<editor pid="j/ChristianDamsgaardJensen">Christian Damsgaard Jensen</editor>
 <editor pid="06/1308">Jesús A. Manjón</editor>
 <editor pid="90/5997">Iosif-Viorel Onut</editor>
 <editor pid="34/2916">Natalia Stakhanova</editor>
@@ -3848,7 +3848,7 @@
 <url>db/journals/ijisec/ijisec6.html#ZhangGC07</url>
 </article>
 </r>
-<r><inproceedings key="conf/aaai/ZhangC07" mdate="2014-04-10">
+<r><inproceedings key="conf/aaai/ZhangC07" mdate="2021-02-10">
 <author pid="84/6889-2">Jie Zhang 0002</author>
 <author pid="24/441">Robin Cohen</author>
 <title>Design of a Mechanism for Promoting Honesty in E-Marketplaces.</title>
@@ -3857,7 +3857,7 @@
 <crossref>conf/aaai/2007</crossref>
 <booktitle>AAAI</booktitle>
 <url>db/conf/aaai/aaai2007.html#ZhangC07</url>
-<ee>http://www.aaai.org/Library/AAAI/2007/aaai07-237.php</ee>
+<ee type="oa">http://www.aaai.org/Library/AAAI/2007/aaai07-237.php</ee>
 </inproceedings>
 </r>
 <r><inproceedings key="conf/aaaiss/ZhangC07" mdate="2014-04-10">
@@ -4061,7 +4061,7 @@
 <co c="0"><na f="h/Huang:Minlie" pid="47/6668">Minlie Huang</na></co>
 <co c="0"><na f="i/Irissappane:Athirai_Aravazhi" pid="118/9551">Athirai Aravazhi Irissappane</na></co>
 <co c="0"><na f="j/Jarrah:Moath" pid="37/8736">Moath Jarrah</na></co>
-<co c="0"><na f="j/Jensen:Christian_D=" pid="86/10768">Christian D. Jensen</na></co>
+<co c="0"><na f="j/Jensen:Christian_Damsgaard" pid="j/ChristianDamsgaardJensen">Christian Damsgaard Jensen</na></co>
 <co c="0"><na f="j/Jiang:Siwei" pid="08/4900">Siwei Jiang</na></co>
 <co c="0"><na f="k/Kang:Donghun" pid="138/3522">Donghun Kang</na></co>
 <co c="0"><na f="k/Ke:Bin" pid="182/5826">Bin Ke</na></co>

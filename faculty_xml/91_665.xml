@@ -194,7 +194,7 @@
 <url>db/conf/isbi/isbi2017.html#RajapakseGS17</url>
 </inproceedings>
 </r>
-<r><article key="journals/jbi/MundraR16" mdate="2020-03-27">
+<r><article key="journals/jbi/MundraR16" mdate="2021-02-16">
 <author orcid="0000-0001-7769-2939" pid="97/5431">Piyushkumar A. Mundra</author>
 <author orcid="0000-0001-7944-1658" pid="91/665">Jagath C. Rajapakse</author>
 <title>Gene and sample selection using T-score with sample selection.</title>
@@ -202,7 +202,7 @@
 <year>2016</year>
 <volume>59</volume>
 <journal>J. Biomed. Informatics</journal>
-<ee>https://doi.org/10.1016/j.jbi.2015.11.003</ee>
+<ee type="oa">https://doi.org/10.1016/j.jbi.2015.11.003</ee>
 <ee>https://www.wikidata.org/entity/Q40335170</ee>
 <url>db/journals/jbi/jbi59.html#MundraR16</url>
 </article>
@@ -466,8 +466,8 @@
 <url>db/conf/embc/embc2011.html#RajapakseL11</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/embc/IvanWCR11" mdate="2020-10-25">
-<author pid="217/6697">Fransiskus X. Ivan</author>
+<r><inproceedings key="conf/embc/IvanWCR11" mdate="2021-03-15">
+<author pid="204/5427">Fransiskus Xaverius Ivan</author>
 <author pid="05/4824">Roy E. Welsch</author>
 <author orcid="0000-0003-2634-6213" pid="20/4497">Vincent T. K. Chow</author>
 <author orcid="0000-0001-7944-1658" pid="91/665">Jagath C. Rajapakse</author>
@@ -1729,7 +1729,7 @@
 <url>db/journals/ivc/ivc16.html#RajapakseK98</url>
 </article>
 </r>
-<r><article key="journals/jaciii/RajapakseKZC98" mdate="2020-09-18">
+<r><article key="journals/jaciii/RajapakseKZC98" mdate="2021-02-16">
 <author pid="91/665">Jagath C. Rajapakse</author>
 <author pid="49/1587">Frithjof Kruggel</author>
 <author pid="34/1901">Stefan Zysset</author>
@@ -1740,7 +1740,7 @@
 <volume>2</volume>
 <journal>J. Adv. Comput. Intell. Intell. Informatics</journal>
 <number>6</number>
-<ee>https://doi.org/10.20965/jaciii.1998.p0185</ee>
+<ee type="oa">https://doi.org/10.20965/jaciii.1998.p0185</ee>
 <url>db/journals/jaciii/jaciii2.html#RajapakseKZC98</url>
 </article>
 </r>
@@ -1837,7 +1837,7 @@
 <co c="0"><na f="h/Ho:Loi_Sy" pid="53/446">Loi Sy Ho</na></co>
 <co c="2"><na f="h/Ho:Lynn_G=" pid="235/3741">Lynn G. Ho</na></co>
 <co c="0"><na f="h/Hsu:Wen=Jing" pid="26/4850">Wen-Jing Hsu</na></co>
-<co c="0"><na f="i/Ivan:Fransiskus_X=" pid="217/6697">Fransiskus X. Ivan</na></co>
+<co c="0"><na f="i/Ivan:Fransiskus_Xaverius" pid="204/5427">Fransiskus Xaverius Ivan</na></co>
 <co c="6"><na f="j/Jian:Shi" pid="90/4198">Shi Jian</na></co>
 <co c="-1"><na f="k/Kaalia:Rama" pid="180/3201">Rama Kaalia</na></co>
 <co c="0"><na f="k/K=auml=ll:Lukas" pid="06/6643">Lukas Käll</na></co>

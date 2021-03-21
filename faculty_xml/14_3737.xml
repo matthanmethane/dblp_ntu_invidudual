@@ -1,4 +1,4 @@
-<?xml version="1.0"?><html><body><dblpperson n="469" name="Weisi Lin" pid="14/3737">
+<?xml version="1.0"?><html><body><dblpperson n="472" name="Weisi Lin" pid="14/3737">
 <person key="homepages/14/3737" mdate="2019-10-23">
 <author pid="14/3737">Weisi Lin</author>
 <note type="affiliation">Nanyang Technological University, Singapore</note>
@@ -25,6 +25,21 @@
 <url>db/journals/isci/isci552.html#WuYLDSL21</url>
 </article>
 </r>
+<r><article key="journals/tip/ChenLWZL21" mdate="2021-03-10">
+<author pid="13/3788">Pengfei Chen</author>
+<author pid="92/6630">Leida Li</author>
+<author pid="01/8056">Jinjian Wu</author>
+<author pid="70/6124">Yabin Zhang</author>
+<author pid="14/3737">Weisi Lin</author>
+<title>Temporal Reasoning Guided QoE Evaluation for Mobile Live Video Broadcasting.</title>
+<pages>3279-3292</pages>
+<year>2021</year>
+<volume>30</volume>
+<journal>IEEE Trans. Image Process.</journal>
+<ee>https://doi.org/10.1109/TIP.2021.3060255</ee>
+<url>db/journals/tip/tip30.html#ChenLWZL21</url>
+</article>
+</r>
 <r><article key="journals/corr/abs-2101-02412" mdate="2021-01-21" publtype="informal">
 <author pid="69/4104">Sheng Yang</author>
 <author pid="14/3737">Weisi Lin</author>
@@ -39,9 +54,37 @@
 <url>db/journals/corr/corr2101.html#abs-2101-02412</url>
 </article>
 </r>
-<r><article key="journals/tbc/GuQLLLC20" mdate="2020-07-09">
+<r><article key="journals/corr/abs-2102-06841" mdate="2021-02-19" publtype="informal">
+<author pid="37/3765">Ivan V. Bajic</author>
+<author pid="14/3737">Weisi Lin</author>
+<author pid="218/5465">Yonghong Tian</author>
+<title>Collaborative Intelligence: Challenges and Opportunities.</title>
+<year>2021</year>
+<volume>abs/2102.06841</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2102.06841</ee>
+<url>db/journals/corr/corr2102.html#abs-2102-06841</url>
+</article>
+</r>
+<r><article key="journals/corr/abs-2102-08168" mdate="2021-02-19" publtype="informal">
+<author pid="54/711">Jian Jin</author>
+<author pid="59/9985">Xingxing Zhang</author>
+<author pid="18/2495">Xin Fu</author>
+<author pid="23/1797">Huan Zhang</author>
+<author pid="14/3737">Weisi Lin</author>
+<author pid="05/4625">Jian Lou</author>
+<author pid="45/2091-1">Yao Zhao 0001</author>
+<title>Does deep machine vision have just noticeable difference (JND)?</title>
+<year>2021</year>
+<volume>abs/2102.08168</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2102.08168</ee>
+<url>db/journals/corr/corr2102.html#abs-2102-08168</url>
+</article>
+</r>
+<r><article key="journals/tbc/GuQLLLC20" mdate="2021-02-17">
 <author orcid="0000-0001-5540-3235" pid="13/9079-1">Ke Gu 0001</author>
-<author orcid="0000-0002-1707-6074" pid="81/516">Junfei Qiao</author>
+<author orcid="0000-0002-1707-6074" pid="81/516-1">Junfei Qiao 0001</author>
 <author orcid="0000-0001-9895-5347" pid="58/6214-1">Sanghoon Lee 0001</author>
 <author orcid="0000-0003-4544-3481" pid="81/5931">Hantao Liu</author>
 <author orcid="0000-0001-9866-1947" pid="14/3737">Weisi Lin</author>
@@ -56,10 +99,10 @@
 <url>db/journals/tbc/tbc66.html#GuQLLLC20</url>
 </article>
 </r>
-<r><article key="journals/tbd/GuXQJLT20" mdate="2020-12-01">
+<r><article key="journals/tbd/GuXQJLT20" mdate="2021-02-17">
 <author orcid="0000-0001-5540-3235" pid="13/9079-1">Ke Gu 0001</author>
 <author pid="66/3874">Xin Xu</author>
-<author orcid="0000-0002-1707-6074" pid="81/516">Junfei Qiao</author>
+<author orcid="0000-0002-1707-6074" pid="81/516-1">Junfei Qiao 0001</author>
 <author orcid="0000-0002-6025-9343" pid="149/0439">Qiuping Jiang</author>
 <author orcid="0000-0001-9866-1947" pid="14/3737">Weisi Lin</author>
 <author orcid="0000-0002-0451-7491" pid="t/DanielThalmann">Daniel Thalmann</author>
@@ -156,10 +199,10 @@
 <url>db/journals/tip/tip29.html#WuMLDSL20</url>
 </article>
 </r>
-<r><article key="journals/tmm/GuXQL20" mdate="2020-10-01">
+<r><article key="journals/tmm/GuXQL20" mdate="2021-02-17">
 <author orcid="0000-0001-5540-3235" pid="13/9079-1">Ke Gu 0001</author>
 <author orcid="0000-0001-9605-6786" pid="209/8014">Zhifang Xia</author>
-<author orcid="0000-0002-1707-6074" pid="81/516">Junfei Qiao</author>
+<author orcid="0000-0002-1707-6074" pid="81/516-1">Junfei Qiao 0001</author>
 <author orcid="0000-0001-9866-1947" pid="14/3737">Weisi Lin</author>
 <title>Deep Dual-Channel Neural Network for Image-Based Smoke Detection.</title>
 <pages>311-323</pages>
@@ -841,10 +884,10 @@
 <url>db/journals/corr/corr1904.html#abs-1904-03571</url>
 </article>
 </r>
-<r><article key="journals/corr/abs-1904-08632" mdate="2020-01-24" publtype="informal">
+<r><article key="journals/corr/abs-1904-08632" mdate="2021-02-17" publtype="informal">
 <author pid="13/9079-1">Ke Gu 0001</author>
 <author pid="46/3391">Dacheng Tao</author>
-<author pid="81/516">Junfei Qiao</author>
+<author pid="81/516-1">Junfei Qiao 0001</author>
 <author pid="14/3737">Weisi Lin</author>
 <title>Learning a No-Reference Quality Assessment Model of Enhanced Images With Big Data.</title>
 <year>2019</year>
@@ -1082,9 +1125,9 @@
 <url>db/journals/tii/tii14.html#JakhetiyaGLLJ18</url>
 </article>
 </r>
-<r><article key="journals/tii/GuQL18" mdate="2020-05-21">
+<r><article key="journals/tii/GuQL18" mdate="2021-02-17">
 <author orcid="0000-0001-5540-3235" pid="13/9079-1">Ke Gu 0001</author>
-<author pid="81/516">Junfei Qiao</author>
+<author pid="81/516-1">Junfei Qiao 0001</author>
 <author orcid="0000-0001-9866-1947" pid="14/3737">Weisi Lin</author>
 <title>Recurrent Air Quality Predictor Based on Meteorology- and Pollution-Related Factors.</title>
 <pages>3946-3955</pages>
@@ -1097,10 +1140,10 @@
 <url>db/journals/tii/tii14.html#GuQL18</url>
 </article>
 </r>
-<r><article key="journals/tip/GuJQLLT18" mdate="2020-05-10">
+<r><article key="journals/tip/GuJQLLT18" mdate="2021-02-17">
 <author orcid="0000-0001-5540-3235" pid="13/9079-1">Ke Gu 0001</author>
 <author pid="27/9850">Vinit Jakhetiya</author>
-<author pid="81/516">Jun-Fei Qiao</author>
+<author pid="81/516-1">Junfei Qiao 0001</author>
 <author pid="182/2597">Xiaoli Li</author>
 <author pid="14/3737">Weisi Lin</author>
 <author pid="t/DanielThalmann">Daniel Thalmann</author>
@@ -1199,10 +1242,10 @@
 <url>db/journals/tmm/tmm20.html#JiangSLGJS18</url>
 </article>
 </r>
-<r><article key="journals/tnn/GuTQL18" mdate="2020-03-09">
+<r><article key="journals/tnn/GuTQL18" mdate="2021-02-17">
 <author orcid="0000-0001-5540-3235" pid="13/9079-1">Ke Gu 0001</author>
 <author orcid="0000-0001-7225-5449" pid="46/3391">Dacheng Tao</author>
-<author pid="81/516">Jun-Fei Qiao</author>
+<author pid="81/516-1">Junfei Qiao 0001</author>
 <author orcid="0000-0001-9866-1947" pid="14/3737">Weisi Lin</author>
 <title>Learning a No-Reference Quality Assessment Model of Enhanced Images With Big Data.</title>
 <pages>1301-1313</pages>
@@ -1231,9 +1274,9 @@
 <url>db/journals/tomccap/tomccap14.html#ZhuGLGR18</url>
 </article>
 </r>
-<r><article key="journals/tvcg/GuQMYLT18" mdate="2020-01-24">
+<r><article key="journals/tvcg/GuQMYLT18" mdate="2021-02-17">
 <author orcid="0000-0001-5540-3235" pid="13/9079-1">Ke Gu 0001</author>
-<author pid="81/516">Junfei Qiao</author>
+<author pid="81/516-1">Junfei Qiao 0001</author>
 <author orcid="0000-0001-5693-0416" pid="139/6983">Xiongkuo Min</author>
 <author pid="179/3244">Guanghui Yue</author>
 <author orcid="0000-0001-9866-1947" pid="14/3737">Weisi Lin</author>
@@ -1671,7 +1714,7 @@
 </article>
 </r>
 <r><article key="journals/tip/XiZWL17" mdate="2020-05-10">
-<author pid="116/6832">Tao Xi</author>
+<author pid="133/3684">Tao Xi</author>
 <author orcid="0000-0002-9186-3551" pid="z/WeiZhao-13">Wei Zhao 0013</author>
 <author orcid="0000-0001-5448-9903" pid="67/1771-1">Han Wang 0001</author>
 <author pid="14/3737">Weisi Lin</author>
@@ -1686,10 +1729,10 @@
 <url>db/journals/tip/tip26.html#XiZWL17</url>
 </article>
 </r>
-<r><article key="journals/tip/GuZQZLB17" mdate="2020-05-10">
+<r><article key="journals/tip/GuZQZLB17" mdate="2021-02-17">
 <author orcid="0000-0001-6903-184X" pid="13/9079-1">Ke Gu 0001</author>
 <author pid="99/3847-7">Jun Zhou 0007</author>
-<author pid="81/516">Jun-Fei Qiao</author>
+<author pid="81/516-1">Junfei Qiao 0001</author>
 <author pid="19/3230">Guangtao Zhai</author>
 <author pid="14/3737">Weisi Lin</author>
 <author pid="b/ACBovik">Alan Conrad Bovik</author>
@@ -1848,9 +1891,9 @@
 <url>db/conf/icip/icip2017.html#Chen0CL17</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/icip/GuQCXL17" mdate="2020-01-24">
+<r><inproceedings key="conf/icip/GuQCXL17" mdate="2021-02-17">
 <author pid="13/9079-1">Ke Gu 0001</author>
-<author pid="81/516">Jun-Fei Qiao</author>
+<author pid="81/516-1">Junfei Qiao 0001</author>
 <author pid="38/6666">Patrick Le Callet</author>
 <author pid="209/8014">Zhifang Xia</author>
 <author pid="14/3737">Weisi Lin</author>
@@ -3578,7 +3621,7 @@
 </inproceedings>
 </r>
 <r><inproceedings key="conf/pcm/XiFLZ15" mdate="2017-05-21">
-<author pid="116/6832">Tao Xi</author>
+<author pid="133/3684">Tao Xi</author>
 <author pid="31/9004">Yuming Fang</author>
 <author pid="14/3737">Weisi Lin</author>
 <author pid="70/6124">Yabin Zhang</author>
@@ -7298,7 +7341,7 @@
 <url>db/conf/icpr/icpr1992-1.html#FraserL92</url>
 </inproceedings>
 </r>
-<coauthors n="426" nc="2">
+<coauthors n="434" nc="2">
 <co c="0"><na f="a/Adachi:S=" pid="18/3957">S. Adachi</na></co>
 <co c="0"><na f="a/Adam:Hartwig" pid="75/948">Hartwig Adam</na></co>
 <co c="0"><na f="a/Alfaro:Pedro_Comesa=ntilde=a" pid="c/PComesanaA">Pedro Comesaña Alfaro</na></co>
@@ -7309,6 +7352,7 @@
 <co c="0"><na f="b/Bahrami:Khosro" pid="69/82">Khosro Bahrami</na></co>
 <co c="0"><na f="b/Bai:Huihui" pid="75/5070">Huihui Bai</na></co>
 <co c="0"><na f="b/Bai:Xiaolong" pid="20/10240">Xiaolong Bai</na></co>
+<co c="0"><na f="b/Bajic:Ivan_V=" pid="37/3765">Ivan V. Bajic</na></co>
 <co c="0"><na f="b/Bian:Wei" pid="77/3270">Wei Bian</na></co>
 <co c="0"><na f="b/Boon:Choong_Seng" pid="56/5970">Choong Seng Boon</na></co>
 <co c="0"><na f="b/Boulgouris:Nikolaos_V=" pid="33/5593">Nikolaos V. Boulgouris</na></co>
@@ -7330,6 +7374,7 @@
 <co c="0"><na f="c/Chen:Hai" pid="46/4232">Hai Chen</na></co>
 <co c="0"><na f="c/Chen:Jie" pid="92/6289">Jie Chen</na></co>
 <co c="0"><na f="c/Chen:Kan" pid="33/2607">Kan Chen</na></co>
+<co c="0"><na f="c/Chen:Pengfei" pid="13/3788">Pengfei Chen</na></co>
 <co c="0"><na f="c/Chen:Weiling" pid="207/9940">Weiling Chen</na></co>
 <co c="0"><na f="c/Chen:Ying" pid="21/5521">Ying Chen</na></co>
 <co c="0"><na f="c/Chen:Yuanchun" pid="192/8598">Yuanchun Chen</na></co>
@@ -7376,6 +7421,7 @@
 <co c="-1"><na f="f/Fraser:David_A=" pid="126/3262">David A. Fraser</na></co>
 <co c="0"><na f="f/Fu:Huazhu" pid="63/7767">Huazhu Fu</na></co>
 <co c="0"><na f="f/Fu:Jie" pid="16/7565">Jie Fu</na></co>
+<co c="0"><na f="f/Fu:Xin" pid="18/2495">Xin Fu</na></co>
 <co c="0"><na f="g/Gao:Hai" pid="25/2590">Hai Gao</na></co>
 <co c="0"><na f="g/Gao_0001:Wen" pid="g/WenGao">Wen Gao 0001</na></co>
 <co c="0"><na f="g/Gao:Yu" pid="46/2974">Yu Gao</na></co>
@@ -7421,6 +7467,7 @@
 <co c="0"><na f="j/Jiang:Ming" pid="02/10377">Ming Jiang</na></co>
 <co c="0"><na f="j/Jiang:Qiuping" pid="149/0439">Qiuping Jiang</na></co>
 <co c="0"><na f="j/Jiang:Tingting" pid="72/2833">Tingting Jiang</na></co>
+<co c="0"><na f="j/Jin:Jian" pid="54/711">Jian Jin</na></co>
 <co c="0"><na f="j/Ju:Bing=Feng" pid="153/9876">Bing-Feng Ju</na></co>
 <co c="0"><na f="j/Juefei=Xu:Felix" pid="35/11103">Felix Juefei-Xu</na></co>
 <co c="0"><na f="k/Kacprzyk:Janusz" pid="k/JanuszKacprzyk">Janusz Kacprzyk</na></co>
@@ -7501,6 +7548,7 @@
 <co c="0"><na f="l/Lo:Kyle_Shih=Huang" pid="177/3247">Kyle Shih-Huang Lo</na></co>
 <co c="0"><na f="l/Loizou:Philipos_C=" pid="15/4400">Philipos C. Loizou</na></co>
 <co c="0"><na f="l/Loke:Mei_Hwan" pid="31/4300">Mei Hwan Loke</na></co>
+<co c="0"><na f="l/Lou:Jian" pid="05/4625">Jian Lou</na></co>
 <co c="0"><na f="l/Lu_0008:Hong" pid="47/2341-8">Hong Lu 0008</na></co>
 <co c="0"><na f="l/Lu:Zhongkang" pid="02/2515">Zhongkang Lu</na></co>
 <co c="0"><na f="l/Luo:Jun" pid="42/2501">Jun Luo</na></co>
@@ -7541,7 +7589,7 @@
 <co c="0"><na f="q/Qayyum:Usman" pid="47/5206">Usman Qayyum</na></co>
 <co c="0"><na f="q/Qi:Fei" pid="59/985">Fei Qi</na></co>
 <co c="0"><na f="q/Qian:Jiansheng" pid="50/7760">Jiansheng Qian</na></co>
-<co c="0" n="2"><na f="q/Qiao:Junfei" pid="81/516">Junfei Qiao</na><na>Jun-Fei Qiao</na></co>
+<co c="0"><na f="q/Qiao_0001:Junfei" pid="81/516-1">Junfei Qiao 0001</na></co>
 <co c="0"><na f="q/Qiu:Lin" pid="82/4490">Lin Qiu</na></co>
 <co c="0"><na f="r/Rahardja:Susanto" pid="98/3034">Susanto Rahardja</na></co>
 <co c="0" n="2"><na f="r/Redi:Judith" pid="67/1526">Judith Redi</na><na>Judith A. Redi</na></co>
@@ -7579,10 +7627,12 @@
 <co c="0"><na f="t/Tan:Yap=Peng" pid="93/4472">Yap-Peng Tan</na></co>
 <co c="0"><na f="t/Tang:Zhi" pid="16/4222">Zhi Tang</na></co>
 <co c="0"><na f="t/Tao:Dacheng" pid="46/3391">Dacheng Tao</na></co>
+<co c="0" n="2"><na f="t/Tao:Xi" pid="133/3684">Xi Tao</na><na>Tao Xi</na></co>
 <co c="0"><na f="t/Thalmann:Daniel" pid="t/DanielThalmann">Daniel Thalmann</na></co>
 <co c="0"><na f="t/Tian_0006:Feng" pid="78/3204-6">Feng Tian 0006</na></co>
 <co c="0"><na f="t/Tian:Huawei" pid="03/8543">Huawei Tian</na></co>
 <co c="0"><na f="t/Tian:Weijun" pid="177/6625">Weijun Tian</na></co>
+<co c="0"><na f="t/Tian:Yonghong" pid="218/5465">Yonghong Tian</na></co>
 <co c="0"><na f="t/Timmerer:Christian" pid="81/5358">Christian Timmerer</na></co>
 <co c="0"><na f="t/Tiwari:Anil_Kumar" pid="20/2140">Anil Kumar Tiwari</na></co>
 <co c="0"><na f="t/Tra:Anh_T=" pid="166/6749">Anh T. Tra</na></co>
@@ -7631,7 +7681,6 @@
 <co c="0"><na f="w/Wu:Jinjian" pid="01/8056">Jinjian Wu</na></co>
 <co c="0"><na f="w/Wu:Shiqian" pid="38/808">Shiqian Wu</na></co>
 <co c="0"><na f="w/Wu_0001:Xiaolin" pid="w/XiaolinWu">Xiaolin Wu 0001</na></co>
-<co c="0"><na f="x/Xi:Tao" pid="116/6832">Tao Xi</na></co>
 <co c="0"><na f="x/Xia:Wenhan" pid="181/3470">Wenhan Xia</na></co>
 <co c="0"><na f="x/Xia:Yanhui" pid="125/3274">Yanhui Xia</na></co>
 <co c="0"><na f="x/Xia:Zhifang" pid="209/8014">Zhifang Xia</na></co>
@@ -7687,6 +7736,7 @@
 <co c="0"><na f="z/Zhang_0017:Chao" pid="94/3019-17">Chao Zhang 0017</na></co>
 <co c="0"><na f="z/Zhang:Chen" pid="94/4084">Chen Zhang</na></co>
 <co c="0"><na f="z/Zhang:Fan" pid="21/3626">Fan Zhang</na></co>
+<co c="0"><na f="z/Zhang:Huan" pid="23/1797">Huan Zhang</na></co>
 <co c="0"><na f="z/Zhang_0018:Jian" pid="07/314-18">Jian Zhang 0018</na></co>
 <co c="0"><na f="z/Zhang_0006:Li" pid="89/5992-6">Li Zhang 0006</na></co>
 <co c="0"><na f="z/Zhang:Lining" pid="07/3349">Lining Zhang</na></co>
@@ -7700,6 +7750,7 @@
 <co c="0"><na f="z/Zhang_0004:Xiang" pid="91/4353-4">Xiang Zhang 0004</na></co>
 <co c="0"><na f="z/Zhang_0001:Xiaohui" pid="55/1332-1">Xiaohui Zhang 0001</na></co>
 <co c="0"><na f="z/Zhang:Xinfeng" pid="12/7627">Xinfeng Zhang</na></co>
+<co c="0"><na f="z/Zhang:Xingxing" pid="59/9985">Xingxing Zhang</na></co>
 <co c="0"><na f="z/Zhang:Yabin" pid="70/6124">Yabin Zhang</na></co>
 <co c="0"><na f="z/Zhang:Yazhong" pid="122/2697">Yazhong Zhang</na></co>
 <co c="0"><na f="z/Zhang:Yongbing" pid="95/5329">Yongbing Zhang</na></co>

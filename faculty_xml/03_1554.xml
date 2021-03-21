@@ -725,7 +725,7 @@
 <url>db/journals/sensors/sensors16.html#AnSW16</url>
 </article>
 </r>
-<r><inproceedings key="conf/aaai/YuMSLL016" mdate="2019-08-06">
+<r><inproceedings key="conf/aaai/YuMSLL016" mdate="2021-02-10">
 <author pid="35/1096-1">Han Yu 0001</author>
 <author pid="m/ChunyanMiao">Chunyan Miao</author>
 <author pid="03/1554">Zhiqi Shen</author>
@@ -736,12 +736,12 @@
 <pages>4062-4064</pages>
 <year>2016</year>
 <booktitle>AAAI</booktitle>
-<ee>http://www.aaai.org/ocs/index.php/IAAI/IAAI16/paper/view/12185</ee>
+<ee type="oa">http://www.aaai.org/ocs/index.php/IAAI/IAAI16/paper/view/12185</ee>
 <crossref>conf/aaai/2016</crossref>
 <url>db/conf/aaai/aaai2016.html#YuMSLL016</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/aaai/ShenYMLC16" mdate="2019-08-06">
+<r><inproceedings key="conf/aaai/ShenYMLC16" mdate="2021-02-10">
 <author pid="03/1554">Zhiqi Shen</author>
 <author pid="35/1096-1">Han Yu 0001</author>
 <author pid="m/ChunyanMiao">Chunyan Miao</author>
@@ -751,12 +751,12 @@
 <pages>4391-4392</pages>
 <year>2016</year>
 <booktitle>AAAI</booktitle>
-<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11884</ee>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11884</ee>
 <crossref>conf/aaai/2016</crossref>
 <url>db/conf/aaai/aaai2016.html#ShenYMLC16</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/aaai/YuMLPKSL16" mdate="2019-08-06">
+<r><inproceedings key="conf/aaai/YuMLPKSL16" mdate="2021-02-10">
 <author pid="35/1096-1">Han Yu 0001</author>
 <author pid="m/ChunyanMiao">Chunyan Miao</author>
 <author pid="00/4516">Siyuan Liu</author>
@@ -768,7 +768,7 @@
 <pages>4405-</pages>
 <year>2016</year>
 <booktitle>AAAI</booktitle>
-<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11793</ee>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11793</ee>
 <crossref>conf/aaai/2016</crossref>
 <url>db/conf/aaai/aaai2016.html#YuMLPKSL16</url>
 </inproceedings>
@@ -841,7 +841,7 @@
 <url>db/conf/uic/uic2016.html#HuCWWSJS16</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/aaai/YuMSLC015" mdate="2019-08-06">
+<r><inproceedings key="conf/aaai/YuMSLC015" mdate="2021-02-10">
 <author pid="35/1096-1">Han Yu 0001</author>
 <author pid="m/ChunyanMiao">Chunyan Miao</author>
 <author pid="03/1554">Zhiqi Shen</author>
@@ -852,7 +852,7 @@
 <pages>1305-1312</pages>
 <year>2015</year>
 <booktitle>AAAI</booktitle>
-<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9278</ee>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9278</ee>
 <crossref>conf/aaai/2015</crossref>
 <url>db/conf/aaai/aaai2015.html#YuMSLC015</url>
 </inproceedings>
@@ -1520,14 +1520,14 @@
 <url>db/conf/IEEEicics/IEEEicics2011.html#WangS11</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/aaai/SongMS11" mdate="2011-08-09">
+<r><inproceedings key="conf/aaai/SongMS11" mdate="2021-02-18">
 <author pid="65/657">Hengjie Song</author>
 <author pid="m/ChunyanMiao">Chunyan Miao</author>
 <author pid="03/1554">Zhiqi Shen</author>
 <title>Generating True Relevance Labels in Chinese Search Engine Using Clickthrough Data.</title>
 <year>2011</year>
 <booktitle>AAAI</booktitle>
-<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3634</ee>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI11/paper/view/3634</ee>
 <crossref>conf/aaai/2011</crossref>
 <url>db/conf/aaai/aaai2011.html#SongMS11</url>
 </inproceedings>

@@ -1,8 +1,21 @@
-<?xml version="1.0"?><html><body><dblpperson n="92" name="Adams Wai-Kin Kong" pid="16/3792">
+<?xml version="1.0"?><html><body><dblpperson n="95" name="Adams Wai-Kin Kong" pid="16/3792">
 <person key="homepages/16/3792" mdate="2020-01-08">
 <author pid="16/3792">Adams Wai-Kin Kong</author>
 <url>https://orcid.org/0000-0002-9728-9511</url>
 </person>
+<r><article key="journals/ivc/LiuWK21" mdate="2021-03-09">
+<author pid="14/2786">Yanzhu Liu</author>
+<author pid="77/4673">Yanan Wang</author>
+<author pid="16/3792">Adams Wai-Kin Kong</author>
+<title>Pixel-wise ordinal classification for salient object grading.</title>
+<pages>104086</pages>
+<year>2021</year>
+<volume>106</volume>
+<journal>Image Vis. Comput.</journal>
+<ee>https://doi.org/10.1016/j.imavis.2020.104086</ee>
+<url>db/journals/ivc/ivc106.html#LiuWK21</url>
+</article>
+</r>
 <r><article key="journals/mta/XuMK20" mdate="2020-10-26">
 <author orcid="0000-0002-0791-0221" pid="166/3959">Xingpeng Xu</author>
 <author pid="241/9415">Wojciech Michal Matkowski</author>
@@ -837,6 +850,28 @@
 <url>db/journals/pr/pr41.html#KongZK08</url>
 </article>
 </r>
+<r><inproceedings key="conf/icpr/Kong08" mdate="2021-03-09">
+<author pid="16/3792">Adams Wai-Kin Kong</author>
+<title>An evaluation of Gabor orientation as a feature for face recognition.</title>
+<pages>1-4</pages>
+<year>2008</year>
+<booktitle>ICPR</booktitle>
+<ee>https://doi.org/10.1109/ICPR.2008.4760974</ee>
+<ee>http://doi.ieeecomputersociety.org/10.1109/ICPR.2008.4760974</ee>
+<crossref>conf/icpr/2008</crossref>
+<url>db/conf/icpr/icpr2008.html#Kong08</url>
+</inproceedings>
+</r>
+<r><phdthesis key="phd/basesearch/Kong07a" mdate="2021-03-09">
+<author pid="16/3792">Adams Wai-Kin Kong</author>
+<title>Palmprint Identification Based on Generalization of IrisCode.</title>
+<year>2007</year>
+<school>University of Waterloo, Ontario, Canada</school>
+<ee>http://hdl.handle.net/10012/2708</ee>
+<ee>https://www.base-search.net/Record/60767ff096b12261d83453a9350c9a354af95dac2777a745199e9b5793e6563f</ee>
+<note type="source">base-search.net (ftunivwaterloo:oai:uwspace.uwaterloo.ca:10012/2708)</note>
+</phdthesis>
+</r>
 <r><incollection key="series/smpai/LuZKL07" mdate="2017-09-16">
 <author pid="78/4785">Guangming Lu</author>
 <author pid="z/DavidZhang">David Zhang 0001</author>
@@ -1270,7 +1305,7 @@
 <url>db/conf/icpr/icpr2002-3.html#KongZ02</url>
 </inproceedings>
 </r>
-<coauthors n="54" nc="3">
+<coauthors n="55" nc="3">
 <co c="0"><na f="a/Altieri:Lisa" pid="130/0843">Lisa Altieri</na></co>
 <co c="1"><na f="b/Bhattacharya:Prabir" pid="b/PrBhattacharya">Prabir Bhattacharya</na></co>
 <co c="0"><na f="c/Chai:Tingting" pid="226/9414">Tingting Chai</na></co>
@@ -1315,6 +1350,7 @@
 <co c="0"><na f="t/Tang:Chaoying" pid="32/1079">Chaoying Tang</na></co>
 <co c="2"><na f="t/Trau:Dieter" pid="89/11432">Dieter Trau</na></co>
 <co c="0"><na f="w/Wang:Fan" pid="88/898">Fan Wang</na></co>
+<co c="0"><na f="w/Wang:Yanan" pid="77/4673">Yanan Wang</na></co>
 <co c="1"><na f="w/Wong:Michael" pid="66/1409">Michael Wong</na></co>
 <co c="0"><na f="x/Xu:Qingyong" pid="184/8322">Qingyong Xu</na></co>
 <co c="0"><na f="x/Xu:Xingpeng" pid="166/3959">Xingpeng Xu</na></co>

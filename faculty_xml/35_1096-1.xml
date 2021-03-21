@@ -1,4 +1,4 @@
-<?xml version="1.0"?><html><body><dblpperson n="130" name="Han Yu 0001" pid="35/1096-1">
+<?xml version="1.0"?><html><body><dblpperson n="132" name="Han Yu 0001" pid="35/1096-1">
 <person key="homepages/35/1096-1" mdate="2019-09-10">
 <author pid="35/1096-1">Han Yu 0001</author>
 <note type="affiliation">Nanyang Technological University, School of Computer Science and Engineering, Joint NTU-UBC Research Centre of Excellence in Active Living for the Elderly, Singapore</note>
@@ -31,6 +31,33 @@
 </person>
 </h>
 </homonyms>
+<r><article key="journals/corr/abs-2102-02515" mdate="2021-02-09" publtype="informal">
+<author pid="37/7763">Yuanyuan Chen</author>
+<author pid="70/1211">Boyang Li</author>
+<author pid="35/1096-1">Han Yu 0001</author>
+<author pid="77/2927">Pengcheng Wu</author>
+<author pid="m/ChunyanMiao">Chunyan Miao</author>
+<title>HYDRA: Hypergradient Data Relevance Analysis for Interpreting Deep Neural Networks.</title>
+<year>2021</year>
+<volume>abs/2102.02515</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2102.02515</ee>
+<url>db/journals/corr/corr2102.html#abs-2102-02515</url>
+</article>
+</r>
+<r><article key="journals/corr/abs-2103-00710" mdate="2021-03-04" publtype="informal">
+<author pid="286/8370">Alysa Ziying Tan</author>
+<author pid="35/1096-1">Han Yu 0001</author>
+<author pid="82/5713">Lizhen Cui</author>
+<author pid="140/7598">Qiang Yang</author>
+<title>Towards Personalized Federated Learning.</title>
+<year>2021</year>
+<volume>abs/2103.00710</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2103.00710</ee>
+<url>db/journals/corr/corr2103.html#abs-2103-00710</url>
+</article>
+</r>
 <r><article key="journals/aim/Zheng0CML0020" mdate="2020-08-25">
 <author pid="23/7137">Yongqing Zheng</author>
 <author pid="35/1096-1">Han Yu 0001</author>
@@ -1059,7 +1086,7 @@
 <url>db/journals/tkde/tkde30.html#ChenHHHYM18</url>
 </article>
 </r>
-<r><inproceedings key="conf/aaai/ZhengYCML018" mdate="2019-08-06">
+<r><inproceedings key="conf/aaai/ZhengYCML018" mdate="2021-02-18">
 <author pid="23/7137">Yongqing Zheng</author>
 <author pid="35/1096-1">Han Yu 0001</author>
 <author pid="82/5713">Lizhen Cui</author>
@@ -1069,7 +1096,7 @@
 <title>SmartHS: An AI Platform for Improving Government Service Provision.</title>
 <year>2018</year>
 <booktitle>AAAI</booktitle>
-<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16041</ee>
+<ee type="oa">https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16041</ee>
 <crossref>conf/aaai/2018</crossref>
 <url>db/conf/aaai/aaai2018.html#ZhengYCML018</url>
 <pages>7704-7712</pages>
@@ -1196,7 +1223,7 @@
 <url>db/journals/ida/ida21.html#MeiYSM17</url>
 </article>
 </r>
-<r><inproceedings key="conf/aaai/PanYML17" mdate="2019-08-06">
+<r><inproceedings key="conf/aaai/PanYML17" mdate="2021-02-10">
 <author pid="48/6834">Zhengxiang Pan</author>
 <author pid="35/1096-1">Han Yu 0001</author>
 <author pid="m/ChunyanMiao">Chunyan Miao</author>
@@ -1205,12 +1232,12 @@
 <pages>4728-4733</pages>
 <year>2017</year>
 <booktitle>AAAI</booktitle>
-<ee>http://aaai.org/ocs/index.php/IAAI/IAAI17/paper/view/14171</ee>
+<ee type="oa">http://aaai.org/ocs/index.php/IAAI/IAAI17/paper/view/14171</ee>
 <crossref>conf/aaai/2017</crossref>
 <url>db/conf/aaai/aaai2017.html#PanYML17</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/aaai/ZhangMYL17" mdate="2019-09-13">
+<r><inproceedings key="conf/aaai/ZhangMYL17" mdate="2021-02-10">
 <author pid="55/2270-49">Hao Zhang 0049</author>
 <author pid="m/ChunyanMiao">Chunyan Miao</author>
 <author pid="35/1096-1">Han Yu 0001</author>
@@ -1219,7 +1246,7 @@
 <pages>5021-5022</pages>
 <year>2017</year>
 <booktitle>AAAI</booktitle>
-<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14232</ee>
+<ee type="oa">http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14232</ee>
 <crossref>conf/aaai/2017</crossref>
 <url>db/conf/aaai/aaai2017.html#ZhangMYL17</url>
 </inproceedings>
@@ -1328,7 +1355,7 @@
 <url>db/journals/mam/mam47.html#ZhangSLZZCY16</url>
 </article>
 </r>
-<r><inproceedings key="conf/aaai/YuMSLL016" mdate="2019-08-06">
+<r><inproceedings key="conf/aaai/YuMSLL016" mdate="2021-02-10">
 <author pid="35/1096-1">Han Yu 0001</author>
 <author pid="m/ChunyanMiao">Chunyan Miao</author>
 <author pid="03/1554">Zhiqi Shen</author>
@@ -1339,12 +1366,12 @@
 <pages>4062-4064</pages>
 <year>2016</year>
 <booktitle>AAAI</booktitle>
-<ee>http://www.aaai.org/ocs/index.php/IAAI/IAAI16/paper/view/12185</ee>
+<ee type="oa">http://www.aaai.org/ocs/index.php/IAAI/IAAI16/paper/view/12185</ee>
 <crossref>conf/aaai/2016</crossref>
 <url>db/conf/aaai/aaai2016.html#YuMSLL016</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/aaai/PanYML16" mdate="2019-08-06">
+<r><inproceedings key="conf/aaai/PanYML16" mdate="2021-02-10">
 <author pid="48/6834">Zhengxiang Pan</author>
 <author pid="35/1096-1">Han Yu 0001</author>
 <author pid="m/ChunyanMiao">Chunyan Miao</author>
@@ -1353,12 +1380,12 @@
 <pages>4248-4249</pages>
 <year>2016</year>
 <booktitle>AAAI</booktitle>
-<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12106</ee>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12106</ee>
 <crossref>conf/aaai/2016</crossref>
 <url>db/conf/aaai/aaai2016.html#PanYML16</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/aaai/ShenYMLC16" mdate="2019-08-06">
+<r><inproceedings key="conf/aaai/ShenYMLC16" mdate="2021-02-10">
 <author pid="03/1554">Zhiqi Shen</author>
 <author pid="35/1096-1">Han Yu 0001</author>
 <author pid="m/ChunyanMiao">Chunyan Miao</author>
@@ -1368,12 +1395,12 @@
 <pages>4391-4392</pages>
 <year>2016</year>
 <booktitle>AAAI</booktitle>
-<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11884</ee>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11884</ee>
 <crossref>conf/aaai/2016</crossref>
 <url>db/conf/aaai/aaai2016.html#ShenYMLC16</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/aaai/ShiSLCYM16" mdate="2019-08-06">
+<r><inproceedings key="conf/aaai/ShiSLCYM16" mdate="2021-02-10">
 <author pid="s/YuliangShi">Yuliang Shi</author>
 <author pid="169/7136">Chenfei Sun</author>
 <author pid="70/2558">Qingzhong Li</author>
@@ -1384,12 +1411,12 @@
 <pages>4393-4394</pages>
 <year>2016</year>
 <booktitle>AAAI</booktitle>
-<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11813</ee>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11813</ee>
 <crossref>conf/aaai/2016</crossref>
 <url>db/conf/aaai/aaai2016.html#ShiSLCYM16</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/aaai/YuMLPKSL16" mdate="2019-08-06">
+<r><inproceedings key="conf/aaai/YuMLPKSL16" mdate="2021-02-10">
 <author pid="35/1096-1">Han Yu 0001</author>
 <author pid="m/ChunyanMiao">Chunyan Miao</author>
 <author pid="00/4516">Siyuan Liu</author>
@@ -1401,7 +1428,7 @@
 <pages>4405-</pages>
 <year>2016</year>
 <booktitle>AAAI</booktitle>
-<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11793</ee>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/11793</ee>
 <crossref>conf/aaai/2016</crossref>
 <url>db/conf/aaai/aaai2016.html#YuMLPKSL16</url>
 </inproceedings>
@@ -1483,7 +1510,7 @@
 <url>db/conf/ACMicec/icec2015.html#LiuMLFYZCL15</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/aaai/YuMSLC015" mdate="2019-08-06">
+<r><inproceedings key="conf/aaai/YuMSLC015" mdate="2021-02-10">
 <author pid="35/1096-1">Han Yu 0001</author>
 <author pid="m/ChunyanMiao">Chunyan Miao</author>
 <author pid="03/1554">Zhiqi Shen</author>
@@ -1494,7 +1521,7 @@
 <pages>1305-1312</pages>
 <year>2015</year>
 <booktitle>AAAI</booktitle>
-<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9278</ee>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9278</ee>
 <crossref>conf/aaai/2015</crossref>
 <url>db/conf/aaai/aaai2015.html#YuMSLC015</url>
 </inproceedings>
@@ -1639,7 +1666,7 @@
 <url>db/journals/dss/dss66.html#YuSMAL14</url>
 </article>
 </r>
-<r><inproceedings key="conf/aaai/LiuLZFYM14" mdate="2019-08-06">
+<r><inproceedings key="conf/aaai/LiuLZFYM14" mdate="2021-02-18">
 <author pid="87/2948-2">Yuan Liu 0002</author>
 <author pid="00/4516">Siyuan Liu</author>
 <author pid="84/6889-2">Jie Zhang 0002</author>
@@ -1650,12 +1677,12 @@
 <pages>3124-3125</pages>
 <year>2014</year>
 <booktitle>AAAI</booktitle>
-<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/view/8296</ee>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/view/8296</ee>
 <crossref>conf/aaai/2014</crossref>
 <url>db/conf/aaai/aaai2014.html#LiuLZFYM14</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/aaai/LiuZYM14" mdate="2019-08-06">
+<r><inproceedings key="conf/aaai/LiuZYM14" mdate="2021-02-18">
 <author pid="87/2948-2">Yuan Liu 0002</author>
 <author pid="84/6889-2">Jie Zhang 0002</author>
 <author pid="35/1096-1">Han Yu 0001</author>
@@ -1664,7 +1691,7 @@
 <pages>3126-3127</pages>
 <year>2014</year>
 <booktitle>AAAI</booktitle>
-<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/view/8297</ee>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/view/8297</ee>
 <crossref>conf/aaai/2014</crossref>
 <url>db/conf/aaai/aaai2014.html#LiuZYM14</url>
 </inproceedings>
@@ -2117,7 +2144,7 @@
 <url>db/conf/iat/iat2007.html#YuSM07</url>
 </inproceedings>
 </r>
-<coauthors n="233" nc="1">
+<coauthors n="235" nc="1">
 <co c="0"><na f="a/Ai:Zhengpeng" pid="259/2603">Zhengpeng Ai</na></co>
 <co c="0"><na f="a/An_0001:Bo" pid="42/6178-1">Bo An 0001</na></co>
 <co c="0"><na f="a/Avent:Brendan" pid="200/7947">Brendan Avent</na></co>
@@ -2287,6 +2314,7 @@
 <co c="0"><na f="s/Sun:Ziteng" pid="194/8609">Ziteng Sun</na></co>
 <co c="0"><na f="s/Suresh:Ananda_Theertha" pid="119/3884">Ananda Theertha Suresh</na></co>
 <co c="0"><na f="t/Tan:Ah=Hwee" pid="38/3641">Ah-Hwee Tan</na></co>
+<co c="0"><na f="t/Tan:Alysa_Ziying" pid="286/8370">Alysa Ziying Tan</na></co>
 <co c="0"><na f="t/Tan:Ben" pid="10/9818">Ben Tan</na></co>
 <co c="0"><na f="t/Tan:Benny_Toh_Hsiang" pid="175/5246">Benny Toh Hsiang Tan</na></co>
 <co c="0"><na f="t/Tao:Xuehong" pid="51/5447">Xuehong Tao</na></co>
@@ -2306,6 +2334,7 @@
 <co c="0"><na f="w/Weng:Jianshu" pid="98/392">Jianshu Weng</na></co>
 <co c="0"><na f="w/Weng:Xi" pid="157/0074">Xi Weng</na></co>
 <co c="0"><na f="w/Wong:Harrison_Jun_Yong" pid="269/4622">Harrison Jun Yong Wong</na></co>
+<co c="0"><na f="w/Wu:Pengcheng" pid="77/2927">Pengcheng Wu</na></co>
 <co c="0"><na f="w/Wu_0001:Qiong" pid="54/4158-1">Qiong Wu 0001</na></co>
 <co c="0"><na f="x/Xie:Xuansong" pid="234/8028">Xuansong Xie</na></co>
 <co c="0"><na f="x/Xiong_0001:Li" pid="39/3530-1">Li Xiong 0001</na></co>

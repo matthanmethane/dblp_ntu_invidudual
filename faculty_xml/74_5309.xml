@@ -57,7 +57,7 @@
 <url>db/conf/date/date2020.html#DattaDZCSLHTA20</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/glvlsi/NajibiLZAA20" mdate="2020-09-15">
+<r><inproceedings key="conf/glvlsi/NajibiLZAA20" mdate="2021-03-10">
 <author pid="136/5831">Halima Najibi</author>
 <author pid="233/9845">Alexandre Levisse</author>
 <author pid="07/9991">Marina Zapater</author>
@@ -67,7 +67,7 @@
 <pages>513-518</pages>
 <year>2020</year>
 <booktitle>ACM Great Lakes Symposium on VLSI</booktitle>
-<ee>https://dl.acm.org/doi/10.1145/3386263.3406923</ee>
+<ee>https://doi.org/10.1145/3386263.3406923</ee>
 <crossref>conf/glvlsi/2020</crossref>
 <url>db/conf/glvlsi/glvlsi2020.html#NajibiLZAA20</url>
 </inproceedings>

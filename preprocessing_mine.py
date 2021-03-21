@@ -9,6 +9,9 @@ import lxml
 import networkx as nx
 import matplotlib.pyplot as plt
 from matplotlib import colors as mcolors
+from matplotlib.figure import Figure
+
+from pandasgui import show
 
 import collections
 
@@ -44,30 +47,34 @@ def get_coworker_dict():
     faculty_list = get_faculty_list()
     coauthor_dict = {}
     pid_strings = [faculty.pid for faculty in faculty_list]
-    for pid_string in pid_strings:
-        file = open(f'faculty_xml/{pid_string.replace("/","_")}.xml','r',encoding='utf-8') 
-        content = BeautifulSoup(file,"lxml")
-        file.close()
-        coauthor_pane = content.find("coauthors")
-        coauthors = coauthor_pane.findAll("na")
-        coauthor_pid_list = []
-        for coauthor in coauthors:
-            try:
-                if coauthor["pid"] in pid_strings:
-                    collab_pid = coauthor["pid"]
-                    author_pane = content.findAll("author",{"pid":coauthor["pid"]})
-                    no_collab = len(author_pane)
-                    with open("weighted_collab.txt","a", encoding='utf-8') as f:
+    with open("weighted_collab.txt","w", encoding='utf-8') as f:
+        for pid_string in pid_strings:
+            file = open(f'faculty_xml/{pid_string.replace("/","_")}.xml','r',encoding='utf-8') 
+            content = BeautifulSoup(file,"lxml")
+            file.close()
+            coauthor_pane = content.find("coauthors")
+            coauthors = coauthor_pane.findAll("na")
+            coauthor_pid_list = []
+            for coauthor in coauthors:
+                try:
+                    if coauthor["pid"] in pid_strings:
+                        collab_pid = coauthor["pid"]
+                        author_pane = content.findAll("author",{"pid":coauthor["pid"]})
+                        no_collab = len(author_pane)
                         f.write(f"{pid_string}\t{collab_pid}\t{no_collab}\n")
-            except Exception as e:
-                print(e)
-                continue
-        coauthor_dict[pid_string] = coauthor_pid_list
+                        print(f"Writing... {pid_string} {collab_pid} {no_collab}")
+                except Exception as e:
+                    print(e)
+                    continue
+            coauthor_dict[pid_string] = coauthor_pid_list
     return(coauthor_dict)
 
 def ret_graph():  
-    with open("weighted_collab.txt","r", encoding='utf-8') as f:
-        G = nx.read_weighted_edgelist(f)
+    try:
+        with open("weighted_collab.txt","r", encoding='utf-8') as f:
+            G = nx.read_weighted_edgelist(f)
+    except:
+        G = ""
     return G
 
 
@@ -254,5 +261,6 @@ def centrality_top_venue_scatter(G, cen_type):
 
 
 G = ret_graph()
+
 
     

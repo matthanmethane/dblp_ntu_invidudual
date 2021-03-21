@@ -1,4 +1,4 @@
-<?xml version="1.0"?><html><body><dblpperson n="140" name="Seah Hock Soon" pid="s/SeahHockSoon">
+<?xml version="1.0"?><html><body><dblpperson n="142" name="Seah Hock Soon" pid="s/SeahHockSoon">
 <person key="homepages/s/SeahHockSoon" mdate="2016-02-09">
 <author pid="s/SeahHockSoon">Seah Hock Soon</author>
 <author pid="s/SeahHockSoon">Hock Soon Seah</author>
@@ -812,6 +812,22 @@
 <url>db/journals/entcom/entcom3.html#TandianusJS12</url>
 </article>
 </r>
+<r><article key="journals/ijvr/LiuS0LX12" mdate="2021-03-01">
+<author pid="60/8967">Yaqiong Liu</author>
+<author pid="s/SeahHockSoon">Seah Hock Soon</author>
+<author pid="h/YingHe1">Ying He 0001</author>
+<author pid="87/5337">Juncong Lin</author>
+<author pid="72/7440">Jiazhi Xia</author>
+<title>Sketch Based Image Deformation and Editing with Guaranteed Feature Correspondence.</title>
+<pages>25-32</pages>
+<year>2012</year>
+<volume>11</volume>
+<journal>Int. J. Virtual Real.</journal>
+<number>1</number>
+<ee>https://doi.org/10.20870/IJVR.2012.11.1.2834</ee>
+<url>db/journals/ijvr/ijvr11.html#LiuS0LX12</url>
+</article>
+</r>
 <r><article key="journals/jwscg/MovaniaLQCS12" mdate="2020-04-07">
 <author pid="45/7476">Muhammad Mobeen Movania</author>
 <author pid="75/2611-2">Feng Lin 0002</author>
@@ -1059,6 +1075,20 @@
 <ee>https://doi.org/10.1007/978-3-642-17832-0_18</ee>
 <crossref>conf/mmm/2011-1</crossref>
 <url>db/conf/mmm/mmm2011-1.html#ZhangSQOJ11</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/siggrapha/00010SM11" mdate="2021-03-11">
+<author pid="48/2807-1">Long Zhang 0001</author>
+<author pid="h/YingHe1">Ying He 0001</author>
+<author pid="s/SeahHockSoon">Hock Soon Seah</author>
+<author pid="64/964">Wolfgang Müller-Wittig</author>
+<title>A hybrid object/image space approach for efficient and robust line drawings.</title>
+<pages>21:1-21:2</pages>
+<year>2011</year>
+<booktitle>SIGGRAPH Asia Sketches</booktitle>
+<ee>https://doi.org/10.1145/2077378.2077405</ee>
+<crossref>conf/siggrapha/2011sketches</crossref>
+<url>db/conf/siggrapha/siggrapha2011sketches.html#00010SM11</url>
 </inproceedings>
 </r>
 <r><inproceedings key="conf/vrcai/LiuSHLX11" mdate="2018-11-06">
@@ -1368,7 +1398,7 @@
 <pages>135398:1-135398:7</pages>
 </article>
 </r>
-<r><article key="journals/ijvr/ZhuTZSY08" mdate="2020-07-22">
+<r><article key="journals/ijvr/ZhuTZSY08" mdate="2021-02-25">
 <author pid="36/4937">Tonglin Zhu</author>
 <author pid="78/3204-6">Feng Tian 0006</author>
 <author pid="60/5157">Yan Zhou</author>
@@ -1380,7 +1410,7 @@
 <volume>7</volume>
 <journal>Int. J. Virtual Real.</journal>
 <number>1</number>
-<ee>http://www.ijvr.org/issues/issue1-2008/9.pdf</ee>
+<ee type="archive">http://www.ijvr.org/issues/issue1-2008/9.pdf</ee>
 <url>db/journals/ijvr/ijvr7.html#ZhuTZSY08</url>
 </article>
 </r>
@@ -2045,7 +2075,7 @@
 <url>db/journals/cga/cga12.html#LokeTSE92</url>
 </article>
 </r>
-<coauthors n="146" nc="3">
+<coauthors n="146" nc="2">
 <co c="0"><na f="a/Ao:Xuefeng" pid="90/7180">Xuefeng Ao</na></co>
 <co c="0"><na f="b/B=eacute=nard:Pierre" pid="04/7434">Pierre Bénard</na></co>
 <co c="0"><na f="b/Benvenuti:Davide" pid="204/4060">Davide Benvenuti</na></co>
@@ -2062,7 +2092,7 @@
 <co c="0"><na f="d/Dauwels:Justin" pid="d/JustinDauwels">Justin Dauwels</na></co>
 <co c="0"><na f="d/Deng:Chenwei" pid="73/8538">Chenwei Deng</na></co>
 <co c="0"><na f="d/Dong:Lu" pid="40/2448">Lu Dong</na></co>
-<co c="2"><na f="e/Er:Meng_Hwa" pid="96/2389">Meng Hwa Er</na></co>
+<co c="1"><na f="e/Er:Meng_Hwa" pid="96/2389">Meng Hwa Er</na></co>
 <co c="0"><na f="f/Fang:Yuming" pid="31/9004">Yuming Fang</na></co>
 <co c="0"><na f="f/Fernando:Owen_Noel_Newton" pid="84/2408">Owen Noel Newton Fernando</na></co>
 <co c="0"><na f="f/Fong:Nickson" pid="58/6953">Nickson Fong</na></co>
@@ -2072,7 +2102,7 @@
 <co c="0"><na f="g/Gu:Huiqin" pid="95/10519">Huiqin Gu</na></co>
 <co c="0"><na f="g/Gu:Xianfeng" pid="g/XianfengGu">Xianfeng Gu</na></co>
 <co c="0"><na f="h/He_0001:Ying" pid="h/YingHe1">Ying He 0001</na></co>
-<co c="1"><na f="h/Ho:Tomas_Yuen_Ka" pid="221/6601">Tomas Yuen Ka Ho</na></co>
+<co c="0"><na f="h/Ho:Tomas_Yuen_Ka" pid="221/6601">Tomas Yuen Ka Ho</na></co>
 <co c="0" n="2"><na f="h/Hong:Jeffrey" pid="128/9359">Jeffrey Hong</na><na>Jeffrey Yan Jack Hong</na></co>
 <co c="0"><na f="h/Hong:Tian" pid="44/3848">Tian Hong</na></co>
 <co c="0"><na f="j/Jabbar:Khalid" pid="32/9004">Khalid Jabbar</na></co>
@@ -2082,7 +2112,7 @@
 <co c="0"><na f="k/Kannappan:Vinayak_Teoh" pid="252/9615">Vinayak Teoh Kannappan</na></co>
 <co c="0"><na f="k/Kung:Sun=Yuan" pid="25/4640">Sun-Yuan Kung</na></co>
 <co c="0"><na f="k/Kunii:Tosiyasu_L=" pid="k/TosiyasuLKunii">Tosiyasu L. Kunii</na></co>
-<co c="1"><na f="k/Kvill:Heather" pid="221/6603">Heather Kvill</na></co>
+<co c="0"><na f="k/Kvill:Heather" pid="221/6603">Heather Kvill</na></co>
 <co c="0"><na f="l/Lee:Yong_Tsui" pid="00/5938">Yong Tsui Lee</na></co>
 <co c="0"><na f="l/Lees:Michael" pid="97/1049">Michael Lees</na></co>
 <co c="0"><na f="l/Leong:S=_K=" pid="64/6685">S. K. Leong</na></co>
@@ -2091,7 +2121,7 @@
 <co c="0"><na f="l/Li:Li" pid="53/2189">Li Li</na></co>
 <co c="0"><na f="l/Li_0006:Ling" pid="92/5001-6">Ling Li 0006</na></co>
 <co c="0"><na f="l/Li:Ruifeng" pid="38/6776">Ruifeng Li</na></co>
-<co c="1"><na f="l/Li:Yuefeng" pid="74/4581">Yuefeng Li</na></co>
+<co c="0"><na f="l/Li:Yuefeng" pid="74/4581">Yuefeng Li</na></co>
 <co c="0"><na f="l/Liew:Hong=Ze" pid="227/0001">Hong-Ze Liew</na></co>
 <co c="0"><na f="l/Lin_0002:Feng" pid="75/2611-2">Feng Lin 0002</na></co>
 <co c="0"><na f="l/Lin:Juncong" pid="87/5337">Juncong Lin</na></co>
@@ -2105,10 +2135,10 @@
 <co c="0"><na f="l/Liu:Shaolong" pid="181/7394">Shaolong Liu</na></co>
 <co c="0"><na f="l/Liu:Xingxing" pid="84/11070">Xingxing Liu</na></co>
 <co c="0"><na f="l/Liu:Yaqiong" pid="60/8967">Yaqiong Liu</na></co>
-<co c="2"><na f="l/Loke:Teng=See" pid="174/8312">Teng-See Loke</na></co>
+<co c="1"><na f="l/Loke:Teng=See" pid="174/8312">Teng-See Loke</na></co>
 <co c="0"><na f="l/Low:Malcolm_Yoke=Hean" pid="l/MalcolmYokeHeanLow">Malcolm Yoke-Hean Low</na></co>
 <co c="0"><na f="l/Lu:Ji" pid="93/1980">Ji Lu</na></co>
-<co c="1"><na f="l/Lu:Yixiang" pid="90/5282">Yixiang Lu</na></co>
+<co c="0"><na f="l/Lu:Yixiang" pid="90/5282">Yixiang Lu</na></co>
 <co c="0"><na f="l/Lye:Hui_En" pid="254/8641">Hui En Lye</na></co>
 <co c="0"><na f="m/Meiqun:Hu" pid="93/5125">Hu Meiqun</na></co>
 <co c="0"><na f="m/Melikhov:Konstantin" pid="84/1236">Konstantin Melikhov</na></co>
@@ -2138,8 +2168,8 @@
 <co c="0"><na f="s/Sun:Jingwen" pid="174/4043">Jingwen Sun</na></co>
 <co c="0"><na f="s/Sun:Jixiang" pid="76/10344">Jixiang Sun</na></co>
 <co c="0"><na f="s/S=yacute=kora:Daniel" pid="33/2038">Daniel Sýkora</na></co>
-<co c="2"><na f="t/Tan:Daniel" pid="20/5198">Daniel Tan</na></co>
-<co c="1"><na f="t/Tan:Margaret" pid="50/816">Margaret Tan</na></co>
+<co c="1"><na f="t/Tan:Daniel" pid="20/5198">Daniel Tan</na></co>
+<co c="0"><na f="t/Tan:Margaret" pid="50/816">Margaret Tan</na></co>
 <co c="0"><na f="t/Tan:Xavier" pid="252/9568">Xavier Tan</na></co>
 <co c="0"><na f="t/Tandianus:Budianto" pid="81/8382">Budianto Tandianus</na></co>
 <co c="0"><na f="t/Tandjung:Stephanus_Surijadarma" pid="18/5849">Stephanus Surijadarma Tandjung</na></co>
@@ -2148,7 +2178,7 @@
 <co c="0"><na f="t/Thong:Patricia_S=_P=" pid="31/7529">Patricia S. P. Thong</na></co>
 <co c="0"><na f="t/Tian_0006:Feng" pid="78/3204-6">Feng Tian 0006</na></co>
 <co c="0"><na f="t/Tran:Hoai_Nam_Le" pid="07/9455">Hoai Nam Le Tran</na></co>
-<co c="1"><na f="t/Tripathi:Neha" pid="221/6602">Neha Tripathi</na></co>
+<co c="0"><na f="t/Tripathi:Neha" pid="221/6602">Neha Tripathi</na></co>
 <co c="0"><na f="v/Vergne:Romain" pid="24/7188">Romain Vergne</na></co>
 <co c="0"><na f="v/Vu:Tuan_Dat" pid="233/3526">Tuan Dat Vu</na></co>
 <co c="0"><na f="w/Wang:Jing" pid="02/736">Jing Wang</na></co>
@@ -2168,7 +2198,7 @@
 <co c="0"><na f="x/Xiao:Xian" pid="78/4972">Xian Xiao</na></co>
 <co c="0"><na f="x/Xie:Boya" pid="92/2775">Boya Xie</na></co>
 <co c="0"><na f="x/Xie:Xuexiang" pid="01/6764">Xuexiang Xie</na></co>
-<co c="1"><na f="x/Xin:Chang_Ke" pid="221/6599">Chang Ke Xin</na></co>
+<co c="0"><na f="x/Xin:Chang_Ke" pid="221/6599">Chang Ke Xin</na></co>
 <co c="0"><na f="x/Xu:X=" pid="52/3618">X. Xu</na></co>
 <co c="0"><na f="x/Xu:Xiang" pid="126/2962">Xiang Xu</na></co>
 <co c="0"><na f="y/Yan:Xiaolong" pid="16/6254">Xiaolong Yan</na></co>
@@ -2191,7 +2221,7 @@
 <co c="0"><na f="z/Zhu:Ce" pid="69/2369">Ce Zhu</na></co>
 <co c="0"><na f="z/Zhu:Tonglin" pid="36/4937">Tonglin Zhu</na></co>
 <co c="0"><na f="z/Zhuang:Yueting" pid="218/7793">Yueting Zhuang</na></co>
-<co c="1"><na f="z/Zuiker:Steven_John" pid="10/10024">Steven John Zuiker</na></co>
+<co c="0"><na f="z/Zuiker:Steven_John" pid="10/10024">Steven John Zuiker</na></co>
 </coauthors>
 </dblpperson>
 </body></html>

@@ -1,7 +1,23 @@
-<?xml version="1.0"?><html><body><dblpperson n="168" name="Kwok-Yan Lam" pid="10/1993">
+<?xml version="1.0"?><html><body><dblpperson n="172" name="Kwok-Yan Lam" pid="10/1993">
 <person key="homepages/10/1993" mdate="2009-06-09">
 <author pid="10/1993">Kwok-Yan Lam</author>
 </person>
+<r><article key="journals/ijon/Wang0HYRL21" mdate="2021-02-17">
+<author pid="49/9">Teng Wang</author>
+<author pid="47/2026-7">Jun Zhao 0007</author>
+<author pid="69/8668">Zhi Hu</author>
+<author pid="89/473">Xinyu Yang</author>
+<author pid="136/3467">Xuebin Ren</author>
+<author pid="10/1993">Kwok-Yan Lam</author>
+<title>Local Differential Privacy for data collection and analysis.</title>
+<pages>114-133</pages>
+<year>2021</year>
+<volume>426</volume>
+<journal>Neurocomputing</journal>
+<ee>https://doi.org/10.1016/j.neucom.2020.09.073</ee>
+<url>db/journals/ijon/ijon426.html#Wang0HYRL21</url>
+</article>
+</r>
 <r><article key="journals/iotj/MollahZNLZGKY21" mdate="2021-01-12">
 <author orcid="0000-0003-2708-3435" pid="121/0675">Muhammad Baqer Mollah</author>
 <author orcid="0000-0002-3004-7091" pid="47/2026-7">Jun Zhao 0007</author>
@@ -19,6 +35,25 @@
 <number>1</number>
 <ee>https://doi.org/10.1109/JIOT.2020.2993601</ee>
 <url>db/journals/iotj/iotj8.html#MollahZNLZGKY21</url>
+</article>
+</r>
+<r><article key="journals/iotj/MollahZNGYSLK21" mdate="2021-03-11">
+<author pid="121/0675">Muhammad Baqer Mollah</author>
+<author pid="47/2026-7">Jun Zhao 0007</author>
+<author pid="76/440">Dusit Niyato</author>
+<author pid="19/5809-1">Yong Liang Guan 0001</author>
+<author pid="01/753">Chau Yuen</author>
+<author pid="46/3348">Sumei Sun</author>
+<author pid="10/1993">Kwok-Yan Lam</author>
+<author pid="184/8095">Leong Hai Koh</author>
+<title>Blockchain for the Internet of Vehicles Towards Intelligent Transportation Systems: A Survey.</title>
+<pages>4157-4185</pages>
+<year>2021</year>
+<volume>8</volume>
+<journal>IEEE Internet Things J.</journal>
+<number>6</number>
+<ee>https://doi.org/10.1109/JIOT.2020.3028368</ee>
+<url>db/journals/iotj/iotj8.html#MollahZNGYSLK21</url>
 </article>
 </r>
 <r><article key="journals/corr/abs-2101-04194" mdate="2021-01-21" publtype="informal">
@@ -132,6 +167,20 @@
 <url>db/journals/wc/wc27.html#LiLCZ20</url>
 </article>
 </r>
+<r><inproceedings key="conf/aces/ChimelezeJIL20" mdate="2021-03-02">
+<author orcid="0000-0003-0595-2214" pid="285/2342">Collins Uchenna Chimeleze</author>
+<author pid="22/10851">Norziana Jamil</author>
+<author pid="49/6515">Roslan Ismail</author>
+<author pid="10/1993">Kwok-Yan Lam</author>
+<title>A Review on Malware Variants Detection Techniques for Threat Intelligence in Resource Constrained Devices: Existing Approaches, Limitations and Future Direction.</title>
+<pages>354-370</pages>
+<year>2020</year>
+<booktitle>ACeS</booktitle>
+<ee>https://doi.org/10.1007/978-981-33-6835-4_24</ee>
+<crossref>conf/aces/2020</crossref>
+<url>db/conf/aces/aces2020.html#ChimelezeJIL20</url>
+</inproceedings>
+</r>
 <r><inproceedings key="conf/ccs/GondesenML20" mdate="2020-12-29">
 <author orcid="0000-0001-6174-8854" pid="254/8572">Florian Gondesen</author>
 <author pid="233/3038">Sananda Mitra</author>
@@ -159,11 +208,11 @@
 <url>db/conf/eccv/eccv2020-20.html#HuangWKL20</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/globecom/YangZXZNLW20" mdate="2021-02-01">
+<r><inproceedings key="conf/globecom/YangZXZNLW20" mdate="2021-03-11">
 <author pid="145/2071">Helin Yang</author>
 <author pid="50/2082">Yang Zhao</author>
 <author pid="174/9863">Zehui Xiong</author>
-<author pid="47/2026">Jun Zhao</author>
+<author pid="47/2026-7">Jun Zhao 0007</author>
 <author pid="76/440">Dusit Niyato</author>
 <author pid="10/1993">Kwok-Yan Lam</author>
 <author pid="150/9712">Qingqing Wu</author>
@@ -200,6 +249,22 @@
 <ee>https://doi.org/10.1109/ICASSP40776.2020.9054420</ee>
 <crossref>conf/icassp/2020</crossref>
 <url>db/conf/icassp/icassp2020.html#LiLLK20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdcs/ZhaoTLWLX20" mdate="2021-03-11">
+<author pid="47/2026-7">Jun Zhao 0007</author>
+<author pid="83/663">Jing Tang</author>
+<author pid="95/6812">Zengxiang Li</author>
+<author pid="52/4513">Huaxiong Wang</author>
+<author pid="10/1993">Kwok-Yan Lam</author>
+<author pid="94/5600">Kaiping Xue</author>
+<title>An Analysis of Blockchain Consistency in Asynchronous Networks: Deriving a Neat Bound.</title>
+<pages>179-189</pages>
+<year>2020</year>
+<booktitle>ICDCS</booktitle>
+<ee>https://doi.org/10.1109/ICDCS47774.2020.00039</ee>
+<crossref>conf/icdcs/2020</crossref>
+<url>db/conf/icdcs/icdcs2020.html#ZhaoTLWLX20</url>
 </inproceedings>
 </r>
 <r><proceedings key="conf/provsec/2020" mdate="2020-12-29">
@@ -280,11 +345,11 @@
 <url>db/journals/corr/corr2008.html#abs-2008-03686</url>
 </article>
 </r>
-<r><article key="journals/corr/abs-2010-08730" mdate="2020-10-21" publtype="informal">
+<r><article key="journals/corr/abs-2010-08730" mdate="2021-03-11" publtype="informal">
 <author pid="237/4601">Jiale Guo</author>
 <author pid="191/8896">Ziyao Liu</author>
 <author pid="10/1993">Kwok-Yan Lam</author>
-<author pid="47/2026">Jun Zhao</author>
+<author pid="47/2026-7">Jun Zhao 0007</author>
 <author pid="48/1091">Yiqiang Chen</author>
 <author pid="72/2199">Chaoping Xing</author>
 <title>Secure Weighted Aggregation in Federated Learning.</title>
@@ -310,11 +375,11 @@
 <url>db/journals/corr/corr2011.html#abs-2011-14197</url>
 </article>
 </r>
-<r><article key="journals/corr/abs-2012-10681" mdate="2021-01-04" publtype="informal">
+<r><article key="journals/corr/abs-2012-10681" mdate="2021-03-11" publtype="informal">
 <author pid="92/2954">Feng Li</author>
 <author pid="10/1993">Kwok-Yan Lam</author>
 <author pid="90/4627">Min Jia</author>
-<author pid="47/2026">Jun Zhao</author>
+<author pid="47/2026-7">Jun Zhao 0007</author>
 <author pid="116/1627">Xiuhua Li</author>
 <author pid="58/6810">Li Wang</author>
 <title>Blockchain-Based Approach for Securing Spectrum Trading in Multibeam Satellite Systems.</title>
@@ -325,11 +390,11 @@
 <url>db/journals/corr/corr2012.html#abs-2012-10681</url>
 </article>
 </r>
-<r><article key="journals/corr/abs-2012-13807" mdate="2021-01-05" publtype="informal">
+<r><article key="journals/corr/abs-2012-13807" mdate="2021-03-11" publtype="informal">
 <author pid="121/1326">Mengmeng Yang</author>
 <author pid="160/3839">Ivan Tjuawinata</author>
 <author pid="10/1993">Kwok-Yan Lam</author>
-<author pid="47/2026">Jun Zhao</author>
+<author pid="47/2026-7">Jun Zhao 0007</author>
 <author pid="95/6619">Lin Sun</author>
 <title>Secure Hot Path Crowdsourcing with Local Differential Privacy under Fog Computing Architecture.</title>
 <year>2020</year>
@@ -553,11 +618,11 @@
 <url>db/conf/ijcnn/ijcnn2019.html#Zhao0CHLS19</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/ipccc/WangYRZL19" mdate="2020-03-27">
+<r><inproceedings key="conf/ipccc/WangYRZL19" mdate="2021-03-11">
 <author pid="49/9">Teng Wang</author>
 <author pid="89/473">Xinyu Yang</author>
 <author pid="136/3467">Xuebin Ren</author>
-<author pid="47/2026">Jun Zhao</author>
+<author pid="47/2026-7">Jun Zhao 0007</author>
 <author orcid="0000-0001-7479-7970" pid="10/1993">Kwok-Yan Lam</author>
 <title>Adaptive Differentially Private Data Stream Publishing in Spatio-temporal Monitoring of IoT.</title>
 <pages>1-8</pages>
@@ -581,15 +646,15 @@
 <url>db/conf/pricai/pricai2019-3.html#HuangKL19</url>
 </inproceedings>
 </r>
-<r><article key="journals/corr/abs-1911-03298" mdate="2020-12-29" publtype="informal">
+<r><article key="journals/corr/abs-1911-03298" mdate="2021-02-10" publtype="informal">
 <author pid="121/0675">Muhammad Baqer Mollah</author>
 <author orcid="0000-0002-3004-7091" pid="47/2026-7">Jun Zhao 0007</author>
 <author pid="76/440">Dusit Niyato</author>
 <author pid="10/1993">Kwok-Yan Lam</author>
-<author pid="76/1584">Xin Zhang</author>
+<author pid="76/1584-34">Xin Zhang 0034</author>
 <author pid="150/9493">Amer M. Y. M. Ghias</author>
 <author pid="184/8095">Leong Hai Koh</author>
-<author pid="50/2484">Lei Yang</author>
+<author pid="50/2484-1">Lei Yang 0001</author>
 <title>Blockchain for Future Smart Grid: A Comprehensive Survey.</title>
 <year>2019</year>
 <volume>abs/1911.03298</volume>
@@ -1552,7 +1617,7 @@
 <url>db/journals/compsec/compsec22.html#LamCGS03</url>
 </article>
 </r>
-<r><article key="journals/iandc/CaiL03" mdate="2017-05-18">
+<r><article key="journals/iandc/CaiL03" mdate="2021-02-12">
 <author pid="75/2172">Ning Cai</author>
 <author pid="10/1993">Kwok-Yan Lam</author>
 <title>On identification secret sharing schemes.</title>
@@ -1561,7 +1626,7 @@
 <volume>184</volume>
 <journal>Inf. Comput.</journal>
 <number>2</number>
-<ee>https://doi.org/10.1016/S0890-5401(03)00056-7</ee>
+<ee type="oa">https://doi.org/10.1016/S0890-5401(03)00056-7</ee>
 <url>db/journals/iandc/iandc184.html#CaiL03</url>
 </article>
 </r>
@@ -1768,7 +1833,7 @@
 <ee>http://doi.ieeecomputersociety.org/10.1109/IPDPS.2001.925163</ee>
 </inproceedings>
 </r>
-<r><article key="journals/dm/DingHL00" mdate="2020-02-22">
+<r><article key="journals/dm/DingHL00" mdate="2021-02-12">
 <author pid="61/3094">Cunsheng Ding</author>
 <author pid="93/1033">Tor Helleseth</author>
 <author pid="10/1993">Kwok-Yan Lam</author>
@@ -1778,7 +1843,7 @@
 <volume>218</volume>
 <journal>Discret. Math.</journal>
 <number>1-3</number>
-<ee>https://doi.org/10.1016/S0012-365X(99)00367-2</ee>
+<ee type="oa">https://doi.org/10.1016/S0012-365X(99)00367-2</ee>
 <url>db/journals/dm/dm218.html#DingHL00</url>
 </article>
 </r>
@@ -1892,7 +1957,7 @@
 <ee>https://doi.org/10.3233/FI-1999-381212</ee>
 </article>
 </r>
-<r><article key="journals/tcs/ZhangLJ99" mdate="2017-05-28">
+<r><article key="journals/tcs/ZhangLJ99" mdate="2021-02-17">
 <author pid="23/3876">Chunru Zhang</author>
 <author pid="10/1993">Kwok-Yan Lam</author>
 <author pid="j/SushilJajodia">Sushil Jajodia</author>
@@ -1903,7 +1968,7 @@
 <journal>Theor. Comput. Sci.</journal>
 <number>1-2</number>
 <url>db/journals/tcs/tcs226.html#ZhangLJ99</url>
-<ee>https://doi.org/10.1016/S0304-3975(99)00072-9</ee>
+<ee type="oa">https://doi.org/10.1016/S0304-3975(99)00072-9</ee>
 </article>
 </r>
 <r><article key="journals/tit/XingNL99" mdate="2020-03-10">
@@ -2417,7 +2482,7 @@
 <ee>https://doi.org/10.1145/122098.122105</ee>
 </article>
 </r>
-<coauthors n="210" nc="5">
+<coauthors n="214" nc="6">
 <co c="0"><na f="b/Badsha:Shahriar" pid="122/3123">Shahriar Badsha</na></co>
 <co c="0"><na f="b/Bai:Tao" pid="87/2834">Tao Bai</na></co>
 <co c="0"><na f="b/Bertino:Elisa" pid="b/ElisaBertino">Elisa Bertino</na></co>
@@ -2441,6 +2506,7 @@
 <co c="0"><na f="c/Cheng:Shixin" pid="70/5825">Shixin Cheng</na></co>
 <co c="0"><na f="c/Chew:Wai=Meng" pid="75/868">Wai-Meng Chew</na></co>
 <co c="0"><na f="c/Chi:Chi=Hung" pid="89/3076">Chi-Hung Chi</na></co>
+<co c="2"><na f="c/Chimeleze:Collins_Uchenna" pid="285/2342">Collins Uchenna Chimeleze</na></co>
 <co c="0"><na f="c/Chung:Siu_Leung" pid="76/393">Siu Leung Chung</na></co>
 <co c="0" n="2"><na f="d/Dai:Zongduo" pid="d/ZongduoDai">Zongduo Dai</na><na>Zong-Duo Dai</na></co>
 <co c="0"><na f="d/Ding:Chen_=Cherie=" pid="139/2293">Chen (Cherie) Ding</na></co>
@@ -2465,13 +2531,16 @@
 <co c="0"><na f="h/Helleseth:Tor" pid="93/1033">Tor Helleseth</na></co>
 <co c="0"><na f="h/Heuvel:Willem=Jan_van_den" pid="85/22">Willem-Jan van den Heuvel</na></co>
 <co c="0"><na f="h/Hsu:D=_Frank" pid="h/DFrankHsu">D. Frank Hsu</na></co>
+<co c="0"><na f="h/Hu:Zhi" pid="69/8668">Zhi Hu</na></co>
 <co c="0"><na f="h/Hua:Jingyu" pid="18/3537">Jingyu Hua</na></co>
-<co c="2"><na f="h/Huang:Elmo_X=" pid="260/8556">Elmo X. Huang</na></co>
+<co c="4"><na f="h/Huang:Elmo_X=" pid="260/8556">Elmo X. Huang</na></co>
 <co c="0"><na f="h/Huang:Yi" pid="15/6040">Yi Huang</na></co>
 <co c="0"><na f="h/Huang:Yi=Yuan" pid="82/5891">Yi-Yuan Huang</na></co>
 <co c="0" n="2"><na f="h/Hui:Lucas_C=_K=" pid="h/LucasChiKwongHui">Lucas C. K. Hui</na><na>Lucas Chi Kwong Hui</na></co>
 <co c="0"><na f="i/Imamura:Kyoki" pid="39/1495">Kyoki Imamura</na></co>
+<co c="2"><na f="i/Ismail:Roslan" pid="49/6515">Roslan Ismail</na></co>
 <co c="0"><na f="j/Jajodia:Sushil" pid="j/SushilJajodia">Sushil Jajodia</na></co>
+<co c="2"><na f="j/Jamil:Norziana" pid="22/10851">Norziana Jamil</na></co>
 <co c="1"><na f="j/Jia:Lingyan" pid="34/7672">Lingyan Jia</na></co>
 <co c="0"><na f="j/Jia:Min" pid="90/4627">Min Jia</na></co>
 <co c="0"><na f="j/Jin:Xiaoming" pid="26/5593">Xiaoming Jin</na></co>
@@ -2497,6 +2566,7 @@
 <co c="0"><na f="l/Li:Tieyan" pid="20/1256">Tieyan Li</na></co>
 <co c="0"><na f="l/Li:Xiang" pid="40/1491">Xiang Li</na></co>
 <co c="0"><na f="l/Li:Xiuhua" pid="116/1627">Xiuhua Li</na></co>
+<co c="0"><na f="l/Li:Zengxiang" pid="95/6812">Zengxiang Li</na></co>
 <co c="0"><na f="l/Li_0001:Zhi" pid="43/3166-1">Zhi Li 0001</na></co>
 <co c="3"><na f="l/Lin:Iuon=Chang" pid="73/3513">Iuon-Chang Lin</na></co>
 <co c="0"><na f="l/Ling:San" pid="83/3827">San Ling</na></co>
@@ -2511,7 +2581,7 @@
 <co c="0"><na f="l/Luo:Hao" pid="14/3727">Hao Luo</na></co>
 <co c="0" n="2"><na f="l/Lv:Tingting" pid="98/10847">Tingting Lv</na><na>Tingting Lu</na></co>
 <co c="0"><na f="l/Lyu:Lingjuan" pid="178/9876">Lingjuan Lyu</na></co>
-<co c="2"><na f="m/Ma:Haiying" pid="182/8394">Haiying Ma</na></co>
+<co c="4"><na f="m/Ma:Haiying" pid="182/8394">Haiying Ma</na></co>
 <co c="0"><na f="m/Mazumdar_0001:Subhra" pid="29/4490">Subhra Mazumdar 0001</na></co>
 <co c="0"><na f="m/Meng:Limin" pid="29/7201">Limin Meng</na></co>
 <co c="0"><na f="m/Mitra:Sananda" pid="233/3038">Sananda Mitra</na></co>
@@ -2556,7 +2626,8 @@
 <co c="0"><na f="s/Sun:Sumei" pid="46/3348">Sumei Sun</na></co>
 <co c="0"><na f="s/Sun:Yujing" pid="64/8656">Yujing Sun</na></co>
 <co c="0"><na f="s/Sun:Zhonghao" pid="155/6957">Zhonghao Sun</na></co>
-<co c="4"><na f="t/Tan:Gary_S=_H=" pid="09/1257">Gary S. H. Tan</na></co>
+<co c="5"><na f="t/Tan:Gary_S=_H=" pid="09/1257">Gary S. H. Tan</na></co>
+<co c="0"><na f="t/Tang:Jing" pid="83/663">Jing Tang</na></co>
 <co c="0"><na f="t/Tari:Zahir" pid="t/ZahirTari">Zahir Tari</na></co>
 <co c="0"><na f="t/Tian:Hui" pid="57/1592">Hui Tian</na></co>
 <co c="0"><na f="t/Tjuawinata:Ivan" pid="160/3839">Ivan Tjuawinata</na></co>
@@ -2576,7 +2647,7 @@
 <co c="0"><na f="w/Wang:Xin" pid="10/5630">Xin Wang</na></co>
 <co c="0"><na f="w/Wei:Shimin" pid="59/610">Shimin Wei</na></co>
 <co c="0"><na f="w/Wei:Zhenghong" pid="83/2927">Zhenghong Wei</na></co>
-<co c="4"><na f="w/Wibowo:Arrianto_Mukti" pid="86/5126">Arrianto Mukti Wibowo</na></co>
+<co c="5"><na f="w/Wibowo:Arrianto_Mukti" pid="86/5126">Arrianto Mukti Wibowo</na></co>
 <co c="0"><na f="w/Wong:Ming_Ming" pid="01/8059">Ming Ming Wong</na></co>
 <co c="0"><na f="w/Wu:Bangyu" pid="81/641">Bangyu Wu</na></co>
 <co c="0"><na f="w/Wu:Qian" pid="61/591">Qian Wu</na></co>
@@ -2591,9 +2662,9 @@
 <co c="0"><na f="x/Xiong:Zehui" pid="174/9863">Zehui Xiong</na></co>
 <co c="0"><na f="x/Xu:Mingwei" pid="18/6055">Mingwei Xu</na></co>
 <co c="0"><na f="x/Xu:Shijie" pid="19/4813">Shijie Xu</na></co>
+<co c="0"><na f="x/Xue:Kaiping" pid="94/5600">Kaiping Xue</na></co>
 <co c="0"><na f="y/Yang:Helin" pid="145/2071">Helin Yang</na></co>
 <co c="0"><na f="y/Yang:Jielin" pid="283/4389">Jielin Yang</na></co>
-<co c="0"><na f="y/Yang:Lei" pid="50/2484">Lei Yang</na></co>
 <co c="0"><na f="y/Yang_0001:Lei" pid="50/2484-1">Lei Yang 0001</na></co>
 <co c="0"><na f="y/Yang:Mengmeng" pid="121/1326">Mengmeng Yang</na></co>
 <co c="0"><na f="y/Yang:Wenzhuo" pid="18/11088">Wenzhuo Yang</na></co>
@@ -2612,11 +2683,9 @@
 <co c="0"><na f="z/Zhang:C=_Q=" pid="22/3035">C. Q. Zhang</na></co>
 <co c="0"><na f="z/Zhang:Chunru" pid="23/3876">Chunru Zhang</na></co>
 <co c="0"><na f="z/Zhang:Lei" pid="97/8704">Lei Zhang</na></co>
-<co c="0"><na f="z/Zhang:Xin" pid="76/1584">Xin Zhang</na></co>
 <co c="0"><na f="z/Zhang_0034:Xin" pid="76/1584-34">Xin Zhang 0034</na></co>
 <co c="0"><na f="z/Zhang:Xinggan" pid="51/7732">Xinggan Zhang</na></co>
 <co c="0"><na f="z/Zhao:Huanhui" pid="82/1313">Huanhui Zhao</na></co>
-<co c="0"><na f="z/Zhao:Jun" pid="47/2026">Jun Zhao</na></co>
 <co c="0"><na f="z/Zhao_0007:Jun" pid="47/2026-7">Jun Zhao 0007</na></co>
 <co c="0"><na f="z/Zhao:Kanglian" pid="08/8790">Kanglian Zhao</na></co>
 <co c="0"><na f="z/Zhao_0001:Nan" pid="84/4581-1">Nan Zhao 0001</na></co>

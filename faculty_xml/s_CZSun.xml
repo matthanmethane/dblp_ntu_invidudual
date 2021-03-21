@@ -171,7 +171,7 @@
 <url>db/conf/ccscw/ccscw2017.html#FanGZLSS17</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/cscw/MacFaddenNIGS17" mdate="2017-02-22">
+<r><inproceedings key="conf/cscw/MacFaddenNIGS17" mdate="2021-03-10">
 <author pid="165/2058">Michael S. MacFadden</author>
 <author pid="94/957">Agustina Ng</author>
 <author pid="68/3145">Claudia-Lavinia Ignat</author>
@@ -181,12 +181,12 @@
 <pages>351-354</pages>
 <year>2017</year>
 <booktitle>CSCW Companion</booktitle>
-<ee>http://dl.acm.org/citation.cfm?id=3022653</ee>
+<ee>https://doi.org/10.1145/3022198.3022653</ee>
 <crossref>conf/cscw/2017c</crossref>
 <url>db/conf/cscw/cscw2017c.html#MacFaddenNIGS17</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/cscw/SunXN17" mdate="2017-02-15">
+<r><inproceedings key="conf/cscw/SunXN17" mdate="2021-03-09">
 <author pid="s/CZSun">Chengzheng Sun</author>
 <author pid="14/5580">Yi Xu</author>
 <author pid="94/957">Agustina Ng</author>
@@ -194,7 +194,7 @@
 <pages>2504-2517</pages>
 <year>2017</year>
 <booktitle>CSCW</booktitle>
-<ee>http://dl.acm.org/citation.cfm?id=2998252</ee>
+<ee>https://doi.org/10.1145/2998181.2998252</ee>
 <crossref>conf/cscw/2017</crossref>
 <url>db/conf/cscw/cscw2017.html#SunXN17</url>
 </inproceedings>

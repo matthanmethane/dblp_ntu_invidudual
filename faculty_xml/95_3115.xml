@@ -1,7 +1,20 @@
-<?xml version="1.0"?><html><body><dblpperson n="127" name="Deepu Rajan" pid="95/3115">
+<?xml version="1.0"?><html><body><dblpperson n="129" name="Deepu Rajan" pid="95/3115">
 <person key="homepages/95/3115" mdate="2009-06-09">
 <author pid="95/3115">Deepu Rajan</author>
 </person>
+<r><article key="journals/pr/MaoRC21" mdate="2021-03-02">
+<author orcid="0000-0002-9743-5451" pid="183/6573">Shangbo Mao</author>
+<author pid="95/3115">Deepu Rajan</author>
+<author pid="05/2952">Liang-Tien Chia</author>
+<title>Deep residual pooling network for texture recognition.</title>
+<pages>107817</pages>
+<year>2021</year>
+<volume>112</volume>
+<journal>Pattern Recognit.</journal>
+<ee>https://doi.org/10.1016/j.patcog.2021.107817</ee>
+<url>db/journals/pr/pr112.html#MaoRC21</url>
+</article>
+</r>
 <r><article key="journals/jvcir/WangR20" mdate="2020-10-17">
 <author pid="16/5766">Liangliang Wang</author>
 <author pid="95/3115">Deepu Rajan</author>
@@ -1632,6 +1645,20 @@
 <url>db/journals/pami/pami25.html#RajanC03</url>
 </article>
 </r>
+<r><article key="journals/spm/RajanCJ03" mdate="2021-02-26">
+<author pid="95/3115">Deepu Rajan</author>
+<author pid="c/SubhasisChaudhuri">Subhasis Chaudhuri</author>
+<author pid="36/6018">Manjunath V. Joshi</author>
+<title>Multi-objective super resolution: concepts and examples.</title>
+<pages>49-61</pages>
+<year>2003</year>
+<volume>20</volume>
+<journal>IEEE Signal Process. Mag.</journal>
+<number>3</number>
+<ee>https://doi.org/10.1109/MSP.2003.1203209</ee>
+<url>db/journals/spm/spm20.html#RajanCJ03</url>
+</article>
+</r>
 <r><inproceedings key="conf/cisst/WangCD03" mdate="2003-11-20">
 <author pid="19/2598">Surong Wang</author>
 <author pid="05/2952">Liang-Tien Chia</author>
@@ -1771,14 +1798,14 @@
 <url>db/conf/vmv/vmv2000.html#RajanC00</url>
 </inproceedings>
 </r>
-<coauthors n="88" nc="7">
+<coauthors n="90" nc="8">
 <co c="1"><na f="a/Anand:Vijay" pid="71/9287">Vijay Anand</na></co>
 <co c="3"><na f="a/Anisi:Mohammad_Hossein" pid="33/10425">Mohammad Hossein Anisi</na></co>
 <co c="0"><na f="c/Cai_0001:Jianfei" pid="83/6096">Jianfei Cai 0001</na></co>
 <co c="2"><na f="c/Castleman:Shannon_Lee" pid="37/8930">Shannon Lee Castleman</na></co>
 <co c="0"><na f="c/Cham:Tat=Jen" pid="29/3808">Tat-Jen Cham</na></co>
 <co c="0"><na f="c/Chan:Syin" pid="80/2106">Syin Chan</na></co>
-<co c="-1"><na f="c/Chaudhuri:Subhasis" pid="c/SubhasisChaudhuri">Subhasis Chaudhuri</na></co>
+<co c="7"><na f="c/Chaudhuri:Subhasis" pid="c/SubhasisChaudhuri">Subhasis Chaudhuri</na></co>
 <co c="0"><na f="c/Chen:Xie" pid="86/11429">Xie Chen</na></co>
 <co c="0"><na f="c/Cheng:Xiangang" pid="92/5664">Xiangang Cheng</na></co>
 <co c="0" n="2"><na f="c/Chia:Alex_Yong_Sang" pid="51/3141">Alex Yong Sang Chia</na><na>Alex Y. S. Chia</na></co>
@@ -1803,6 +1830,7 @@
 <co c="6"><na f="j/Jawahar:C=_V=" pid="j/CVJawahar">C. V. Jawahar</na></co>
 <co c="0"><na f="j/Jin:Jesse_S=" pid="07/3553">Jesse S. Jin</na></co>
 <co c="1"><na f="j/Johnson:Jubin" pid="157/3599">Jubin Johnson</na></co>
+<co c="7"><na f="j/Joshi:Manjunath_V=" pid="36/6018">Manjunath V. Joshi</na></co>
 <co c="2"><na f="k/Kakarala:Ramakrishna" pid="24/4500">Ramakrishna Kakarala</na></co>
 <co c="3"><na f="k/Kaljahi:Maryam_Asadzadeh" pid="162/5703">Maryam Asadzadeh Kaljahi</na></co>
 <co c="1"><na f="k/Kanhangad:Vivek" pid="73/2190">Vivek Kanhangad</na></co>
@@ -1822,6 +1850,7 @@
 <co c="0"><na f="m/Ma:Wei=Ying" pid="m/WYMa">Wei-Ying Ma</na></co>
 <co c="1"><na f="m/Manyala:Anirudh" pid="250/3942">Anirudh Manyala</na></co>
 <co c="2"><na f="m/Mao:Dansheng" pid="17/8654">Dansheng Mao</na></co>
+<co c="0"><na f="m/Mao:Shangbo" pid="183/6573">Shangbo Mao</na></co>
 <co c="0"><na f="m/McKeown:Martin_J=" pid="15/78">Martin J. McKeown</na></co>
 <co c="0"><na f="m/Murthy:O=_V=_Ramana" pid="02/5518">O. V. Ramana Murthy</na></co>
 <co c="0"><na f="m/Muthuswamy:Karthik" pid="07/7314">Karthik Muthuswamy</na></co>

@@ -1,7 +1,18 @@
-<?xml version="1.0"?><html><body><dblpperson n="85" name="Xavier Bresson" pid="95/378">
+<?xml version="1.0"?><html><body><dblpperson n="86" name="Xavier Bresson" pid="95/378">
 <person key="homepages/95/378" mdate="2009-06-09">
 <author pid="95/378">Xavier Bresson</author>
 </person>
+<r><article key="journals/corr/abs-2103-03012" mdate="2021-03-15" publtype="informal">
+<author pid="95/378">Xavier Bresson</author>
+<author pid="47/8889-1">Thomas Laurent 0001</author>
+<title>The Transformer Network for the Traveling Salesman Problem.</title>
+<year>2021</year>
+<volume>abs/2103.03012</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2103.03012</ee>
+<url>db/journals/corr/corr2103.html#abs-2103-03012</url>
+</article>
+</r>
 <r><article key="journals/corr/abs-2003-00982" mdate="2021-01-23" publtype="informal">
 <author pid="243/1717">Vijay Prakash Dwivedi</author>
 <author orcid="0000-0003-4722-1815" pid="202/2132">Chaitanya K. Joshi</author>

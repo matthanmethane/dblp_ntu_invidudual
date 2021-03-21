@@ -1,4 +1,4 @@
-<?xml version="1.0"?><html><body><dblpperson n="159" name="Shafiq R. Joty" pid="62/2078">
+<?xml version="1.0"?><html><body><dblpperson n="161" name="Shafiq R. Joty" pid="62/2078">
 <person key="homepages/62/2078" mdate="2020-05-12">
 <author pid="62/2078">Shafiq R. Joty</author>
 <author pid="62/2078">Shafiq Rayhan Joty</author>
@@ -22,6 +22,35 @@
 <journal>CoRR</journal>
 <ee type="oa">https://arxiv.org/abs/2101.11802</ee>
 <url>db/journals/corr/corr2101.html#abs-2101-11802</url>
+</article>
+</r>
+<r><article key="journals/corr/abs-2103-00740" mdate="2021-03-04" publtype="informal">
+<author pid="43/1941">Weiguo Wang</author>
+<author pid="b/SSBhowmick">Sourav S. Bhowmick</author>
+<author pid="66/3387">Hui Li</author>
+<author pid="62/2078">Shafiq R. Joty</author>
+<author pid="00/4516">Siyuan Liu</author>
+<author pid="27/7017">Peng Chen</author>
+<title>Towards Enhancing Database Education: Natural Language Generation Meets Query Execution Plans.</title>
+<year>2021</year>
+<volume>abs/2103.00740</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2103.00740</ee>
+<url>db/journals/corr/corr2103.html#abs-2103-00740</url>
+</article>
+</r>
+<r><article key="journals/corr/abs-2103-06459" mdate="2021-03-16" publtype="informal">
+<author pid="35/7711">Linlin Liu</author>
+<author pid="130/6395">Thien Hai Nguyen</author>
+<author pid="62/2078">Shafiq R. Joty</author>
+<author pid="53/6625">Lidong Bing</author>
+<author pid="14/1217">Luo Si</author>
+<title>Towards Multi-Sense Cross-Lingual Alignment of Contextual Embeddings.</title>
+<year>2021</year>
+<volume>abs/2103.06459</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2103.06459</ee>
+<url>db/journals/corr/corr2103.html#abs-2103-06459</url>
 </article>
 </r>
 <r><article key="journals/coling/MohiuddinJ20" mdate="2020-07-17">
@@ -1428,10 +1457,10 @@
 <url>db/conf/icwsm/icwsm2017.html#NguyenAJSIM17</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/iui/HoqueJMC17" mdate="2018-11-06">
+<r><inproceedings key="conf/iui/HoqueJMC17" mdate="2021-03-18">
 <author pid="71/4476">Enamul Hoque</author>
 <author pid="62/2078">Shafiq R. Joty</author>
-<author pid="196/1137">Luis Marquez</author>
+<author pid="287/6358">Luís Màrquez</author>
 <author pid="30/3994">Giuseppe Carenini</author>
 <title>CQAVis: Visual Text Analytics for Community Question Answering.</title>
 <pages>161-172</pages>
@@ -2258,7 +2287,7 @@
 <url>db/conf/trec/trec2007.html#ChaliJ07</url>
 </inproceedings>
 </r>
-<coauthors n="141" nc="2">
+<coauthors n="144" nc="2">
 <co c="0"><na f="a/Abdelali:Ahmed" pid="48/5636">Ahmed Abdelali</na></co>
 <co c="0"><na f="a/Aggarwal:Karan" pid="145/3946">Karan Aggarwal</na></co>
 <co c="0"><na f="a/Al=Mannai:Kamla" pid="169/3358">Kamla Al-Mannai</na></co>
@@ -2276,6 +2305,7 @@
 <co c="0"><na f="c/Cai_0001:Jianfei" pid="83/6096">Jianfei Cai 0001</na></co>
 <co c="0"><na f="c/Carenini:Giuseppe" pid="30/3994">Giuseppe Carenini</na></co>
 <co c="1"><na f="c/Chali:Yllias" pid="42/6992">Yllias Chali</na></co>
+<co c="0"><na f="c/Chen:Peng" pid="27/7017">Peng Chen</na></co>
 <co c="0"><na f="c/Chi:Xu" pid="115/6188">Xu Chi</na></co>
 <co c="0"><na f="c/Chin:Jin_Yao" pid="204/0112">Jin Yao Chin</na></co>
 <co c="0"><na f="c/Cong:Gao" pid="33/3180">Gao Cong</na></co>
@@ -2318,6 +2348,7 @@
 <co c="0"><na f="k/Kui:Wu" pid="252/5748">Wu Kui</na></co>
 <co c="0"><na f="l/Li:Haoran" pid="50/10038">Haoran Li</na></co>
 <co c="0"><na f="l/Li:Haoyuan" pid="46/3744">Haoyuan Li</na></co>
+<co c="0"><na f="l/Li:Hui" pid="66/3387">Hui Li</na></co>
 <co c="0"><na f="l/Li_0034:Jing" pid="l/JingLi34">Jing Li 0034</na></co>
 <co c="0"><na f="l/Li:Jingjing" pid="65/4699">Jingjing Li</na></co>
 <co c="0"><na f="l/Li_0003:Qing" pid="181/2689-3">Qing Li 0003</na></co>
@@ -2332,7 +2363,7 @@
 <co c="0"><na f="m/Ma_0004:Jing" pid="96/6129-4">Jing Ma 0004</na></co>
 <co c="0"><na f="m/Magdy:Walid" pid="56/1909">Walid Magdy</na></co>
 <co c="0" n="2"><na f="m/M=agrave=rquez:Llu=iacute=s" pid="62/3">Lluís Màrquez</na><na>Lluís Màrquez i Villodre</na></co>
-<co c="0"><na f="m/Marquez:Luis" pid="196/1137">Luis Marquez</na></co>
+<co c="0"><na f="m/M=agrave=rquez:Lu=iacute=s" pid="287/6358">Luís Màrquez</na></co>
 <co c="0"><na f="m/Martino:Giovanni_Da_San" pid="25/3236">Giovanni Da San Martino</na></co>
 <co c="0"><na f="m/McCann:Bryan" pid="205/2296">Bryan McCann</na></co>
 <co c="0"><na f="m/Mehdad:Yashar" pid="28/7560">Yashar Mehdad</na></co>
@@ -2389,6 +2420,7 @@
 <co c="0"><na f="w/Wang:Gang" pid="71/4292">Gang Wang</na></co>
 <co c="0"><na f="w/Wang_0012:Gang" pid="71/4292-12">Gang Wang 0012</na></co>
 <co c="0"><na f="w/Wang:Shu" pid="32/5536">Shu Wang</na></co>
+<co c="0"><na f="w/Wang:Weiguo" pid="43/1941">Weiguo Wang</na></co>
 <co c="0"><na f="w/Wang:Weishi" pid="276/6542">Weishi Wang</na></co>
 <co c="0"><na f="w/Wang_0034:Yue" pid="60/9374-34">Yue Wang 0034</na></co>
 <co c="0"><na f="w/Williams:Thomas" pid="21/4101">Thomas Williams</na></co>

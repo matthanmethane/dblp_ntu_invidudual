@@ -1,16 +1,16 @@
-<?xml version="1.0"?><html><body><dblpperson n="135" name="Rui Tan" pid="00/5179">
+<?xml version="1.0"?><html><body><dblpperson n="136" name="Rui Tan" pid="00/5179">
 <person key="homepages/00/5179" mdate="2009-06-10">
 <author pid="00/5179">Rui Tan</author>
 </person>
-<r><article key="journals/iotj/ZhaoZJTNLLL21" mdate="2021-01-29">
-<author pid="50/2082">Yang Zhao</author>
-<author pid="47/2026-7">Jun Zhao 0007</author>
+<r><article key="journals/iotj/ZhaoZJTNLLL21" mdate="2021-02-11">
+<author orcid="0000-0003-0285-503X" pid="50/2082">Yang Zhao</author>
+<author orcid="0000-0002-3004-7091" pid="47/2026-7">Jun Zhao 0007</author>
 <author pid="183/1884">Linshan Jiang</author>
-<author pid="00/5179">Rui Tan</author>
-<author pid="76/440">Dusit Niyato</author>
+<author orcid="0000-0001-8441-9973" pid="00/5179">Rui Tan</author>
+<author orcid="0000-0002-7442-7416" pid="76/440">Dusit Niyato</author>
 <author pid="95/6812">Zengxiang Li</author>
 <author pid="178/9876">Lingjuan Lyu</author>
-<author pid="29/2046">Yingbo Liu</author>
+<author orcid="0000-0002-7415-0517" pid="29/2046">Yingbo Liu</author>
 <title>Privacy-Preserving Blockchain-Based Federated Learning for IoT Devices.</title>
 <pages>1817-1829</pages>
 <year>2021</year>
@@ -159,6 +159,21 @@
 <ee>https://doi.org/10.1109/TSG.2019.2921245</ee>
 <url>db/journals/tsg/tsg11.html#TianTGXL20</url>
 </article>
+</r>
+<r><inproceedings key="conf/icdcs/GuJTLH20" mdate="2021-03-02">
+<author pid="211/7582">Chaojie Gu</author>
+<author pid="183/1884">Linshan Jiang</author>
+<author pid="00/5179">Rui Tan</author>
+<author pid="87/4982">Mo Li</author>
+<author pid="51/5022">Jun Huang</author>
+<title>Attack-Aware Data Timestamping in Low-Power Synchronization-Free LoRaWAN.</title>
+<pages>100-110</pages>
+<year>2020</year>
+<booktitle>ICDCS</booktitle>
+<ee>https://doi.org/10.1109/ICDCS47774.2020.00109</ee>
+<crossref>conf/icdcs/2020</crossref>
+<url>db/conf/icdcs/icdcs2020.html#GuJTLH20</url>
+</inproceedings>
 </r>
 <r><inproceedings key="conf/mobicom/GamageLGTL20" mdate="2020-11-30">
 <author pid="194/6983">Amalinda Gamage</author>

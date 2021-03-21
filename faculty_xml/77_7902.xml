@@ -1,7 +1,24 @@
-<?xml version="1.0"?><html><body><dblpperson n="75" name="Tianwei Zhang" pid="77/7902">
+<?xml version="1.0"?><html><body><dblpperson n="78" name="Tianwei Zhang" pid="77/7902">
 <person key="homepages/77/7902" mdate="2010-03-09">
 <author pid="77/7902">Tianwei Zhang</author>
 </person>
+<r><article key="journals/iotj/QiuZZQML21" mdate="2021-03-02">
+<author orcid="0000-0003-2678-8070" pid="15/4507-1">Han Qiu 0001</author>
+<author orcid="0000-0002-5391-9446" pid="252/0145">Qinkai Zheng</author>
+<author orcid="0000-0001-6595-6650" pid="77/7902">Tianwei Zhang</author>
+<author orcid="0000-0002-1004-0140" pid="q/MeikangQiu">Meikang Qiu</author>
+<author orcid="0000-0002-3380-8394" pid="27/1392">Gérard Memmi</author>
+<author orcid="0000-0002-6752-7224" pid="32/4850">Jialiang Lu</author>
+<title>Toward Secure and Efficient Deep Learning Inference in Dependable IoT Systems.</title>
+<pages>3180-3188</pages>
+<year>2021</year>
+<volume>8</volume>
+<journal>IEEE Internet Things J.</journal>
+<number>5</number>
+<ee>https://doi.org/10.1109/JIOT.2020.3004498</ee>
+<url>db/journals/iotj/iotj8.html#QiuZZQML21</url>
+</article>
+</r>
 <r><article key="journals/corr/abs-2101-01032" mdate="2021-01-21" publtype="informal">
 <author pid="22/4460">Tao Xiang</author>
 <author pid="277/7585">Hangcheng Liu</author>
@@ -14,6 +31,20 @@
 <journal>CoRR</journal>
 <ee type="oa">https://arxiv.org/abs/2101.01032</ee>
 <url>db/journals/corr/corr2101.html#abs-2101-01032</url>
+</article>
+</r>
+<r><article key="journals/corr/abs-2102-03523" mdate="2021-02-10" publtype="informal">
+<author pid="219/8643">Xiaoxuan Lou</author>
+<author pid="176/6479">Shangwei Guo</author>
+<author pid="77/7902">Tianwei Zhang</author>
+<author pid="77/3503">Yinqian Zhang</author>
+<author pid="51/3710">Yang Liu</author>
+<title>When NAS Meets Watermarking: Ownership Verification of DNN Models via Cache Side Channels.</title>
+<year>2021</year>
+<volume>abs/2102.03523</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2102.03523</ee>
+<url>db/journals/corr/corr2102.html#abs-2102-03523</url>
 </article>
 </r>
 <r><article key="journals/appml/ZhangX20a" mdate="2019-12-19">
@@ -156,6 +187,20 @@
 <ee>https://doi.org/10.1109/ICRA40945.2020.9197349</ee>
 <crossref>conf/icra/2020</crossref>
 <url>db/conf/icra/icra2020.html#ZhangZLNZ20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/iros/LiZNH20" mdate="2021-02-16">
+<author pid="37/4190">Yang Li</author>
+<author pid="77/7902">Tianwei Zhang</author>
+<author pid="67/98">Yoshihiko Nakamura</author>
+<author pid="14/5849">Tatsuya Harada</author>
+<title>SplitFusion: Simultaneous Tracking and Mapping for Non-Rigid Scenes.</title>
+<pages>5128-5134</pages>
+<year>2020</year>
+<booktitle>IROS</booktitle>
+<ee>https://doi.org/10.1109/IROS45743.2020.9341082</ee>
+<crossref>conf/iros/2020</crossref>
+<url>db/conf/iros/iros2020.html#LiZNH20</url>
 </inproceedings>
 </r>
 <r><inproceedings key="conf/miccai/ZhangYHLG20" mdate="2020-10-05">
@@ -432,7 +477,7 @@
 <url>db/journals/ar/ar33.html#ZhangN19</url>
 </article>
 </r>
-<r><article key="journals/kybernetika/ZhangX19" mdate="2020-09-05">
+<r><article key="journals/kybernetika/ZhangX19" mdate="2021-02-17">
 <author orcid="0000-0001-6777-1668" pid="77/7902">Tianwei Zhang</author>
 <author pid="28/2774">Lijun Xu</author>
 <title>Mean almost periodicity and moment exponential stability of discrete-time stochastic shunting inhibitory cellular neural networks with time delays.</title>
@@ -441,7 +486,7 @@
 <volume>55</volume>
 <journal>Kybernetika</journal>
 <number>4</number>
-<ee>https://doi.org/10.14736/kyb-2019-4-0690</ee>
+<ee type="oa">https://doi.org/10.14736/kyb-2019-4-0690</ee>
 <url>db/journals/kybernetika/kybernetika55.html#ZhangX19</url>
 </article>
 </r>
@@ -647,7 +692,7 @@
 <url>db/journals/ijhr/ijhr14.html#ZhangCN17</url>
 </article>
 </r>
-<r><article key="journals/kybernetika/ZhangL17" mdate="2019-10-19">
+<r><article key="journals/kybernetika/ZhangL17" mdate="2021-02-17">
 <author orcid="0000-0001-6777-1668" pid="77/7902">Tianwei Zhang</author>
 <author pid="144/9237">Yongzhi Liao</author>
 <title>Existence and global attractivity of positive almost periodic solutions for a kind of fishing model with pure-delay.</title>
@@ -656,7 +701,7 @@
 <volume>53</volume>
 <journal>Kybernetika</journal>
 <number>4</number>
-<ee>https://doi.org/10.14736/kyb-2017-4-0612</ee>
+<ee type="oa">https://doi.org/10.14736/kyb-2017-4-0612</ee>
 <url>db/journals/kybernetika/kybernetika53.html#ZhangL17</url>
 </article>
 </r>
@@ -987,7 +1032,7 @@
 <url>db/conf/micro/micro2012w.html#ZhangSL12</url>
 </inproceedings>
 </r>
-<r><article key="journals/mcm/LiZ11" mdate="2020-02-24">
+<r><article key="journals/mcm/LiZ11" mdate="2021-02-17">
 <author pid="89/6978">Yongkun Li</author>
 <author orcid="0000-0001-6777-1668" pid="77/7902">Tianwei Zhang</author>
 <title>Permanence of a discrete n-species cooperation system with time-varying delays and feedback controls.</title>
@@ -996,7 +1041,7 @@
 <volume>53</volume>
 <journal>Math. Comput. Model.</journal>
 <number>5-6</number>
-<ee>https://doi.org/10.1016/j.mcm.2010.12.018</ee>
+<ee type="oa">https://doi.org/10.1016/j.mcm.2010.12.018</ee>
 <url>db/journals/mcm/mcm53.html#LiZ11</url>
 </article>
 </r>
@@ -1042,38 +1087,38 @@
 <url>db/journals/ijns/ijns19.html#LiZ09</url>
 </article>
 </r>
-<coauthors n="108" nc="5">
-<co c="1"><na f="b/Bao:Yungang" pid="08/6937">Yungang Bao</na></co>
+<coauthors n="110" nc="3">
+<co c="0"><na f="b/Bao:Yungang" pid="08/6937">Yungang Bao</na></co>
 <co c="0"><na f="b/Bian:Gui=Bin" pid="143/0298">Gui-Bin Bian</na></co>
 <co c="0"><na f="b/Bian:Shuqing" pid="217/1794">Shuqing Bian</na></co>
 <co c="0"><na f="b/Bozic:Aljaz" pid="203/9936">Aljaz Bozic</na></co>
 <co c="0"><na f="c/Caron:St=eacute=phane" pid="69/8355">Stéphane Caron</na></co>
 <co c="0"><na f="c/Chen:Kangjie" pid="204/3003">Kangjie Chen</na></co>
-<co c="1"><na f="c/Chen:Si" pid="93/5439">Si Chen</na></co>
+<co c="0"><na f="c/Chen:Si" pid="93/5439">Si Chen</na></co>
 <co c="0"><na f="c/Chen:Yufei" pid="79/4489">Yufei Chen</na></co>
 <co c="0"><na f="d/Deng:Zhenpeng" pid="196/3957">Zhenpeng Deng</na></co>
 <co c="0"><na f="d/Ding:Runwei" pid="11/8205">Runwei Ding</na></co>
 <co c="0"><na f="f/Fan:Ming" pid="63/6525">Ming Fan</na></co>
 <co c="-1"><na f="g/Gan:Xiao=rong" pid="121/0116">Xiao-rong Gan</na></co>
 <co c="0"><na f="g/Gao:Wei" pid="28/2073">Wei Gao</na></co>
-<co c="2"><na f="g/Gu:Shi" pid="175/1269">Shi Gu</na></co>
+<co c="0"><na f="g/Gu:Shi" pid="175/1269">Shi Gu</na></co>
 <co c="0"><na f="g/Gu:Zhaopeng" pid="124/0417">Zhaopeng Gu</na></co>
 <co c="0"><na f="g/Guo:Shangwei" pid="176/6479">Shangwei Guo</na></co>
-<co c="4"><na f="h/Han:Sufang" pid="248/3713">Sufang Han</na></co>
+<co c="2"><na f="h/Han:Sufang" pid="248/3713">Sufang Han</na></co>
 <co c="0"><na f="h/Harada:Tatsuya" pid="14/5849">Tatsuya Harada</na></co>
-<co c="1"><na f="h/He:Zecheng" pid="203/5675">Zecheng He</na></co>
-<co c="2"><na f="h/Hu:Na" pid="41/10186">Na Hu</na></co>
+<co c="0"><na f="h/He:Zecheng" pid="203/5675">Zecheng He</na></co>
+<co c="0"><na f="h/Hu:Na" pid="41/10186">Na Hu</na></co>
 <co c="0"><na f="h/Huang:Ru" pid="47/5619">Ru Huang</na></co>
 <co c="0"><na f="h/Huang:Xin" pid="98/5766">Xin Huang</na></co>
-<co c="3"><na f="i/Ivan:Vladimir" pid="123/5180">Vladimir Ivan</na></co>
-<co c="1"><na f="j/Jamkhedkar:Pramod_A=" pid="88/3602">Pramod A. Jamkhedkar</na></co>
+<co c="1"><na f="i/Ivan:Vladimir" pid="123/5180">Vladimir Ivan</na></co>
+<co c="0"><na f="j/Jamkhedkar:Pramod_A=" pid="88/3602">Pramod A. Jamkhedkar</na></co>
 <co c="0"><na f="j/Ji:Yanli" pid="79/8728">Yanli Ji</na></co>
-<co c="1"><na f="j/Jiang:Jun" pid="88/4302">Jun Jiang</na></co>
+<co c="0"><na f="j/Jiang:Jun" pid="88/4302">Jun Jiang</na></co>
 <co c="0"><na f="j/Jiang:Yong" pid="74/1552">Yong Jiang</na></co>
 <co c="0"><na f="j/Jin:Kaidi" pid="268/5396">Kaidi Jin</na></co>
 <co c="0"><na f="j/Juefei=Xu:Felix" pid="35/11103">Felix Juefei-Xu</na></co>
 <co c="0"><na f="k/Kang:Risheng" pid="195/9072">Risheng Kang</na></co>
-<co c="1"><na f="l/Lee:Ruby_B=" pid="87/4706">Ruby B. Lee</na></co>
+<co c="0"><na f="l/Lee:Ruby_B=" pid="87/4706">Ruby B. Lee</na></co>
 <co c="0"><na f="l/Li:Dezhong" pid="88/8369">Dezhong Li</na></co>
 <co c="0"><na f="l/Li:Fei" pid="87/3534">Fei Li</na></co>
 <co c="0"><na f="l/Li:Jiwei" pid="73/5746">Jiwei Li</na></co>
@@ -1083,7 +1128,7 @@
 <co c="0"><na f="l/Liao:Yongzhi" pid="144/9237">Yongzhi Liao</na></co>
 <co c="0"><na f="l/Lin:Chenhao" pid="198/9470">Chenhao Lin</na></co>
 <co c="0"><na f="l/Liu:Changze" pid="46/10348">Changze Liu</na></co>
-<co c="1"><na f="l/Liu:Fangfei" pid="151/7530">Fangfei Liu</na></co>
+<co c="0"><na f="l/Liu:Fangfei" pid="151/7530">Fangfei Liu</na></co>
 <co c="0"><na f="l/Liu:Hangcheng" pid="277/7585">Hangcheng Liu</na></co>
 <co c="0"><na f="l/Liu_0008:Hong" pid="29/5010-8">Hong Liu 0008</na></co>
 <co c="0"><na f="l/Liu:Mengyuan" pid="143/0160">Mengyuan Liu</na></co>
@@ -1092,8 +1137,10 @@
 <co c="0"><na f="l/Liu_0003:Yang" pid="51/3710-3">Yang Liu 0003</na></co>
 <co c="0"><na f="l/Liu:Yu" pid="97/2274">Yu Liu</na></co>
 <co c="0"><na f="l/Liu:Yuchao" pid="80/8341">Yuchao Liu</na></co>
-<co c="3"><na f="l/Long:Ran" pid="120/8816">Ran Long</na></co>
-<co c="2"><na f="l/Lv:Su" pid="275/6749">Su Lv</na></co>
+<co c="1"><na f="l/Long:Ran" pid="120/8816">Ran Long</na></co>
+<co c="0"><na f="l/Lou:Xiaoxuan" pid="219/8643">Xiaoxuan Lou</na></co>
+<co c="0"><na f="l/Lu:Jialiang" pid="32/4850">Jialiang Lu</na></co>
+<co c="0"><na f="l/Lv:Su" pid="275/6749">Su Lv</na></co>
 <co c="0"><na f="m/Ma_0003:Lei" pid="20/6534-3">Lei Ma 0003</na></co>
 <co c="0"><na f="m/Ma:Liqian" pid="145/1269">Liqian Ma</na></co>
 <co c="0"><na f="m/Memmi:G=eacute=rard" pid="27/1392">Gérard Memmi</na></co>
@@ -1101,29 +1148,29 @@
 <co c="0"><na f="n/Nakamura:Yoshihiko" pid="67/98">Yoshihiko Nakamura</na></co>
 <co c="0"><na f="n/Nie=szlig=ner:Matthias" pid="84/8221">Matthias Nießner</na></co>
 <co c="0"><na f="p/Pang:Liyan" pid="141/6686">Liyan Pang</na></co>
-<co c="1"><na f="p/Perez=Botero:Diego" pid="142/7779">Diego Perez-Botero</na></co>
+<co c="0"><na f="p/Perez=Botero:Diego" pid="142/7779">Diego Perez-Botero</na></co>
 <co c="0"><na f="q/Qiu_0001:Han" pid="15/4507-1">Han Qiu 0001</na></co>
 <co c="0"><na f="q/Qiu:Meikang" pid="q/MeikangQiu">Meikang Qiu</na></co>
-<co c="4"><na f="q/Qu:Huizhen" pid="265/9519">Huizhen Qu</na></co>
-<co c="3"><na f="r/Rauch:Christian" pid="51/7703">Christian Rauch</na></co>
+<co c="2"><na f="q/Qu:Huizhen" pid="265/9519">Huizhen Qu</na></co>
+<co c="1"><na f="r/Rauch:Christian" pid="51/7703">Christian Rauch</na></co>
 <co c="0"><na f="s/Shen_0001:Chao" pid="48/4825-1">Chao Shen 0001</na></co>
 <co c="0"><na f="s/Shi:Peng" pid="172/7638">Peng Shi</na></co>
 <co c="0"><na f="s/Sun:Jianwen" pid="20/11086">Jianwen Sun</na></co>
 <co c="0"><na f="s/Sun:Qianru" pid="127/6132">Qianru Sun</na></co>
 <co c="0"><na f="s/Sun:Qing" pid="34/7845">Qing Sun</na></co>
 <co c="0"><na f="s/Sun:Zijun" pid="217/1473">Zijun Sun</na></co>
-<co c="1"><na f="s/Szefer:Jakub" pid="66/8277">Jakub Szefer</na></co>
+<co c="0"><na f="s/Szefer:Jakub" pid="66/8277">Jakub Szefer</na></co>
 <co c="0"><na f="t/Tang_0005:Hao" pid="07/5751-5">Hao Tang 0005</na></co>
 <co c="0"><na f="t/Thuraisingham:Bhavani_M=" pid="t/BMThuraisingham">Bhavani M. Thuraisingham</na></co>
 <co c="0"><na f="t/Tian:Cong" pid="00/5365">Cong Tian</na></co>
-<co c="1"><na f="t/Triolo:Gina" pid="142/7784">Gina Triolo</na></co>
+<co c="0"><na f="t/Triolo:Gina" pid="142/7784">Gina Triolo</na></co>
 <co c="0"><na f="u/Uchiyama:Emiko" pid="200/7283">Emiko Uchiyama</na></co>
-<co c="3"><na f="v/Vijayakumar:Sethu" pid="68/1347">Sethu Vijayakumar</na></co>
+<co c="1"><na f="v/Vijayakumar:Sethu" pid="68/1347">Sethu Vijayakumar</na></co>
 <co c="0"><na f="w/Wang:Chuangqi" pid="123/6829">Chuangqi Wang</na></co>
 <co c="0"><na f="w/Wang:Lin" pid="17/6729">Lin Wang</na></co>
 <co c="0"><na f="w/Wang:Renzhi" pid="152/2466">Renzhi Wang</na></co>
 <co c="0"><na f="w/Wang:Runsheng" pid="01/4141">Runsheng Wang</na></co>
-<co c="1"><na f="w/Wang:Sa" pid="42/8496">Sa Wang</na></co>
+<co c="0"><na f="w/Wang:Sa" pid="42/8496">Sa Wang</na></co>
 <co c="0"><na f="w/Wang:Sikuang" pid="217/1539">Sikuang Wang</na></co>
 <co c="0"><na f="w/Wang:Wanpeng" pid="271/5092">Wanpeng Wang</na></co>
 <co c="0"><na f="w/Wang:Wei" pid="35/7092">Wei Wang</na></co>
@@ -1137,20 +1184,20 @@
 <co c="0"><na f="x/Xing:Zhiwei" pid="17/7762">Zhiwei Xing</na></co>
 <co c="0"><na f="x/Xiong:Lianglin" pid="69/5718">Lianglin Xiong</na></co>
 <co c="0"><na f="x/Xu:Lijun" pid="28/2774">Lijun Xu</na></co>
-<co c="1"><na f="x/Xu:Yuan" pid="89/3127">Yuan Xu</na></co>
+<co c="0"><na f="x/Xu:Yuan" pid="89/3127">Yuan Xu</na></co>
 <co c="0"><na f="y/Yang:Li" pid="09/3925">Li Yang</na></co>
-<co c="2"><na f="y/Yu:Lequan" pid="165/8092">Lequan Yu</na></co>
+<co c="0"><na f="y/Yu:Lequan" pid="165/8092">Lequan Yu</na></co>
 <co c="0"><na f="y/Yuan:Arianna" pid="212/4263">Arianna Yuan</na></co>
 <co c="0"><na f="y/Yuan:Fei" pid="75/222">Fei Yuan</na></co>
 <co c="0"><na f="z/Zeng:Yi" pid="75/148">Yi Zeng</na></co>
 <co c="0"><na f="z/Zhang:Huayan" pid="163/3972">Huayan Zhang</na></co>
 <co c="0"><na f="z/Zhang_0079:Lei" pid="97/8704-79">Lei Zhang 0079</na></co>
-<co c="1"><na f="z/Zhang:Yinqian" pid="77/3503">Yinqian Zhang</na></co>
+<co c="0"><na f="z/Zhang:Yinqian" pid="77/3503">Yinqian Zhang</na></co>
 <co c="0"><na f="z/Zhao:Lili" pid="54/5985">Lili Zhao</na></co>
 <co c="0"><na f="z/Zhao:Wenyong" pid="168/2103">Wenyong Zhao</na></co>
 <co c="0"><na f="z/Zheng:Qinkai" pid="252/0145">Qinkai Zheng</na></co>
 <co c="0"><na f="z/Zheng:Yan" pid="10/2381">Yan Zheng</na></co>
-<co c="4"><na f="z/Zhou:Jianwen" pid="257/6725">Jianwen Zhou</na></co>
+<co c="2"><na f="z/Zhou:Jianwen" pid="257/6725">Jianwen Zhou</na></co>
 </coauthors>
 </dblpperson>
 </body></html>

@@ -1,7 +1,23 @@
-<?xml version="1.0"?><html><body><dblpperson n="60" name="Zhiwei Liu" pid="90/9499">
+<?xml version="1.0"?><html><body><dblpperson n="62" name="Zhiwei Liu" pid="90/9499">
 <person key="homepages/90/9499" mdate="2011-04-28">
 <author pid="90/9499">Zhiwei Liu</author>
 </person>
+<r><article key="journals/access/HuangNLLBS21" mdate="2021-03-03">
+<author pid="51/944">Hai Huang</author>
+<author pid="45/4274">Na Ning</author>
+<author pid="17/418">Xing Lin</author>
+<author pid="90/9499">Zhiwei Liu</author>
+<author pid="65/7648">Yu Bin</author>
+<author pid="286/7191">Zhao Shilei</author>
+<title>An Improved wNAF Scalar-Multiplication Algorithm With Low Computational Complexity by Using Prime Precomputation.</title>
+<pages>31546-31552</pages>
+<year>2021</year>
+<volume>9</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2021.3061124</ee>
+<url>db/journals/access/access9.html#HuangNLLBS21</url>
+</article>
+</r>
 <r><article key="journals/apin/LiuHZPD21" mdate="2021-01-08">
 <author pid="90/9499">Zhiwei Liu</author>
 <author pid="17/5016">Ji Huang</author>
@@ -16,6 +32,21 @@
 <number>1</number>
 <ee>https://doi.org/10.1007/s10489-020-01723-2</ee>
 <url>db/journals/apin/apin51.html#LiuHZPD21</url>
+</article>
+</r>
+<r><article key="journals/corr/abs-2103-05997" mdate="2021-03-16" publtype="informal">
+<author pid="58/2893">Lu Yang</author>
+<author pid="150/5904-6">Qing Song 0006</author>
+<author pid="65/2749">Zhihui Wang</author>
+<author pid="90/9499">Zhiwei Liu</author>
+<author pid="131/6572">Songcen Xu</author>
+<author pid="40/2903">Zhihao Li</author>
+<title>Quality-Aware Network for Human Parsing.</title>
+<year>2021</year>
+<volume>abs/2103.05997</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2103.05997</ee>
+<url>db/journals/corr/corr2103.html#abs-2103-05997</url>
 </article>
 </r>
 <r><article key="journals/access/YangLCZY20" mdate="2020-09-19">
@@ -33,8 +64,8 @@
 <url>db/journals/access/access8.html#YangLCZY20</url>
 </article>
 </r>
-<r><article key="journals/ccfthpc/ZhengYLXWLLZC20" mdate="2021-01-14">
-<author pid="25/1888">Peng Zheng</author>
+<r><article key="journals/ccfthpc/ZhengYLXWLLZC20" mdate="2021-03-02">
+<author orcid="0000-0001-5872-6435" pid="25/1888">Peng Zheng</author>
 <author pid="48/450">Yang Yang</author>
 <author pid="90/9499">Zhiwei Liu</author>
 <author pid="38/1303">Quan Xu</author>
@@ -153,11 +184,11 @@
 <url>db/conf/date/date2020.html#ShivaramanSLRES20</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/eccv/ZhuGLTW20" mdate="2020-12-03">
+<r><inproceedings key="conf/eccv/ZhuGLTW20" mdate="2021-03-04">
 <author pid="244/3040">Kuan Zhu</author>
 <author pid="163/0477">Haiyun Guo</author>
 <author pid="90/9499">Zhiwei Liu</author>
-<author pid="73/4373">Ming Tang</author>
+<author pid="73/4373-1">Ming Tang 0001</author>
 <author pid="67/4236">Jinqiao Wang</author>
 <title>Identity-Guided Human Semantic Parsing for Person Re-identification.</title>
 <pages>346-363</pages>
@@ -168,13 +199,13 @@
 <url>db/conf/eccv/eccv2020-3.html#ZhuGLTW20</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/eccv/WenLGLHTW20" mdate="2020-11-03">
+<r><inproceedings key="conf/eccv/WenLGLHTW20" mdate="2021-03-04">
 <author pid="42/4185">Xin Wen</author>
 <author pid="215/6209">Biying Li</author>
 <author pid="163/0477">Haiyun Guo</author>
 <author pid="90/9499">Zhiwei Liu</author>
 <author pid="98/7676">Guosheng Hu</author>
-<author pid="73/4373">Ming Tang</author>
+<author pid="73/4373-1">Ming Tang 0001</author>
 <author pid="67/4236">Jinqiao Wang</author>
 <title>Adaptive Variance Based Label Distribution Learning for Facial Age Estimation.</title>
 <pages>379-395</pages>
@@ -325,11 +356,11 @@
 <url>db/journals/corr/corr2005.html#abs-2005-14373</url>
 </article>
 </r>
-<r><article key="journals/corr/abs-2007-13467" mdate="2020-07-29" publtype="informal">
+<r><article key="journals/corr/abs-2007-13467" mdate="2021-03-04" publtype="informal">
 <author pid="244/3040">Kuan Zhu</author>
 <author pid="163/0477">Haiyun Guo</author>
 <author pid="90/9499">Zhiwei Liu</author>
-<author pid="73/4373">Ming Tang</author>
+<author pid="73/4373-1">Ming Tang 0001</author>
 <author pid="67/4236">Jinqiao Wang</author>
 <title>Identity-Guided Human Semantic Parsing for Person Re-Identification.</title>
 <year>2020</year>
@@ -419,9 +450,9 @@
 <url>db/journals/www/www22.html#LiuYHSZS19</url>
 </article>
 </r>
-<r><inproceedings key="conf/bigdataconf/LiuZZHY19" mdate="2020-11-12">
+<r><inproceedings key="conf/bigdataconf/LiuZZHY19" mdate="2021-03-11">
 <author pid="90/9499">Zhiwei Liu</author>
-<author pid="86/5344">Lei Zheng</author>
+<author pid="86/5344-1">Lei Zheng 0001</author>
 <author pid="10/239-1">Jiawei Zhang 0001</author>
 <author pid="139/1153">Jiayu Han</author>
 <author pid="y/PhilipSYu">Philip S. Yu</author>
@@ -448,12 +479,12 @@
 <url>db/conf/bigdataconf/bigdataconf2019.html#WeiLSY19</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/cvpr/LiuZHGTLRW19" mdate="2020-01-20">
+<r><inproceedings key="conf/cvpr/LiuZHGTLRW19" mdate="2021-03-04">
 <author pid="90/9499">Zhiwei Liu</author>
 <author pid="19/10065">Xiangyu Zhu</author>
 <author pid="98/7676">Guosheng Hu</author>
 <author pid="163/0477">Haiyun Guo</author>
-<author pid="73/4373">Ming Tang</author>
+<author pid="73/4373-1">Ming Tang 0001</author>
 <author pid="55/112">Zhen Lei</author>
 <author pid="169/9062">Neil Martin Robertson</author>
 <author pid="67/4236">Jinqiao Wang</author>
@@ -499,9 +530,9 @@
 <url>db/conf/dasc/dasc2019.html#FengLWGLB19</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/fgr/LiuTHW19" mdate="2019-07-15">
+<r><inproceedings key="conf/fgr/LiuTHW19" mdate="2021-03-04">
 <author pid="90/9499">Zhiwei Liu</author>
-<author pid="73/4373">Ming Tang</author>
+<author pid="73/4373-1">Ming Tang 0001</author>
 <author pid="98/7676">Guosheng Hu</author>
 <author pid="67/4236">Jinqiao Wang</author>
 <title>Learning Discriminative and Complementary Patches for Face Recognition.</title>
@@ -543,10 +574,10 @@
 <url>db/conf/ssci/ssci2019.html#LiuYS19</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/vtc/LiuWCX19" mdate="2019-07-02">
+<r><inproceedings key="conf/vtc/LiuWCX19" mdate="2021-03-19">
 <author pid="90/9499">Zhiwei Liu</author>
 <author pid="77/8332">Peiran Wu</author>
-<author pid="88/6219">Daniel B. da Costa</author>
+<author pid="88/6219">Daniel B. da Costa 0001</author>
 <author pid="78/480">Minghua Xia</author>
 <title>Cooperative Relaying with Energy Harvesting: Performance Analysis Using Extreme Value Theory.</title>
 <pages>1-6</pages>
@@ -557,12 +588,12 @@
 <url>db/conf/vtc/vtc2019s.html#LiuWCX19</url>
 </inproceedings>
 </r>
-<r><article key="journals/corr/abs-1903-10661" mdate="2019-04-01" publtype="informal">
+<r><article key="journals/corr/abs-1903-10661" mdate="2021-03-04" publtype="informal">
 <author pid="90/9499">Zhiwei Liu</author>
 <author pid="19/10065">Xiangyu Zhu</author>
 <author pid="98/7676">Guosheng Hu</author>
 <author pid="163/0477">Haiyun Guo</author>
-<author pid="73/4373">Ming Tang</author>
+<author pid="73/4373-1">Ming Tang 0001</author>
 <author pid="55/112">Zhen Lei</author>
 <author pid="169/9062">Neil Martin Robertson</author>
 <author pid="67/4236">Jinqiao Wang</author>
@@ -574,9 +605,9 @@
 <url>db/journals/corr/corr1903.html#abs-1903-10661</url>
 </article>
 </r>
-<r><article key="journals/corr/abs-1910-08219" mdate="2020-11-12" publtype="informal">
+<r><article key="journals/corr/abs-1910-08219" mdate="2021-03-11" publtype="informal">
 <author pid="90/9499">Zhiwei Liu</author>
-<author pid="86/5344">Lei Zheng</author>
+<author pid="86/5344-1">Lei Zheng 0001</author>
 <author pid="10/239-1">Jiawei Zhang 0001</author>
 <author pid="139/1153">Jiayu Han</author>
 <author pid="y/PhilipSYu">Philip S. Yu</author>
@@ -604,7 +635,7 @@
 <url>db/journals/corr/corr1910.html#abs-1910-12757</url>
 </article>
 </r>
-<r><article key="journals/ieiceee/HuangYLWGR18" mdate="2020-09-10">
+<r><article key="journals/ieiceee/HuangYLWGR18" mdate="2021-02-12">
 <author pid="51/944">Hai Huang</author>
 <author pid="27/116">Bin Yu</author>
 <author pid="90/9499">Zhiwei Liu</author>
@@ -617,7 +648,7 @@
 <volume>15</volume>
 <journal>IEICE Electron. Express</journal>
 <number>24</number>
-<ee>https://doi.org/10.1587/elex.15.20180987</ee>
+<ee type="oa">https://doi.org/10.1587/elex.15.20180987</ee>
 <url>db/journals/ieiceee/ieiceee15.html#HuangYLWGR18</url>
 </article>
 </r>
@@ -656,7 +687,7 @@
 <url>db/journals/sensors/sensors18.html#LiuTMLDLG18</url>
 </article>
 </r>
-<r><inproceedings key="conf/aaai/GuoZLWL18" mdate="2018-10-22">
+<r><inproceedings key="conf/aaai/GuoZLWL18" mdate="2021-02-18">
 <author pid="163/0477">Haiyun Guo</author>
 <author pid="08/9467">Chaoyang Zhao</author>
 <author pid="90/9499">Zhiwei Liu</author>
@@ -665,7 +696,7 @@
 <title>Learning Coarse-to-Fine Structured Feature Embedding for Vehicle Re-Identification.</title>
 <year>2018</year>
 <booktitle>AAAI</booktitle>
-<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16206</ee>
+<ee type="oa">https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16206</ee>
 <crossref>conf/aaai/2018</crossref>
 <url>db/conf/aaai/aaai2018.html#GuoZLWL18</url>
 <pages>6853-6860</pages>
@@ -947,18 +978,19 @@
 <url>db/journals/jcc/jcc32.html#LiuTP11</url>
 </article>
 </r>
-<coauthors n="152" nc="9">
+<coauthors n="161" nc="9">
 <co c="0"><na f="a/Achan:Kannan" pid="39/463">Kannan Achan</na></co>
 <co c="0"><na f="a/Arora:Yokila" pid="251/8564">Yokila Arora</na></co>
 <co c="0"><na f="b/Bai:Wei" pid="45/661">Wei Bai</na></co>
 <co c="0"><na f="b/Bao:Xiaolong" pid="252/4889">Xiaolong Bao</na></co>
+<co c="0"><na f="b/Bin:Yu" pid="65/7648">Yu Bin</na></co>
 <co c="0"><na f="c/Cao:Wei" pid="54/6265">Wei Cao</na></co>
 <co c="7"><na f="c/Castro:Luciano_Irineu_de" pid="87/11282">Luciano Irineu de Castro</na></co>
 <co c="0"><na f="c/Chen:Dibei" pid="278/6842">Dibei Chen</na></co>
 <co c="0"><na f="c/Chen:Jianjun" pid="20/1036">Jianjun Chen</na></co>
 <co c="3"><na f="c/Cheng:Xiangbo" pid="263/2775">Xiangbo Cheng</na></co>
 <co c="0"><na f="c/Chi:Hao" pid="88/7233">Hao Chi</na></co>
-<co c="5"><na f="c/Costa:Daniel_B=_da" pid="88/6219">Daniel B. da Costa</na></co>
+<co c="5"><na f="c/Costa_0001:Daniel_B=_da" pid="88/6219">Daniel B. da Costa 0001</na></co>
 <co c="0"><na f="d/Deng:Yangdong" pid="90/5987">Yangdong Deng</na></co>
 <co c="0"><na f="d/Deng:Yutong" pid="264/4737">Yutong Deng</na></co>
 <co c="0"><na f="d/Dong:Hua" pid="83/4823">Hua Dong</na></co>
@@ -999,7 +1031,9 @@
 <co c="0"><na f="l/Li:Tao" pid="75/4601">Tao Li</na></co>
 <co c="0"><na f="l/Li:Xiaohan" pid="71/11452">Xiaohan Li</na></co>
 <co c="0"><na f="l/Li:Zhaoshi" pid="193/3911">Zhaoshi Li</na></co>
+<co c="0"><na f="l/Li:Zhihao" pid="40/2903">Zhihao Li</na></co>
 <co c="0"><na f="l/Liao:Changjun" pid="191/4747">Changjun Liao</na></co>
+<co c="0"><na f="l/Lin:Xing" pid="17/418">Xing Lin</na></co>
 <co c="0"><na f="l/Lingli:Qian" pid="198/5693">Qian Lingli</na></co>
 <co c="0"><na f="l/Liou:Juin_J=" pid="05/4531">Juin J. Liou</na></co>
 <co c="0"><na f="l/Liu:Bing" pid="l/BingLiu">Bing Liu</na></co>
@@ -1018,6 +1052,7 @@
 <co c="0"><na f="m/Meng:Lin" pid="67/3925">Lin Meng</na></co>
 <co c="0"><na f="m/Mu:Xihui" pid="186/5560">Xihui Mu</na></co>
 <co c="0"><na f="n/Nie:Liu" pid="202/1502">Liu Nie</na></co>
+<co c="0"><na f="n/Ning:Na" pid="45/4274">Na Ning</na></co>
 <co c="0"><na f="p/Peng:Hao" pid="69/7742">Hao Peng</na></co>
 <co c="4"><na f="p/Peng:Xiaoyu" pid="195/8100">Xiaoyu Peng</na></co>
 <co c="2"><na f="p/Peters:Dennis_K=" pid="66/2559">Dennis K. Peters</na></co>
@@ -1033,8 +1068,10 @@
 <co c="0"><na f="s/Shen:Fumin" pid="92/10934">Fumin Shen</na></co>
 <co c="0"><na f="s/Shen:Heng_Tao" pid="s/HTShen">Heng Tao Shen</na></co>
 <co c="0"><na f="s/Shi:Zhan" pid="27/1620">Zhan Shi</na></co>
+<co c="0"><na f="s/Shilei:Zhao" pid="286/7191">Zhao Shilei</na></co>
 <co c="1"><na f="s/Shivaraman:Nitin" pid="179/3256">Nitin Shivaraman</na></co>
 <co c="2"><na f="s/Song:Lan" pid="29/259">Lan Song</na></co>
+<co c="0"><na f="s/Song_0006:Qing" pid="150/5904-6">Qing Song 0006</na></co>
 <co c="0"><na f="s/Song:Shiyu" pid="135/8264">Shiyu Song</na></co>
 <co c="1"><na f="s/Steinhorst:Sebastian" pid="96/4490">Sebastian Steinhorst</na></co>
 <co c="0"><na f="s/Sun_0008:Li" pid="57/2405-8">Li Sun 0008</na></co>
@@ -1042,7 +1079,7 @@
 <co c="6"><na f="s/Sun:Zhenzhen" pid="00/9712">Zhenzhen Sun</na></co>
 <co c="0"><na f="t/Tan:Pengyuan" pid="281/6054">Pengyuan Tan</na></co>
 <co c="0"><na f="t/Tang:Jie" pid="181/2702">Jie Tang</na></co>
-<co c="0"><na f="t/Tang:Ming" pid="73/4373">Ming Tang</na></co>
+<co c="0"><na f="t/Tang_0001:Ming" pid="73/4373-1">Ming Tang 0001</na></co>
 <co c="8"><na f="t/Teslja:Alexey" pid="43/9499">Alexey Teslja</na></co>
 <co c="0"><na f="t/Tong:Zhaoyang" pid="186/4665">Zhaoyang Tong</na></co>
 <co c="0"><na f="w/Wan:Mengting" pid="173/4598">Mengting Wan</na></co>
@@ -1053,6 +1090,7 @@
 <co c="0"><na f="w/Wang:Jiawei" pid="98/7308">Jiawei Wang</na></co>
 <co c="0"><na f="w/Wang:Jinqiao" pid="67/4236">Jinqiao Wang</na></co>
 <co c="0"><na f="w/Wang:Junji" pid="282/8422">Junji Wang</na></co>
+<co c="0"><na f="w/Wang:Zhihui" pid="65/2749">Zhihui Wang</na></co>
 <co c="0"><na f="w/Wei:Shaojun" pid="39/6160">Shaojun Wei</na></co>
 <co c="0"><na f="w/Wei:Xiaokai" pid="160/5948">Xiaokai Wei</na></co>
 <co c="2"><na f="w/Wen:Tangliu" pid="222/2956">Tangliu Wen</na></co>
@@ -1066,10 +1104,12 @@
 <co c="0"><na f="x/Xiong:Tianzhu" pid="278/6012">Tianzhu Xiong</na></co>
 <co c="0"><na f="x/Xu:Jianjie" pid="221/1841">Jianjie Xu</na></co>
 <co c="0"><na f="x/Xu:Quan" pid="38/1303">Quan Xu</na></co>
+<co c="0"><na f="x/Xu:Songcen" pid="131/6572">Songcen Xu</na></co>
 <co c="0"><na f="x/Xu:Weiyang" pid="127/4767">Weiyang Xu</na></co>
 <co c="0"><na f="y/Yang:Bo" pid="46/999">Bo Yang</na></co>
 <co c="0"><na f="y/Yang:Fan" pid="29/3081">Fan Yang</na></co>
 <co c="0"><na f="y/Yang:Jun" pid="181/2799">Jun Yang</na></co>
+<co c="0"><na f="y/Yang:Lu" pid="58/2893">Lu Yang</na></co>
 <co c="0"><na f="y/Yang:Shuna" pid="129/1047">Shuna Yang</na></co>
 <co c="0"><na f="y/Yang:Xia" pid="62/5690">Xia Yang</na></co>
 <co c="0"><na f="y/Yang:Yang" pid="48/450">Yang Yang</na></co>
@@ -1091,7 +1131,7 @@
 <co c="0"><na f="z/Zhang:Yang" pid="06/6785">Yang Zhang</na></co>
 <co c="0"><na f="z/Zhao:Chaoyang" pid="08/9467">Chaoyang Zhao</na></co>
 <co c="0"><na f="z/Zhao:Jianming" pid="41/6186">Jianming Zhao</na></co>
-<co c="0"><na f="z/Zheng:Lei" pid="86/5344">Lei Zheng</na></co>
+<co c="0"><na f="z/Zheng_0001:Lei" pid="86/5344-1">Lei Zheng 0001</na></co>
 <co c="0"><na f="z/Zheng:Peng" pid="25/1888">Peng Zheng</na></co>
 <co c="0"><na f="z/Zhou:Cui" pid="03/10248">Cui Zhou</na></co>
 <co c="4"><na f="z/Zhu:Chengjia" pid="282/3157">Chengjia Zhu</na></co>

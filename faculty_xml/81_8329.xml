@@ -1,9 +1,25 @@
-<?xml version="1.0"?><html><body><dblpperson n="64" name="Anh Tuan Luu" pid="81/8329">
+<?xml version="1.0"?><html><body><dblpperson n="65" name="Anh Tuan Luu" pid="81/8329">
 <person key="homepages/81/8329" mdate="2017-11-07">
 <author pid="81/8329">Anh Tuan Luu</author>
 <author pid="81/8329">Luu Anh Tuan</author>
 <url>https://scholar.google.com/citations?user=d6ixOGYAAAAJ</url>
 </person>
+<r><article key="journals/corr/abs-2102-08597" mdate="2021-02-19" publtype="informal">
+<author pid="142/9150">Aston Zhang</author>
+<author pid="188/6350">Yi Tay</author>
+<author pid="71/208">Shuai Zhang</author>
+<author pid="163/6518">Alvin Chan</author>
+<author pid="81/8329">Anh Tuan Luu</author>
+<author pid="65/3225">Siu Cheung Hui</author>
+<author pid="16/7565">Jie Fu</author>
+<title>Beyond Fully-Connected Layers with Quaternions: Parameterization of Hypercomplex Multiplications with 1/n Parameters.</title>
+<year>2021</year>
+<volume>abs/2102.08597</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2102.08597</ee>
+<url>db/journals/corr/corr2102.html#abs-2102-08597</url>
+</article>
+</r>
 <r><article key="journals/tip/0001LFZT020" mdate="2020-05-30">
 <author orcid="0000-0001-8112-5830" pid="138/4209-1">Anran Wang 0001</author>
 <author pid="81/8329">Anh Tuan Luu</author>
@@ -199,20 +215,20 @@
 <url>db/journals/ipm/ipm54.html#FangTHW18</url>
 </article>
 </r>
-<r><inproceedings key="conf/aaai/TayTH18" mdate="2018-10-22">
+<r><inproceedings key="conf/aaai/TayTH18" mdate="2021-02-18">
 <author pid="188/6350">Yi Tay</author>
 <author pid="81/8329">Luu Anh Tuan</author>
 <author pid="65/3225">Siu Cheung Hui</author>
 <title>Cross Temporal Recurrent Networks for Ranking Question Answer Pairs.</title>
 <year>2018</year>
 <booktitle>AAAI</booktitle>
-<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16632</ee>
+<ee type="oa">https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16632</ee>
 <crossref>conf/aaai/2018</crossref>
 <url>db/conf/aaai/aaai2018.html#TayTH18</url>
 <pages>5512-5519</pages>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/aaai/TayPTH18" mdate="2018-10-22">
+<r><inproceedings key="conf/aaai/TayPTH18" mdate="2021-02-18">
 <author pid="188/6350">Yi Tay</author>
 <author pid="204/0140">Minh C. Phan</author>
 <author pid="81/8329">Luu Anh Tuan</author>
@@ -220,20 +236,20 @@
 <title>SkipFlow: Incorporating Neural Coherence Features for End-to-End Automatic Text Scoring.</title>
 <year>2018</year>
 <booktitle>AAAI</booktitle>
-<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16431</ee>
+<ee type="oa">https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16431</ee>
 <crossref>conf/aaai/2018</crossref>
 <url>db/conf/aaai/aaai2018.html#TayPTH18</url>
 <pages>5948-5955</pages>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/aaai/TayTH18a" mdate="2018-10-22">
+<r><inproceedings key="conf/aaai/TayTH18a" mdate="2021-02-18">
 <author pid="188/6350">Yi Tay</author>
 <author pid="81/8329">Luu Anh Tuan</author>
 <author pid="65/3225">Siu Cheung Hui</author>
 <title>Learning to Attend via Word-Aspect Associative Fusion for Aspect-Based Sentiment Analysis.</title>
 <year>2018</year>
 <booktitle>AAAI</booktitle>
-<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16570</ee>
+<ee type="oa">https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16570</ee>
 <crossref>conf/aaai/2018</crossref>
 <url>db/conf/aaai/aaai2018.html#TayTH18a</url>
 <pages>5956-5963</pages>
@@ -542,7 +558,7 @@
 <url>db/journals/corr/corr1811.html#abs-1811-09786</url>
 </article>
 </r>
-<r><inproceedings key="conf/aaai/TayLH17" mdate="2017-03-06">
+<r><inproceedings key="conf/aaai/TayLH17" mdate="2021-02-10">
 <author pid="188/6350">Yi Tay</author>
 <author pid="81/8329">Anh Tuan Luu</author>
 <author pid="65/3225">Siu Cheung Hui</author>
@@ -550,7 +566,7 @@
 <pages>1243-1249</pages>
 <year>2017</year>
 <booktitle>AAAI</booktitle>
-<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14524</ee>
+<ee type="oa">http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14524</ee>
 <crossref>conf/aaai/2017</crossref>
 <url>db/conf/aaai/aaai2017.html#TayLH17</url>
 </inproceedings>
@@ -736,7 +752,7 @@
 <url>db/journals/corr/corr1712.html#abs-1712-05403</url>
 </article>
 </r>
-<r><article key="journals/tacl/LuuHN16" mdate="2020-04-02">
+<r><article key="journals/tacl/LuuHN16" mdate="2021-02-17">
 <author pid="81/8329">Anh Tuan Luu</author>
 <author pid="65/3225">Siu Cheung Hui</author>
 <author pid="00/5480">See-Kiong Ng</author>
@@ -745,7 +761,7 @@
 <year>2016</year>
 <volume>4</volume>
 <journal>Trans. Assoc. Comput. Linguistics</journal>
-<ee>https://transacl.org/ojs/index.php/tacl/article/view/954</ee>
+<ee type="oa">https://transacl.org/ojs/index.php/tacl/article/view/954</ee>
 <url>db/journals/tacl/tacl4.html#LuuHN16</url>
 </article>
 </r>
@@ -923,7 +939,7 @@
 <url>db/conf/semweb/ursw2007.html#LuuQCD07</url>
 </inproceedings>
 </r>
-<coauthors n="74" nc="2">
+<coauthors n="75" nc="2">
 <co c="0"><na f="a/Arighi:Cecilia_N=" pid="81/1941">Cecilia N. Arighi</na></co>
 <co c="0"><na f="a/Auken:Kimberly_Van" pid="36/6169">Kimberly Van Auken</na></co>
 <co c="1"><na f="b/Barzilay:Regina" pid="b/ReginaBarzilay">Regina Barzilay</na></co>
@@ -994,6 +1010,7 @@
 <co c="0"><na f="y/Yuan:Xingdi" pid="40/10147">Xingdi Yuan</na></co>
 <co c="0"><na f="z/Zeng:Zeng" pid="98/6997">Zeng Zeng</na></co>
 <co c="0"><na f="z/Zhang:Aston" pid="142/9150">Aston Zhang</na></co>
+<co c="0"><na f="z/Zhang:Shuai" pid="71/208">Shuai Zhang</na></co>
 <co c="0"><na f="z/Zhang_0007:Shuai" pid="71/208-7">Shuai Zhang 0007</na></co>
 <co c="0"><na f="z/Zheng:Man_Chun" pid="34/8327">Man Chun Zheng</na></co>
 <co c="0"><na f="z/Zhu:Dongqing" pid="122/2814">Dongqing Zhu</na></co>

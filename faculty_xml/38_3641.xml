@@ -310,7 +310,7 @@
 <url>db/journals/tip/tip27.html#WanSDTGK18</url>
 </article>
 </r>
-<r><inproceedings key="conf/aaai/XingSZPT18" mdate="2019-03-28">
+<r><inproceedings key="conf/aaai/XingSZPT18" mdate="2021-02-18">
 <author pid="139/5890">Youlu Xing</author>
 <author pid="80/4685">Furao Shen</author>
 <author pid="97/2199">Jinxi Zhao</author>
@@ -319,7 +319,7 @@
 <title>Perception Coordination Network: A Framework for Online Multi-Modal Concept Acquisition and Binding.</title>
 <year>2018</year>
 <booktitle>AAAI</booktitle>
-<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16091</ee>
+<ee type="oa">https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16091</ee>
 <crossref>conf/aaai/2018</crossref>
 <url>db/conf/aaai/aaai2018.html#XingSZPT18</url>
 <pages>4318-4325</pages>
@@ -451,7 +451,7 @@
 <url>db/journals/tsmc/tsmc47.html#WangTT17</url>
 </article>
 </r>
-<r><inproceedings key="conf/aaai/MolinoBLT17" mdate="2017-03-06">
+<r><inproceedings key="conf/aaai/MolinoBLT17" mdate="2021-02-10">
 <author pid="166/2791">Ana Garcia del Molino</author>
 <author pid="87/8652">Xavier Boix</author>
 <author pid="56/432">Joo-Hwee Lim</author>
@@ -460,19 +460,19 @@
 <pages>4046-4052</pages>
 <year>2017</year>
 <booktitle>AAAI</booktitle>
-<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14856</ee>
+<ee type="oa">http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14856</ee>
 <crossref>conf/aaai/2017</crossref>
 <url>db/conf/aaai/aaai2017.html#MolinoBLT17</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/aaai/SubagdjaT17" mdate="2017-03-06">
+<r><inproceedings key="conf/aaai/SubagdjaT17" mdate="2021-02-10">
 <author pid="10/3849">Budhitama Subagdja</author>
 <author pid="38/3641">Ah-Hwee Tan</author>
 <title>Towards a Brain Inspired Model of Self-Awareness for Sociable Agents.</title>
 <pages>4452-4458</pages>
 <year>2017</year>
 <booktitle>AAAI</booktitle>
-<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14596</ee>
+<ee type="oa">http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14596</ee>
 <crossref>conf/aaai/2017</crossref>
 <url>db/conf/aaai/aaai2017.html#SubagdjaT17</url>
 </inproceedings>
@@ -1449,7 +1449,7 @@
 <url>db/conf/seal/seal2012.html#HoOCT12</url>
 </inproceedings>
 </r>
-<r><inproceedings key="journals/procedia/ChanT12" mdate="2019-10-19">
+<r><inproceedings key="journals/procedia/ChanT12" mdate="2021-02-09">
 <author pid="91/1178">Jonathan H. Chan</author>
 <author orcid="0000-0003-0378-4069" pid="38/3641">Ah-Hwee Tan</author>
 <title>Preface: Trends in Natural and Machine Intelligence.</title>
@@ -1457,11 +1457,11 @@
 <year>2012</year>
 <crossref>conf/inns-wc/2012</crossref>
 <booktitle>INNS-WC</booktitle>
-<ee>https://doi.org/10.1016/j.procs.2012.09.108</ee>
+<ee type="oa">https://doi.org/10.1016/j.procs.2012.09.108</ee>
 <url>db/journals/procedia/procedia13.html#ChanT12</url>
 </inproceedings>
 </r>
-<r><inproceedings key="journals/procedia/TengTT12" mdate="2019-10-19">
+<r><inproceedings key="journals/procedia/TengTT12" mdate="2021-02-09">
 <author orcid="0000-0001-6306-2338" pid="31/646">Teck-Hou Teng</author>
 <author orcid="0000-0003-0378-4069" pid="38/3641">Ah-Hwee Tan</author>
 <author pid="118/4027">Yuan-Sin Tan</author>
@@ -1470,7 +1470,7 @@
 <year>2012</year>
 <crossref>conf/inns-wc/2012</crossref>
 <booktitle>INNS-WC</booktitle>
-<ee>https://doi.org/10.1016/j.procs.2012.09.110</ee>
+<ee type="oa">https://doi.org/10.1016/j.procs.2012.09.110</ee>
 <url>db/journals/procedia/procedia13.html#TengTT12</url>
 </inproceedings>
 </r>
@@ -1587,7 +1587,7 @@
 <url>db/journals/ijon/ijon73.html#TanFO10</url>
 </article>
 </r>
-<r><article key="journals/informaticaSI/WangJCT10" mdate="2018-11-07">
+<r><article key="journals/informaticaSI/WangJCT10" mdate="2021-02-16">
 <author pid="70/6155-4">Huan Wang 0004</author>
 <author pid="84/2028">Xing Jiang</author>
 <author pid="05/2952">Liang-Tien Chia</author>
@@ -1598,7 +1598,7 @@
 <volume>34</volume>
 <journal>Informatica (Slovenia)</journal>
 <number>3</number>
-<ee>http://www.informatica.si/index.php/informatica/article/view/304</ee>
+<ee type="oa">http://www.informatica.si/index.php/informatica/article/view/304</ee>
 <url>db/journals/informaticaSI/informaticaSI34.html#WangJCT10</url>
 </article>
 </r>
@@ -2112,7 +2112,7 @@
 <url>db/journals/tsmc/tsmcb37.html#XiaoT07</url>
 </article>
 </r>
-<r><inproceedings key="conf/aaai/YapTP07" mdate="2012-12-10">
+<r><inproceedings key="conf/aaai/YapTP07" mdate="2021-02-10">
 <author pid="48/884">Ghim-Eng Yap</author>
 <author pid="38/3641">Ah-Hwee Tan</author>
 <author pid="p/HweeHwaPang">HweeHwa Pang</author>
@@ -2122,7 +2122,7 @@
 <crossref>conf/aaai/2007</crossref>
 <booktitle>AAAI</booktitle>
 <url>db/conf/aaai/aaai2007.html#YapTP07</url>
-<ee>http://www.aaai.org/Library/AAAI/2007/aaai07-055.php</ee>
+<ee type="oa">http://www.aaai.org/Library/AAAI/2007/aaai07-055.php</ee>
 </inproceedings>
 </r>
 <r><inproceedings key="conf/aaaifs/CaiSMT07" mdate="2018-11-28">
@@ -2222,7 +2222,7 @@
 <url>db/conf/ACMace/ace2006.html#CaiMTS06</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/aaai/JiangT06" mdate="2012-03-19">
+<r><inproceedings key="conf/aaai/JiangT06" mdate="2021-02-10">
 <author pid="84/2028">Xing Jiang</author>
 <author pid="38/3641">Ah-Hwee Tan</author>
 <title>OntoSearch: A Full-Text Search Engine for the Semantic Web.</title>
@@ -2230,7 +2230,7 @@
 <crossref>conf/aaai/2006</crossref>
 <booktitle>AAAI</booktitle>
 <url>db/conf/aaai/aaai2006.html#JiangT06</url>
-<ee>http://www.aaai.org/Library/AAAI/2006/aaai06-208.php</ee>
+<ee type="oa">http://www.aaai.org/Library/AAAI/2006/aaai06-208.php</ee>
 <pages>1325-1330</pages>
 </inproceedings>
 </r>
@@ -2404,7 +2404,7 @@
 <url>db/conf/mdm/mdm2005.html#YapTP05</url>
 </inproceedings>
 </r>
-<r><article key="journals/kais/TanOPNL04" mdate="2020-02-25">
+<r><article key="journals/kais/TanOPNL04" mdate="2021-03-12">
 <author pid="38/3641">Ah-Hwee Tan</author>
 <author pid="62/2696">Hwee-Leng Ong</author>
 <author pid="28/1738">Hong Pan</author>
@@ -2416,7 +2416,7 @@
 <volume>6</volume>
 <journal>Knowl. Inf. Syst.</journal>
 <number>5</number>
-<ee type="archive">http://www.springerlink.com/index/10.1007/s10115-003-0130-9</ee>
+<ee>https://doi.org/10.1007/s10115-003-0130-9</ee>
 <url>db/journals/kais/kais6.html#TanOPNL04</url>
 </article>
 </r>

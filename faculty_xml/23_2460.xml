@@ -2,12 +2,12 @@
 <person key="homepages/23/2460" mdate="2009-06-09">
 <author pid="23/2460">Xueyan Tang</author>
 </person>
-<r><article key="journals/tpds/LiZT0L0G21" mdate="2020-10-20">
+<r><article key="journals/tpds/LiZT0L0G21" mdate="2021-02-25">
 <author orcid="0000-0001-6623-350X" pid="28/6239">Yusen Li</author>
 <author pid="252/4918">Changjian Zhao</author>
 <author orcid="0000-0002-7404-7595" pid="23/2460">Xueyan Tang</author>
 <author orcid="0000-0002-0183-3835" pid="83/3179">Wentong Cai 0001</author>
-<author orcid="0000-0002-9010-3278" pid="25/1221">Xiaoguang Liu</author>
+<author orcid="0000-0002-9010-3278" pid="25/1221-1">Xiaoguang Liu 0001</author>
 <author orcid="0000-0003-0387-2501" pid="71/4292-1">Gang Wang 0001</author>
 <author orcid="0000-0002-9836-558X" pid="45/1397">Xiaoli Gong</author>
 <title>Towards Minimizing Resource Usage With QoS Guarantee in Cloud Gaming.</title>
@@ -167,12 +167,12 @@
 <url>db/journals/tpds/tpds30.html#TanRT19</url>
 </article>
 </r>
-<r><article key="journals/tpds/LiTCTLW19" mdate="2020-10-02">
+<r><article key="journals/tpds/LiTCTLW19" mdate="2021-02-25">
 <author orcid="0000-0001-6623-350X" pid="28/6239">Yusen Li</author>
 <author orcid="0000-0002-7404-7595" pid="23/2460">Xueyan Tang</author>
 <author orcid="0000-0002-0183-3835" pid="83/3179">Wentong Cai 0001</author>
 <author pid="94/8174">Jiancong Tong</author>
-<author orcid="0000-0002-9010-3278" pid="25/1221">Xiaoguang Liu</author>
+<author orcid="0000-0002-9010-3278" pid="25/1221-1">Xiaoguang Liu 0001</author>
 <author orcid="0000-0003-0387-2501" pid="71/4292-1">Gang Wang 0001</author>
 <title>Resource-Efficient Index Shard Replication in Large Scale Search Engines.</title>
 <pages>2820-2835</pages>
@@ -184,14 +184,14 @@
 <url>db/journals/tpds/tpds30.html#LiTCTLW19</url>
 </article>
 </r>
-<r><inproceedings key="conf/hpdc/LiSCTCTLWGZ19" mdate="2020-09-02">
+<r><inproceedings key="conf/hpdc/LiSCTCTLWGZ19" mdate="2021-02-25">
 <author pid="28/6239">Yusen Li</author>
 <author pid="243/3646">Chuxu Shan</author>
 <author pid="123/7895-2">Ruobing Chen 0002</author>
 <author pid="23/2460">Xueyan Tang</author>
 <author orcid="0000-0002-0183-3835" pid="83/3179">Wentong Cai 0001</author>
 <author pid="67/7742">Shanjiang Tang</author>
-<author pid="25/1221">Xiaoguang Liu</author>
+<author pid="25/1221-1">Xiaoguang Liu 0001</author>
 <author pid="71/4292-1">Gang Wang 0001</author>
 <author pid="45/1397">Xiaoli Gong</author>
 <author pid="13/6769">Ying Zhang</author>
@@ -367,12 +367,12 @@
 <url>db/journals/tmm/tmm20.html#DengLSTC18</url>
 </article>
 </r>
-<r><article key="journals/tomccap/LiDTCL018" mdate="2020-06-10">
+<r><article key="journals/tomccap/LiDTCL018" mdate="2021-02-25">
 <author pid="28/6239">Yusen Li</author>
 <author pid="97/9078">Yunhua Deng</author>
 <author pid="23/2460">Xueyan Tang</author>
 <author orcid="0000-0002-0183-3835" pid="83/3179">Wentong Cai 0001</author>
-<author pid="25/1221">Xiaoguang Liu</author>
+<author pid="25/1221-1">Xiaoguang Liu 0001</author>
 <author pid="71/4292-1">Gang Wang 0001</author>
 <title>Cost-Efficient Server Provisioning for Cloud Gaming.</title>
 <pages>55:1-55:22</pages>
@@ -384,12 +384,12 @@
 <url>db/journals/tomccap/tomccap14.html#LiDTCL018</url>
 </article>
 </r>
-<r><inproceedings key="conf/icpp/LiTCTLWGCGL18" mdate="2020-06-10">
+<r><inproceedings key="conf/icpp/LiTCTLWGCGL18" mdate="2021-02-25">
 <author pid="28/6239">Yusen Li</author>
 <author pid="23/2460">Xueyan Tang</author>
 <author orcid="0000-0002-0183-3835" pid="83/3179">Wentong Cai 0001</author>
 <author pid="94/8174">Jiancong Tong</author>
-<author pid="25/1221">Xiaoguang Liu</author>
+<author pid="25/1221-1">Xiaoguang Liu 0001</author>
 <author pid="71/4292-1">Gang Wang 0001</author>
 <author pid="224/2364">Chuansong Gao</author>
 <author pid="185/4253">Xuan Cao</author>
@@ -490,12 +490,12 @@
 <url>db/conf/icdcs/icdcs2017.html#WangTTC17</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/mm/LiDTCLW17" mdate="2020-06-10">
+<r><inproceedings key="conf/mm/LiDTCLW17" mdate="2021-02-25">
 <author pid="28/6239">Yusen Li</author>
 <author pid="97/9078">Yunhua Deng</author>
 <author pid="23/2460">Xueyan Tang</author>
 <author orcid="0000-0002-0183-3835" pid="83/3179">Wentong Cai 0001</author>
-<author pid="25/1221">Xiaoguang Liu</author>
+<author pid="25/1221-1">Xiaoguang Liu 0001</author>
 <author pid="71/4292-1">Gang Wang 0001</author>
 <title>On Server Provisioning for Cloud Gaming.</title>
 <pages>492-500</pages>
@@ -2122,7 +2122,7 @@
 <co c="0"><na f="l/Lim:Ee=Peng" pid="l/EePengLim">Ee-Peng Lim</na></co>
 <co c="0"><na f="l/Lin:Chuang" pid="53/2571">Chuang Lin</na></co>
 <co c="1"><na f="l/Liu_0006:Tao" pid="43/656-6">Tao Liu 0006</na></co>
-<co c="0"><na f="l/Liu:Xiaoguang" pid="25/1221">Xiaoguang Liu</na></co>
+<co c="0"><na f="l/Liu_0001:Xiaoguang" pid="25/1221-1">Xiaoguang Liu 0001</na></co>
 <co c="0"><na f="l/Liu:Yubao" pid="30/2791">Yubao Liu</na></co>
 <co c="0"><na f="l/Liu:Yunhui" pid="l/YunhuiLiu">Yunhui Liu</na></co>
 <co c="0"><na f="l/Lou:Yuansheng" pid="178/1042">Yuansheng Lou</na></co>

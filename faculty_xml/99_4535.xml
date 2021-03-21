@@ -1,4 +1,4 @@
-<?xml version="1.0"?><html><body><dblpperson n="262" name="Anupam Chattopadhyay" pid="99/4535">
+<?xml version="1.0"?><html><body><dblpperson n="263" name="Anupam Chattopadhyay" pid="99/4535">
 <person key="homepages/99/4535" mdate="2020-05-12">
 <author pid="99/4535">Anupam Chattopadhyay</author>
 <note type="affiliation">Nanyang Technological University, Singapore</note>
@@ -234,6 +234,19 @@
 <ee>https://ieeexplore.ieee.org/document/9256490</ee>
 <crossref>conf/iccad/2020</crossref>
 <url>db/conf/iccad/iccad2020.html#AlamALCG20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdcs/ChattopadhyayMC20" mdate="2021-03-02">
+<author pid="249/8316">Nandish Chattopadhyay</author>
+<author pid="215/5285">Ritabrata Maiti</author>
+<author pid="99/4535">Anupam Chattopadhyay</author>
+<title>Deploy-able Privacy Preserving Collaborative ML.</title>
+<pages>1397-1402</pages>
+<year>2020</year>
+<booktitle>ICDCS</booktitle>
+<ee>https://doi.org/10.1109/ICDCS47774.2020.00184</ee>
+<crossref>conf/icdcs/2020</crossref>
+<url>db/conf/icdcs/icdcs2020.html#ChattopadhyayMC20</url>
 </inproceedings>
 </r>
 <r><inproceedings key="conf/iscas/DebC20" mdate="2021-01-18">
@@ -3877,7 +3890,7 @@
 <url>db/conf/date/date2004-df.html#SchliebuschCLAMSBN04</url>
 </inproceedings>
 </r>
-<coauthors n="279" nc="4">
+<coauthors n="280" nc="4">
 <co c="0"><na f="a/Abediostad:Faezeh" pid="184/0186">Faezeh Abediostad</na></co>
 <co c="0"><na f="a/Ahmed:W=" pid="97/3603">W. Ahmed</na></co>
 <co c="0"><na f="a/Alam:Mahabubul" pid="142/7359">Mahabubul Alam</na></co>
@@ -4024,6 +4037,7 @@
 <co c="0"><na f="l/Liwongan:Ricardo_Jack" pid="265/2709">Ricardo Jack Liwongan</na></co>
 <co c="0"><na f="l/Lye:Hui_En" pid="254/8641">Hui En Lye</na></co>
 <co c="0"><na f="m/Madala:D=_S=_V=" pid="232/9891">D. S. V. Madala</na></co>
+<co c="0"><na f="m/Maiti:Ritabrata" pid="215/5285">Ritabrata Maiti</na></co>
 <co c="0"><na f="m/Maitra:Subhamoy" pid="35/4372">Subhamoy Maitra</na></co>
 <co c="0"><na f="m/Majumder:Soumajit" pid="130/8473">Soumajit Majumder</na></co>
 <co c="0"><na f="m/Mandal:Bappaditya" pid="86/777">Bappaditya Mandal</na></co>

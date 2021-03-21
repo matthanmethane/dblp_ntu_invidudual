@@ -1,4 +1,4 @@
-<?xml version="1.0"?><html><body><dblpperson n="211" name="Cuntai Guan" pid="95/7006">
+<?xml version="1.0"?><html><body><dblpperson n="215" name="Cuntai Guan" pid="95/7006">
 <person key="homepages/95/7006" mdate="2020-09-18">
 <author pid="95/7006">Cuntai Guan</author>
 <note type="affiliation">Nanyang Technological University, School of Computer Science and Engineering, Singapore</note>
@@ -23,6 +23,58 @@
 <journal>CoRR</journal>
 <ee type="oa">https://arxiv.org/abs/2101.09057</ee>
 <url>db/journals/corr/corr2101.html#abs-2101-09057</url>
+</article>
+</r>
+<r><article key="journals/corr/abs-2102-03814" mdate="2021-02-10" publtype="informal">
+<author pid="225/7742">Phairot Autthasan</author>
+<author pid="262/6094">Rattanaphon Chaisaen</author>
+<author pid="284/7881">Thapanun Sudhawiyangkul</author>
+<author pid="284/8843">Phurin Rangpong</author>
+<author pid="284/9038">Suktipol Kiatthaveephong</author>
+<author pid="179/2311">Nat Dilokthanakul</author>
+<author pid="284/9067">Gun Bhakdisongkhram</author>
+<author pid="126/3801">Huy Phan</author>
+<author pid="95/7006">Cuntai Guan</author>
+<author pid="171/7357">Theerawit Wilaiprasitporn</author>
+<title>MIN2Net: End-to-End Multi-Task Learning for Subject-Independent Motor Imagery EEG Classification.</title>
+<year>2021</year>
+<volume>abs/2102.03814</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2102.03814</ee>
+<url>db/journals/corr/corr2102.html#abs-2102-03814</url>
+</article>
+</r>
+<r><article key="journals/corr/abs-2102-04247" mdate="2021-02-10" publtype="informal">
+<author pid="245/2913">Erico Tjoa</author>
+<author pid="95/7006">Cuntai Guan</author>
+<title>Convolutional Neural Network Interpretability with General Pattern Theory.</title>
+<year>2021</year>
+<volume>abs/2102.04247</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2102.04247</ee>
+<url>db/journals/corr/corr2102.html#abs-2102-04247</url>
+</article>
+</r>
+<r><article key="journals/corr/abs-2103-03854" mdate="2021-03-15" publtype="informal">
+<author pid="287/4109">Supavit Kongwudhikunakorn</author>
+<author pid="284/9038">Suktipol Kiatthaveephong</author>
+<author pid="287/4088">Kamonwan Thanontip</author>
+<author pid="262/6242">Pitshaporn Leelaarporn</author>
+<author pid="287/4663">Maytus Piriyajitakonkij</author>
+<author pid="287/4636">Thananya Charoenpattarawut</author>
+<author pid="225/7742">Phairot Autthasan</author>
+<author pid="262/6094">Rattanaphon Chaisaen</author>
+<author pid="287/4092">Pathitta Dujada</author>
+<author pid="284/7881">Thapanun Sudhawiyangkul</author>
+<author pid="95/7006">Cuntai Guan</author>
+<author pid="287/4517">Vorapun Senanarong</author>
+<author pid="171/7357">Theerawit Wilaiprasitporn</author>
+<title>A Pilot Study on Visually-Stimulated Cognitive Tasks for EEG-Based Dementia Recognition Using Frequency and Time Features.</title>
+<year>2021</year>
+<volume>abs/2103.03854</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2103.03854</ee>
+<url>db/journals/corr/corr2103.html#abs-2103-03854</url>
 </article>
 </r>
 <r><article key="journals/cem/ShrivastwaPCSCG20" mdate="2020-10-26">
@@ -2342,6 +2394,18 @@
 <url>db/conf/ijcnn/ijcnn2012.html#YangGAWPY12</url>
 </inproceedings>
 </r>
+<r><proceedings key="conf/siggrapha/2012et" mdate="2021-03-10">
+<editor pid="90/1139">Masahiko Inami</editor>
+<editor pid="95/7006">Cuntai Guan</editor>
+<title>SIGGRAPH Asia 2012 Emerging Technologies, Singapore, November 28 - December 1, 2012</title>
+<booktitle>SIGGRAPH Asia Emerging Technologies</booktitle>
+<publisher>ACM</publisher>
+<year>2012</year>
+<isbn>978-1-4503-1912-6</isbn>
+<ee>https://doi.org/10.1145/2407707</ee>
+<url>db/conf/siggrapha/siggrapha2012et.html</url>
+</proceedings>
+</r>
 <r><article key="journals/pr/ZhangGL11" mdate="2020-02-24">
 <author pid="43/3254">Haihong Zhang</author>
 <author orcid="0000-0002-0872-3276" pid="95/7006">Cuntai Guan</author>
@@ -3241,7 +3305,7 @@
 <url>db/conf/icassp/icassp1993.html#GuanCW93</url>
 </inproceedings>
 </r>
-<coauthors n="274" nc="5">
+<coauthors n="291" nc="6">
 <co c="0"><na f="a/Abbass:Hussein_A=" pid="a/HusseinAAbbass">Hussein A. Abbass</na></co>
 <co c="0"><na f="a/Agres:Kat" pid="163/7324">Kat Agres</na></co>
 <co c="0"><na f="a/Amari:Shun=ichi" pid="11/3260">Shun-ichi Amari</na></co>
@@ -3249,22 +3313,26 @@
 <co c="0"><na f="a/Ang:Kai_Keng" pid="08/1924">Kai Keng Ang</na></co>
 <co c="0" n="2"><na f="a/Ang:Marcelo_H=" pid="a/MHAng">Marcelo H. Ang</na><na>Marcelo H. Ang Jr.</na></co>
 <co c="0"><na f="a/Arvaneh:Mahnaz" pid="57/9874">Mahnaz Arvaneh</na></co>
+<co c="1"><na f="a/Autthasan:Phairot" pid="225/7742">Phairot Autthasan</na></co>
 <co c="0"><na f="b/Bamdadian:Atieh" pid="82/10885">Atieh Bamdadian</na></co>
+<co c="1"><na f="b/Bhakdisongkhram:Gun" pid="284/9067">Gun Bhakdisongkhram</na></co>
 <co c="0"><na f="b/Bhakoo:Kishore_Kumar" pid="196/0974">Kishore Kumar Bhakoo</na></co>
-<co c="1"><na f="b/Bi:Luzheng" pid="18/5354">Luzheng Bi</na></co>
+<co c="2"><na f="b/Bi:Luzheng" pid="18/5354">Luzheng Bi</na></co>
 <co c="0"><na f="b/Bilgin:Pinar" pid="254/5602">Pinar Bilgin</na></co>
 <co c="0"><na f="b/Birbaumer:Niels" pid="36/991">Niels Birbaumer</na></co>
 <co c="0"><na f="b/Biswas:Jit" pid="20/2182">Jit Biswas</na></co>
 <co c="0"><na f="b/Burdet:Etienne" pid="95/6492">Etienne Burdet</na></co>
+<co c="1"><na f="c/Chaisaen:Rattanaphon" pid="262/6094">Rattanaphon Chaisaen</na></co>
 <co c="0"><na f="c/Chan:Derrick_W=_S=" pid="124/6542">Derrick W. S. Chan</na></co>
 <co c="0"><na f="c/Chan:Ti=Eu" pid="57/2292">Ti-Eu Chan</na></co>
 <co c="0"><na f="c/Chance:Britton" pid="73/6028">Britton Chance</na></co>
 <co c="0"><na f="c/Chang:Huibin" pid="62/9868">Huibin Chang</na></co>
+<co c="1"><na f="c/Charoenpattarawut:Thananya" pid="287/4636">Thananya Charoenpattarawut</na></co>
 <co c="0"><na f="c/Chattopadhyay:Anupam" pid="99/4535">Anupam Chattopadhyay</na></co>
 <co c="0"><na f="c/Chen:Cen" pid="152/6215">Cen Chen</na></co>
 <co c="0"><na f="c/Chen:Chang_Wu" pid="209/0934">Chang Wu Chen</na></co>
 <co c="0"><na f="c/Chen:Duo" pid="55/1006">Duo Chen</na></co>
-<co c="2"><na f="c/Chen:Yong_Bin" pid="255/3074">Yong Bin Chen</na></co>
+<co c="3"><na f="c/Chen:Yong_Bin" pid="255/3074">Yong Bin Chen</na></co>
 <co c="0"><na f="c/Chen:Zhihao" pid="50/505">Zhihao Chen</na></co>
 <co c="0"><na f="c/Cheng:Nicholas" pid="279/5007">Nicholas Cheng</na></co>
 <co c="0"><na f="c/Cheng:Yimin" pid="13/4371">Yimin Cheng</na></co>
@@ -3283,14 +3351,16 @@
 <co c="0"><na f="c/Coyle:Damien" pid="16/4185">Damien Coyle</na></co>
 <co c="0"><na f="d/Dat:Tran_Huy" pid="05/2859">Tran Huy Dat</na></co>
 <co c="0"><na f="d/Di:Jun" pid="250/9513">Jun Di</na></co>
+<co c="1"><na f="d/Dilokthanakul:Nat" pid="179/2311">Nat Dilokthanakul</na></co>
 <co c="0"><na f="d/Ding:Yi" pid="89/5503">Yi Ding</na></co>
 <co c="0"><na f="d/Dong:Minghui" pid="32/6402">Minghui Dong</na></co>
 <co c="0"><na f="d/Dou:Maokang" pid="274/4064">Maokang Dou</na></co>
 <co c="0"><na f="d/Duan:Yuping" pid="27/10673">Yuping Duan</na></co>
+<co c="1"><na f="d/Dujada:Pathitta" pid="287/4092">Pathitta Dujada</na></co>
 <co c="0"><na f="e/Eng:How=Lung" pid="11/1345">How-Lung Eng</na></co>
 <co c="0"><na f="f/Fahimi:Fatemeh" pid="208/2683">Fatemeh Fahimi</na></co>
 <co c="0"><na f="f/Fan:Chengcheng" pid="187/1967">Chengcheng Fan</na></co>
-<co c="1" n="2"><na f="f/Feleke:Aberham_Genetu" pid="212/2600">Aberham Genetu Feleke</na><na>Feleke Aberham Genetu</na></co>
+<co c="2" n="2"><na f="f/Feleke:Aberham_Genetu" pid="212/2600">Aberham Genetu Feleke</na><na>Feleke Aberham Genetu</na></co>
 <co c="0"><na f="f/Feng:Jianfeng" pid="19/6212">Jianfeng Feng</na></co>
 <co c="0"><na f="f/Feng:Mengling" pid="31/7025">Mengling Feng</na></co>
 <co c="0"><na f="f/Foo:Shi_De" pid="234/1009">Shi De Foo</na></co>
@@ -3326,6 +3396,7 @@
 <co c="0"><na f="h/Huang:Weimin" pid="42/5546">Weimin Huang</na></co>
 <co c="0"><na f="h/Hudson:Nigel_R=" pid="46/434">Nigel R. Hudson</na></co>
 <co c="0"><na f="i/Ifeachor:Emmanuel_C=" pid="15/5715">Emmanuel C. Ifeachor</na></co>
+<co c="-1"><na f="i/Inami:Masahiko" pid="90/1139">Masahiko Inami</na></co>
 <co c="0"><na f="i/Ishikawa:Akihiro" pid="61/10153">Akihiro Ishikawa</na></co>
 <co c="0"><na f="j/Jayachandran:Maniyeri" pid="65/514">Maniyeri Jayachandran</na></co>
 <co c="0"><na f="j/Ji:Fang" pid="53/7320">Fang Ji</na></co>
@@ -3336,18 +3407,20 @@
 <co c="0"><na f="j/Ju:Ce" pid="227/2792">Ce Ju</na></co>
 <co c="0"><na f="k/Kang:Lixing" pid="250/9185">Lixing Kang</na></co>
 <co c="0"><na f="k/Kei:Cheng_Kai" pid="191/3707">Cheng Kai Kei</na></co>
-<co c="4"><na f="k/Khok:Hong_Jing" pid="204/0164">Hong Jing Khok</na></co>
+<co c="5"><na f="k/Khok:Hong_Jing" pid="204/0164">Hong Jing Khok</na></co>
 <co c="0"><na f="k/Khosrowabadi:Reza" pid="10/2914">Reza Khosrowabadi</na></co>
+<co c="1"><na f="k/Kiatthaveephong:Suktipol" pid="284/9038">Suktipol Kiatthaveephong</na></co>
 <co c="0"><na f="k/King:Nicolas_Kon_Kam" pid="209/0872">Nicolas Kon Kam King</na></co>
 <co c="0"><na f="k/Koh:Tze_Hui" pid="198/7122">Tze Hui Koh</na></co>
-<co c="4"><na f="k/Koh:Victor_Teck_Chang" pid="282/3172">Victor Teck Chang Koh</na></co>
+<co c="5"><na f="k/Koh:Victor_Teck_Chang" pid="282/3172">Victor Teck Chang Koh</na></co>
+<co c="1"><na f="k/Kongwudhikunakorn:Supavit" pid="287/4109">Supavit Kongwudhikunakorn</na></co>
 <co c="0"><na f="k/Kuah:Christopher_Wee_Keong" pid="181/8395">Christopher Wee Keong Kuah</na></co>
 <co c="0"><na f="k/K=uuml=bler:Andrea" pid="98/8071">Andrea Kübler</na></co>
 <co c="0"><na f="k/Kwoh_0001:Chee_Keong" pid="32/228">Chee Keong Kwoh 0001</na></co>
 <co c="0"><na f="k/Kwon:O==Yeon" pid="276/4712">O.-Yeon Kwon</na></co>
 <co c="0"><na f="l/Lai:Hwa_Sen" pid="279/5050">Hwa Sen Lai</na></co>
 <co c="0"><na f="l/Lau:Chiew_Tong" pid="30/6609">Chiew Tong Lau</na></co>
-<co c="3"><na f="l/Lau:Wing_Hong" pid="l/WingHongLau">Wing Hong Lau</na></co>
+<co c="4"><na f="l/Lau:Wing_Hong" pid="l/WingHongLau">Wing Hong Lau</na></co>
 <co c="0"><na f="l/Laugier:Christian" pid="95/5971">Christian Laugier</na></co>
 <co c="0"><na f="l/Leamy:Darren_J=" pid="70/9825">Darren J. Leamy</na></co>
 <co c="0"><na f="l/Lee:Chin=Hui" pid="60/826">Chin-Hui Lee</na></co>
@@ -3360,13 +3433,14 @@
 <co c="0"><na f="l/Lee:Seong=Whan" pid="l/SeongWhanLee">Seong-Whan Lee</na></co>
 <co c="0"><na f="l/Lee:Tih_Shih" pid="173/7036">Tih Shih Lee</na></co>
 <co c="0"><na f="l/Lee:Tong_Heng" pid="00/4951">Tong Heng Lee</na></co>
-<co c="3" n="2"><na f="l/Leung:Shu_Hung" pid="45/4687">Shu Hung Leung</na><na>Shu-hung Leung</na></co>
+<co c="1"><na f="l/Leelaarporn:Pitshaporn" pid="262/6242">Pitshaporn Leelaarporn</na></co>
+<co c="4" n="2"><na f="l/Leung:Shu_Hung" pid="45/4687">Shu Hung Leung</na><na>Shu-hung Leung</na></co>
 <co c="0"><na f="l/Li:Bo" pid="50/3402">Bo Li</na></co>
 <co c="0"><na f="l/Li_0001:Haizhou" pid="36/4118">Haizhou Li 0001</na></co>
 <co c="0"><na f="l/Li:Huiqi" pid="40/4823">Huiqi Li</na></co>
 <co c="0"><na f="l/Li:Xinyang" pid="00/6131">Xinyang Li</na></co>
 <co c="0"><na f="l/Li:Yuanqing" pid="51/2525">Yuanqing Li</na></co>
-<co c="1"><na f="l/Lian:Jinling" pid="157/4667">Jinling Lian</na></co>
+<co c="2"><na f="l/Lian:Jinling" pid="157/4667">Jinling Lian</na></co>
 <co c="0"><na f="l/Libedinsky:Camilo" pid="174/5269">Camilo Libedinsky</na></co>
 <co c="0"><na f="l/Lim:Choon_Guan" pid="173/6952">Choon Guan Lim</na></co>
 <co c="0"><na f="l/Lim:Jeong_Hoon" pid="164/8426">Jeong Hoon Lim</na></co>
@@ -3398,8 +3472,10 @@
 <co c="0"><na f="p/Pan:Sinno_Jialin" pid="80/5412">Sinno Jialin Pan</na></co>
 <co c="0"><na f="p/Pan:Yaozhang" pid="64/7057">Yaozhang Pan</na></co>
 <co c="0"><na f="p/Pang:Boon_Chuan" pid="69/5971">Boon Chuan Pang</na></co>
+<co c="1"><na f="p/Phan:Huy" pid="126/3801">Huy Phan</na></co>
 <co c="0"><na f="p/Phua:Clifton" pid="44/551">Clifton Phua</na></co>
 <co c="0"><na f="p/Phua:Kok_Soon" pid="73/9801">Kok Soon Phua</na></co>
+<co c="1"><na f="p/Piriyajitakonkij:Maytus" pid="287/4663">Maytus Piriyajitakonkij</na></co>
 <co c="0"><na f="p/Plataniotis:Konstantinos_N=" pid="p/KonstantinosNPlataniotis">Konstantinos N. Plataniotis</na></co>
 <co c="0"><na f="p/Prasad:Girijesh" pid="02/622">Girijesh Prasad</na></co>
 <co c="0"><na f="p/Pudi:Vikramkumar" pid="168/6457">Vikramkumar Pudi</na></co>
@@ -3408,6 +3484,7 @@
 <co c="0"><na f="r/Rajeswaran:Deshan_Kumar" pid="259/0261">Deshan Kumar Rajeswaran</na></co>
 <co c="0"><na f="r/Ramasamy:Boominathan" pid="240/1933">Boominathan Ramasamy</na></co>
 <co c="0"><na f="r/Ranganatha:S=" pid="40/6243">S. Ranganatha</na></co>
+<co c="1"><na f="r/Rangpong:Phurin" pid="284/8843">Phurin Rangpong</na></co>
 <co c="0"><na f="r/Rebsamen:Brice" pid="98/266">Brice Rebsamen</na></co>
 <co c="0"><na f="r/Robinson:Neethu" pid="118/5100">Neethu Robinson</na></co>
 <co c="0"><na f="s/Sakhavi:Siavash" pid="171/9657">Siavash Sakhavi</na></co>
@@ -3415,6 +3492,7 @@
 <co c="0"><na f="s/Sch=auml=ck:Tim" pid="173/6925">Tim Schäck</na></co>
 <co c="0"><na f="s/Schultz:Tanja" pid="s/TanjaSchultz">Tanja Schultz</na></co>
 <co c="0"><na f="s/Sekar:Sakthivel" pid="196/1018">Sakthivel Sekar</na></co>
+<co c="1"><na f="s/Senanarong:Vorapun" pid="287/4517">Vorapun Senanarong</na></co>
 <co c="0"><na f="s/Seramani:Sankar" pid="240/1942">Sankar Seramani</na></co>
 <co c="0" n="2"><na f="s/Shenoy:H=_Vikram" pid="138/5081">H. Vikram Shenoy</na><na>Vikram Shenoy Handiru</na></co>
 <co c="0"><na f="s/Shimizu:Koji" pid="57/9354">Koji Shimizu</na></co>
@@ -3426,6 +3504,7 @@
 <co c="0"><na f="s/So:Rosa_Q=" pid="71/11286">Rosa Q. So</na></co>
 <co c="0"><na f="s/Song:Pin" pid="250/9532">Pin Song</na></co>
 <co c="0"><na f="s/Stephenson:Mary_C=" pid="151/9800">Mary C. Stephenson</na></co>
+<co c="1"><na f="s/Sudhawiyangkul:Thapanun" pid="284/7881">Thapanun Sudhawiyangkul</na></co>
 <co c="0"><na f="t/Tam:Pui_Kit" pid="279/4958">Pui Kit Tam</na></co>
 <co c="0"><na f="t/Tam:Wing=Kin" pid="171/8079">Wing-Kin Tam</na></co>
 <co c="0"><na f="t/Tan:Adrian_Hock_Guan" pid="217/6393">Adrian Hock Guan Tan</na></co>
@@ -3440,6 +3519,7 @@
 <co c="0"><na f="t/Teh:Irvin" pid="163/9829">Irvin Teh</na></co>
 <co c="0"><na f="t/Teo:Chee_Leong" pid="55/3457">Chee Leong Teo</na></co>
 <co c="0"><na f="t/Teo:Wei_Peng" pid="208/5795">Wei Peng Teo</na></co>
+<co c="1"><na f="t/Thanontip:Kamonwan" pid="287/4088">Kamonwan Thanontip</na></co>
 <co c="0"><na f="t/Thomas:Kavitha_P=" pid="18/9428">Kavitha P. Thomas</na></co>
 <co c="0"><na f="t/Thulasidas:M=" pid="76/5259">M. Thulasidas</na></co>
 <co c="0"><na f="t/Thulasidas:Manoj" pid="229/1544">Manoj Thulasidas</na></co>
@@ -3459,9 +3539,10 @@
 <co c="0"><na f="w/Wang:Xuewen" pid="15/3901">Xuewen Wang</na></co>
 <co c="0"><na f="w/Wang:Yixiao" pid="58/5675">Yixiao Wang</na></co>
 <co c="0" n="2"><na f="w/Ward:Tom=aacute=s" pid="45/5296">Tomás Ward</na><na>Tomás E. Ward</na></co>
+<co c="1"><na f="w/Wilaiprasitporn:Theerawit" pid="171/7357">Theerawit Wilaiprasitporn</na></co>
 <co c="0"><na f="w/Wimalaratna:Sunil" pid="38/5876">Sunil Wimalaratna</na></co>
 <co c="0"><na f="w/Won:Dong=Ok" pid="155/4776">Dong-Ok Won</na></co>
-<co c="2"><na f="w/Wu:Boxiu" pid="142/7614">Boxiu Wu</na></co>
+<co c="3"><na f="w/Wu:Boxiu" pid="142/7614">Boxiu Wu</na></co>
 <co c="0"><na f="w/Wu:Chunlin" pid="51/669">Chunlin Wu</na></co>
 <co c="0" n="2"><na f="w/Wu:Jian=Kang" pid="w/JianKangWu">Jian-Kang Wu</na><na>Jiankang Wu</na></co>
 <co c="0"><na f="w/Wu:Wenshan" pid="224/7692">Wenshan Wu</na></co>
@@ -3493,7 +3574,7 @@
 <co c="0"><na f="z/Zeng:Zeng" pid="98/6997">Zeng Zeng</na></co>
 <co c="0"><na f="z/Zhang:Feng" pid="48/1294">Feng Zhang</na></co>
 <co c="0"><na f="z/Zhang:Haihong" pid="43/3254">Haihong Zhang</na></co>
-<co c="1"><na f="z/Zhang:Jingwei" pid="70/7037">Jingwei Zhang</na></co>
+<co c="2"><na f="z/Zhang:Jingwei" pid="70/7037">Jingwei Zhang</na></co>
 <co c="0"><na f="z/Zhang:Jingyu" pid="92/3672">Jingyu Zhang</na></co>
 <co c="0"><na f="z/Zhang_0006:Lei" pid="64/5666-6">Lei Zhang 0006</na></co>
 <co c="0"><na f="z/Zhang_0012:Lu" pid="71/2843">Lu Zhang 0012</na></co>

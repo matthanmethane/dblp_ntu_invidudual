@@ -1,7 +1,34 @@
-<?xml version="1.0"?><html><body><dblpperson n="177" name="Shijian Lu" pid="42/2718">
+<?xml version="1.0"?><html><body><dblpperson n="187" name="Shijian Lu" pid="42/2718">
 <person key="homepages/42/2718" mdate="2009-06-09">
 <author pid="42/2718">Shijian Lu</author>
 </person>
+<r><article key="journals/complexity/LiuCL21" mdate="2021-03-19">
+<author pid="49/1245">Jia Liu</author>
+<author pid="287/6970">Zhaohui Chong</author>
+<author pid="42/2718">Shijian Lu</author>
+<title>The Evolution and Determinants of Interorganizational Coinvention Networks in New Energy Vehicles: Evidence from Shenzhen, China.</title>
+<pages>6665945:1-6665945:12</pages>
+<year>2021</year>
+<volume>2021</volume>
+<journal>Complex.</journal>
+<ee>https://doi.org/10.1155/2021/6665945</ee>
+<url>db/journals/complexity/complexity2021.html#LiuCL21</url>
+</article>
+</r>
+<r><article key="journals/pr/GuanHLX21" mdate="2021-02-23">
+<author pid="215/5457">Dayan Guan</author>
+<author pid="62/6016">Jiaxing Huang</author>
+<author pid="42/2718">Shijian Lu</author>
+<author pid="205/7219">Aoran Xiao</author>
+<title>Scale variance minimization for unsupervised domain adaptation in image segmentation.</title>
+<pages>107764</pages>
+<year>2021</year>
+<volume>112</volume>
+<journal>Pattern Recognit.</journal>
+<ee>https://doi.org/10.1016/j.patcog.2020.107764</ee>
+<url>db/journals/pr/pr112.html#GuanHLX21</url>
+</article>
+</r>
 <r><article key="journals/tcyb/ZhuCPZKLFLL21" mdate="2021-01-26">
 <author orcid="0000-0001-5177-8320" pid="133/4527">Hongyuan Zhu</author>
 <author orcid="0000-0002-3874-7738" pid="70/4429">Yi Cheng</author>
@@ -22,6 +49,89 @@
 <url>db/journals/tcyb/tcyb51.html#ZhuCPZKLFLL21</url>
 </article>
 </r>
+<r><article key="journals/corr/abs-2102-10244" mdate="2021-02-24" publtype="informal">
+<author pid="223/4246">Fangneng Zhan</author>
+<author pid="281/8186">Yingchen Yu</author>
+<author pid="155/2883">Rongliang Wu</author>
+<author pid="170/1654">Changgong Zhang</author>
+<author pid="42/2718">Shijian Lu</author>
+<author pid="75/1281">Ling Shao 0001</author>
+<author pid="65/9817">Feiying Ma</author>
+<author pid="234/8028">Xuansong Xie</author>
+<title>GMLight: Lighting Estimation via Geometric Distribution Approximation.</title>
+<year>2021</year>
+<volume>abs/2102.10244</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2102.10244</ee>
+<url>db/journals/corr/corr2102.html#abs-2102-10244</url>
+</article>
+</r>
+<r><article key="journals/corr/abs-2103-00236" mdate="2021-03-04" publtype="informal">
+<author pid="215/5457">Dayan Guan</author>
+<author pid="62/6016">Jiaxing Huang</author>
+<author pid="205/7219">Aoran Xiao</author>
+<author pid="42/2718">Shijian Lu</author>
+<author pid="91/7629">Yanpeng Cao</author>
+<title>Uncertainty-Aware Unsupervised Domain Adaptation in Object Detection.</title>
+<year>2021</year>
+<volume>abs/2103.00236</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2103.00236</ee>
+<url>db/journals/corr/corr2103.html#abs-2103-00236</url>
+</article>
+</r>
+<r><article key="journals/corr/abs-2103-00738" mdate="2021-03-04" publtype="informal">
+<author pid="205/7219">Aoran Xiao</author>
+<author pid="145/1177">Xiaofei Yang</author>
+<author pid="42/2718">Shijian Lu</author>
+<author pid="215/5457">Dayan Guan</author>
+<author pid="62/6016">Jiaxing Huang</author>
+<title>FPS-Net: A Convolutional Fusion Network for Large-Scale LiDAR Point Cloud Segmentation.</title>
+<year>2021</year>
+<volume>abs/2103.00738</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2103.00738</ee>
+<url>db/journals/corr/corr2103.html#abs-2103-00738</url>
+</article>
+</r>
+<r><article key="journals/corr/abs-2103-00785" mdate="2021-03-04" publtype="informal">
+<author pid="223/4745">Chuhui Xue</author>
+<author pid="42/2718">Shijian Lu</author>
+<author pid="286/8835">Steven Hoi</author>
+<title>Detection and Rectification of Arbitrary Shaped Scene Texts by using Text Keypoints and Links.</title>
+<year>2021</year>
+<volume>abs/2103.00785</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2103.00785</ee>
+<url>db/journals/corr/corr2103.html#abs-2103-00785</url>
+</article>
+</r>
+<r><article key="journals/corr/abs-2103-02370" mdate="2021-03-04" publtype="informal">
+<author pid="62/6016">Jiaxing Huang</author>
+<author pid="215/5457">Dayan Guan</author>
+<author pid="205/7219">Aoran Xiao</author>
+<author pid="42/2718">Shijian Lu</author>
+<title>FSDR: Frequency Space Domain Randomization for Domain Generalization.</title>
+<year>2021</year>
+<volume>abs/2103.02370</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2103.02370</ee>
+<url>db/journals/corr/corr2103.html#abs-2103-02370</url>
+</article>
+</r>
+<r><article key="journals/corr/abs-2103-02584" mdate="2021-03-04" publtype="informal">
+<author pid="62/6016">Jiaxing Huang</author>
+<author pid="215/5457">Dayan Guan</author>
+<author pid="205/7219">Aoran Xiao</author>
+<author pid="42/2718">Shijian Lu</author>
+<title>Cross-View Regularization for Domain Adaptive Panoptic Segmentation.</title>
+<year>2021</year>
+<volume>abs/2103.02584</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2103.02584</ee>
+<url>db/journals/corr/corr2103.html#abs-2103-02584</url>
+</article>
+</r>
 <r><article key="journals/remotesensing/YangZYLLLH20" mdate="2020-07-15">
 <author pid="145/1177">Xiaofei Yang</author>
 <author pid="61/3976">Xiaofeng Zhang</author>
@@ -39,6 +149,33 @@
 <ee type="oa">https://doi.org/10.3390/rs12122033</ee>
 <url>db/journals/remotesensing/remotesensing12.html#YangZYLLLH20</url>
 </article>
+</r>
+<r><inproceedings key="conf/accv/ZhanLZMX20" mdate="2021-03-02">
+<author pid="223/4246">Fangneng Zhan</author>
+<author pid="42/2718">Shijian Lu</author>
+<author pid="170/1654">Changgong Zhang</author>
+<author pid="65/9817">Feiying Ma</author>
+<author pid="234/8028">Xuansong Xie</author>
+<title>Adversarial Image Composition with Auxiliary Illumination.</title>
+<pages>234-250</pages>
+<year>2020</year>
+<booktitle>ACCV (2)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-69532-3_15</ee>
+<crossref>conf/accv/2020-2</crossref>
+<url>db/conf/accv/accv2020-2.html#ZhanLZMX20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/accv/KoksalL20" mdate="2021-03-01">
+<author pid="286/4330">Ali Köksal</author>
+<author pid="42/2718">Shijian Lu</author>
+<title>RF-GAN: A Light and Reconfigurable Network for Unpaired Image-to-Image Translation.</title>
+<pages>542-559</pages>
+<year>2020</year>
+<booktitle>ACCV (4)</booktitle>
+<ee>https://doi.org/10.1007/978-3-030-69538-5_33</ee>
+<crossref>conf/accv/2020-4</crossref>
+<url>db/conf/accv/accv2020-4.html#KoksalL20</url>
+</inproceedings>
 </r>
 <r><inproceedings key="conf/cvpr/WuZL020" mdate="2020-08-11">
 <author pid="155/2883">Rongliang Wu</author>
@@ -2340,7 +2477,7 @@
 <url>db/journals/ivc/ivc24.html#LuCK06</url>
 </article>
 </r>
-<r><inproceedings key="conf/aaai/LuT06" mdate="2012-03-19">
+<r><inproceedings key="conf/aaai/LuT06" mdate="2021-02-10">
 <author pid="42/2718">Shijian Lu</author>
 <author pid="t/ChewLimTan">Chew Lim Tan</author>
 <title>Script and Language Identification in Degraded and Distorted Document Images.</title>
@@ -2348,7 +2485,7 @@
 <crossref>conf/aaai/2006</crossref>
 <booktitle>AAAI</booktitle>
 <url>db/conf/aaai/aaai2006.html#LuT06</url>
-<ee>http://www.aaai.org/Library/AAAI/2006/aaai06-122.php</ee>
+<ee type="oa">http://www.aaai.org/Library/AAAI/2006/aaai06-122.php</ee>
 <pages>769-774</pages>
 </inproceedings>
 </r>
@@ -2588,7 +2725,7 @@
 <url>db/conf/hicss/hicss1997-6.html#GortonCLC97</url>
 </inproceedings>
 </r>
-<coauthors n="217" nc="3">
+<coauthors n="222" nc="3">
 <co c="0"><na f="a/Ablavatski:Artsiom" pid="199/8337">Artsiom Ablavatski</na></co>
 <co c="0"><na f="a/Ambastha:Abhinit_Kumar" pid="155/3149">Abhinit Kumar Ambastha</na></co>
 <co c="0"><na f="b/Bagdanov:Andrew_D=" pid="64/3935">Andrew D. Bagdanov</na></co>
@@ -2599,6 +2736,7 @@
 <co c="0"><na f="b/Boudier:Thomas" pid="80/6969">Thomas Boudier</na></co>
 <co c="0"><na f="c/Cai_0001:Jianfei" pid="83/6096">Jianfei Cai 0001</na></co>
 <co c="0"><na f="c/Cao_0001:Xianbin" pid="22/3485">Xianbin Cao 0001</na></co>
+<co c="0"><na f="c/Cao:Yanpeng" pid="91/7629">Yanpeng Cao</na></co>
 <co c="1"><na f="c/Chan:Toong_Shoon" pid="63/5349">Toong Shoon Chan</na></co>
 <co c="0" n="2"><na f="c/Chandrasekhar_0001:Vijay" pid="49/5139">Vijay Chandrasekhar 0001</na><na>Vijay Ramaseshan Chandrasekhar</na></co>
 <co c="0"><na f="c/Chang:Yuan" pid="122/7958">Yuan Chang</na></co>
@@ -2610,6 +2748,7 @@
 <co c="0"><na f="c/Cheng_0001:Li" pid="13/4938-1">Li Cheng 0001</na></co>
 <co c="0"><na f="c/Cheng:Yi" pid="70/4429">Yi Cheng</na></co>
 <co c="0"><na f="c/Cheung:Carol_Yim=lui" pid="74/10171">Carol Yim-lui Cheung</na></co>
+<co c="0"><na f="c/Chong:Zhaohui" pid="287/6970">Zhaohui Chong</na></co>
 <co c="0"><na f="c/Christensen:Henrik_B=aelig=rbak" pid="c/HenrickBaerbakChristensen">Henrik Bærbak Christensen</na></co>
 <co c="1"><na f="c/Chung:Charles" pid="09/4431">Charles Chung</na></co>
 <co c="0"><na f="c/Colineau:Nathalie" pid="30/6007">Nathalie Colineau</na></co>
@@ -2633,6 +2772,7 @@
 <co c="0"><na f="g/Guan:Dayan" pid="215/5457">Dayan Guan</na></co>
 <co c="1"><na f="h/Hawryszkiewycz:Igor_T=" pid="h/IgorHawryszkiewycz">Igor T. Hawryszkiewycz</na></co>
 <co c="0"><na f="h/He:Jianhua" pid="40/3669">Jianhua He</na></co>
+<co c="0"><na f="h/Hoi:Steven" pid="286/8835">Steven Hoi</na></co>
 <co c="0"><na f="h/Huang:Chang" pid="17/2241">Chang Huang</na></co>
 <co c="0"><na f="h/Huang:Jiaxing" pid="62/6016">Jiaxing Huang</na></co>
 <co c="0"><na f="h/Huang:Weihua" pid="02/1706">Weihua Huang</na></co>
@@ -2651,6 +2791,7 @@
 <co c="0"><na f="k/Kassim:Ashraf_A=" pid="08/6127">Ashraf A. Kassim</na></co>
 <co c="0"><na f="k/Kim:Byung=Uck" pid="16/1359">Byung-Uck Kim</na></co>
 <co c="0"><na f="k/Ko:Chi_Chung" pid="20/1154">Chi Chung Ko</na></co>
+<co c="-1"><na f="k/K=ouml=ksal:Ali" pid="286/4330">Ali Köksal</na></co>
 <co c="0"><na f="k/Kong:Heng" pid="137/3327">Heng Kong</na></co>
 <co c="0"><na f="k/Koning:Nicole_de" pid="59/1622">Nicole de Koning</na></co>
 <co c="0" n="2"><na f="k/Kot:Alex_ChiChung" pid="k/AlexChiChungKot">Alex ChiChung Kot</na><na>Alex C. Kot</na></co>
@@ -2675,6 +2816,7 @@
 <co c="0"><na f="l/Linden:Keith_Vander" pid="99/5140">Keith Vander Linden</na></co>
 <co c="0"><na f="l/Liu:Haili" pid="142/9052">Haili Liu</na></co>
 <co c="0"><na f="l/Liu:Hang" pid="43/6690">Hang Liu</na></co>
+<co c="0"><na f="l/Liu:Jia" pid="49/1245">Jia Liu</na></co>
 <co c="0"><na f="l/Liu:Jiang" pid="23/108">Jiang Liu</na></co>
 <co c="0"><na f="l/Liu_0001:Jiang" pid="23/108-1">Jiang Liu 0001</na></co>
 <co c="0"><na f="l/Liu:Jingjing" pid="30/3008">Jingjing Liu</na></co>

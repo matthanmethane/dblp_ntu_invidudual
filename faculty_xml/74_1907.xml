@@ -1,4 +1,4 @@
-<?xml version="1.0"?><html><body><dblpperson n="141" name="Siew-Kei Lam" pid="74/1907">
+<?xml version="1.0"?><html><body><dblpperson n="143" name="Siew-Kei Lam" pid="74/1907">
 <person key="homepages/74/1907" mdate="2019-10-04">
 <author pid="74/1907">Siew-Kei Lam</author>
 <author pid="74/1907">Siew Kei Lam</author>
@@ -19,6 +19,19 @@
 <ee>https://doi.org/10.1109/TIFS.2020.3014490</ee>
 <url>db/journals/tifs/tifs16.html#OuZLJ21</url>
 </article>
+</r>
+<r><inproceedings key="conf/aspdac/VigLJ21" mdate="2021-02-09">
+<author pid="203/5609">Saru Vig</author>
+<author pid="74/1907">Siew-Kei Lam</author>
+<author pid="219/2570">Rohan Juneja</author>
+<title>Cache-Aware Dynamic Skewed Tree for Fast Memory Authentication.</title>
+<pages>402-407</pages>
+<year>2021</year>
+<booktitle>ASP-DAC</booktitle>
+<ee>https://doi.org/10.1145/3394885.3431593</ee>
+<crossref>conf/aspdac/2021</crossref>
+<url>db/conf/aspdac/aspdac2021.html#VigLJ21</url>
+</inproceedings>
 </r>
 <r><article key="journals/cj/ShiWJL20" mdate="2020-06-10">
 <author pid="09/8049">Wenjun Shi</author>
@@ -228,6 +241,21 @@
 <ee>https://doi.org/10.1109/FPL50879.2020.00051</ee>
 <crossref>conf/fpl/2020</crossref>
 <url>db/conf/fpl/fpl2020.html#PiyasenaTKLW20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdcs/SharmaRPLS20" mdate="2021-03-02">
+<author pid="25/9113">Kuldeep Sharma</author>
+<author pid="119/4357">Nirmala Ramakrishnan</author>
+<author pid="58/7646">Alok Prakash</author>
+<author pid="74/1907">Siew Kei Lam</author>
+<author pid="23/1694">Thambipillai Srikanthan</author>
+<title>Evaluating the Merits of Ranking in Structured Network Pruning.</title>
+<pages>1389-1396</pages>
+<year>2020</year>
+<booktitle>ICDCS</booktitle>
+<ee>https://doi.org/10.1109/ICDCS47774.2020.00183</ee>
+<crossref>conf/icdcs/2020</crossref>
+<url>db/conf/icdcs/icdcs2020.html#SharmaRPLS20</url>
 </inproceedings>
 </r>
 <r><inproceedings key="conf/wacv/HaddadL20" mdate="2020-05-18">
@@ -709,7 +737,7 @@
 <url>db/conf/ccwc/ccwc2018.html#RohithRCSSL18</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/ches/AlamMKLS18" mdate="2018-11-20">
+<r><inproceedings key="conf/ches/AlamMKLS18" mdate="2021-02-10">
 <author pid="192/5163">Manaar Alam</author>
 <author pid="85/3079">Debdeep Mukhopadhyay</author>
 <author pid="161/3335">Sai Praveen Kadiyala</author>
@@ -719,7 +747,7 @@
 <pages>1-15</pages>
 <year>2018</year>
 <booktitle>PROOFS@CHES</booktitle>
-<ee>http://www.easychair.org/publications/paper/Fhjh</ee>
+<ee type="oa">http://www.easychair.org/publications/paper/Fhjh</ee>
 <crossref>conf/ches/2018proofs</crossref>
 <url>db/conf/ches/proofs2018.html#AlamMKLS18</url>
 </inproceedings>
@@ -1313,7 +1341,7 @@
 <url>db/conf/paap/paap2014.html#ShiWLS14</url>
 </inproceedings>
 </r>
-<r><article key="journals/jcp/LiuLSY13" mdate="2020-09-15">
+<r><article key="journals/jcp/LiuLSY13" mdate="2021-02-25">
 <author pid="58/2670">Bo Liu</author>
 <author pid="74/1907">Siew Kei Lam</author>
 <author orcid="0000-0003-3664-4345" pid="23/1694">Thambipillai Srikanthan</author>
@@ -1326,6 +1354,7 @@
 <number>1</number>
 <ee type="archive">https://doi.org/10.4304/jcp.8.1.41-48</ee>
 <ee>https://www.wikidata.org/entity/Q58210185</ee>
+<ee type="oa">http://www.jcomputers.us/index.php?m=content&amp;c=index&amp;a=show&amp;catid=50&amp;id=481</ee>
 <url>db/journals/jcp/jcp8.html#LiuLSY13</url>
 </article>
 </r>
@@ -1777,7 +1806,7 @@
 <url>db/conf/icpads/icpads2008.html#JagadeeshLS08</url>
 </inproceedings>
 </r>
-<r><article key="journals/scpe/ChuongLS07" mdate="2020-07-09">
+<r><article key="journals/scpe/ChuongLS07" mdate="2021-02-17">
 <author pid="31/7786">Lieu My Chuong</author>
 <author pid="74/1907">Siew Kei Lam</author>
 <author pid="23/1694">Thambipillai Srikanthan</author>
@@ -1786,7 +1815,7 @@
 <volume>8</volume>
 <journal>Scalable Comput. Pract. Exp.</journal>
 <number>4</number>
-<ee>http://www.scpe.org/index.php/scpe/article/view/431</ee>
+<ee type="oa">http://www.scpe.org/index.php/scpe/article/view/431</ee>
 <url>db/journals/scpe/scpe8.html#ChuongLS07</url>
 </article>
 </r>
@@ -2092,7 +2121,7 @@
 <url>db/journals/comcom/comcom23.html#LamS00</url>
 </article>
 </r>
-<coauthors n="144" nc="1">
+<coauthors n="145" nc="1">
 <co c="0"><na f="a/Agarwal:Vedika" pid="180/6476">Vedika Agarwal</na></co>
 <co c="0"><na f="a/Agrawal:N=_K=" pid="39/1039">N. K. Agrawal</na></co>
 <co c="0"><na f="a/Ai:Dihao" pid="220/2141">Dihao Ai</na></co>
@@ -2181,6 +2210,7 @@
 <co c="0"><na f="s/Sathyanarayana:Suchitra" pid="57/355">Suchitra Sathyanarayana</na></co>
 <co c="0"><na f="s/Shafique_0001:Muhammad" pid="s/MuhammadShafique">Muhammad Shafique 0001</na></co>
 <co c="0"><na f="s/Shah:Tushar" pid="198/7742">Tushar Shah</na></co>
+<co c="0"><na f="s/Sharma:Kuldeep" pid="25/9113">Kuldeep Sharma</na></co>
 <co c="0"><na f="s/She:Qi" pid="171/7773">Qi She</na></co>
 <co c="0"><na f="s/Sheet:Debdoot" pid="120/3909">Debdoot Sheet</na></co>
 <co c="0"><na f="s/Shen:Yuze" pid="134/6158">Yuze Shen</na></co>

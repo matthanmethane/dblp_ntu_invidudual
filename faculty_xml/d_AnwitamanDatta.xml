@@ -1,10 +1,27 @@
-<?xml version="1.0"?><html><body><dblpperson n="192" name="Anwitaman Datta" pid="d/AnwitamanDatta">
-<person key="homepages/d/AnwitamanDatta" mdate="2020-09-24">
+<?xml version="1.0"?><html><body><dblpperson n="195" name="Anwitaman Datta" pid="d/AnwitamanDatta">
+<person key="homepages/d/AnwitamanDatta" mdate="2021-02-10">
 <author pid="d/AnwitamanDatta">Anwitaman Datta</author>
-<note type="affiliation">Swiss Federal Institute of Technology in Lausanne, Switzerland</note>
-<url>http://lsirpeople.epfl.ch/adatta/</url>
+<note type="affiliation">Nanyang Technological University, Singapore</note>
+<note label="former" type="affiliation">Swiss Federal Institute of Technology in Lausanne, Switzerland</note>
+<url>https://personal.ntu.edu.sg/anwitaman/</url>
+<url>https://scholar.google.com/citations?user=VWi3_OIAAAAJ</url>
 <url>https://orcid.org/0000-0002-4203-1572</url>
 </person>
+<r><article key="journals/access/BhatiIBDE21" mdate="2021-03-02">
+<author orcid="0000-0003-2604-0089" pid="170/7954">Bhawani Shanker Bhati</author>
+<author orcid="0000-0002-4821-8928" pid="174/8927">Jordan Ivanchev</author>
+<author pid="05/8244">Iva Bojic</author>
+<author orcid="0000-0002-4203-1572" pid="d/AnwitamanDatta">Anwitaman Datta</author>
+<author orcid="0000-0002-2920-0757" pid="42/9851">David Eckhoff</author>
+<title>Utility-Driven k-Anonymization of Public Transport User Data.</title>
+<pages>23608-23623</pages>
+<year>2021</year>
+<volume>9</volume>
+<journal>IEEE Access</journal>
+<ee type="oa">https://doi.org/10.1109/ACCESS.2021.3055505</ee>
+<url>db/journals/access/access9.html#BhatiIBDE21</url>
+</article>
+</r>
 <r><article key="journals/concurrency/PhetsouvanhDO21" mdate="2021-01-09">
 <author pid="235/6936">Silivanxay Phetsouvanh</author>
 <author orcid="0000-0002-4203-1572" pid="d/AnwitamanDatta">Anwitaman Datta</author>
@@ -18,9 +35,34 @@
 <url>db/journals/concurrency/concurrency33.html#PhetsouvanhDO21</url>
 </article>
 </r>
-<r><article key="journals/snam/OggierD21" mdate="2021-01-26">
+<r><article key="journals/fgcs/PhetsouvanhDT21" mdate="2021-02-23">
+<author pid="235/6936">Silivanxay Phetsouvanh</author>
+<author pid="d/AnwitamanDatta">Anwitaman Datta</author>
+<author pid="t/AlwenTiu">Alwen Tiu</author>
+<title>On unlinkability and denial of service attacks resilience of whistleblower platforms.</title>
+<pages>438-452</pages>
+<year>2021</year>
+<volume>118</volume>
+<journal>Future Gener. Comput. Syst.</journal>
+<ee>https://doi.org/10.1016/j.future.2021.01.030</ee>
+<url>db/journals/fgcs/fgcs118.html#PhetsouvanhDT21</url>
+</article>
+</r>
+<r><article key="journals/peerj-cs/OggierD21" mdate="2021-03-09">
 <author pid="o/FrederiqueEOggier">Frédérique E. Oggier</author>
 <author pid="d/AnwitamanDatta">Anwitaman Datta</author>
+<title>Renyi entropy driven hierarchical graph clustering.</title>
+<pages>e366</pages>
+<year>2021</year>
+<volume>7</volume>
+<journal>PeerJ Comput. Sci.</journal>
+<ee type="oa">https://doi.org/10.7717/peerj-cs.366</ee>
+<url>db/journals/peerj-cs/peerj-cs7.html#OggierD21</url>
+</article>
+</r>
+<r><article key="journals/snam/OggierD21" mdate="2021-02-11">
+<author pid="o/FrederiqueEOggier">Frédérique E. Oggier</author>
+<author orcid="0000-0002-4203-1572" pid="d/AnwitamanDatta">Anwitaman Datta</author>
 <title>Centrality informed embedding of networks for temporal feature extraction.</title>
 <pages>12</pages>
 <year>2021</year>
@@ -1098,13 +1140,13 @@
 <url>db/journals/snam/snam2.html#LiDS12</url>
 </article>
 </r>
-<r><inproceedings key="conf/aaai/LiuD12" mdate="2019-03-13">
+<r><inproceedings key="conf/aaai/LiuD12" mdate="2021-02-18">
 <author pid="76/1820-27">Xin Liu 0027</author>
 <author pid="d/AnwitamanDatta">Anwitaman Datta</author>
 <title>Modeling Context Aware Dynamic Trust Using Hidden Markov Model.</title>
 <year>2012</year>
 <booktitle>AAAI</booktitle>
-<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI12/paper/view/4948</ee>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI12/paper/view/4948</ee>
 <crossref>conf/aaai/2012</crossref>
 <url>db/conf/aaai/aaai2012.html#LiuD12</url>
 </inproceedings>
@@ -2569,13 +2611,15 @@
 <url>db/conf/wecwis/wecwis2002.html#AbererDD02</url>
 </inproceedings>
 </r>
-<coauthors n="119" nc="5">
+<coauthors n="124" nc="6">
 <co c="0"><na f="a/Aberer:Karl" pid="a/KarlAberer">Karl Aberer</na></co>
 <co c="0"><na f="a/Adamska:Paulina" pid="56/7698">Paulina Adamska</na></co>
 <co c="1"><na f="a/Aggarwal:Anupama" pid="29/10103">Anupama Aggarwal</na></co>
 <co c="0"><na f="a/Ang:Hock_Hee" pid="57/704">Hock Hee Ang</na></co>
 <co c="0" n="2"><na f="a/Ang:Sally_Nanyang" pid="06/8539">Sally Nanyang Ang</na><na>Sally Ang</na></co>
 <co c="0"><na f="b/Barcellos:Marinho_P=" pid="b/MarinhoPBarcellos">Marinho P. Barcellos</na></co>
+<co c="2"><na f="b/Bhati:Bhawani_Shanker" pid="170/7954">Bhawani Shanker Bhati</na></co>
+<co c="2"><na f="b/Bojic:Iva" pid="05/8244">Iva Bojic</na></co>
 <co c="0"><na f="b/Bossi:Lorenzo" pid="36/5193">Lorenzo Bossi</na></co>
 <co c="0"><na f="b/Braghin:Stefano" pid="07/4982">Stefano Braghin</na></co>
 <co c="0"><na f="b/Buchegger:Sonja" pid="51/550">Sonja Buchegger</na></co>
@@ -2586,14 +2630,15 @@
 <co c="0"><na f="c/Cudr=eacute==Mauroux:Philippe" pid="71/5578">Philippe Cudré-Mauroux</na></co>
 <co c="0"><na f="d/Dang:Hoang=Vu" pid="90/5072">Hoang-Vu Dang</na></co>
 <co c="0"><na f="d/Darlagiannis:Vasilios" pid="03/187">Vasilios Darlagiannis</na></co>
-<co c="2"><na f="d/Das_0001:Sajal_K=" pid="d/SajalKDas">Sajal K. Das 0001</na></co>
+<co c="3"><na f="d/Das_0001:Sajal_K=" pid="d/SajalKDas">Sajal K. Das 0001</na></co>
 <co c="0"><na f="d/Dell=Amico:Matteo" pid="49/4384">Matteo Dell'Amico</na></co>
 <co c="0"><na f="d/Despotovic:Zoran" pid="25/1129">Zoran Despotovic</na></co>
 <co c="-1"><na f="d/Dey:Prasenjit" pid="11/2792">Prasenjit Dey</na></co>
 <co c="0"><na f="d/Dikaiakos:Marios_D=" pid="06/1702">Marios D. Dikaiakos</na></co>
 <co c="0"><na f="d/Dinh:Tien_Tuan_Anh" pid="24/1541">Tien Tuan Anh Dinh</na></co>
+<co c="2"><na f="e/Eckhoff:David" pid="42/9851">David Eckhoff</na></co>
 <co c="0"><na f="e/Epema:Dick_H=_J=" pid="e/DickHJEpema">Dick H. J. Epema</na></co>
-<co c="4"><na f="e/Esiner:Ertem" pid="59/10410">Ertem Esiner</na></co>
+<co c="5"><na f="e/Esiner:Ertem" pid="59/10410">Ertem Esiner</na></co>
 <co c="0"><na f="e/Esmaili:Kyumars_Sheykh" pid="e/KyumarsSheykhEsmaili">Kyumars Sheykh Esmaili</na></co>
 <co c="0"><na f="f/Fang_0002:Hui" pid="03/2511-2">Hui Fang 0002</na></co>
 <co c="0"><na f="f/Felber:Pascal" pid="f/PascalFelber">Pascal Felber</na></co>
@@ -2602,7 +2647,7 @@
 <co c="0"><na f="g/Ganjoo:Milind" pid="125/1966">Milind Ganjoo</na></co>
 <co c="0"><na f="g/Girdzijauskas:Sarunas" pid="42/3994">Sarunas Girdzijauskas</na></co>
 <co c="0"><na f="g/Gopalkrishnan:Vivekanand" pid="72/3859">Vivekanand Gopalkrishnan</na></co>
-<co c="4"><na f="h/Hanley:Shun_Hanli" pid="184/3473">Shun Hanli Hanley</na></co>
+<co c="5"><na f="h/Hanley:Shun_Hanli" pid="184/3473">Shun Hanli Hanley</na></co>
 <co c="0"><na f="h/Haridi:Seif" pid="h/SeifHaridi">Seif Haridi</na></co>
 <co c="0"><na f="h/Harshan:J=" pid="91/11142">J. Harshan</na></co>
 <co c="0"><na f="h/Hasler:Martin" pid="h/MHasler">Martin Hasler</na></co>
@@ -2614,11 +2659,12 @@
 <co c="0"><na f="i/Iamnitchi:Adriana" pid="33/5916">Adriana Iamnitchi</na></co>
 <co c="0"><na f="i/Ibrahim:Nelman_Lubis" pid="11/8213">Nelman Lubis Ibrahim</na></co>
 <co c="0"><na f="i/Iftode:Liviu" pid="25/5411">Liviu Iftode</na></co>
+<co c="2"><na f="i/Ivanchev:Jordan" pid="174/8927">Jordan Ivanchev</na></co>
 <co c="0"><na f="j/John:Renault" pid="92/2339">Renault John</na></co>
 <co c="0"><na f="k/Kaszuba:Tomasz" pid="43/4237">Tomasz Kaszuba</na></co>
 <co c="0"><na f="k/Klemm:Fabius" pid="33/3656">Fabius Klemm</na></co>
 <co c="0"><na f="k/Kreitz:Gunnar" pid="70/3875">Gunnar Kreitz</na></co>
-<co c="2"><na f="k/Kumar:Mohan" pid="68/5181">Mohan Kumar</na></co>
+<co c="3"><na f="k/Kumar:Mohan" pid="68/5181">Mohan Kumar</na></co>
 <co c="1"><na f="k/Kumaraguru:Ponnurangam" pid="97/5147">Ponnurangam Kumaraguru</na></co>
 <co c="0"><na f="k/Kwee:Agus_Trisnajaya" pid="63/82">Agus Trisnajaya Kwee</na></co>
 <co c="0"><na f="l/Le:Minh=Tam" pid="98/4759">Minh-Tam Le</na></co>
@@ -2639,7 +2685,7 @@
 <co c="0"><na f="m/Militzer:Michael" pid="21/1948">Michael Militzer</na></co>
 <co c="0"><na f="m/Montresor:Alberto" pid="m/AlbertoMontresor">Alberto Montresor</na></co>
 <co c="0"><na f="n/Nejdl:Wolfgang" pid="n/WolfgangNejdl">Wolfgang Nejdl</na></co>
-<co c="3"><na f="n/Ng:Kam=Wing" pid="n/KamWingNg">Kam-Wing Ng</na></co>
+<co c="4"><na f="n/Ng:Kam=Wing" pid="n/KamWingNg">Kam-Wing Ng</na></co>
 <co c="0"><na f="n/Ng:Wee_Keong" pid="n/WeeKeongNg">Wee Keong Ng</na></co>
 <co c="0"><na f="n/Nielek:Radoslaw" pid="05/764">Radoslaw Nielek</na></co>
 <co c="0"><na f="o/Oggier:Fr=eacute=d=eacute=rique_E=" pid="o/FrederiqueEOggier">Frédérique E. Oggier</na></co>
@@ -2667,7 +2713,8 @@
 <co c="0"><na f="s/Strufe:Thorsten" pid="69/2809">Thorsten Strufe</na></co>
 <co c="0"><na f="s/Sun:Aixin" pid="78/5155">Aixin Sun</na></co>
 <co c="0"><na f="t/Thanh:Quach_Vinh" pid="10/9025">Quach Vinh Thanh</na></co>
-<co c="3"><na f="t/Tian_0004:Ye" pid="32/5495-4">Ye Tian 0004</na></co>
+<co c="4"><na f="t/Tian_0004:Ye" pid="32/5495-4">Ye Tian 0004</na></co>
+<co c="0"><na f="t/Tiu:Alwen" pid="t/AlwenTiu">Alwen Tiu</na></co>
 <co c="0"><na f="t/Tr=eacute=dan:Gilles" pid="01/3361">Gilles Trédan</na></co>
 <co c="0"><na f="t/Trombetta:Alberto" pid="97/2730">Alberto Trombetta</na></co>
 <co c="0"><na f="t/Turek:Piotr" pid="42/7915">Piotr Turek</na></co>
@@ -2675,12 +2722,12 @@
 <co c="0"><na f="v/Voulgaris:Spyros" pid="15/5921">Spyros Voulgaris</na></co>
 <co c="0"><na f="v/Vu:Le=Hung" pid="55/3091">Le-Hung Vu</na></co>
 <co c="0"><na f="w/Wang:Wenqiang" pid="71/2114">Wenqiang Wang</na></co>
-<co c="2"><na f="w/Wang_0001:Zhijun" pid="37/1593-1">Zhijun Wang 0001</na></co>
+<co c="3"><na f="w/Wang_0001:Zhijun" pid="37/1593-1">Zhijun Wang 0001</na></co>
 <co c="0"><na f="w/Weng:Jianshu" pid="98/392">Jianshu Weng</na></co>
 <co c="0"><na f="w/Weth:Christian_von_der" pid="18/2883">Christian von der Weth</na></co>
 <co c="0"><na f="w/Wierzbicki:Adam" pid="76/6170">Adam Wierzbicki</na></co>
 <co c="0"><na f="w/Wombacher:Andreas" pid="w/AndreasWombacher">Andreas Wombacher</na></co>
-<co c="3"><na f="w/Wu_0001:Di" pid="52/328-1">Di Wu 0001</na></co>
+<co c="4"><na f="w/Wu_0001:Di" pid="52/328-1">Di Wu 0001</na></co>
 <co c="0"><na f="w/Wu_0012:Jie" pid="w/JieWu12">Jie Wu 0012</na></co>
 <co c="0"><na f="x/Xin:Liu" pid="57/5236">Liu Xin</na></co>
 <co c="0"><na f="x/Xu:Jun" pid="90/514">Jun Xu</na></co>

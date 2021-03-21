@@ -1,4 +1,4 @@
-<?xml version="1.0"?><html><body><dblpperson n="116" name="Douglas L. Maskell" pid="63/6663">
+<?xml version="1.0"?><html><body><dblpperson n="117" name="Douglas L. Maskell" pid="63/6663">
 <person key="homepages/63/6663" mdate="2016-02-09">
 <author pid="63/6663">Douglas L. Maskell</author>
 <author pid="63/6663">Douglas Leslie Maskell</author>
@@ -18,6 +18,21 @@
 <ee type="oa">https://doi.org/10.1109/ACCESS.2020.3047651</ee>
 <url>db/journals/access/access9.html#Balasubramanian21</url>
 </article>
+</r>
+<r><inproceedings key="conf/icdcs/LuoZHLM20" mdate="2021-03-02">
+<author pid="43/4720">Tao Luo</author>
+<author pid="10/4661">Wei Zhang</author>
+<author pid="h/BingshengHe">Bingsheng He</author>
+<author pid="15/2288">Cheng Liu</author>
+<author pid="63/6663">Douglas L. Maskell</author>
+<title>Energy Efficient In-memory Integer Multiplication Based on Racetrack Memory.</title>
+<pages>1409-1414</pages>
+<year>2020</year>
+<booktitle>ICDCS</booktitle>
+<ee>https://doi.org/10.1109/ICDCS47774.2020.00186</ee>
+<crossref>conf/icdcs/2020</crossref>
+<url>db/conf/icdcs/icdcs2020.html#LuoZHLM20</url>
+</inproceedings>
 </r>
 <r><inproceedings key="conf/iscas/LiVMFJ20" mdate="2021-01-18">
 <author pid="120/9389">Xiangwei Li</author>
@@ -1571,7 +1586,7 @@
 <url>db/journals/tim/tim48.html#MaskellW99</url>
 </article>
 </r>
-<coauthors n="71" nc="3">
+<coauthors n="73" nc="3">
 <co c="0"><na f="a/Aung:Yan_Lin" pid="16/7046">Yan Lin Aung</na></co>
 <co c="1" n="2"><na f="b/Balasubramanian_0001:P=" pid="38/1993">P. Balasubramanian 0001</na><na>Padmanabhan Balasubramanian</na></co>
 <co c="0"><na f="b/Bong:William" pid="84/1109">William Bong</na></co>
@@ -1609,6 +1624,7 @@
 <co c="0"><na f="l/Leiwo:Jussipekka" pid="18/1171">Jussipekka Leiwo</na></co>
 <co c="0"><na f="l/Li:Xiangwei" pid="120/9389">Xiangwei Li</na></co>
 <co c="0"><na f="l/Liang_0003:Hao" pid="62/5181-3">Hao Liang 0003</na></co>
+<co c="0"><na f="l/Liu:Cheng" pid="15/2288">Cheng Liu</na></co>
 <co c="0"><na f="l/Liu:Weiguo" pid="31/371">Weiguo Liu</na></co>
 <co c="0"><na f="l/Liu:Yongchao" pid="29/3462">Yongchao Liu</na></co>
 <co c="0"><na f="l/Luo:Tao" pid="43/4720">Tao Luo</na></co>
@@ -1640,6 +1656,7 @@
 <co c="0"><na f="w/Wang_0016:Yi" pid="67/6649-16">Yi Wang 0016</na></co>
 <co c="0"><na f="w/Woods:Graham_S=" pid="88/6837">Graham S. Woods</na></co>
 <co c="0"><na f="y/Yanto:Jacop" pid="62/2507">Jacop Yanto</na></co>
+<co c="0"><na f="z/Zhang:Wei" pid="10/4661">Wei Zhang</na></co>
 <co c="0"><na f="z/Zhang_0012:Wei" pid="10/4661-12">Wei Zhang 0012</na></co>
 <co c="0"><na f="z/Zhang:Xinan" pid="122/8765">Xinan Zhang</na></co>
 <co c="0"><na f="z/Zhou:Weigui_Jair" pid="142/4164">Weigui Jair Zhou</na></co>

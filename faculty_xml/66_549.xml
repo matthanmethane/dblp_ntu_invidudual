@@ -1,4 +1,4 @@
-<?xml version="1.0"?><html><body><dblpperson n="195" name="A. S. Madhukumar" pid="66/549">
+<?xml version="1.0"?><html><body><dblpperson n="197" name="A. S. Madhukumar" pid="66/549">
 <person key="homepages/66/549" mdate="2020-04-17">
 <author pid="66/549">A. S. Madhukumar</author>
 <url>https://orcid.org/0000-0002-8740-634X</url>
@@ -144,6 +144,19 @@
 <url>db/conf/vtc/vtc2020s.html#ErnestMSK20</url>
 </inproceedings>
 </r>
+<r><inproceedings key="conf/vtc/SharmaMR20" mdate="2021-02-23">
+<author pid="160/3438">Shubha Sharma</author>
+<author pid="66/549">A. S. Madhukumar</author>
+<author pid="199/9811">Swaminathan Ramabadran</author>
+<title>Space Shift Keying-Based Hybrid FSO/RF System.</title>
+<pages>1-5</pages>
+<year>2020</year>
+<booktitle>VTC-Fall</booktitle>
+<ee>https://doi.org/10.1109/VTC2020-Fall49728.2020.9348853</ee>
+<crossref>conf/vtc/2020f</crossref>
+<url>db/conf/vtc/vtc2020f.html#SharmaMR20</url>
+</inproceedings>
+</r>
 <r><inproceedings key="conf/vtc/SharmaMS20" mdate="2020-07-15">
 <author pid="160/3438">Shubha Sharma</author>
 <author pid="66/549">A. S. Madhukumar</author>
@@ -182,6 +195,20 @@
 <ee>https://doi.org/10.1109/VTC2020-Spring48590.2020.9128682</ee>
 <crossref>conf/vtc/2020s</crossref>
 <url>db/conf/vtc/vtc2020s.html#TanMSK20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/vtc/TanMSK20a" mdate="2021-02-23">
+<author pid="174/3471">Zheng Hui Ernest Tan</author>
+<author pid="66/549">A. S. Madhukumar</author>
+<author pid="82/8861">Rajendra Prasad Sirigina</author>
+<author pid="56/954">Anoop Kumar Krishna</author>
+<title>Mitigating Cellular Interference in Uplink UAV Communications.</title>
+<pages>1-5</pages>
+<year>2020</year>
+<booktitle>VTC-Fall</booktitle>
+<ee>https://doi.org/10.1109/VTC2020-Fall49728.2020.9348598</ee>
+<crossref>conf/vtc/2020f</crossref>
+<url>db/conf/vtc/vtc2020f.html#TanMSK20a</url>
 </inproceedings>
 </r>
 <r><article key="journals/access/TanMSK19" mdate="2020-03-27">
@@ -1908,7 +1935,7 @@
 <url>db/conf/vtc/vtc2008s.html#KurniawanMC08</url>
 </inproceedings>
 </r>
-<r><article key="journals/ieiceee/MajhiMP07" mdate="2020-09-10">
+<r><article key="journals/ieiceee/MajhiMP07" mdate="2021-02-12">
 <author orcid="0000-0002-2142-1862" pid="52/739">Sudhan Majhi</author>
 <author orcid="0000-0002-8740-634X" pid="66/549">A. S. Madhukumar</author>
 <author orcid="0000-0003-1861-9760" pid="81/2641">A. Benjamin Premkumar</author>
@@ -1918,7 +1945,7 @@
 <volume>4</volume>
 <journal>IEICE Electron. Express</journal>
 <number>8</number>
-<ee>https://doi.org/10.1587/elex.4.238</ee>
+<ee type="oa">https://doi.org/10.1587/elex.4.238</ee>
 <url>db/journals/ieiceee/ieiceee4.html#MajhiMP07</url>
 </article>
 </r>
@@ -2074,7 +2101,7 @@
 <url>db/journals/icl/icl10.html#TioMP06</url>
 </article>
 </r>
-<r><article key="journals/ieiceee/MajhiMP06" mdate="2020-09-10">
+<r><article key="journals/ieiceee/MajhiMP06" mdate="2021-02-12">
 <author orcid="0000-0002-2142-1862" pid="52/739">Sudhan Majhi</author>
 <author orcid="0000-0002-8740-634X" pid="66/549">A. S. Madhukumar</author>
 <author pid="81/2641">A. Benjamin Premkumar</author>
@@ -2084,7 +2111,7 @@
 <volume>3</volume>
 <journal>IEICE Electron. Express</journal>
 <number>14</number>
-<ee>https://doi.org/10.1587/elex.3.361</ee>
+<ee type="oa">https://doi.org/10.1587/elex.3.361</ee>
 <url>db/journals/ieiceee/ieiceee3.html#MajhiMP06</url>
 </article>
 </r>
@@ -2184,7 +2211,7 @@
 <url>db/journals/icl/icl9.html#LinPM05</url>
 </article>
 </r>
-<r><article key="journals/ieiceee/ZhiweiPM05" mdate="2020-09-10">
+<r><article key="journals/ieiceee/ZhiweiPM05" mdate="2021-02-12">
 <author pid="38/1761-1">Zhiwei Lin 0001</author>
 <author pid="81/2641">A. Benjamin Premkumar</author>
 <author orcid="0000-0002-8740-634X" pid="66/549">A. S. Madhukumar</author>
@@ -2194,7 +2221,7 @@
 <volume>2</volume>
 <journal>IEICE Electron. Express</journal>
 <number>6</number>
-<ee>https://doi.org/10.1587/elex.2.176</ee>
+<ee type="oa">https://doi.org/10.1587/elex.2.176</ee>
 <url>db/journals/ieiceee/ieiceee2.html#ZhiweiPM05</url>
 </article>
 </r>

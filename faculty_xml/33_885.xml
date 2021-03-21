@@ -1,4 +1,4 @@
-<?xml version="1.0"?><html><body><dblpperson n="285" name="Yonggang Wen 0001" pid="33/885">
+<?xml version="1.0"?><html><body><dblpperson n="287" name="Yonggang Wen 0001" pid="33/885">
 <person key="homepages/33/885" mdate="2020-08-04">
 <author pid="33/885">Yonggang Wen 0001</author>
 <note type="affiliation">Nanyang Technological University, Singapore</note>
@@ -12,6 +12,22 @@
 <h f="w/Wen:Yonggang"><name>Yonggang Wen</name>
 </h>
 </homonyms>
+<r><article key="journals/tcc/ZhangWLLF21" mdate="2021-03-15">
+<author pid="10/4661-82">Wei Zhang 0082</author>
+<author pid="33/885">Yonggang Wen 0001</author>
+<author pid="55/8205">Loi Lei Lai</author>
+<author pid="67/5807-9">Fang Liu 0009</author>
+<author pid="03/1805-4">Rui Fan 0004</author>
+<title>Cost Optimal Data Center Servers: A Voltage Scaling Approach.</title>
+<pages>118-130</pages>
+<year>2021</year>
+<volume>9</volume>
+<journal>IEEE Trans. Cloud Comput.</journal>
+<number>1</number>
+<ee>https://doi.org/10.1109/TCC.2018.2844823</ee>
+<url>db/journals/tcc/tcc9.html#ZhangWLLF21</url>
+</article>
+</r>
 <r><article key="journals/corr/abs-2101-04163" mdate="2021-01-26" publtype="informal">
 <author pid="08/2429">Yao Fu</author>
 <author pid="78/6594">Yipeng Zhou</author>
@@ -25,6 +41,22 @@
 <journal>CoRR</journal>
 <ee type="oa">https://arxiv.org/abs/2101.04163</ee>
 <url>db/journals/corr/corr2101.html#abs-2101-04163</url>
+</article>
+</r>
+<r><article key="journals/corr/abs-2102-03012" mdate="2021-02-10" publtype="informal">
+<author pid="218/5222">Huaizheng Zhang</author>
+<author pid="03/8774">Meng Shen</author>
+<author pid="265/3149">Yizheng Huang</author>
+<author pid="33/885">Yonggang Wen 0001</author>
+<author pid="57/5272-2">Yong Luo 0002</author>
+<author pid="150/6757">Guanyu Gao</author>
+<author pid="68/3591">Kyle Guan</author>
+<title>A Serverless Cloud-Fog Platform for DNN-Based Video Analytics with Incremental Learning.</title>
+<year>2021</year>
+<volume>abs/2102.03012</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2102.03012</ee>
+<url>db/journals/corr/corr2102.html#abs-2102-03012</url>
 </article>
 </r>
 <r><article key="journals/cim/LiuL00T020" mdate="2020-08-30">
@@ -1670,7 +1702,7 @@
 <url>db/journals/tmm/tmm19.html#GaoHWW17</url>
 </article>
 </r>
-<r><inproceedings key="conf/aaai/LiuXL0WT17" mdate="2020-08-30">
+<r><inproceedings key="conf/aaai/LiuXL0WT17" mdate="2021-02-10">
 <author pid="41/7841-3">Meng Liu 0003</author>
 <author pid="97/2966-2">Chang Xu 0002</author>
 <author pid="57/5272-2">Yong Luo 0002</author>
@@ -1681,7 +1713,7 @@
 <pages>2252-2258</pages>
 <year>2017</year>
 <booktitle>AAAI</booktitle>
-<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14175</ee>
+<ee type="oa">http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14175</ee>
 <crossref>conf/aaai/2017</crossref>
 <url>db/conf/aaai/aaai2017.html#LiuXL0WT17</url>
 </inproceedings>
@@ -2522,12 +2554,12 @@
 <url>db/journals/tnsm/tnsm12.html#LiXWCZ15</url>
 </article>
 </r>
-<r><article key="journals/tpds/LuSWCP15" mdate="2020-10-02">
+<r><article key="journals/tpds/LuSWCP15" mdate="2021-02-09">
 <author orcid="0000-0003-3967-2704" pid="99/965">Zongqing Lu</author>
 <author pid="30/202-10">Xiao Sun 0010</author>
 <author pid="33/885">Yonggang Wen 0001</author>
 <author pid="c/GuohongCao">Guohong Cao</author>
-<author pid="l/TomLaPorta">Thomas F. La Porta</author>
+<author pid="l/TomLaPorta">Thomas La Porta</author>
 <title>Algorithms and Applications for Community Detection in Weighted Networks.</title>
 <pages>2916-2926</pages>
 <year>2015</year>
@@ -2570,7 +2602,7 @@
 <url>db/journals/twc/twc14.html#ZhangWW15</url>
 </article>
 </r>
-<r><inproceedings key="conf/aaai/LiuLTXW15" mdate="2020-08-30">
+<r><inproceedings key="conf/aaai/LiuLTXW15" mdate="2021-02-10">
 <author pid="41/7841-3">Meng Liu 0003</author>
 <author pid="57/5272-2">Yong Luo 0002</author>
 <author pid="46/3391">Dacheng Tao</author>
@@ -2580,7 +2612,7 @@
 <pages>2778-2784</pages>
 <year>2015</year>
 <booktitle>AAAI</booktitle>
-<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9341</ee>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9341</ee>
 <crossref>conf/aaai/2015</crossref>
 <url>db/conf/aaai/aaai2015.html#LiuLTXW15</url>
 </inproceedings>
@@ -2781,10 +2813,10 @@
 <url>db/journals/access/access2.html#HuWCL14</url>
 </article>
 </r>
-<r><article key="journals/chinaf/HuangCWW14" mdate="2020-06-30">
+<r><article key="journals/chinaf/HuangCWW14" mdate="2021-03-08">
 <author pid="22/6402">Haiping Huang</author>
 <author pid="57/4806">Xiao Cao</author>
-<author pid="85/5653">Ruchuan Wang</author>
+<author pid="85/5653-1">Ruchuan Wang 0001</author>
 <author pid="33/885">Yonggang Wen 0001</author>
 <title>A QoS-aware routing algorithm based on ant-cluster in wireless multimedia sensor networks.</title>
 <pages>1-16</pages>
@@ -3182,7 +3214,7 @@
 <url>db/conf/secon/secon2014.html#LuSWC14</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/sigcomm/HuJWCL14" mdate="2020-06-30">
+<r><inproceedings key="conf/sigcomm/HuJWCL14" mdate="2021-03-10">
 <author pid="59/3754-3">Han Hu 0003</author>
 <author pid="42/8333">Yichao Jin</author>
 <author pid="33/885">Yonggang Wen 0001</author>
@@ -3193,6 +3225,7 @@
 <year>2014</year>
 <booktitle>SIGCOMM</booktitle>
 <ee>https://doi.org/10.1145/2619239.2631430</ee>
+<ee>https://doi.org/10.1145/2740070.2631430</ee>
 <ee>https://www.wikidata.org/entity/Q62794767</ee>
 <crossref>conf/sigcomm/2014</crossref>
 <url>db/conf/sigcomm/sigcomm2014.html#HuJWCL14</url>
@@ -3668,7 +3701,7 @@
 <url>db/conf/percom/percom2013.html#LuWC13</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/sigcomm/YinSWGLLYGL13" mdate="2020-06-30">
+<r><inproceedings key="conf/sigcomm/YinSWGLLYGL13" mdate="2021-03-11">
 <author pid="132/8514">Jianxiong Yin</author>
 <author pid="88/619-6">Peng Sun 0006</author>
 <author pid="33/885">Yonggang Wen 0001</author>
@@ -3683,6 +3716,7 @@
 <year>2013</year>
 <booktitle>SIGCOMM</booktitle>
 <ee>https://doi.org/10.1145/2486001.2491704</ee>
+<ee>https://doi.org/10.1145/2534169.2491704</ee>
 <ee>https://www.wikidata.org/entity/Q62794819</ee>
 <crossref>conf/sigcomm/2013</crossref>
 <url>db/conf/sigcomm/sigcomm2013.html#YinSWGLLYGL13</url>
@@ -4250,7 +4284,7 @@
 <url>db/conf/globecom/globecom2003.html#WenC03</url>
 </inproceedings>
 </r>
-<coauthors n="370" nc="2">
+<coauthors n="371" nc="2">
 <co c="0"><na f="a/Ai:Qiming" pid="255/6169">Qiming Ai</na></co>
 <co c="0"><na f="a/Alfaro:Pedro_Comesa=ntilde=a" pid="c/PComesanaA">Pedro Comesaña Alfaro</na></co>
 <co c="0"><na f="a/An:Jianping" pid="91/2709">Jianping An</na></co>
@@ -4456,7 +4490,7 @@
 <co c="1"><na f="p/Pattipati:Krishna_R=" pid="37/3815">Krishna R. Pattipati</na></co>
 <co c="0"><na f="p/Piccardi:Massimo" pid="p/MassimoPiccardi">Massimo Piccardi</na></co>
 <co c="0"><na f="p/Pizurica:Aleksandra" pid="88/5879">Aleksandra Pizurica</na></co>
-<co c="0"><na f="p/Porta:Thomas_F=_La" pid="l/TomLaPorta">Thomas F. La Porta</na></co>
+<co c="0"><na f="p/Porta:Thomas_La" pid="l/TomLaPorta">Thomas La Porta</na></co>
 <co c="0"><na f="p/Prati_0001:Andrea" pid="p/AndreaPrati">Andrea Prati 0001</na></co>
 <co c="0"><na f="q/Qiao:Yan" pid="65/7820">Yan Qiao</na></co>
 <co c="0"><na f="q/Qiu_0001:Han" pid="15/4507-1">Han Qiu 0001</na></co>
@@ -4473,6 +4507,7 @@
 <co c="0"><na f="s/Schwarz:Heiko" pid="91/3474">Heiko Schwarz</na></co>
 <co c="0"><na f="s/Shahidehpour:Mohammad" pid="78/7533">Mohammad Shahidehpour</na></co>
 <co c="0"><na f="s/Shao_0001:Ling" pid="75/1281">Ling Shao 0001</na></co>
+<co c="0"><na f="s/Shen:Meng" pid="03/8774">Meng Shen</na></co>
 <co c="0"><na f="s/Shi:Guangyu" pid="81/6631">Guangyu Shi</na></co>
 <co c="0"><na f="s/Shi:Haibo" pid="62/1837">Haibo Shi</na></co>
 <co c="0"><na f="s/Shi:Haixiang" pid="34/1152">Haixiang Shi</na></co>
@@ -4513,7 +4548,7 @@
 <co c="0"><na f="w/Wang_0001:Ping" pid="37/1304-1">Ping Wang 0001</na></co>
 <co c="0"><na f="w/Wang:Ran" pid="12/6277">Ran Wang</na></co>
 <co c="0"><na f="w/Wang:Rongrong" pid="61/6922">Rongrong Wang</na></co>
-<co c="0"><na f="w/Wang:Ruchuan" pid="85/5653">Ruchuan Wang</na></co>
+<co c="0"><na f="w/Wang_0001:Ruchuan" pid="85/5653-1">Ruchuan Wang 0001</na></co>
 <co c="0"><na f="w/Wang:Ruihang" pid="257/3026">Ruihang Wang</na></co>
 <co c="0"><na f="w/Wang_0001:Shiqi" pid="58/9145-1">Shiqi Wang 0001</na></co>
 <co c="0"><na f="w/Wang_0015:Wei" pid="w/WeiWang15">Wei Wang 0015</na></co>

@@ -21,12 +21,12 @@
 <h f="c/Cai:Wentong"><name>Wentong Cai</name>
 </h>
 </homonyms>
-<r><article key="journals/tpds/LiZT0L0G21" mdate="2020-10-20">
+<r><article key="journals/tpds/LiZT0L0G21" mdate="2021-02-25">
 <author orcid="0000-0001-6623-350X" pid="28/6239">Yusen Li</author>
 <author pid="252/4918">Changjian Zhao</author>
 <author orcid="0000-0002-7404-7595" pid="23/2460">Xueyan Tang</author>
 <author orcid="0000-0002-0183-3835" pid="83/3179">Wentong Cai 0001</author>
-<author orcid="0000-0002-9010-3278" pid="25/1221">Xiaoguang Liu</author>
+<author orcid="0000-0002-9010-3278" pid="25/1221-1">Xiaoguang Liu 0001</author>
 <author orcid="0000-0003-0387-2501" pid="71/4292-1">Gang Wang 0001</author>
 <author orcid="0000-0002-9836-558X" pid="45/1397">Xiaoli Gong</author>
 <title>Towards Minimizing Resource Usage With QoS Guarantee in Cloud Gaming.</title>
@@ -354,12 +354,12 @@
 <url>db/journals/tomacs/tomacs29.html#WuCLTH19</url>
 </article>
 </r>
-<r><article key="journals/tpds/LiTCTLW19" mdate="2020-10-02">
+<r><article key="journals/tpds/LiTCTLW19" mdate="2021-02-25">
 <author orcid="0000-0001-6623-350X" pid="28/6239">Yusen Li</author>
 <author orcid="0000-0002-7404-7595" pid="23/2460">Xueyan Tang</author>
 <author orcid="0000-0002-0183-3835" pid="83/3179">Wentong Cai 0001</author>
 <author pid="94/8174">Jiancong Tong</author>
-<author orcid="0000-0002-9010-3278" pid="25/1221">Xiaoguang Liu</author>
+<author orcid="0000-0002-9010-3278" pid="25/1221-1">Xiaoguang Liu 0001</author>
 <author orcid="0000-0003-0387-2501" pid="71/4292-1">Gang Wang 0001</author>
 <title>Resource-Efficient Index Shard Replication in Large Scale Search Engines.</title>
 <pages>2820-2835</pages>
@@ -401,14 +401,14 @@
 <url>db/conf/europar/europar2019w.html#XiaoACRKE19</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/hpdc/LiSCTCTLWGZ19" mdate="2020-09-02">
+<r><inproceedings key="conf/hpdc/LiSCTCTLWGZ19" mdate="2021-02-25">
 <author pid="28/6239">Yusen Li</author>
 <author pid="243/3646">Chuxu Shan</author>
 <author pid="123/7895-2">Ruobing Chen 0002</author>
 <author pid="23/2460">Xueyan Tang</author>
 <author orcid="0000-0002-0183-3835" pid="83/3179">Wentong Cai 0001</author>
 <author pid="67/7742">Shanjiang Tang</author>
-<author pid="25/1221">Xiaoguang Liu</author>
+<author pid="25/1221-1">Xiaoguang Liu 0001</author>
 <author pid="71/4292-1">Gang Wang 0001</author>
 <author pid="45/1397">Xiaoli Gong</author>
 <author pid="13/6769">Ying Zhang</author>
@@ -575,12 +575,12 @@
 <url>db/journals/tomacs/tomacs28.html#ZhaoZC18</url>
 </article>
 </r>
-<r><article key="journals/tomccap/LiDTCL018" mdate="2020-06-10">
+<r><article key="journals/tomccap/LiDTCL018" mdate="2021-02-25">
 <author pid="28/6239">Yusen Li</author>
 <author pid="97/9078">Yunhua Deng</author>
 <author pid="23/2460">Xueyan Tang</author>
 <author orcid="0000-0002-0183-3835" pid="83/3179">Wentong Cai 0001</author>
-<author pid="25/1221">Xiaoguang Liu</author>
+<author pid="25/1221-1">Xiaoguang Liu 0001</author>
 <author pid="71/4292-1">Gang Wang 0001</author>
 <title>Cost-Efficient Server Provisioning for Cloud Gaming.</title>
 <pages>55:1-55:22</pages>
@@ -639,12 +639,12 @@
 <url>db/conf/icpads/icpads2018.html#LiRLGCZG18</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/icpp/LiTCTLWGCGL18" mdate="2020-06-10">
+<r><inproceedings key="conf/icpp/LiTCTLWGCGL18" mdate="2021-02-25">
 <author pid="28/6239">Yusen Li</author>
 <author pid="23/2460">Xueyan Tang</author>
 <author orcid="0000-0002-0183-3835" pid="83/3179">Wentong Cai 0001</author>
 <author pid="94/8174">Jiancong Tong</author>
-<author pid="25/1221">Xiaoguang Liu</author>
+<author pid="25/1221-1">Xiaoguang Liu 0001</author>
 <author pid="71/4292-1">Gang Wang 0001</author>
 <author pid="224/2364">Chuansong Gao</author>
 <author pid="185/4253">Xuan Cao</author>
@@ -950,12 +950,12 @@
 <url>db/conf/icpp/icpp2017.html#NiHTWC17</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/mm/LiDTCLW17" mdate="2020-06-10">
+<r><inproceedings key="conf/mm/LiDTCLW17" mdate="2021-02-25">
 <author pid="28/6239">Yusen Li</author>
 <author pid="97/9078">Yunhua Deng</author>
 <author pid="23/2460">Xueyan Tang</author>
 <author orcid="0000-0002-0183-3835" pid="83/3179">Wentong Cai 0001</author>
-<author pid="25/1221">Xiaoguang Liu</author>
+<author pid="25/1221-1">Xiaoguang Liu 0001</author>
 <author pid="71/4292-1">Gang Wang 0001</author>
 <title>On Server Provisioning for Cloud Gaming.</title>
 <pages>492-500</pages>
@@ -1848,7 +1848,7 @@
 <url>db/journals/simulation/simulation89.html#LiTCL13</url>
 </article>
 </r>
-<r><inproceedings key="conf/aiide/LuoYZCLZ13" mdate="2020-06-10">
+<r><inproceedings key="conf/aiide/LuoYZCLZ13" mdate="2021-02-10">
 <author pid="53/803">Linbo Luo</author>
 <author pid="130/2468">Haiyan Yin</author>
 <author pid="56/443">Jinghui Zhong</author>
@@ -1858,7 +1858,7 @@
 <title>Mission-Based Scenario Modeling and Generation for Virtual Training.</title>
 <year>2013</year>
 <booktitle>AIIDE</booktitle>
-<ee>http://www.aaai.org/ocs/index.php/AIIDE/AIIDE13/paper/view/7390</ee>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AIIDE/AIIDE13/paper/view/7390</ee>
 <crossref>conf/aiide/2013</crossref>
 <url>db/conf/aiide/aiide2013.html#LuoYZCLZ13</url>
 </inproceedings>
@@ -2603,7 +2603,7 @@
 <url>db/conf/simutools/simutools2010.html#LiC10</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/springsim/LiangLLCZ10" mdate="2020-06-10">
+<r><inproceedings key="conf/springsim/LiangLLCZ10" mdate="2021-03-09">
 <author pid="58/8736">Anson Yuanxi Liang</author>
 <author pid="l/MalcolmYokeHeanLow">Malcolm Yoke-Hean Low</author>
 <author pid="97/1049">Michael Harold Lees</author>
@@ -2613,12 +2613,12 @@
 <pages>19</pages>
 <year>2010</year>
 <booktitle>SpringSim</booktitle>
-<ee>http://dl.acm.org/citation.cfm?id=1878537.1878557</ee>
+<ee>https://doi.org/10.1145/1878537.1878557</ee>
 <crossref>conf/springsim/2010</crossref>
 <url>db/conf/springsim/springsim2010.html#LiangLLCZ10</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/springsim/DecraeneZLZC10" mdate="2020-06-10">
+<r><inproceedings key="conf/springsim/DecraeneZLZC10" mdate="2021-03-09">
 <author pid="17/6952">James Decraene</author>
 <author pid="92/8570">Fanchao Zeng</author>
 <author pid="l/MalcolmYokeHeanLow">Malcolm Yoke-Hean Low</author>
@@ -2628,12 +2628,12 @@
 <pages>47</pages>
 <year>2010</year>
 <booktitle>SpringSim</booktitle>
-<ee>http://dl.acm.org/citation.cfm?id=1878537.1878586</ee>
+<ee>https://doi.org/10.1145/1878537.1878586</ee>
 <crossref>conf/springsim/2010</crossref>
 <url>db/conf/springsim/springsim2010.html#DecraeneZLZC10</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/springsim/LiCTP10" mdate="2020-06-10">
+<r><inproceedings key="conf/springsim/LiCTP10" mdate="2021-03-09">
 <author pid="95/6812">Zengxiang Li</author>
 <author pid="83/3179">Wentong Cai 0001</author>
 <author pid="t/StephenJohnTurner">Stephen John Turner</author>
@@ -2642,7 +2642,7 @@
 <pages>151</pages>
 <year>2010</year>
 <booktitle>SpringSim</booktitle>
-<ee>http://dl.acm.org/citation.cfm?id=1878537.1878695</ee>
+<ee>https://doi.org/10.1145/1878537.1878695</ee>
 <crossref>conf/springsim/2010</crossref>
 <url>db/conf/springsim/springsim2010.html#LiCTP10</url>
 </inproceedings>
@@ -4881,8 +4881,8 @@
 <url>db/conf/pdpta/pdpta1996.html#LeeCHT96</url>
 </inproceedings>
 </r>
-<r><article key="journals/jpdc/SkillicornC95" mdate="2020-06-10">
-<author pid="s/DavidBSkillicorn">David B. Skillicorn</author>
+<r><article key="journals/jpdc/SkillicornC95" mdate="2021-02-19">
+<author orcid="0000-0003-0605-4029" pid="s/DavidBSkillicorn">David B. Skillicorn</author>
 <author orcid="0000-0002-0183-3835" pid="83/3179">Wentong Cai 0001</author>
 <title>A Cost Calculus for Parallel Functional Programming.</title>
 <pages>65-83</pages>
@@ -4894,9 +4894,9 @@
 <ee>https://doi.org/10.1006/jpdc.1995.1089</ee>
 </article>
 </r>
-<r><article key="journals/ppl/CaiS95" mdate="2020-06-12">
+<r><article key="journals/ppl/CaiS95" mdate="2021-02-19">
 <author pid="83/3179">Wentong Cai 0001</author>
-<author pid="s/DavidBSkillicorn">David B. Skillicorn</author>
+<author orcid="0000-0003-0605-4029" pid="s/DavidBSkillicorn">David B. Skillicorn</author>
 <title>Calculating Recurrences Using the Bird-Meertens Formalism.</title>
 <pages>179-190</pages>
 <year>1995</year>
@@ -4931,10 +4931,10 @@
 <ee>https://doi.org/10.1093/comjnl/37.4.333</ee>
 </article>
 </r>
-<r><article key="journals/scp/GibbonsCS94" mdate="2020-06-10">
+<r><article key="journals/scp/GibbonsCS94" mdate="2021-02-19">
 <author pid="53/1090">Jeremy Gibbons</author>
 <author orcid="0000-0002-0183-3835" pid="83/3179">Wentong Cai 0001</author>
-<author pid="s/DavidBSkillicorn">David B. Skillicorn</author>
+<author orcid="0000-0003-0605-4029" pid="s/DavidBSkillicorn">David B. Skillicorn</author>
 <title>Efficient Parallel Algorithms for Tree Accumulations.</title>
 <pages>1-18</pages>
 <year>1994</year>
@@ -4942,7 +4942,7 @@
 <journal>Sci. Comput. Program.</journal>
 <number>1</number>
 <url>db/journals/scp/scp23.html#GibbonsCS94</url>
-<ee>https://doi.org/10.1016/0167-6423(94)00013-1</ee>
+<ee type="oa">https://doi.org/10.1016/0167-6423(94)00013-1</ee>
 </article>
 </r>
 <r><article key="journals/jpdc/CaiMT93" mdate="2020-06-10">
@@ -5084,7 +5084,7 @@
 <co c="-1"><na f="l/Liu:Cheng" pid="15/2288">Cheng Liu</na></co>
 <co c="0"><na f="l/Liu:Elvis_S=" pid="45/1830">Elvis S. Liu</na></co>
 <co c="0"><na f="l/Liu_0018:Li" pid="33/4528-18">Li Liu 0018</na></co>
-<co c="0"><na f="l/Liu:Xiaoguang" pid="25/1221">Xiaoguang Liu</na></co>
+<co c="0"><na f="l/Liu_0001:Xiaoguang" pid="25/1221-1">Xiaoguang Liu 0001</na></co>
 <co c="0"><na f="l/Liu_0003:Yang" pid="51/3710-3">Yang Liu 0003</na></co>
 <co c="0"><na f="l/Logan:Brian" pid="81/6813">Brian Logan</na></co>
 <co c="0" n="2"><na f="l/Loh:Peter_Kok_Keong" pid="26/1912">Peter Kok Keong Loh</na><na>Peter K. K. Loh</na></co>

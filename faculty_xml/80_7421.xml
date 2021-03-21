@@ -1,4 +1,4 @@
-<?xml version="1.0"?><html><body><dblpperson n="305" name="Erik Cambria" pid="80/7421">
+<?xml version="1.0"?><html><body><dblpperson n="311" name="Erik Cambria" pid="80/7421">
 <person key="homepages/80/7421" mdate="2019-07-30">
 <author pid="80/7421">Erik Cambria</author>
 <url>https://orcid.org/0000-0002-3030-1280</url>
@@ -21,13 +21,28 @@
 <url>db/journals/fgcs/fgcs115.html#BasiriNACA21</url>
 </article>
 </r>
-<r><article key="journals/tcss/JiPLCLH21" mdate="2021-02-04">
-<author pid="227/0291">Shaoxiong Ji</author>
-<author pid="91/8171">Shirui Pan</author>
-<author pid="l/XueLi">Xue Li 0001</author>
+<r><article key="journals/inffus/PengMPLC21" mdate="2021-03-05">
+<author pid="201/5229">Haiyun Peng</author>
+<author pid="169/7255">Yukun Ma</author>
+<author pid="116/4904">Soujanya Poria</author>
+<author pid="37/4190-55">Yang Li 0055</author>
 <author pid="80/7421">Erik Cambria</author>
-<author pid="34/10089">Guodong Long</author>
-<author pid="70/6862">Zi Huang</author>
+<title>Phonetic-enriched text representation for Chinese sentiment analysis with reinforcement learning.</title>
+<pages>88-99</pages>
+<year>2021</year>
+<volume>70</volume>
+<journal>Inf. Fusion</journal>
+<ee>https://doi.org/10.1016/j.inffus.2021.01.005</ee>
+<url>db/journals/inffus/inffus70.html#PengMPLC21</url>
+</article>
+</r>
+<r><article key="journals/tcss/JiPLCLH21" mdate="2021-02-11">
+<author orcid="0000-0003-3281-8002" pid="227/0291">Shaoxiong Ji</author>
+<author orcid="0000-0003-0794-527X" pid="91/8171">Shirui Pan</author>
+<author pid="l/XueLi">Xue Li 0001</author>
+<author orcid="0000-0002-3030-1280" pid="80/7421">Erik Cambria</author>
+<author orcid="0000-0003-3740-9515" pid="34/10089">Guodong Long</author>
+<author orcid="0000-0002-9738-4949" pid="70/6862">Zi Huang</author>
 <title>Suicidal Ideation Detection: A Review of Machine Learning Methods and Applications.</title>
 <pages>214-226</pages>
 <year>2021</year>
@@ -80,6 +95,19 @@
 <url>db/journals/corr/corr2101.html#abs-2101-12153</url>
 </article>
 </r>
+<r><article key="journals/corr/abs-2103-02636" mdate="2021-03-15" publtype="informal">
+<author pid="184/4060">Kia Dashtipour</author>
+<author pid="187/5503">Mandar Gogate</author>
+<author pid="80/7421">Erik Cambria</author>
+<author pid="03/6772">Amir Hussain</author>
+<title>A Novel Context-Aware Multimodal Framework for Persian Sentiment Analysis.</title>
+<year>2021</year>
+<volume>abs/2103.02636</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2103.02636</ee>
+<url>db/journals/corr/corr2103.html#abs-2103-02636</url>
+</article>
+</r>
 <r><article key="journals/air/MehtaMGC20" mdate="2020-10-26">
 <author orcid="0000-0002-9610-7077" pid="194/2105">Yash Mehta</author>
 <author pid="198/3608">Navonil Majumder</author>
@@ -95,10 +123,10 @@
 <url>db/journals/air/air53.html#MehtaMGC20</url>
 </article>
 </r>
-<r><article key="journals/asc/LiZSGC20" mdate="2020-09-19">
+<r><article key="journals/asc/LiZSGC20" mdate="2021-03-09">
 <author orcid="0000-0002-8077-7025" pid="64/6025-76">Wei Li 0076</author>
 <author orcid="0000-0002-7422-7318" pid="174/0179">Luyao Zhu</author>
-<author pid="84/5467">Yong Shi</author>
+<author pid="84/5467-1">Yong Shi 0001</author>
 <author pid="79/3642">Kun Guo</author>
 <author pid="80/7421">Erik Cambria</author>
 <title>User reviews: Sentiment analysis using lexicon integrated two-channel CNN-LSTM​ family models.</title>
@@ -108,6 +136,20 @@
 <journal>Appl. Soft Comput.</journal>
 <ee>https://doi.org/10.1016/j.asoc.2020.106435</ee>
 <url>db/journals/asc/asc94.html#LiZSGC20</url>
+</article>
+</r>
+<r><article key="journals/asc/KhatuaKC20" mdate="2021-03-16">
+<author pid="122/2151">Aparup Khatua</author>
+<author pid="160/9626">Apalak Khatua</author>
+<author pid="80/7421">Erik Cambria</author>
+<title>Predicting political sentiments of voters from Twitter in multi-party contexts.</title>
+<pages>106743</pages>
+<year>2020</year>
+<volume>97</volume>
+<journal>Appl. Soft Comput.</journal>
+<number>Part</number>
+<ee>https://doi.org/10.1016/j.asoc.2020.106743</ee>
+<url>db/journals/asc/asc97.html#KhatuaKC20</url>
 </article>
 </r>
 <r><article key="journals/cim/AkhtarEC20" mdate="2020-03-27">
@@ -463,6 +505,49 @@
 <ee type="oa">https://www.aclweb.org/anthology/2020.coling-main.85/</ee>
 <crossref>conf/coling/2020</crossref>
 <url>db/conf/coling/coling2020.html#XingMZC20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/ChandraCN20" mdate="2021-02-21">
+<author pid="285/7022">Jonathan Kevin Chandra</author>
+<author pid="80/7421">Erik Cambria</author>
+<author pid="155/8795">Andrea Nanetti</author>
+<title>One Belt, One Road, One Sentiment? A Hybrid Approach to Gauging Public Opinions on the New Silk Road Initiative.</title>
+<pages>7-14</pages>
+<year>2020</year>
+<booktitle>ICDM (Workshops)</booktitle>
+<ee>https://doi.org/10.1109/ICDMW51313.2020.00011</ee>
+<crossref>conf/icdm/2020w</crossref>
+<url>db/conf/icdm/icdm2020w.html#ChandraCN20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/ChaturvediRGC20" mdate="2021-02-21">
+<author pid="68/6526">Iti Chaturvedi</author>
+<author pid="190/5277">Edoardo Ragusa</author>
+<author pid="42/312">Paolo Gastaldo</author>
+<author pid="80/7421">Erik Cambria</author>
+<title>COAL: Convolutional Online Adaptation Learning for Opinion Mining.</title>
+<pages>15-22</pages>
+<year>2020</year>
+<booktitle>ICDM (Workshops)</booktitle>
+<ee>https://doi.org/10.1109/ICDMW51313.2020.00012</ee>
+<crossref>conf/icdm/2020w</crossref>
+<url>db/conf/icdm/icdm2020w.html#ChaturvediRGC20</url>
+</inproceedings>
+</r>
+<r><inproceedings key="conf/icdm/MehtaFKSCE20" mdate="2021-02-17">
+<author pid="194/2105">Yash Mehta</author>
+<author pid="276/0189">Samin Fatehi</author>
+<author pid="276/0117">Amirmohammad Kazameini</author>
+<author pid="206/1089">Clemens Stachl</author>
+<author pid="80/7421">Erik Cambria</author>
+<author pid="153/9615">Sauleh Eetemadi</author>
+<title>Bottom-Up and Top-Down: Predicting Personality with Psycholinguistic and Language Model Features.</title>
+<pages>1184-1189</pages>
+<year>2020</year>
+<booktitle>ICDM</booktitle>
+<ee>https://doi.org/10.1109/ICDM50108.2020.00146</ee>
+<crossref>conf/icdm/2020</crossref>
+<url>db/conf/icdm/icdm2020.html#MehtaFKSCE20</url>
 </inproceedings>
 </r>
 <r><inproceedings key="conf/ijcnn/GuerreiroCN20" mdate="2020-10-06">
@@ -1535,7 +1620,7 @@
 <url>db/journals/tjs/tjs74.html#TranC18</url>
 </article>
 </r>
-<r><inproceedings key="conf/aaai/CambriaPHK18" mdate="2018-10-22">
+<r><inproceedings key="conf/aaai/CambriaPHK18" mdate="2021-02-18">
 <author pid="80/7421">Erik Cambria</author>
 <author pid="116/4904">Soujanya Poria</author>
 <author pid="188/5874">Devamanyu Hazarika</author>
@@ -1543,13 +1628,13 @@
 <title>SenticNet 5: Discovering Conceptual Primitives for Sentiment Analysis by Means of Context Embeddings.</title>
 <year>2018</year>
 <booktitle>AAAI</booktitle>
-<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16839</ee>
+<ee type="oa">https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16839</ee>
 <crossref>conf/aaai/2018</crossref>
 <url>db/conf/aaai/aaai2018.html#CambriaPHK18</url>
 <pages>1795-1802</pages>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/aaai/YoungCCZBH18" mdate="2018-10-22">
+<r><inproceedings key="conf/aaai/YoungCCZBH18" mdate="2021-02-18">
 <author pid="139/4639">Tom Young</author>
 <author pid="80/7421">Erik Cambria</author>
 <author pid="68/6526">Iti Chaturvedi</author>
@@ -1559,13 +1644,13 @@
 <title>Augmenting End-to-End Dialogue Systems With Commonsense Knowledge.</title>
 <year>2018</year>
 <booktitle>AAAI</booktitle>
-<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16573</ee>
+<ee type="oa">https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16573</ee>
 <crossref>conf/aaai/2018</crossref>
 <url>db/conf/aaai/aaai2018.html#YoungCCZBH18</url>
 <pages>4970-4977</pages>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/aaai/ZadehLMPCM18" mdate="2019-07-25">
+<r><inproceedings key="conf/aaai/ZadehLMPCM18" mdate="2021-02-18">
 <author pid="150/5010">Amir Zadeh 0001</author>
 <author pid="207/9749">Paul Pu Liang</author>
 <author pid="198/3608">Navonil Mazumder</author>
@@ -1575,13 +1660,13 @@
 <title>Memory Fusion Network for Multi-view Sequential Learning.</title>
 <year>2018</year>
 <booktitle>AAAI</booktitle>
-<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17341</ee>
+<ee type="oa">https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17341</ee>
 <crossref>conf/aaai/2018</crossref>
 <url>db/conf/aaai/aaai2018.html#ZadehLMPCM18</url>
 <pages>5634-5641</pages>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/aaai/ZadehLPVCM18" mdate="2019-07-25">
+<r><inproceedings key="conf/aaai/ZadehLPVCM18" mdate="2021-02-18">
 <author pid="150/5010">Amir Zadeh 0001</author>
 <author pid="207/9749">Paul Pu Liang</author>
 <author pid="116/4904">Soujanya Poria</author>
@@ -1591,20 +1676,20 @@
 <title>Multi-attention Recurrent Network for Human Communication Comprehension.</title>
 <year>2018</year>
 <booktitle>AAAI</booktitle>
-<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17390</ee>
+<ee type="oa">https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/17390</ee>
 <crossref>conf/aaai/2018</crossref>
 <url>db/conf/aaai/aaai2018.html#ZadehLPVCM18</url>
 <pages>5642-5649</pages>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/aaai/MaPC18" mdate="2018-10-22">
+<r><inproceedings key="conf/aaai/MaPC18" mdate="2021-02-18">
 <author pid="169/7255">Yukun Ma</author>
 <author pid="201/5229">Haiyun Peng</author>
 <author pid="80/7421">Erik Cambria</author>
 <title>Targeted Aspect-Based Sentiment Analysis via Embedding Commonsense Knowledge into an Attentive LSTM.</title>
 <year>2018</year>
 <booktitle>AAAI</booktitle>
-<ee>https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16541</ee>
+<ee type="oa">https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16541</ee>
 <crossref>conf/aaai/2018</crossref>
 <url>db/conf/aaai/aaai2018.html#MaPC18</url>
 <pages>5876-5883</pages>
@@ -2177,7 +2262,7 @@
 <url>db/journals/cogcom/cogcom9.html#LiPYWTC17</url>
 </article>
 </r>
-<r><article key="journals/cys/SatapathyCCHN17" mdate="2020-10-06">
+<r><article key="journals/cys/SatapathyCCHN17" mdate="2021-02-11">
 <author pid="184/2181">Ranjan Satapathy</author>
 <author pid="68/6526">Iti Chaturvedi</author>
 <author pid="80/7421">Erik Cambria</author>
@@ -2188,7 +2273,7 @@
 <volume>21</volume>
 <journal>Computación y Sistemas</journal>
 <number>4</number>
-<ee>http://www.cys.cic.ipn.mx/ojs/index.php/CyS/article/view/2783</ee>
+<ee type="oa">http://www.cys.cic.ipn.mx/ojs/index.php/CyS/article/view/2783</ee>
 <url>db/journals/cys/cys21.html#SatapathyCCHN17</url>
 </article>
 </r>
@@ -2387,7 +2472,7 @@
 <url>db/conf/cikm/cikm2017.html#CavallariZCCC17</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/cscw/RegantiMDC17" mdate="2017-02-22">
+<r><inproceedings key="conf/cscw/RegantiMDC17" mdate="2021-03-10">
 <author pid="194/4692">Aishwarya N. Reganti</author>
 <author pid="194/4822">Tushar Maheshwari</author>
 <author pid="75/5002">Amitava Das</author>
@@ -2396,7 +2481,7 @@
 <pages>291-294</pages>
 <year>2017</year>
 <booktitle>CSCW Companion</booktitle>
-<ee>http://dl.acm.org/citation.cfm?id=3026344</ee>
+<ee>https://doi.org/10.1145/3022198.3026344</ee>
 <crossref>conf/cscw/2017c</crossref>
 <url>db/conf/cscw/cscw2017c.html#RegantiMDC17</url>
 </inproceedings>
@@ -2636,10 +2721,10 @@
 <url>db/journals/corr/corr1703.html#SanliMC17</url>
 </article>
 </r>
-<r><article key="journals/corr/BajpaiPHC17" mdate="2018-08-13" publtype="informal">
+<r><article key="journals/corr/BajpaiPHC17" mdate="2021-03-08" publtype="informal">
 <author pid="132/4528">Rajiv Bajpai</author>
 <author pid="116/4904">Soujanya Poria</author>
-<author pid="203/8256">Danyun Ho</author>
+<author pid="203/5362">Danyuan Ho</author>
 <author pid="80/7421">Erik Cambria</author>
 <title>Developing a concept-level knowledge base for sentiment analysis in Singlish.</title>
 <year>2017</year>
@@ -3382,7 +3467,7 @@
 <url>db/journals/nn/nn63.html#PoriaCHH15</url>
 </article>
 </r>
-<r><inproceedings key="conf/aaai/CambriaFBP15" mdate="2015-04-12">
+<r><inproceedings key="conf/aaai/CambriaFBP15" mdate="2021-02-10">
 <author pid="80/7421">Erik Cambria</author>
 <author pid="16/7565">Jie Fu</author>
 <author pid="122/5953">Federica Bisio</author>
@@ -3391,7 +3476,7 @@
 <pages>508-514</pages>
 <year>2015</year>
 <booktitle>AAAI</booktitle>
-<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9911</ee>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9911</ee>
 <crossref>conf/aaai/2015</crossref>
 <url>db/conf/aaai/aaai2015.html#CambriaFBP15</url>
 </inproceedings>
@@ -3699,7 +3784,7 @@
 <url>db/journals/nn/nn58.html#HussainCSH14</url>
 </article>
 </r>
-<r><inproceedings key="conf/aaai/CambriaOR14" mdate="2014-07-31">
+<r><inproceedings key="conf/aaai/CambriaOR14" mdate="2021-02-18">
 <author pid="80/7421">Erik Cambria</author>
 <author pid="139/9941">Daniel Olsher</author>
 <author pid="127/0193">Dheeraj Rajagopal</author>
@@ -3707,7 +3792,7 @@
 <pages>1515-1521</pages>
 <year>2014</year>
 <booktitle>AAAI</booktitle>
-<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/view/8479</ee>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/view/8479</ee>
 <crossref>conf/aaai/2014</crossref>
 <url>db/conf/aaai/aaai2014.html#CambriaOR14</url>
 </inproceedings>
@@ -4261,14 +4346,14 @@
 <url>db/journals/mta/mta59.html#CambriaGHH12</url>
 </article>
 </r>
-<r><inproceedings key="conf/aaai/CambriaOK12" mdate="2012-08-16">
+<r><inproceedings key="conf/aaai/CambriaOK12" mdate="2021-02-18">
 <author pid="80/7421">Erik Cambria</author>
 <author pid="139/9941">Daniel Olsher</author>
 <author pid="03/9813">Kenneth Kwok</author>
 <title>Sentic Activation: A Two-Level Affective Common Sense Reasoning Framework.</title>
 <year>2012</year>
 <booktitle>AAAI</booktitle>
-<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI12/paper/view/4989</ee>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI12/paper/view/4989</ee>
 <crossref>conf/aaai/2012</crossref>
 <url>db/conf/aaai/aaai2012.html#CambriaOK12</url>
 </inproceedings>
@@ -4581,7 +4666,7 @@
 <url>db/conf/cost/cost2009.html#CambriaHHE09</url>
 </inproceedings>
 </r>
-<coauthors n="350" nc="12">
+<coauthors n="352" nc="12">
 <co c="3"><na f="a/Abdar:Moloud" pid="189/7633">Moloud Abdar</na></co>
 <co c="3"><na f="a/Acharya:U=_Rajendra" pid="01/4732">U. Rajendra Acharya</na></co>
 <co c="0"><na f="a/Agarwal:Basant" pid="127/1193">Basant Agarwal</na></co>
@@ -4624,6 +4709,7 @@
 <co c="0"><na f="c/Cantador:Iv=aacute=n" pid="29/791">Iván Cantador</na></co>
 <co c="0"><na f="c/Cavallari:Sandro" pid="188/6085">Sandro Cavallari</na></co>
 <co c="0"><na f="c/Chaki:Nabendu" pid="88/4552">Nabendu Chaki</na></co>
+<co c="0"><na f="c/Chandra:Jonathan_Kevin" pid="285/7022">Jonathan Kevin Chandra</na></co>
 <co c="0"><na f="c/Chandra:Praphul" pid="35/498">Praphul Chandra</na></co>
 <co c="0"><na f="c/Chang:Kevin_Chen=Chuan" pid="c/KCCChang">Kevin Chen-Chuan Chang</na></co>
 <co c="0"><na f="c/Chattopadhyay:Anupam" pid="99/4535">Anupam Chattopadhyay</na></co>
@@ -4674,6 +4760,7 @@
 <co c="0"><na f="g/Gelbukh:Alexander_F=" pid="g/AlexanderFGelbukh">Alexander F. Gelbukh</na></co>
 <co c="0"><na f="g/Ghosal:Deepanway" pid="203/9407">Deepanway Ghosal</na></co>
 <co c="0"><na f="g/Ghosh:Kuntal" pid="72/2253">Kuntal Ghosh</na></co>
+<co c="0"><na f="g/Gogate:Mandar" pid="187/5503">Mandar Gogate</na></co>
 <co c="0"><na f="g/Gonz=aacute=lez=Pardo:Antonio" pid="58/8569">Antonio González-Pardo</na></co>
 <co c="0"><na f="g/Gorantla:Sruthi" pid="220/4297">Sruthi Gorantla</na></co>
 <co c="0"><na f="g/Grassi:Marco" pid="54/2022">Marco Grassi</na></co>
@@ -4690,7 +4777,6 @@
 <co c="0"><na f="h/Herrera:Francisco" pid="04/0">Francisco Herrera</na></co>
 <co c="7" n="2"><na f="h/Hmida:Moez_Ben_Haj" pid="76/10807">Moez Ben Haj Hmida</na><na>Moez Ben HajHmida</na></co>
 <co c="0"><na f="h/Ho:Danyuan" pid="203/5362">Danyuan Ho</na></co>
-<co c="0"><na f="h/Ho:Danyun" pid="203/8256">Danyun Ho</na></co>
 <co c="0"><na f="h/Ho:Seng=Beng" pid="93/9382">Seng-Beng Ho</na></co>
 <co c="0"><na f="h/Ho:Shirley_S=" pid="116/1046">Shirley S. Ho</na></co>
 <co c="0"><na f="h/Howard:Newton" pid="20/10437">Newton Howard</na></co>
@@ -4845,13 +4931,14 @@
 <co c="0"><na f="s/Shabtai:Asaf" pid="56/5380">Asaf Shabtai</na></co>
 <co c="0"><na f="s/Shamshad:Fahad" pid="208/7362">Fahad Shamshad</na></co>
 <co c="0"><na f="s/Shao:Wei" pid="24/803">Wei Shao</na></co>
-<co c="0"><na f="s/Shi:Yong" pid="84/5467">Yong Shi</na></co>
+<co c="0"><na f="s/Shi_0001:Yong" pid="84/5467-1">Yong Shi 0001</na></co>
 <co c="0"><na f="s/Singh:Aalind" pid="241/5226">Aalind Singh</na></co>
 <co c="0"><na f="s/Singh:Kunal" pid="165/9754">Kunal Singh</na></co>
 <co c="0"><na f="s/Siong:Chng_Eng" pid="c/ChngEngSiong">Chng Eng Siong</na></co>
 <co c="0"><na f="s/Song:Yangqiu" pid="86/2159">Yangqiu Song</na></co>
 <co c="0" n="2"><na f="s/Speer:Robyn" pid="05/6168">Robyn Speer</na><na>R. Speer 0001</na></co>
 <co c="0"><na f="s/Squartini:Stefano" pid="62/6686">Stefano Squartini</na></co>
+<co c="0"><na f="s/Stachl:Clemens" pid="206/1089">Clemens Stachl</na></co>
 <co c="0"><na f="s/Stankovic:Milan" pid="61/6889">Milan Stankovic</na></co>
 <co c="0"><na f="s/Stappen:Lukas" pid="243/6550">Lukas Stappen</na></co>
 <co c="0"><na f="s/Subramanyam:R=_B=_V=" pid="41/5773">R. B. V. Subramanyam</na></co>

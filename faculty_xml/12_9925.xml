@@ -1,10 +1,10 @@
-<?xml version="1.0"?><html><body><dblpperson n="44" name="Svetlana Obraztsova" pid="12/9925">
+<?xml version="1.0"?><html><body><dblpperson n="45" name="Svetlana Obraztsova" pid="12/9925">
 <person key="homepages/12/9925" mdate="2011-08-09">
 <author pid="12/9925">Svetlana Obraztsova</author>
 </person>
-<r><article key="journals/aamas/BannikovaDORR21" mdate="2021-02-04">
+<r><article key="journals/aamas/BannikovaDORR21" mdate="2021-02-11">
 <author pid="204/3569">Marina Bannikova</author>
-<author pid="32/2363">Lihi Dery</author>
+<author orcid="0000-0002-8710-3349" pid="32/2363">Lihi Dery</author>
 <author pid="12/9925">Svetlana Obraztsova</author>
 <author pid="93/4009">Zinovi Rabinovich</author>
 <author pid="r/JeffreySRosenschein">Jeffrey S. Rosenschein</author>
@@ -31,6 +31,23 @@
 <journal>Artif. Intell.</journal>
 <ee>https://doi.org/10.1016/j.artint.2020.103401</ee>
 <url>db/journals/ai/ai290.html#ElkindGORV21</url>
+</article>
+</r>
+<r><article key="journals/corr/abs-2102-08159" mdate="2021-02-19" publtype="informal">
+<author pid="11/5166">Wei Qiu</author>
+<author pid="199/6413">Xinrun Wang</author>
+<author pid="210/2646">Runsheng Yu</author>
+<author pid="89/3991">Xu He</author>
+<author pid="254/1228">Rundong Wang</author>
+<author pid="42/6178-1">Bo An 0001</author>
+<author pid="12/9925">Svetlana Obraztsova</author>
+<author pid="93/4009">Zinovi Rabinovich</author>
+<title>RMIX: Learning Risk-Sensitive Policies for Cooperative Reinforcement Learning Agents.</title>
+<year>2021</year>
+<volume>abs/2102.08159</volume>
+<journal>CoRR</journal>
+<ee type="oa">https://arxiv.org/abs/2102.08159</ee>
+<url>db/journals/corr/corr2102.html#abs-2102-08159</url>
 </article>
 </r>
 <r><inproceedings key="conf/aaai/ObraztsovaEF20" mdate="2021-02-02">
@@ -198,7 +215,7 @@
 <url>db/journals/corr/corr1811.html#abs-1811-05529</url>
 </article>
 </r>
-<r><inproceedings key="conf/aaai/BredereckCNOT17" mdate="2020-07-27">
+<r><inproceedings key="conf/aaai/BredereckCNOT17" mdate="2021-02-10">
 <author pid="23/7805">Robert Bredereck</author>
 <author pid="72/4415-1">Jiehua Chen 0001</author>
 <author pid="n/RolfNiedermeier">Rolf Niedermeier</author>
@@ -208,7 +225,7 @@
 <pages>390-396</pages>
 <year>2017</year>
 <booktitle>AAAI</booktitle>
-<ee>http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14640</ee>
+<ee type="oa">http://aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14640</ee>
 <crossref>conf/aaai/2017</crossref>
 <url>db/conf/aaai/aaai2017.html#BredereckCNOT17</url>
 </inproceedings>
@@ -271,7 +288,7 @@
 <url>db/conf/webi/webi2017.html#YosefDORB17</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/aaai/FeldmanFO16" mdate="2016-04-21">
+<r><inproceedings key="conf/aaai/FeldmanFO16" mdate="2021-02-10">
 <author pid="43/1464">Michal Feldman</author>
 <author pid="06/894">Amos Fiat</author>
 <author pid="12/9925">Svetlana Obraztsova</author>
@@ -279,7 +296,7 @@
 <pages>496-501</pages>
 <year>2016</year>
 <booktitle>AAAI</booktitle>
-<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12496</ee>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/view/12496</ee>
 <crossref>conf/aaai/2016</crossref>
 <url>db/conf/aaai/aaai2016.html#FeldmanFO16</url>
 </inproceedings>
@@ -341,7 +358,7 @@
 <url>db/journals/corr/corr1611.html#BredereckCNOT16</url>
 </article>
 </r>
-<r><inproceedings key="conf/aaai/ElkindFLO15" mdate="2015-04-12">
+<r><inproceedings key="conf/aaai/ElkindFLO15" mdate="2021-02-10">
 <author pid="31/2621">Edith Elkind</author>
 <author pid="58/2379">Piotr Faliszewski</author>
 <author pid="73/5913">Martin Lackner</author>
@@ -350,12 +367,12 @@
 <pages>865-871</pages>
 <year>2015</year>
 <booktitle>AAAI</booktitle>
-<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9881</ee>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9881</ee>
 <crossref>conf/aaai/2015</crossref>
 <url>db/conf/aaai/aaai2015.html#ElkindFLO15</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/aaai/ObraztsovaMPRJ15" mdate="2015-04-12">
+<r><inproceedings key="conf/aaai/ObraztsovaMPRJ15" mdate="2021-02-10">
 <author pid="12/9925">Svetlana Obraztsova</author>
 <author pid="m/EvangelosMarkakis">Evangelos Markakis</author>
 <author pid="17/1211">Maria Polukarov</author>
@@ -365,12 +382,12 @@
 <pages>993-999</pages>
 <year>2015</year>
 <booktitle>AAAI</booktitle>
-<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9973</ee>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9973</ee>
 <crossref>conf/aaai/2015</crossref>
 <url>db/conf/aaai/aaai2015.html#ObraztsovaMPRJ15</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/aaai/RabinovichOLMR15" mdate="2015-04-12">
+<r><inproceedings key="conf/aaai/RabinovichOLMR15" mdate="2021-02-10">
 <author pid="93/4009">Zinovi Rabinovich</author>
 <author pid="12/9925">Svetlana Obraztsova</author>
 <author pid="93/5969">Omer Lev</author>
@@ -380,7 +397,7 @@
 <pages>1007-1013</pages>
 <year>2015</year>
 <booktitle>AAAI</booktitle>
-<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9953</ee>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/view/9953</ee>
 <crossref>conf/aaai/2015</crossref>
 <url>db/conf/aaai/aaai2015.html#RabinovichOLMR15</url>
 </inproceedings>
@@ -552,13 +569,13 @@
 <url>db/conf/sagt/sagt2013.html#ObraztsovaMT13</url>
 </inproceedings>
 </r>
-<r><inproceedings key="conf/aaai/ObraztsovaE12" mdate="2012-08-16">
+<r><inproceedings key="conf/aaai/ObraztsovaE12" mdate="2021-02-18">
 <author pid="12/9925">Svetlana Obraztsova</author>
 <author pid="31/2621">Edith Elkind</author>
 <title>Optimal Manipulation of Voting Rules.</title>
 <year>2012</year>
 <booktitle>AAAI</booktitle>
-<ee>http://www.aaai.org/ocs/index.php/AAAI/AAAI12/paper/view/5059</ee>
+<ee type="oa">http://www.aaai.org/ocs/index.php/AAAI/AAAI12/paper/view/5059</ee>
 <crossref>conf/aaai/2012</crossref>
 <url>db/conf/aaai/aaai2012.html#ObraztsovaE12</url>
 </inproceedings>
@@ -613,7 +630,8 @@
 <url>db/conf/ijcai/ijcai2011.html#ObraztsovaEH11</url>
 </inproceedings>
 </r>
-<coauthors n="39" nc="1">
+<coauthors n="45" nc="1">
+<co c="0"><na f="a/An_0001:Bo" pid="42/6178-1">Bo An 0001</na></co>
 <co c="0"><na f="b/Bannikova:Marina" pid="204/3569">Marina Bannikova</na></co>
 <co c="0"><na f="b/Bredereck:Robert" pid="23/7805">Robert Bredereck</na></co>
 <co c="0"><na f="c/Chen_0001:Jiehua" pid="72/4415-1">Jiehua Chen 0001</na></co>
@@ -627,6 +645,7 @@
 <co c="0"><na f="g/Gan:Jiarui" pid="133/1975">Jiarui Gan</na></co>
 <co c="0"><na f="g/Grzesiuk:Marek" pid="266/5567">Marek Grzesiuk</na></co>
 <co c="0"><na f="h/Hazon:Noam" pid="80/1237">Noam Hazon</na></co>
+<co c="0"><na f="h/He:Xu" pid="89/3991">Xu He</na></co>
 <co c="0"><na f="j/Jennings:Nicholas_R=" pid="j/NicholasRJennings">Nicholas R. Jennings</na></co>
 <co c="0"><na f="k/Kalech:Meir" pid="73/4684">Meir Kalech</na></co>
 <co c="0"><na f="k/Karpov:Alexander" pid="56/9357">Alexander Karpov</na></co>
@@ -640,6 +659,7 @@
 <co c="0"><na f="m/Meir:Reshef" pid="24/5865">Reshef Meir</na></co>
 <co c="0"><na f="n/Niedermeier:Rolf" pid="n/RolfNiedermeier">Rolf Niedermeier</na></co>
 <co c="0"><na f="p/Polukarov:Maria" pid="17/1211">Maria Polukarov</na></co>
+<co c="0"><na f="q/Qiu:Wei" pid="11/5166">Wei Qiu</na></co>
 <co c="0"><na f="r/Rabinovich:Zinovi" pid="93/4009">Zinovi Rabinovich</na></co>
 <co c="0"><na f="r/Rosenschein:Jeffrey_S=" pid="r/JeffreySRosenschein">Jeffrey S. Rosenschein</na></co>
 <co c="0"><na f="s/Sabato:Itay" pid="199/6446">Itay Sabato</na></co>
@@ -650,7 +670,10 @@
 <co c="0"><na f="t/Thompson:David_R=_M=" pid="136/7267">David R. M. Thompson</na></co>
 <co c="0"><na f="v/Vorobeychik:Yevgeniy" pid="70/2217">Yevgeniy Vorobeychik</na></co>
 <co c="0"><na f="v/Voudouris:Alexandros_A=" pid="142/2821">Alexandros A. Voudouris</na></co>
+<co c="0"><na f="w/Wang:Rundong" pid="254/1228">Rundong Wang</na></co>
+<co c="0"><na f="w/Wang:Xinrun" pid="199/6413">Xinrun Wang</na></co>
 <co c="0"><na f="y/Yosef:David_Ben" pid="204/3805">David Ben Yosef</na></co>
+<co c="0"><na f="y/Yu:Runsheng" pid="210/2646">Runsheng Yu</na></co>
 <co c="0"><na f="z/Zhang:David_Kai" pid="241/7809">David Kai Zhang</na></co>
 <co c="0"><na f="z/Zick:Yair" pid="90/9924">Yair Zick</na></co>
 </coauthors>
