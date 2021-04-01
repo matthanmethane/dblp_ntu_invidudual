@@ -1,3 +1,6 @@
+*** "$ pip install -r requirements.txt" before opening the GUI ***
+
+
 1. get_coworker_dict()
 	This will create "weighted_collab.txt" which contains edges of the graph
 2. ret_graph():

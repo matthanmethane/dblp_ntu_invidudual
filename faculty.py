@@ -31,7 +31,7 @@ def get_xml_link(faculty_path):
     data = pd.read_excel(faculty_path)
     df = pd.DataFrame(data, columns=["DBLP"])
     with open("xml_link.txt","w+") as f:
-        for index,row in df.iterrows():
+        for row in df.iterrows():
             for link in row:
                 r = requests.get(link)
                 redirect_link = r.url
