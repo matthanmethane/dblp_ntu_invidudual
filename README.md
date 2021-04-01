@@ -3,14 +3,14 @@
 Guide for GUI:
 
 1. Click Load File Button
-	Upload your Faculty.xlsx
-	Upload your Top.xlsx
+	\n Upload your Faculty.xlsx
+	\n Upload your Top.xlsx
 2. Click Initialize files
-	This will create all the txt/xml needed for the program to run
+	\n This will create all the txt/xml needed for the program to run
 3. Click Next Button
-	Make sure that files are initialized
+	\n Make sure that files are initialized
 
-
+\n\n\n\n
 
 
 
