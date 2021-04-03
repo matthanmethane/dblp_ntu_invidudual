@@ -43,7 +43,7 @@ def get_faculty_list():
     return faculty_list
 
 #Function to get pid: coworker Dictonary and create file 'Weighted_collab.txt'
-def get_coworker_dict():
+def get_coworker_dict_cent():
     faculty_list = get_faculty_list()
     coauthor_dict = {}
     pid_strings = [faculty.pid for faculty in faculty_list]
@@ -69,7 +69,7 @@ def get_coworker_dict():
             coauthor_dict[pid_string] = coauthor_pid_list
     return(coauthor_dict)
 
-def ret_graph():  
+def ret_graph_cent():  
     try:
         with open("weighted_collab.txt","r", encoding='utf-8') as f:
             G = nx.read_weighted_edgelist(f)
@@ -260,7 +260,6 @@ def centrality_top_venue_scatter(G, cen_type):
 #centrality_top_venue_dataframe(G).to_excel("Centrality_Top_Venue.xlsx")
 
 
-G = ret_graph()
 
 
     
