@@ -7,13 +7,12 @@ import networkx as nx
 import matplotlib.pyplot as plt
 import matplotlib.colors as mcolors
 import collections
+import time
+import contextlib
 
 
-file = open("pid.txt","r")
-pid_list = file.readlines()
-pid_list_rstrip = [pid.replace("_",'/').rstrip() for pid in pid_list]
-
-
+#Network Property
+############################################################################################################
 def get_coworker_graph(nodes, year = 2021, mode = "all", weighted = True):
     edges = []
     for pid_string in nodes:
@@ -104,31 +103,53 @@ def get_properties(G):
     return result
 
 def ret_graph_network_year(yr_input=2021, mode_input ="connected",weighted_bool = False):
-    nodes = pid_list_rstrip
+    nodes = ret_nodes()
     G = get_coworker_graph(nodes, year = yr_input, mode = mode_input, weighted = weighted_bool)
-    nx.draw(G)
-    plt.show()
-    get_properties(G)
+    return G
+    #get_properties(G)
 
-'''
-##uncomment to write yearly output to result_year.csv in current directory
-import csv
-import time
-import contextlib
-file = open('result_yearly.csv', 'w+', newline ='')
-with file:
-    write = csv.writer(file)
-    write.writerows([["Year","nodes","edges","average_degree","average_clustering","diameter","average_distance","highest_degree_centrality_pid","highest_degree_centrality_value","highest_eigen_centrality_pid","highest_eigen_centrality_value","highest_closeness_centrality_pid","highest_closeness_centrality_value","highest_betweenness_centrality_pid","highest_betweenness_centrality_value"]])
+#return properties dataframe
+def get_properties_yearly(nodes,year=2000):
     with contextlib.redirect_stdout(None):
-        for i in range(int(time.strftime("%Y")),1999,-1):
-            G = get_coworker_graph(nodes, year = i, mode = "connected")
+        result_dict = {"Year":[],"nodes":[],"edges":[],"average_degree":[],"average_clustering":[],"diameter":[],"average_distance":[],"highest_degree_centrality_pid":[],"highest_degree_centrality_value":[],"highest_eigen_centrality_pid":[],"highest_eigen_centrality_value":[],"highest_closeness_centrality_pid":[],"highest_closeness_centrality_value":[],"highest_betweenness_centrality_pid":[],"highest_betweenness_centrality_value":[]}
+        dict_keys=["Year","nodes","edges","average_degree","average_clustering","diameter","average_distance","highest_degree_centrality_pid","highest_degree_centrality_value","highest_eigen_centrality_pid","highest_eigen_centrality_value","highest_closeness_centrality_pid","highest_closeness_centrality_value","highest_betweenness_centrality_pid","highest_betweenness_centrality_value"]
+        for i in range(int(time.strftime("%Y")),year-1,-1):
+            G = get_coworker_graph(nodes, year = i, mode = "giant")
             result = get_properties(G)
             result.insert(0,i) 
-            write.writerows([result])
-print("result is written to file")
-'''
+            for i in range(len(result)):
+                result_dict[dict_keys[i]].append(result[i])
 
+    result_df = pd.DataFrame.from_dict(result_dict)
+    return result_df
 
+def yearly_diff(df,N=1):
+    shift_range = N+1
+    merging_keys = ['Year']
+    lag_cols = ['nodes','edges','average_degree','average_clustering']
+    for shift in range(1,shift_range):
+        df_shift = df[merging_keys + lag_cols].copy()
+
+        # E.g. Year of 2000 becomes 2001, for shift = 1.
+        # So when this is merged with Year of 2001 in df, this will represent lag of 2001.
+        df_shift['Year'] = df_shift['Year'] + shift
+        foo = lambda x: '{}_lag_{}'.format(x, shift) if x in lag_cols else x
+        df_shift = df_shift.rename(columns=foo)
+        df = pd.merge(df, df_shift, on=merging_keys, how='left') #.fillna(0)
+
+        bar = lambda x: '{}_diff_{}'.format(x, shift) if x in lag_cols else x
+        for i in lag_cols:
+            df[bar(i)]=df[i]-df[foo(i)]
+            df.drop(foo(i), axis=1, inplace=True)
+    del df_shift
+    return df 
+
+def ret_nodes():
+    file = open("pid.txt","r")
+    pid_list = file.readlines()
+    pid_list_rstrip = [pid.replace("_",'/').rstrip() for pid in pid_list]
+    file.close()
+    return pid_list_rstrip
 
 #Collaboration
 ############################################################################

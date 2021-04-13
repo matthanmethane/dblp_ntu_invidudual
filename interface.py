@@ -7,11 +7,16 @@ import matplotlib.colors as mcolors
 import networkx as nx
 import numpy as np
 import seaborn as sns
-from preprocessing import init_collab, find_pos_with_pid, find_area_with_pid, find_name_with_pid, find_man_with_pid, ret_graph_cent,get_coworker_dict_cent, draw_heatmap, centrality_top_venue_dataframe, centrality_top_venue_scatter
+from preprocessing import ret_graph_network_year, ret_nodes,get_properties_yearly, yearly_diff,init_collab, find_pos_with_pid, find_area_with_pid, find_name_with_pid, find_man_with_pid, ret_graph_cent,get_coworker_dict_cent, draw_heatmap, centrality_top_venue_dataframe, centrality_top_venue_scatter
 from faculty import load_faculty_xml, get_xml_link
 from pandasgui import show
+WINDOW_SIZE = "300x900"
+BTN_WIDTH = "300"
+BTN_HEIGHT = "10"
+BG_COLOR = "#BDBDBD"
 
 window = tk.Tk()
+window.geometry(WINDOW_SIZE)
 def browseFiles():
     filename = filedialog.askopenfilename(initialdir = "/",title = "Select a File",filetypes = (("Excel files","*.xlsx*"),("all files","*.*")))
     if("Faculty" in filename):
@@ -42,12 +47,29 @@ def init_file():
 #TODO: Put your network property of SCSE here
 def network_scse():
     network_gui = Toplevel(main)
+    network_gui.geometry(WINDOW_SIZE)
+    nodes = ret_nodes()
+    def get_yr_network(dummy):
+        for i in range(2000,2022,1):
+            G = ret_graph_network_year(yr_input = i)
+            plt.subplot(6,4,i-1999)
+            plt.gca().set_title(f'Year {i}')
+            nx.draw(G,node_size =5)
+        plt.show()
+    def get_yr_df(dummy):
+        df = get_properties_yearly(nodes)
+        df_dif = yearly_diff(df,N=1)
+        show(df_dif)
+    get_yr_network_btn = tk.Button(network_gui, bg=BG_COLOR,height = BTN_HEIGHT, width = BTN_WIDTH, text ="Open Yearly Network", command = lambda: get_yr_network("dummy"))
+    get_yr_network_btn.pack(side='top')
+    get_yr_df_btn = tk.Button(network_gui, bg=BG_COLOR,height = BTN_HEIGHT, width = BTN_WIDTH, text ="Open Yearly DataFrame", command = lambda: get_yr_df("dummy"))
+    get_yr_df_btn.pack(side='top')
+    tk.Button(network_gui, bg=BG_COLOR,height = BTN_HEIGHT, width = BTN_WIDTH,text="Exit", command = network_gui.destroy).pack(side='bottom')
 
-    tk.Button(network_gui, text="Exit", command = network_gui.destroy).pack(side='bottom')
-
-#TODO: Put your collaboration functions here
+#Collaboration functions here
 def collab():
     collab_gui = Toplevel(main)
+    collab_gui.geometry(WINDOW_SIZE)
     def rank_collab(dummy):
         G = nx.Graph()
         with open("edge_list.txt", "r") as f:
@@ -142,17 +164,18 @@ def collab():
         # plt.savefig("area_collab_nwGraph.png")
 
     #Buttons for collaboration
-    rank_collab_btn = tk.Button(collab_gui, text ="Rank Colloboration", command = lambda: rank_collab("dummy"))
-    mngmt_collab_btn = tk.Button(collab_gui, text ="Management Collaboration", command = lambda: management_collab("dummy"))
-    area_collab_btn = tk.Button(collab_gui, text ="Betweenness Collaboration", command = lambda: area_collab("dummy"))
+    rank_collab_btn = tk.Button(collab_gui, bg=BG_COLOR,height = BTN_HEIGHT, width = BTN_WIDTH,text ="Rank Colloboration", command = lambda: rank_collab("dummy"))
+    mngmt_collab_btn = tk.Button(collab_gui, bg=BG_COLOR,height = BTN_HEIGHT, width = BTN_WIDTH,text ="Management Collaboration", command = lambda: management_collab("dummy"))
+    area_collab_btn = tk.Button(collab_gui, bg=BG_COLOR,height = BTN_HEIGHT, width = BTN_WIDTH,text ="Betweenness Collaboration", command = lambda: area_collab("dummy"))
     #Placement of buttons
     rank_collab_btn.pack(side='top')
     mngmt_collab_btn.pack(side='top')
     area_collab_btn.pack(side='top')
-    tk.Button(collab_gui, text="Exit", command = collab_gui.destroy).pack(side='bottom')
+    tk.Button(collab_gui, bg=BG_COLOR,height = BTN_HEIGHT, width = BTN_WIDTH,text="Exit", command = collab_gui.destroy).pack(side='bottom')
 
 def excellency():
     excellency_gui = Toplevel(main)
+    excellency_gui.geometry(WINDOW_SIZE)
     G = ret_graph_cent()
     
     def open_centrality(cent_type):
@@ -169,11 +192,11 @@ def excellency():
     def open_scatter(cen_type):
         centrality_top_venue_scatter(G,cen_type)
 
-    degree_cen_btn = tk.Button(excellency_gui, text ="Degree", command = lambda: open_centrality("degree"))
-    eigenvector_cen_btn = tk.Button(excellency_gui, text ="Eigenvector", command = lambda: open_centrality("eigenvector"))
-    betweenness_cen_btn = tk.Button(excellency_gui, text ="Betweenness", command = lambda: open_centrality("betweenness"))
-    dataframe_btn = tk.Button(excellency_gui, text="View Dataframe", command= lambda: open_cent_dataframe("dummy"))
-    scatter_btn = tk.Button(excellency_gui, text="View Scatter Plot", command = lambda: open_scatter("Degree"))
+    degree_cen_btn = tk.Button(excellency_gui, bg=BG_COLOR,height = BTN_HEIGHT, width = BTN_WIDTH,text ="Degree", command = lambda: open_centrality("degree"))
+    eigenvector_cen_btn = tk.Button(excellency_gui, bg=BG_COLOR,height = BTN_HEIGHT, width = BTN_WIDTH,text ="Eigenvector", command = lambda: open_centrality("eigenvector"))
+    betweenness_cen_btn = tk.Button(excellency_gui,bg=BG_COLOR,height = BTN_HEIGHT, width = BTN_WIDTH, text ="Betweenness", command = lambda: open_centrality("betweenness"))
+    dataframe_btn = tk.Button(excellency_gui,bg=BG_COLOR,height = BTN_HEIGHT, width = BTN_WIDTH, text="View Dataframe", command= lambda: open_cent_dataframe("dummy"))
+    scatter_btn = tk.Button(excellency_gui, bg=BG_COLOR,height = BTN_HEIGHT, width = BTN_WIDTH,text="View Scatter Plot", command = lambda: open_scatter("Degree"))
 
 
     degree_cen_btn.pack(side='top')
@@ -181,7 +204,7 @@ def excellency():
     betweenness_cen_btn.pack(side='top')
     dataframe_btn.pack(side='top')
     scatter_btn.pack(side='top')
-    tk.Button(excellency_gui, text="Exit", command = excellency_gui.destroy).pack(side='bottom')
+    tk.Button(excellency_gui, bg=BG_COLOR,height = BTN_HEIGHT, width = BTN_WIDTH,text="Exit", command = excellency_gui.destroy).pack(side='bottom')
 
 #TODO: Put your faculty recommendation functions here
 def recommend():
@@ -193,29 +216,30 @@ def loadMain():
     MsgBox = tk.messagebox.askquestion ('Go to main','Are you sure you initialized the files?',icon = 'warning')
     if MsgBox == 'yes':
         main= Toplevel(window)
-        tk.Button(main, text="NTU SCSE Network", command = network_scse).pack(side='top')
-        tk.Button(main, text="Collaboration", command = collab).pack(side='top')
-        tk.Button(main, text="Excellency", command = excellency).pack(side='top')
-        tk.Button(main, text="New Faculty Recommendation", command = recommend).pack(side='top')
-        tk.Button(main, text="Exit", command = main.destroy).pack(side='bottom')
+        main.geometry(WINDOW_SIZE)
+        tk.Button(main, bg=BG_COLOR,height = BTN_HEIGHT, width = BTN_WIDTH,text="NTU SCSE Network", command = network_scse).pack(side='top')
+        tk.Button(main, bg=BG_COLOR,height = BTN_HEIGHT, width = BTN_WIDTH,text="Collaboration", command = collab).pack(side='top')
+        tk.Button(main, bg=BG_COLOR,height = BTN_HEIGHT, width = BTN_WIDTH,text="Excellency", command = excellency).pack(side='top')
+        tk.Button(main, bg=BG_COLOR,height = BTN_HEIGHT, width = BTN_WIDTH,text="New Faculty Recommendation", command = recommend).pack(side='top')
+        tk.Button(main, bg=BG_COLOR,height = BTN_HEIGHT, width = BTN_WIDTH,text="Exit", command = main.destroy).pack(side='bottom')
     
 
 
 
-get_file_btn  = tk.Button(window, text ="Load File", command = browseFiles)
+get_file_btn  = tk.Button(window, bg=BG_COLOR,height = BTN_HEIGHT, width = BTN_WIDTH,text ="Load File", command = browseFiles)
 # Create a File Explorer label
 label_file_explorer = Label(window, 
                             text = "Please load Faculty.xlsx",
                             width = 100, height = 4, 
                             fg = "black")
-init_btn = tk.Button(window, text="Initialize files", command = init_file)
-go_main_btn = tk.Button(window, text="Next", command = loadMain)
+init_btn = tk.Button(window, bg=BG_COLOR,height = BTN_HEIGHT, width = BTN_WIDTH,text="Initialize files", command = init_file)
+go_main_btn = tk.Button(window, bg=BG_COLOR,height = BTN_HEIGHT, width = BTN_WIDTH,text="Next", command = loadMain)
 
 
 get_file_btn.pack(side='top')
 label_file_explorer.pack(side='top')
 init_btn.pack(side='top')
 go_main_btn.pack(side='top')
-tk.Button(window,text="Exit",command=exit).pack(side='bottom')
+tk.Button(window,bg=BG_COLOR,height = BTN_HEIGHT, width = BTN_WIDTH,text="Exit",command=exit).pack(side='bottom')
 
 window.mainloop()
