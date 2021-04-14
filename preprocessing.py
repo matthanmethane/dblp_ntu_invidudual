@@ -153,9 +153,9 @@ def ret_nodes():
 
 #Collaboration
 ############################################################################
-def find_name_with_pid(pid):
+def find_name_with_pid(pid,faculty_path):
     faculty_list = []
-    data = pd.read_excel('Faculty.xlsx')
+    data = pd.read_excel(faculty_path)
     df = pd.DataFrame(data, columns=["Faculty","Position","Gender","Management","Area"])
     file = open("pid.txt","r")
     pid_list = file.readlines()
@@ -164,8 +164,8 @@ def find_name_with_pid(pid):
         faculty = Faculty(df_line["Faculty"],pid_list_rstrip[idx],df_line["Position"],df_line["Gender"],df_line["Management"],df_line["Area"])
         faculty_list.append(faculty)
     for faculty in faculty_list:
-        # print(faculty)
         if(faculty.pid == pid):
+            print(faculty.name)
             return faculty.name
 
 # Find "Position" (rank) using pid
@@ -289,22 +289,109 @@ def degree_histogram_loglog(G):
 
     plt.show()
 
-node_dict = get_coworker_dict()
+# node_dict = get_coworker_dict()
 
-G = nx.Graph(node_dict)
-# d = dict(G.degree)
-# nx.draw(G, nodelist=d.keys(), node_size=[(v+1) * 100 for v in d.values()])
+# G = nx.Graph(node_dict)
+
 
 def init_collab():
     node_dict = get_coworker_dict()
     G = nx.Graph(node_dict)
     nx.write_edgelist(G, "edge_list.txt", delimiter=' ', data=False) # Generate edge_list.txt
     
-# nx.write_edgelist(G, "edge_list.txt", delimiter=' ', data=False) # Generate edge_list.txt
 
-# plt.show()
+#Collaborative Property
+#######################################################
+def init_collab_network():
+    for i in range(int(time.strftime("%Y")),1999,-1):
+        nodes = ret_nodes()
+        G = get_coworker_graph(nodes, year = i, mode = "connected")
+        path = r"edge_lists/"
+        nx.write_edgelist(G, path+str(i) + "_edge_list.txt", delimiter=' ', data=False) # Generate edge_list.txt (yearly)
 
 
+def ret_collab_network(collab_type, pid):
+    fig_count = 0
+    pid_real = pid.replace('_','/')
+    print(pid_real)
+    # Set True to select collaborative property to plot
+    num_collab = False
+    rank_collab = False
+    man_collab = False
+    area_collab = False
+    if(collab_type=="num_collab"):
+        num_collab = True
+    elif(collab_type=="rank_collab"):
+        rank_collab = True
+    elif(collab_type=="man_collab"):
+        man_collab = True
+    elif(collab_type=="area_collab"):
+        area_collab = True
+
+    fig, axes = plt.subplots(5, 5, figsize=(20, 20))
+    ax = axes.flatten()
+
+    for i in range(int(time.strftime("%Y")),1999,-1):
+        file = open(f'edge_lists/{str(i)+"_edge_list"}.txt','r')
+        G = str(i)
+        # print(G)
+        G = nx.Graph()
+        for line in file:
+            a, b = line.split()
+            # change faculty member name to track 
+            if (a in pid_real or b in pid_real):
+                # print(find_name_with_pid(a))
+
+                if num_collab:
+                    n1 = a
+                    n2 = b
+
+                    G.add_node(n1)
+                    G.add_node(n2)
+                
+                if rank_collab:
+                    n1 = find_pos_with_pid(a)
+                    n2 = find_pos_with_pid(b)
+
+                    G.add_node(n1)
+                    G.add_node(n2)
+
+                if man_collab:
+                    n1 = find_man_with_pid(a)
+                    n2 = find_man_with_pid(b)
+                    
+                    G.add_node(n1)
+                    G.add_node(n2)
+                
+                if area_collab:
+                    n1 = find_area_with_pid(a)
+                    n2 = find_area_with_pid(b)
+                    
+                    G.add_node(n1)
+                    G.add_node(n2)
+
+                if G.has_edge(n1, n2):
+                    # Increase weight by 1
+                    G[n1][n2]['weight'] += 1
+                else:
+                    # new edge. add with weight = 1
+                    G.add_edge(n1, n2, weight=1)
+
+        # plt.figure(fig_count)
+        pos = nx.spring_layout(G, seed=7)
+        labels = nx.get_edge_attributes(G,'weight')
+        nx.draw_networkx_edge_labels(G, pos, edge_labels=labels)
+        nx.draw(G, pos, with_labels=True, ax=ax[fig_count])
+        ax[fig_count].set_axis_off()
+        plt.tight_layout()
+
+        fig_count = fig_count + 1
+
+    fig.delaxes(axes[4, 2])
+    fig.delaxes(axes[4, 3])
+    fig.delaxes(axes[4, 4])
+    # plt.tight_layout()
+    plt.show()
 
 #Excellency and Centrality
 ########################################################

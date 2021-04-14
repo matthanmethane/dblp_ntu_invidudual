@@ -2,17 +2,18 @@ from os import error
 import tkinter as tk
 from tkinter import *
 from tkinter import filedialog, messagebox
-from tkinter.ttk import Progressbar
+from tkinter.ttk import Progressbar, Combobox
 import matplotlib.pyplot as plt
 import matplotlib.colors as mcolors
 import networkx as nx
 import numpy as np
 import seaborn as sns
-from preprocessing import ret_graph_network_year, ret_nodes,get_properties_yearly, yearly_diff,init_collab, find_pos_with_pid, find_area_with_pid, find_name_with_pid, find_man_with_pid, ret_graph_cent,get_coworker_dict_cent, draw_heatmap, centrality_top_venue_dataframe, centrality_top_venue_scatter
+from preprocessing import find_name_with_pid,init_collab_network,ret_collab_network,ret_graph_network_year, ret_nodes,get_properties_yearly, yearly_diff,init_collab, find_pos_with_pid, find_area_with_pid, find_name_with_pid, find_man_with_pid, ret_graph_cent,get_coworker_dict_cent, draw_heatmap, centrality_top_venue_dataframe, centrality_top_venue_scatter
 from faculty import load_faculty_xml, get_xml_link
 from pandasgui import show
 import threading
 import time
+import os
 WINDOW_SIZE = "300x900"
 BTN_WIDTH = "300"
 BTN_HEIGHT = "10"
@@ -57,10 +58,15 @@ def init_file():
         if(faculty_path is None or top_path is None):
             messagebox.showerror("File Error!","Please load both Faculty.xlsx and Top.xlsx")
         else:
-            #get_xml_link(faculty_path)
+            get_xml_link(faculty_path)
+            try: 
+                os.mkdir('edge_lists') 
+            except OSError as error: 
+                print(error)  
             load_faculty_xml(faculty_path)
-            get_coworker_dict_cent()
             init_collab()
+            init_collab_network()
+            get_coworker_dict_cent()
             messagebox.showinfo("Complete!","Initialization Finished! Go to Main to explore the Network of SCSE")
             return
     except Exception as e:
@@ -94,6 +100,7 @@ def network_scse():
 
 #Collaboration functions here
 def collab():
+    global collab_gui
     collab_gui = Toplevel(main)
     collab_gui.geometry(WINDOW_SIZE)
     def rank_collab(dummy):
@@ -193,11 +200,40 @@ def collab():
     rank_collab_btn = tk.Button(collab_gui, bg=BG_COLOR,height = BTN_HEIGHT, width = BTN_WIDTH,text ="Network on Collaboration Between Ranks", command = lambda: rank_collab("dummy"))
     mngmt_collab_btn = tk.Button(collab_gui, bg=BG_COLOR,height = BTN_HEIGHT, width = BTN_WIDTH,text ="Network on Collaboration Between Management Positions", command = lambda: management_collab("dummy"))
     area_collab_btn = tk.Button(collab_gui, bg=BG_COLOR,height = BTN_HEIGHT, width = BTN_WIDTH,text ="Network on Collaboration Based on Area", command = lambda: area_collab("dummy"))
+    collab_property_open_btn = tk.Button(collab_gui, bg=BG_COLOR,height = BTN_HEIGHT, width = BTN_WIDTH,text ="Collaborative Property", command = collab_property)
     #Placement of buttons
     rank_collab_btn.pack(side='top')
     mngmt_collab_btn.pack(side='top')
     area_collab_btn.pack(side='top')
+    collab_property_open_btn.pack(side='top')
     tk.Button(collab_gui, bg=BG_COLOR,height = BTN_HEIGHT, width = BTN_WIDTH,text="Back", command = collab_gui.destroy).pack(side='bottom')
+def collab_property():
+    collab_prop_gui = Toplevel(collab_gui)
+    collab_prop_gui.geometry(WINDOW_SIZE)
+
+    staffs = []
+    with open('name.txt', 'r') as f:
+        staffs = [line for line in f]
+    pids = []
+    with open('pid.txt', 'r') as f:
+        pids = [line for line in f]
+    n = tk.StringVar()
+    staff_choosen = Combobox(collab_prop_gui, width = 27, textvariable = n)
+    staff_choosen.grid(column = 1, row = len(staffs))
+    staff_choosen['values'] = tuple(staffs)
+    staff_choosen.current(1)
+    staff_choosen.pack(side='top')
+    
+    
+    num_collab_btn = tk.Button(collab_prop_gui,bg=BG_COLOR,height = BTN_HEIGHT, width = BTN_WIDTH,text ="Collaborative Property on Number of Collaboration", command = lambda: ret_collab_network("num_collab",pids[staffs.index(n.get())] ))
+    num_collab_btn.pack(side='top')
+    rank_collab_btn = tk.Button(collab_prop_gui, bg=BG_COLOR,height = BTN_HEIGHT, width = BTN_WIDTH,text ="Collaborative Property on Ranks", command = lambda: ret_collab_network("rank_collab"))
+    rank_collab_btn.pack(side='top')
+    man_collab_btn = tk.Button(collab_prop_gui, bg=BG_COLOR,height = BTN_HEIGHT, width = BTN_WIDTH,text ="Collaborative Property on Management Position", command = lambda: ret_collab_network("man_collab"))
+    man_collab_btn.pack(side='top')
+    area_collab_btn = tk.Button(collab_prop_gui, bg=BG_COLOR,height = BTN_HEIGHT, width = BTN_WIDTH,text ="Collaborative Property on Area", command = lambda: ret_collab_network("area_collab"))
+    area_collab_btn.pack(side='top')
+    tk.Button(collab_prop_gui, bg=BG_COLOR,height = BTN_HEIGHT, width = BTN_WIDTH,text="Back", command = collab_prop_gui.destroy).pack(side='bottom')
 
 def excellency():
     excellency_gui = Toplevel(main)
